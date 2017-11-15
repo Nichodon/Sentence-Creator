@@ -1,0 +1,3452 @@
+a,article
+ an
+aardvark,noun
+ aardvarks
+aback,adverb
+abacus,noun
+ abaci abacuses
+abaft,adverb
+abalone,noun
+ abalones
+abandon,verb_object
+ abandoned abandoning abandons
+abandonment,noun
+abase,verb_subject
+ abased abases abasing
+abasement,noun
+abash,verb_object
+ abashed abashedly abashes abashing
+abashment,noun
+abate,verb
+ abated abates abating
+abatement,noun
+abattoir,noun
+ abattoirs
+abbess,noun
+ abbesses
+abbey
+ abbeys
+abbot
+ abbots
+abbreviate
+ abbreviated abbreviates abbreviating
+abbreviation
+ abbreviations
+abdicate
+ abdicated abdicates abdicating
+abdication
+ abdications
+abdomen
+ abdomens
+abdominal
+ abdominals
+abduct
+ abducted abducting abducts
+abductee!
+ abductees
+abduction
+ abductions
+abductor
+ abductors
+abeam
+abed
+aberrant
+aberration
+ aberrations
+aberrational
+abet
+ abets abetted abetting
+abettor
+ abetter abetters abettors
+abeyance
+abhor
+ abhorred abhorring abhors
+abhorrence
+abhorrent
+ abhorrently
+abidance
+abide
+ abided abides abiding abidingly abode -> [abode]
+ability
+ abilities
+abject
+ abjectly abjectness
+abjection
+abjuration
+ abjurations
+abjuratory
+abjure
+ abjured abjures abjuring
+abjurer
+ abjurers
+ablate
+ ablated ablates ablating
+ablation
+ ablations
+ablative
+ ablatives
+ablaze
+able
+ abler ablest ably
+able-bodied
+abloom
+ablution
+ ablutions
+abnegate
+ abnegated abnegates abnegating
+abnegation
+abnormal
+ abnormally
+abnormality
+ abnormalities
+aboard
+abode -> [abide]
+ abodes
+abolish
+ abolished abolishes abolishing
+abolition
+abolitionism
+abolitionist
+ abolitionists
+abominable
+ abominably
+abominate
+ abominated abominates abominating
+abomination
+ abominations
+aboriginal
+ aboriginals
+aborigine
+ aborigines
+aborning
+abort
+ aborted aborting aborts
+abortion
+ abortions
+abortionist
+ abortionists
+abortive
+ abortively
+abound
+ abounded abounding abounds
+about
+about-face
+ about-faces
+above
+aboveboard
+above-mentioned
+abracadabra
+abrade
+ abraded abrades abrading
+abrasion
+ abrasions
+abrasive
+ abrasively abrasiveness abrasives
+abreast
+abridge
+ abridged abridges abridging
+abridgment
+ abridgement abridgements abridgments
+abroad
+abrogate
+ abrogated abrogates abrogating
+abrogation
+ abrogations
+abrogator
+ abrogators
+abrupt
+ abrupter abruptest abruptly abruptness
+abs
+abscess
+ abscessed abscesses abscessing
+abscissa
+ abscissae abscissas
+abscission
+abscond
+ absconded absconding absconds
+absconder
+ absconders
+abseil
+ abseiled abseiling abseils
+absence
+ absences
+absent
+ absented absenting absently absents
+absentee
+ absentees
+absenteeism
+absentminded
+ absentmindedly absentmindedness
+absinthe
+ absinth
+absolute
+ absolutely absoluteness absolutes
+absolution
+absolutism
+absolutist
+ absolutists
+absolve
+ absolved absolves absolving
+absorb
+ absorbed absorbing absorbingly absorbs
+absorbency
+absorbent
+ absorbents
+absorption
+absorptive
+abstain
+ abstained abstaining abstains
+abstainer
+ abstainers
+abstemious
+ abstemiously abstemiousness
+abstention
+ abstentions
+abstinence
+abstinent
+abstract
+ abstracted -> [abstracted] abstracting abstractly abstractness abstracts
+abstracted -> [abstract]
+ abstractedly abstractedness
+abstraction
+ abstractions
+abstruse
+ abstrusely abstruseness
+absurd
+ absurder absurdest absurdly absurdness
+absurdity
+ absurdities
+abundance
+ abundances
+abundant
+ abundantly
+abuse
+ abused abuses abusing
+abuser
+ abusers
+abusive
+ abusively abusiveness
+abut
+ abuts abutted abutting
+abutment
+ abutments
+abuzz
+abysmal
+ abysmally
+abyss
+ abysses
+abyssal
+acacia
+ acacias
+academe
+academia
+academic
+ academically academics
+academician
+ academicians
+academy
+ academies
+acanthus
+ acanthi acanthuses
+accede
+ acceded accedes acceding
+accelerate
+ accelerated accelerates accelerating
+acceleration
+accelerator
+ accelerators
+accent
+ accented accenting accents
+accentual
+accentuate
+ accentuated accentuates accentuating
+accentuation
+accept
+ accepted accepting accepts
+acceptable
+ acceptability acceptableness acceptably
+acceptance
+ acceptances
+acceptation
+ acceptations
+access
+ accessed accesses accessing
+accessible
+ accessibility accessibly
+accession
+ accessions
+accessorize
+ accessorise accessorised accessorises accessorising accessorized accessorizes accessorizing
+accessory
+ accessories
+accident
+ accidents
+accidental
+ accidentally accidentals
+acclaim
+ acclaimed acclaiming acclaims
+acclamation
+ acclamations
+acclimate
+ acclimated acclimates acclimating
+acclimation
+acclimatization
+ acclimatisation
+acclimatize
+ acclimatise acclimatised acclimatises acclimatising acclimatized acclimatizes acclimatizing
+acclivity
+ acclivities
+accolade
+ accolades
+accommodate
+ accommodated accommodates accommodating accommodatingly
+accommodation
+ accommodations
+accompaniment
+ accompaniments
+accompanist
+ accompanists
+accompany
+ accompanied accompanies accompanying
+accomplice
+ accomplices
+accomplish
+ accomplished accomplishes accomplishing
+accomplishment
+ accomplishments
+accord
+ accorded according -> [according] accords
+accordance
+accordant
+according -> [accord]
+ accordingly
+accordion
+ accordions
+accordionist
+ accordionists
+accost
+ accosted accosting accosts
+account
+ accounted accounting accounts
+accountable
+ accountability
+accountancy
+accountant
+ accountants
+accouter
+ accoutered accoutering accouters accoutre accoutred accoutres accoutring
+accouterments
+ accoutrements
+accredit
+ accredited accrediting accredits
+accreditation
+accretion
+ accretions
+accrual
+ accruals
+accrue
+ accrued accrues accruing
+acculturate
+ acculturated acculturates acculturating
+acculturation
+accumulate
+ accumulated accumulates accumulating
+accumulation
+ accumulations
+accumulative
+accumulator
+ accumulators
+accuracy
+accurate
+ accurately accurateness
+accursed
+ accursedness accurst
+accusation
+ accusations
+accusative
+ accusatives
+accusatory
+accuse
+ accused accuses accusing accusingly
+accuser
+ accusers
+accustom
+ accustomed accustoming accustoms
+ace
+ aced aces acing
+acerbate
+ acerbated acerbates acerbating
+acerbic
+ acerbically
+acerbity
+acetaminophen
+ acetaminophens
+acetate
+ acetates
+acetic
+acetone
+acetonic
+acetylene
+ache
+ ached aches aching achingly
+achene
+ achenes
+achievable
+achieve
+ achieved achieves achieving
+achievement
+ achievements
+achiever
+ achievers
+achoo
+ achoos ahchoo atishoo
+achromatic
+achy
+ achier achiest
+acid
+ acidly acids
+acidic
+acidify
+ acidified acidifies acidifying
+acidity
+acidosis
+acidulous
+acknowledge
+ acknowledged acknowledges acknowledging
+acknowledgment
+ acknowledgement acknowledgements acknowledgments
+acme
+ acmes
+acne
+acolyte
+ acolytes
+aconite
+ aconites
+acorn
+ acorns
+acoustic
+ acoustics
+acoustical
+ acoustically
+acquaint
+ acquainted acquainting acquaints
+acquaintance
+ acquaintances
+acquaintanceship
+ acquaintanceships
+acquiesce
+ acquiesced acquiesces acquiescing
+acquiescence
+acquiescent
+ acquiescently
+acquirable
+acquire
+ acquired acquires acquiring
+acquirement
+acquirer
+ acquirers
+acquisition
+ acquisitions
+acquisitive
+ acquisitively acquisitiveness
+acquit
+ acquits acquitted acquitting
+acquittal
+ acquittals
+acre
+ acres
+acreage
+ acreages
+acrid
+ acrider acridest acridly acridness
+acridity
+acrimonious
+ acrimoniously acrimoniousness
+acrimony
+acrobat
+ acrobats
+acrobatic
+ acrobatically acrobatics
+acronym
+ acronyms
+acrophobia
+acropolis
+ acropolises
+across
+across-the-board
+acrostic
+ acrostics
+acrylic
+ acrylics
+act
+ acted acting acts
+actinium
+action
+ actioned actioning actions
+actionable
+activate
+ activated activates activating
+activation
+activator
+ activators
+active
+ actively activeness actives
+activism
+activist
+ activists
+activity
+ activities
+actor
+ actors
+actress
+ actresses
+actual
+ actually
+actuality
+ actualities
+actualization
+ actualisation
+actualize
+ actualise actualised actualises actualising actualized actualizes actualizing
+actuarial
+actuary
+ actuaries
+actuate
+ actuated actuates actuating
+actuation
+actuator
+ actuators
+acuity
+acumen
+acupressure
+acupuncture
+acupuncturist
+ acupuncturists
+acute
+ acutely acuteness acuter acutes acutest
+acyclovir
+ad
+ ads
+adage
+ adages
+adagio
+ adagios
+adamant
+ adamantly
+adapt
+ adapted adapting adapts
+adaptable
+ adaptability
+adaptation
+ adaptations
+adapter
+ adapters adaptor adaptors
+adaption
+ adaptions
+adaptive
+add
+ added adding adds
+addable
+ addible
+addend
+ addends
+addendum
+ addenda addendums
+adder
+ adders
+addict
+ addicted addicting addicts
+addiction
+ addictions
+addictive
+addition
+ additions
+additional
+ additionally
+additive
+ additives
+addle
+ addled addles addling
+add-on
+ add-ons
+address
+ addressed addresses addressing
+addressee
+ addressees
+adduce
+ adduced adduces adducing
+adenine
+adenoid
+ adenoids
+adenoidal
+adept
+ adeptly adeptness adepts
+adequacy
+adequate
+ adequately adequateness
+adhere
+ adhered adheres adhering
+adherence
+adherent
+ adherents
+adhesion
+adhesive
+ adhesiveness adhesives
+adieu
+ adieus adieux
+adios
+adipose
+adjacency
+adjacent
+ adjacently
+adjectival
+ adjectivally
+adjective
+ adjectives
+adjoin
+ adjoined adjoining adjoins
+adjourn
+ adjourned adjourning adjourns
+adjournment
+ adjournments
+adjudge
+ adjudged adjudges adjudging
+adjudicate
+ adjudicated adjudicates adjudicating
+adjudication
+ adjudications
+adjudicative
+adjudicator
+ adjudicators
+adjudicatory
+adjunct
+ adjuncts
+adjuration
+ adjurations
+adjure
+ adjured adjures adjuring
+adjust
+ adjusted adjusting adjusts
+adjustable
+adjuster
+ adjusters adjustor adjustors
+adjustment
+ adjustments
+adjutant
+ adjutants
+adman
+ admen
+admin
+administer
+ administered administering administers
+administrate
+ administrated administrates administrating
+administration
+ administrations
+administrative
+ administratively
+administrator
+ administrators
+admirable
+ admirably
+admiral
+ admirals
+admiralty
+admiration
+admire
+ admired admires admiring admiringly
+admirer
+ admirers
+admissible
+ admissibility admissibly
+admission
+ admissions
+admit
+ admits admitted admittedly admitting
+admittance
+admix
+ admixed admixes admixing
+admixture
+ admixtures
+admonish
+ admonished admonishes admonishing
+admonishment
+ admonishments
+admonition
+ admonitions
+admonitory
+ado
+adobe
+ adobes
+adolescence
+ adolescences
+adolescent
+ adolescents
+adopt
+ adopted adopting adopts
+adoptable
+adopter
+ adopters
+adoption
+ adoptions
+adoptive
+adorable
+ adorableness adorably
+adoration
+adore
+ adored adores adoring adoringly
+adorer
+ adorers
+adorn
+ adorned adorning adorns
+adornment
+ adornments
+adrenal
+ adrenals
+adrenaline
+ adrenalin
+adrift
+adroit
+ adroitly adroitness
+adsorb
+ adsorbed adsorbing adsorbs
+adsorbent
+ adsorbents
+adsorption
+ adsorptions
+adulate
+ adulated adulates adulating
+adulation
+adulator
+ adulators
+adulatory
+adult
+ adults
+adulterant
+ adulterants
+adulterate
+ adulterated adulterates adulterating
+adulteration
+adulterer
+ adulterers
+adulteress
+ adulteresses
+adulterous
+adultery
+ adulteries
+adulthood
+adumbrate
+ adumbrated adumbrates adumbrating
+adumbration
+advance
+ advanced advances advancing
+advancement
+ advancements
+advantage
+ advantaged advantages advantaging
+advantageous
+ advantageously
+advent
+ advents
+adventitious
+ adventitiously
+adventure
+ adventured adventures adventuring
+adventurer
+ adventurers
+adventuresome
+adventuress
+ adventuresses
+adventurism
+adventurist
+ adventurists
+adventurous
+ adventurously adventurousness
+adverb
+ adverbs
+adverbial
+ adverbially adverbials
+adversarial
+adversary
+ adversaries
+adverse
+ adversely adverseness adverser adversest
+adversity
+ adversities
+advert
+ adverted adverting adverts
+advertise
+ advertised advertises advertising advertize advertized advertizes advertizing
+advertisement
+ advertisements advertizement advertizements
+advertiser
+ advertisers advertizer advertizers
+advertorial
+ advertorials
+advice
+advisable
+ advisability advisably
+advise
+ advised advisedly advises advising
+advisement
+adviser
+ advisers advisor advisors
+advisory
+ advisories
+advocacy
+advocate
+ advocated advocates advocating
+adz
+ adze adzes
+aegis
+ egis
+aerate
+ aerated aerates aerating
+aeration
+aerator
+ aerators
+aerial
+ aerially aerials
+aerialist
+ aerialists
+aerie
+ aeries eyrie eyries eyry
+aerobatic
+ aerobatics
+aerobic
+ aerobically aerobics
+aerodrome
+ aerodromes airdrome airdromes
+aerodynamic
+ aerodynamically aerodynamics
+aerogram
+ aerogramme aerogrammes aerograms
+aeronautic
+ aeronautics
+aeronautical
+aerosol
+ aerosols
+aerospace
+aery
+aesthete
+ aesthetes esthete esthetes
+aesthetic
+ aesthetically aesthetics esthetic esthetically esthetics
+aestheticism
+ estheticism
+afar
+affable
+ affability affably
+affair
+ affairs
+affect
+ affected affectedly affecting affectingly affects
+affectation
+ affectations
+affection
+ affections
+affectionate
+ affectionately
+affective
+afferent
+affiance
+ affianced affiances affiancing
+affidavit
+ affidavits
+affiliate
+ affiliated affiliates affiliating
+affiliation
+ affiliations
+affinity
+ affinities
+affirm
+ affirmed affirming affirms
+affirmation
+ affirmations
+affirmative
+ affirmatively affirmatives
+affix
+ affixed affixes affixing
+afflatus
+afflict
+ afflicted afflicting afflicts
+affliction
+ afflictions
+affluence
+affluent
+ affluently
+afford
+ afforded affording affords
+affordable
+ affordability
+afforest
+ afforested afforesting afforests
+afforestation
+affray
+ affrays
+affricate
+ affricates
+affront
+ affronted affronting affronts
+afghan
+ afghans
+aficionado
+ aficionados
+afield
+afire
+aflame
+afloat
+aflutter
+afoot
+aforementioned
+aforesaid
+aforethought
+afoul
+afraid
+afresh
+aft
+after
+ afters
+afterbirth
+ afterbirths
+afterburner
+ afterburners
+aftercare
+aftereffect
+ aftereffects
+afterglow
+ afterglows
+after-hours
+afterimage
+ afterimages
+afterlife
+ afterlives
+aftermarket
+ aftermarkets
+aftermath
+ aftermaths
+afternoon
+ afternoons
+after-school
+aftershave
+ aftershaves
+aftershock
+ aftershocks
+aftertaste
+ aftertastes
+afterthought
+ afterthoughts
+afterward
+ afterwards
+afterword
+ afterwords
+again
+against
+agape
+agar
+agate
+ agates
+agave
+ agaves
+age
+ aged agedness ageing ageless agelessly agelessness ages aging
+ageism
+ agism
+ageist
+ ageists
+agency
+ agencies
+agenda
+ agendas
+agent
+ agents
+age-old
+ageratum
+ ageratums
+agglomerate
+ agglomerated agglomerates agglomerating
+agglomeration
+ agglomerations
+agglutinate
+ agglutinated agglutinates agglutinating
+agglutination
+ agglutinations
+aggrandize
+ aggrandise aggrandised aggrandises aggrandising aggrandized aggrandizes aggrandizing
+aggrandizement
+ aggrandisement
+aggravate
+ aggravated aggravates aggravating aggravatingly
+aggravation
+ aggravations
+aggregate
+ aggregated aggregates aggregating
+aggregation
+ aggregations
+aggression
+aggressive
+ aggressively aggressiveness
+aggressor
+ aggressors
+aggrieve
+ aggrieved aggrieves aggrieving
+aggro
+aghast
+agile
+ agilely
+agility
+agitate
+ agitated agitates agitating
+agitation
+ agitations
+agitator
+ agitators
+agitprop
+agleam
+aglitter
+aglow
+agnostic
+ agnostics
+agnosticism
+ago
+agog
+agonize
+ agonise agonised agonises agonising agonisingly agonized agonizes agonizing agonizingly
+agony
+ agonies
+agoraphobia
+agoraphobic
+ agoraphobics
+agrarian
+ agrarians
+agrarianism
+agree
+ agreed agreeing agrees
+agreeable
+ agreeableness agreeably
+agreement
+ agreements
+agribusiness
+ agribusinesses
+agricultural
+ agriculturally
+agriculture
+agriculturist
+ agriculturalist agriculturalists agriculturists
+agritourism
+agrochemical
+ agrochemicals
+agronomic
+ agronomics
+agronomist
+ agronomists
+agronomy
+aground
+ague
+ah
+ aah
+aha
+ahead
+ahem
+ahold
+ahoy
+aid
+ aided aiding aids
+aide
+ aides
+aigrette
+ aigrettes
+ail
+ ailed ailing ails
+aileron
+ ailerons
+ailment
+ ailments
+aim
+ aimed aiming aimless aimlessly aimlessness aims
+aioli
+air
+ aired airing -> [airing] airless airlessness airs
+airbag
+ airbags
+airbase
+ airbases
+airbed
+ airbeds
+airborne
+airbrush
+ airbrushed airbrushes airbrushing
+airbus
+ airbuses airbusses
+air-condition
+ air-conditioned air-conditioning air-conditions
+air-conditioner
+ air-conditioners
+aircraft
+aircraftman
+ aircraftmen
+aircrew
+ aircrews
+airdrop
+ airdropped airdropping airdrops
+airfare
+ airfares
+airfield
+ airfields
+airflow
+airfoil
+ airfoils
+airfreight
+airgun
+ airguns
+airhead
+ airheads
+airing -> [air]
+ airings
+airletter
+ airletters
+airlift
+ airlifted airlifting airlifts
+airline
+ airlines
+airliner
+ airliners
+airlock
+ airlocks
+airmail
+ airmailed airmailing airmails
+airman
+ airmen
+airplane
+ aeroplane aeroplanes airplanes
+airplay
+airport
+ airports
+airpower
+airship
+ airships
+airshow
+ airshows
+airsick
+ airsickness
+airspace
+airspeed
+ airspeeds
+airstream
+airstrike
+ airstrikes
+airstrip
+ airstrips
+airtight
+airtime
+airwaves
+airway
+ airways
+airwoman
+ airwomen
+airworthy
+ airworthier airworthiest airworthiness
+airy
+ airier airiest airily airiness
+aisle
+ aisles
+aitch
+ aitches
+ajar
+akimbo
+akin
+alabaster
+alack
+alacrity
+alamode
+alarm
+ alarmed alarming alarmingly alarms
+alarmist
+ alarmists
+alas
+alb
+ albs
+albacore
+ albacores
+albatross
+ albatrosses
+albeit
+albinism
+albino
+ albinos
+album
+ albums
+albumen -> [albumin]
+albumin
+ albumen -> [albumen]
+albuminous
+alchemist
+ alchemists
+alchemy
+alcohol
+ alcohols
+alcoholic
+ alcoholically alcoholics
+alcoholism
+alcopop
+ alcopops
+alcove
+ alcoves
+alder
+ alders
+alderman
+ aldermen
+alderwoman
+ alderwomen
+ale
+ ales
+aleatory
+alehouse
+ alehouses
+alembic
+ alembics
+alert
+ alerted alerting alertly alertness alerts
+alewife
+ alewives
+alfalfa
+alfresco
+algae
+ alga
+algal
+algebra
+algebraic
+ algebraically
+algorithm
+ algorithms
+algorithmic
+alias
+ aliased aliases aliasing
+alibi
+ alibied alibiing alibis
+alien
+ aliens
+alienable
+alienate
+ alienated alienates alienating
+alienation
+alienist
+ alienists
+alight
+ alighted alighting alights alit
+align
+ aligned aligning aligns aline alined alines alining
+aligner
+ aligners aliner aliners
+alignment
+ alignments alinement alinements
+alike
+aliment
+ alimented alimenting aliments
+alimentary
+alimony
+alive
+ aliveness
+aliyah
+ aliyahs
+alkali
+ alkalies alkalis
+alkaline
+alkalinity
+alkalize
+ alkalise alkalised alkalises alkalising alkalized alkalizes alkalizing
+alkaloid
+ alkaloids
+alkyd
+ alkyds
+all
+all-around
+allay
+ allayed allaying allays
+all-day
+allegation
+ allegations
+allege
+ alleged allegedly alleges alleging
+allegiance
+ allegiances
+allegoric
+allegorical
+ allegorically
+allegorist
+ allegorists
+allegory
+ allegories
+allegretto
+ allegrettos
+allegro
+ allegros
+allele
+ alleles
+allergen
+ allergens
+allergenic
+allergic
+ allergically
+allergist
+ allergists
+allergy
+ allergies
+alleviate
+ alleviated alleviates alleviating
+alleviation
+alley
+ alleys
+alleyway
+ alleyways
+alliance
+ alliances
+alligator
+ alligators
+all-important
+all-inclusive
+all-in-one
+alliterate
+ alliterated alliterates alliterating
+alliteration
+ alliterations
+alliterative
+ alliteratively
+all-night
+all-nighter
+ all-nighters
+allocate
+ allocated allocates allocating
+allocation
+ allocations
+allophone
+ allophones
+allot
+ allots allotted allotting
+allotment
+ allotments
+all-out
+allover
+allow
+ allowed allowing allows
+allowable
+ allowably
+allowance
+ allowances
+alloy
+ alloyed alloying alloys
+all-powerful
+all-purpose
+all-round
+allspice
+all-star
+ all-stars
+all-time
+allude
+ alluded alludes alluding
+allure
+ allured allures alluring alluringly
+allurement
+ allurements
+allusion
+ allusions
+allusive
+ allusively allusiveness
+alluvial
+alluvium
+ alluvia alluviums
+ally
+ allied allies allying
+almanac
+ almanack almanacks almanacs
+almighty
+almond
+ almonds
+almoner
+ almoners
+almost
+alms
+almshouse
+ almshouses
+aloe
+ aloes
+aloft
+aloha
+ alohas
+alone
+along
+alongshore
+alongside
+aloo
+aloof
+ aloofly aloofness
+alopecia
+aloud
+alp
+ alps
+alpaca
+ alpacas
+alpha
+ alphas
+alphabet
+ alphabets
+alphabetic
+alphabetical
+ alphabetically
+alphabetization
+ alphabetisation alphabetisations alphabetizations
+alphabetize
+ alphabetise alphabetised alphabetises alphabetising alphabetized alphabetizes alphabetizing
+alphabetizer
+ alphabetiser alphabetisers alphabetizers
+alphanumeric
+alphanumerical
+ alphanumerically
+alpine
+ alpines
+already
+alright
+also
+also-ran
+ also-rans
+altar
+ altars
+altarpiece
+ altarpieces
+alter
+ altered altering alters
+alterable
+alteration
+ alterations
+altercation
+ altercations
+alternate
+ alternated alternately alternates alternating
+alternation
+ alternations
+alternative
+ alternatively alternatives
+alternator
+ alternators
+although
+ altho tho though
+altimeter
+ altimeters
+altitude
+ altitudes
+alto
+ altos
+altogether
+altruism
+altruist
+ altruists
+altruistic
+ altruistically
+alum
+ alums
+alumina
+aluminum
+ aluminium
+alumna
+ alumnae
+alumnus
+ alumni
+alveolar
+ alveolars
+always
+amalgam
+ amalgams
+amalgamate
+ amalgamated amalgamates amalgamating
+amalgamation
+ amalgamations
+amanuensis
+ amanuenses
+amaranth
+ amaranths
+amaretto
+amaryllis
+ amaryllises
+amass
+ amassed amasses amassing
+amateur
+ amateurish amateurishly amateurishness amateurs
+amateurism
+amatory
+amaze
+ amazed amazes amazing amazingly
+amazement
+amazon
+ amazons
+amazonian
+ambassador
+ ambassadors
+ambassadorial
+ambassadorship
+ ambassadorships
+ambassadress
+ ambassadresses
+amber
+ambergris
+ambidexterity
+ambidextrous
+ ambidextrously
+ambience
+ ambiance ambiances ambiences
+ambient
+ambiguity
+ ambiguities
+ambiguous
+ ambiguously
+ambit
+ambition
+ ambitions
+ambitious
+ ambitiously ambitiousness
+ambivalence
+ambivalent
+ ambivalently
+amble
+ ambled ambles ambling
+ambler
+ amblers
+ambrosia
+ambrosial
+ambulance
+ ambulances
+ambulanceman
+ ambulancemen
+ambulancewoman
+ ambulancewomen
+ambulant
+ambulate
+ ambulated ambulates ambulating
+ambulation
+ ambulations
+ambulatory
+ ambulatories
+ambuscade
+ ambuscaded ambuscades ambuscading
+ambush
+ ambushed ambushes ambushing
+ameba
+ amebae amebas amoeba amoebae amoebas
+amebic
+ amoebic
+ameboid
+ amoeboid
+ameliorate
+ ameliorated ameliorates ameliorating
+amelioration
+ameliorative
+amen
+amenable
+ amenability amenably
+amend
+ amended amending amends
+amendable
+amendment
+ amendments
+amenity
+ amenities
+amerce
+ amerced amerces amercing
+amercement
+ amercements
+americium
+amethyst
+ amethysts
+amiable
+ amiability amiably
+amicable
+ amicability amicably
+amid
+ amidst
+amide
+ amides
+amidship
+ amidships
+amigo
+ amigos
+amiss
+amity
+ammeter
+ ammeters
+ammo
+ammonia
+ammonite
+ ammonites
+ammunition
+amnesia
+amnesiac
+ amnesiacs amnesic amnesics
+amnesty
+ amnestied amnesties amnestying
+amniocentesis
+ amniocenteses
+amnion
+ amnia amnions
+amniotic
+amok
+ amuck
+among
+ amongst
+amontillado
+ amontillados
+amoral
+ amorally
+amorality
+amorous
+ amorously amorousness
+amorphous
+ amorphously amorphousness
+amortizable
+ amortisable
+amortization
+ amortisation amortisations amortizations
+amortize
+ amortise amortised amortises amortising amortized amortizes amortizing
+amount
+ amounted amounting amounts
+amour
+ amours
+amp
+ amps
+amperage
+ampere
+ amperes
+ampersand
+ ampersands
+amphetamine
+ amphetamines
+amphibian
+ amphibians
+amphibious
+ amphibiously
+amphitheater
+ amphitheaters amphitheatre amphitheatres
+amphora
+ amphorae amphoras
+ample
+ ampler amplest amply
+amplification
+ amplifications
+amplifier
+ amplifiers
+amplify
+ amplified amplifies amplifying
+amplitude
+ amplitudes
+ampule
+ ampoule ampoules ampul ampules ampuls
+amputate
+ amputated amputates amputating
+amputation
+ amputations
+amputee
+ amputees
+amulet
+ amulets
+amuse
+ amused amuses amusing amusingly
+amusement
+ amusements
+amylase
+anabolism
+anachronism
+ anachronisms
+anachronistic
+ anachronistically
+anaconda
+ anacondas
+anaerobe
+ anaerobes
+anaerobic
+ anaerobically
+anagram
+ anagrams
+anal
+ anally
+analgesia
+analgesic
+ analgesics
+analog -> [analogue]
+analogical
+ analogically
+analogize
+ analogise analogised analogises analogising analogized analogizes analogizing
+analogous
+ analogously analogousness
+analogue
+ analog -> [analog] analogs analogues
+analogy
+ analogies
+analysand
+ analysands
+analysis
+ analyses -> [analyze]
+analyst
+ analysts
+analytic
+analytical
+ analytically
+analyzable
+ analysable
+analyze
+ analyse analysed analyses -> [analysis] analysing analyzed analyzes analyzing
+analyzer
+ analyser analysers analyzers
+anapest
+ anapaest anapaests anapests
+anapestic
+ anapaestic anapaestics anapestics
+anarchic
+ anarchically
+anarchism
+anarchist
+ anarchists
+anarchistic
+anarchy
+anathema
+ anathemas
+anathematize
+ anathematise anathematised anathematises anathematising anathematized anathematizes anathematizing
+anatomic
+anatomical
+ anatomically
+anatomist
+ anatomists
+anatomize
+ anatomise anatomised anatomises anatomising anatomized anatomizes anatomizing
+anatomy
+ anatomies
+ancestor
+ ancestors
+ancestral
+ ancestrally
+ancestress
+ ancestresses
+ancestry
+ ancestries
+anchor
+ anchored anchoring anchors
+anchorage
+ anchorages
+anchorite
+ anchorites
+anchorman
+ anchormen
+anchorperson
+ anchorpersons
+anchorwoman
+ anchorwomen
+anchovy
+ anchovies
+ancient
+ ancienter ancientest anciently ancientness ancients
+ancillary
+ ancillaries
+and
+andante
+ andantes
+andiron
+ andirons
+androgen
+androgenic
+androgynous
+androgyny
+android
+ androids
+anecdotal
+anecdote
+ anecdota anecdotes
+anemia
+ anaemia
+anemic
+ anaemic anaemically anemically
+anemometer
+ anemometers
+anemone
+ anemones
+anent
+anesthesia
+ anaesthesia
+anesthesiologist
+ anaesthesiologist anaesthesiologists anesthesiologists
+anesthesiology
+ anaesthesiology
+anesthetic
+ anaesthetic anaesthetics anesthetics
+anesthetist
+ anaesthetist anaesthetists anesthetists
+anesthetization
+ anaesthetisation anaesthetization
+anesthetize
+ anaesthetise anaesthetised anaesthetises anaesthetising anaesthetize anaesthetized anaesthetizes anaesthetizing anesthetized anesthetizes anesthetizing
+aneurysm
+ aneurism aneurisms aneurysms
+anew
+angel
+ angels
+angelfish
+ angelfishes
+angelic
+angelica
+angelical
+ angelically
+anger
+ angered angering angers
+angina
+angioplasty
+ angioplasties
+angiosperm
+ angiosperms
+angle
+ angled angles angling
+angler
+ anglers
+angleworm
+ angleworms
+anglicism
+ anglicisms
+anglicize
+ anglicise anglicised anglicises anglicising anglicized anglicizes anglicizing
+anglophile
+ anglophiles
+anglophobe
+ anglophobes
+anglophone
+ anglophones
+angora
+ angoras
+angostura
+angry
+ angrier angriest angrily
+angst
+angstrom
+ angstroms
+anguish
+ anguished anguishes anguishing
+angular
+angularity
+ angularities
+anhydrous
+aniline
+animadversion
+ animadversions
+animadvert
+ animadverted animadverting animadverts
+animal
+ animals
+animalcule
+ animalcules
+animate
+ animated animatedly animates animating
+animation
+ animations
+animator
+ animators
+animatronics
+anime
+animism
+animist
+ animists
+animistic
+animosity
+ animosities
+animus
+anion
+ anions
+anionic
+anise
+aniseed
+anisette
+ankh
+ ankhs
+ankle
+ ankles
+anklebone
+ anklebones
+anklet
+ anklets
+annalist
+ annalists
+annals
+anneal
+ annealed annealing anneals
+annelid
+ annelids
+annex
+ annexe annexed annexes annexing
+annexation
+ annexations
+annihilate
+ annihilated annihilates annihilating
+annihilation
+annihilator
+ annihilators
+anniversary
+ anniversaries
+annotate
+ annotated annotates annotating
+annotation
+ annotations
+annotative
+annotator
+ annotators
+announce
+ announced announces announcing
+announcement
+ announcements
+announcer
+ announcers
+annoy
+ annoyed annoying annoyingly annoys
+annoyance
+ annoyances
+annual
+ annually annuals
+annualized
+ annualised
+annuitant
+ annuitants
+annuity
+ annuities
+annul
+ annulled annulling annuls
+annular
+annulment
+ annulments
+annunciation
+ annunciations
+anode
+ anodes
+anodize
+ anodise anodised anodises anodising anodized anodizes anodizing
+anodyne
+ anodynes
+anoint
+ anointed anointing anoints
+anointment
+anomalous
+ anomalously
+anomaly
+ anomalies
+anon
+anonymity
+anonymous
+ anonymously
+anopheles
+anorak
+ anoraks
+anorexia
+anorexic
+ anorectic anorectics anorexics
+another
+answer
+ answered answering answers
+answerable
+answerphone
+ answerphones
+ant
+ ants
+antacid
+ antacids
+antagonism
+ antagonisms
+antagonist
+ antagonists
+antagonistic
+ antagonistically
+antagonize
+ antagonise antagonised antagonises antagonising antagonized antagonizes antagonizing
+antarctic
+ante
+ anted anteed anteing antes
+anteater
+ anteaters
+antebellum
+antecedence
+antecedent
+ antecedents
+antechamber
+ antechambers
+antedate
+ antedated antedates antedating
+antediluvian
+antelope
+ antelopes
+antenatal
+antenna
+ antennae antennas
+anterior
+anteroom
+ anterooms
+anthem
+ anthems
+anthemic
+anther
+ anthers
+anthill
+ anthills
+anthologist
+ anthologists
+anthologize
+ anthologise anthologised anthologises anthologising anthologized anthologizes anthologizing
+anthology
+ anthologies
+anthracite
+anthrax
+anthropocentric
+anthropoid
+ anthropoids
+anthropological
+ anthropologically
+anthropologist
+ anthropologists
+anthropology
+anthropomorphic
+ anthropomorphically
+anthropomorphism
+anthropomorphous
+anti
+ antis
+antiabortion
+antiabortionist
+ antiabortionists
+antiaircraft
+antibacterial
+ antibacterials
+antibiotic
+ antibiotics
+antibody
+ antibodies
+antic
+ antics
+anticancer
+antichoice
+antichrist
+ antichrists
+anticipate
+ anticipated anticipates anticipating
+anticipation
+ anticipations
+anticipatory
+anticlerical
+anticlimactic
+ anticlimactically
+anticlimax
+ anticlimaxes
+anticline
+ anticlines
+anticlockwise
+anticoagulant
+ anticoagulants
+anticommunism
+anticommunist
+ anticommunists
+anticyclone
+ anticyclones
+anticyclonic
+antidemocratic
+antidepressant
+ antidepressants
+antidote
+ antidotes
+antifascist
+ antifascists
+antifreeze
+antigen
+ antigens
+antigenic
+antigenicity
+antihero
+ antiheroes
+antihistamine
+ antihistamines
+antiknock
+antilabor
+antilock
+antilogarithm
+ antilogarithms
+antimacassar
+ antimacassars
+antimalarial
+ antimalarials
+antimatter
+antimicrobial
+antimissile
+antimony
+antinuclear
+antioxidant
+ antioxidants
+antiparticle
+ antiparticles
+antipasto
+ antipasti antipastos
+antipathetic
+antipathy
+ antipathies
+antipersonnel
+antiperspirant
+ antiperspirants
+antiphon
+ antiphons
+antiphonal
+ antiphonally antiphonals
+antipodal
+antipodean
+ antipodeans
+antipodes
+antipollution
+antipoverty
+antiquarian
+ antiquarians
+antiquarianism
+antiquary
+ antiquaries
+antiquate
+ antiquated antiquates antiquating
+antique
+ antiqued antiques antiquing
+antiquity
+ antiquities
+antiretroviral
+antirrhinum
+ antirrhinums
+antisemitic
+antisemitism
+antisepsis
+antiseptic
+ antiseptically antiseptics
+antiserum
+ antisera antiserums
+antislavery
+antisocial
+ antisocially
+antispasmodic
+ antispasmodics
+antisubmarine
+antitank
+antithesis
+ antitheses
+antithetic
+antithetical
+ antithetically
+antitoxin
+ antitoxins
+antitrust
+antivenin
+ antivenins
+antiviral
+ antivirals
+antivirus
+antivivisectionist
+ antivivisectionists
+antiwar
+antler
+ antlered antlers
+antonym
+ antonyms
+antonymous
+antsy
+ antsier antsiest
+anus
+ ani anuses
+anvil
+ anvils
+anxiety
+ anxieties
+anxious
+ anxiously anxiousness
+any
+anybody
+ anybodies
+anyhow
+anymore
+anyone
+anyplace
+anything
+anytime
+anyway
+anyways
+anywhere
+anywise
+aorta
+ aortae aortas
+aortic
+apace
+apart
+apartheid
+apartment
+ apartments
+apathetic
+ apathetically
+apathy
+apatite
+ape
+ aped apelike apes aping apish apishly
+aperitif
+ aperitifs
+aperture
+ apertures
+apex
+ apexes apices
+aphasia
+aphasic
+ aphasics
+aphelion
+ aphelia aphelions
+aphid
+ aphids
+aphorism
+ aphorisms
+aphoristic
+ aphoristically
+aphrodisiac
+ aphrodisiacs
+apiarist
+ apiarists
+apiary
+ apiaries
+apical
+ apically
+apiece
+aplenty
+aplomb
+apocalypse
+ apocalypses
+apocalyptic
+apocrypha
+apocryphal
+ apocryphally
+apogee
+ apogees
+apolitical
+ apolitically
+apologetic
+ apologetically
+apologia
+ apologias
+apologist
+ apologists
+apologize
+ apologise apologised apologises apologising apologized apologizes apologizing
+apology
+ apologies
+apoplectic
+apoplexy
+ apoplexies
+apostasy
+ apostasies
+apostate
+ apostates
+apostatize
+ apostatise apostatised apostatises apostatising apostatized apostatizes apostatizing
+apostle
+ apostles
+apostleship
+apostolic
+apostrophe
+ apostrophes
+apothecary
+ apothecaries
+apothegm
+ apothegms
+apotheosis
+ apotheoses
+app
+ apps
+appall
+ appal appalled appalling appallingly appalls appals
+appaloosa
+ appaloosas
+apparatchik
+ apparatchiks
+apparatus
+ apparatuses
+apparel
+ appareled appareling apparelled apparelling apparels
+apparent
+ apparently
+apparition
+ apparitions
+appeal
+ appealed appealing appealingly appeals
+appear
+ appeared appearing appears
+appearance
+ appearances
+appease
+ appeased appeases appeasing
+appeasement
+ appeasements
+appeaser
+ appeasers
+appellant
+ appellants
+appellate
+appellation
+ appellations
+append
+ appended appending appends
+appendage
+ appendages
+appendectomy
+ appendectomies
+appendicitis
+appendix
+ appendices appendixes
+appertain
+ appertained appertaining appertains
+appetite
+ appetites
+appetizer
+ appetiser appetisers appetizers
+appetizing
+ appetising appetisingly appetizingly
+applaud
+ applauded applauding applauds
+applauder
+ applauders
+applause
+apple
+ apples
+applejack
+applesauce
+applet
+ applets
+appliance
+ appliances
+applicable
+ applicability applicably
+applicant
+ applicants
+application
+ applications
+applicator
+ applicators
+applier
+ appliers
+applique
+ appliqued appliqueed appliqueing appliques
+apply
+ applied applies applying
+appoint
+ appointed appointing appoints
+appointee
+ appointees
+appointive
+appointment
+ appointments
+apportion
+ apportioned apportioning apportions
+apportionment
+appose
+ apposed apposes apposing
+apposite
+ appositely appositeness
+apposition
+appositive
+ appositives
+appraisal
+ appraisals
+appraise
+ appraised appraises appraising
+appraiser
+ appraisers
+appreciable
+ appreciably
+appreciate
+ appreciated appreciates appreciating
+appreciation
+ appreciations
+appreciative
+ appreciatively
+appreciator
+ appreciators
+appreciatory
+apprehend
+ apprehended apprehending apprehends
+apprehension
+ apprehensions
+apprehensive
+ apprehensively apprehensiveness
+apprentice
+ apprenticed apprentices apprenticing
+apprenticeship
+ apprenticeships
+apprise
+ apprised apprises apprising apprize apprized apprizes apprizing
+approach
+ approached approaches approaching
+approachable
+approbation
+ approbations
+appropriate
+ appropriated appropriately appropriateness appropriates appropriating
+appropriation
+ appropriations
+appropriator
+ appropriators
+approval
+ approvals
+approve
+ approved approves approving approvingly
+approximate
+ approximated approximately approximates approximating
+approximation
+ approximations
+appurtenance
+ appurtenances
+appurtenant
+apricot
+ apricots
+apron
+ aprons
+apropos
+apse
+ apses
+apt
+ apter aptest aptly aptness
+aptitude
+ aptitudes
+aqua
+ aquae aquas
+aquaculture
+ aquiculture
+aqualung
+ aqualungs
+aquamarine
+ aquamarines
+aquanaut
+ aquanauts
+aquaplane
+ aquaplaned aquaplanes aquaplaning
+aquarium
+ aquaria aquariums
+aquatic
+ aquatically aquatics
+aquatint
+ aquatints
+aquavit
+aqueduct
+ aqueducts
+aqueous
+aquifer
+ aquifers
+aquiline
+arabesque
+ arabesques
+arable
+ arability
+arachnid
+ arachnids
+arachnophobia
+arbiter
+ arbiters
+arbitrage
+ arbitraged arbitrages arbitraging
+arbitrager
+ arbitragers arbitrageur arbitrageurs
+arbitrament
+ arbitraments
+arbitrary
+ arbitrarily arbitrariness
+arbitrate
+ arbitrated arbitrates arbitrating
+arbitration
+arbitrator
+ arbitrators
+arbor
+ arbors arbour arbours
+arboreal
+arboretum
+ arboreta arboretums
+arborvitae
+ arborvitaes
+arbutus
+ arbutuses
+arc
+ arced arcing arcked arcking arcs
+arcade
+ arcades
+arcana
+arcane
+arch
+ arched archer -> [archer] arches archest arching archly archness
+archaeological
+ archaeologically archeological archeologically
+archaeologist
+ archaeologists archeologist archeologists
+archaeology
+ archeology
+archaic
+ archaically
+archaism
+ archaisms
+archaist
+ archaists
+archangel
+ archangels
+archbishop
+ archbishops
+archbishopric
+ archbishoprics
+archconservative
+ archconservatives
+archdeacon
+ archdeacons
+archdiocesan
+archdiocese
+ archdioceses
+archduchess
+ archduchesses
+archduke
+ archdukes
+archenemy
+ archenemies
+archer -> [arch]
+ archers
+archery
+archetypal
+archetype
+ archetypes
+archetypical
+archfiend
+ archfiends
+archiepiscopal
+archipelago
+ archipelagoes archipelagos
+architect
+ architects
+architectonic
+ architectonics
+architectural
+ architecturally
+architecture
+ architectures
+architrave
+ architraves
+archival
+archive
+ archived archives archiving
+archivist
+ archivists
+archrival
+ archrivals
+archway
+ archways
+arctic
+ arctics
+ardent
+ ardently
+ardor
+ ardors ardour ardours
+arduous
+ arduously arduousness
+are -> [be]
+ ares
+area
+ areas
+areal
+arena
+ arenas
+argent
+argon
+argosy
+ argosies
+argot
+ argots
+arguable
+ arguably
+argue
+ argued argues arguing
+arguer
+ arguers
+argument
+ arguments
+argumentation
+argumentative
+ argumentatively argumentativeness
+argyle
+ argyles
+aria
+ arias
+arid
+ aridly
+aridity
+aright
+arise
+ arisen arises arising arose
+aristocracy
+ aristocracies
+aristocrat
+ aristocrats
+aristocratic
+ aristocratically
+arithmetic
+arithmetical
+ arithmetically
+arithmetician
+ arithmeticians
+ark
+ arks
+arm
+ armed armful armfuls arming arms armsful
+armada
+ armadas
+armadillo
+ armadillos
+armament
+ armaments
+armature
+ armatures
+armband
+ armbands
+armchair
+ armchairs
+armhole
+ armholes
+armistice
+ armistices
+armlet
+ armlets
+armload
+ armloads
+armor
+ armored armoring armors armour armoured armouring armours
+armorer
+ armorers armourer armourers
+armorial
+armory
+ armories armouries armoury
+armpit
+ armpits
+armrest
+ armrests
+army
+ armies
+aroma
+ aromas
+aromatherapist
+ aromatherapists
+aromatherapy
+aromatic
+ aromatically aromatics
+around
+around-the-clock
+ round-the-clock
+arousal
+arouse
+ aroused arouses arousing
+arpeggio
+ arpeggios
+arraign
+ arraigned arraigning arraigns
+arraignment
+ arraignments
+arrange
+ arranged arranges arranging
+arrangement
+ arrangements
+arranger
+ arrangers
+arrant
+arras
+ arrases
+array
+ arrayed arraying arrays
+arrears
+arrest
+ arrested arresting arrests
+arrhythmia
+arrhythmic
+arrhythmical
+arrival
+ arrivals
+arrive
+ arrived arrives arriving
+arriviste
+ arrivistes
+arrogance
+arrogant
+ arrogantly
+arrogate
+ arrogated arrogates arrogating
+arrogation
+arrow
+ arrows
+arrowhead
+ arrowheads
+arrowroot
+arroyo
+ arroyos
+arse -> [ass]
+ arsed arses -> [ass] arsing
+arsenal
+ arsenals
+arsenic
+arson
+arsonist
+ arsonists
+art -> [be]
+ artful artfully artfulness artless artlessly artlessness arts
+arterial
+arteriole
+ arterioles
+arteriosclerosis
+artery
+ arteries
+arthouse
+arthritic
+ arthritics
+arthritis
+arthropod
+ arthropods
+arthroscope
+ arthroscopes
+arthroscopic
+artichoke
+ artichokes
+article
+ articled articles
+articulacy
+articular
+articulate
+ articulated articulately articulateness articulates articulating
+articulation
+ articulations
+artifact
+ artefact artefacts artifacts
+artifice
+ artifices
+artificer
+ artificers
+artificial
+ artificially
+artificiality
+artillery
+artilleryman
+ artillerymen
+artisan
+ artisans
+artist
+ artists
+artiste
+ artistes
+artistic
+ artistically
+artistry
+artsy
+ artsier artsiest
+artwork
+ artworks
+arty
+ artier artiest artiness
+arugula
+arum
+ arums
+as
+asbestos
+ascend
+ ascended ascending ascends
+ascendance
+ ascendancy ascendence ascendency
+ascendant
+ ascendants ascendent ascendents
+ascension
+ ascensions
+ascent
+ ascents
+ascertain
+ ascertained ascertaining ascertains
+ascertainable
+ascertainment
+ascetic
+ ascetically ascetics
+asceticism
+ascot
+ ascots
+ascribable
+ascribe
+ ascribed ascribes ascribing
+ascription
+aseptic
+ aseptically
+asexual
+ asexually
+asexuality
+ash
+ ashes
+ashamed
+ ashamedly
+ashcan
+ ashcans
+ashen
+ashlar
+ ashlars
+ashore
+ashram
+ ashrams
+ashtray
+ ashtrays
+ashy
+ ashier ashiest
+aside
+ asides
+asinine
+ asininely
+asininity
+ asininities
+ask
+ asked asking asks
+askance
+askew
+aslant
+asleep
+asocial
+asp
+ asps
+asparagus
+aspartame
+aspect
+ aspects
+aspen
+ aspens
+asperity
+ asperities
+aspersion
+ aspersions
+asphalt
+ asphalted asphalting asphalts
+asphodel
+ asphodels
+asphyxia
+asphyxiate
+ asphyxiated asphyxiates asphyxiating
+asphyxiation
+ asphyxiations
+aspic
+ aspics
+aspidistra
+ aspidistras
+aspirant
+ aspirants
+aspirate
+ aspirated aspirates aspirating
+aspiration
+ aspirations
+aspirational
+aspirator
+ aspirators
+aspire
+ aspired aspires aspiring
+aspirin
+ aspirins
+ass
+ arse -> [arse] arses -> [arse] asses
+assail
+ assailed assailing assails
+assailable
+assailant
+ assailants
+assassin
+ assassins
+assassinate
+ assassinated assassinates assassinating
+assassination
+ assassinations
+assault
+ assaulted assaulting assaults
+assay
+ assayed assaying assays
+assayer
+ assayers
+assemblage
+ assemblages
+assemble
+ assembled assembles assembling
+assembler
+ assemblers
+assembly
+ assemblies
+assemblyman
+ assemblymen
+assemblywoman
+ assemblywomen
+assent
+ assented assenting assents
+assert
+ asserted asserting asserts
+assertion
+ assertions
+assertive
+ assertively assertiveness
+assess
+ assessed assesses assessing
+assessment
+ assessments
+assessor
+ assessors
+asset
+ assets
+asseverate
+ asseverated asseverates asseverating
+asseveration
+asshole
+ arsehole arseholes assholes
+assiduity
+assiduous
+ assiduously assiduousness
+assign
+ assigned assigning assigns
+assignable
+assignation
+ assignations
+assigner
+ assigners
+assignment
+ assignments
+assignor
+ assignors
+assimilate
+ assimilated assimilates assimilating
+assimilation
+assist
+ assisted assisting assists
+assistance
+assistant
+ assistants
+assize
+ assizes
+associate
+ associated associates associating
+association
+ associations
+associative
+assonance
+assonant
+ assonants
+assort
+ assorted assorting assorts
+assortment
+ assortments
+assuage
+ assuaged assuages assuaging
+assumable
+assume
+ assumed assumes assuming
+assumption
+ assumptions
+assumptive
+assurance
+ assurances
+assure
+ assured -> [assured] assuredly assures assuring
+assured -> [assure]
+ assureds
+astatine
+aster
+ asters
+asterisk
+ asterisked asterisking asterisks
+astern
+asteroid
+ asteroids
+asthma
+asthmatic
+ asthmatically asthmatics
+astigmatic
+astigmatism
+ astigmatisms
+astir
+astonish
+ astonished astonishes astonishing astonishingly
+astonishment
+astound
+ astounded astounding astoundingly astounds
+astraddle
+astrakhan
+astral
+astray
+astride
+astringency
+astringent
+ astringently astringents
+astrolabe
+ astrolabes
+astrologer
+ astrologers
+astrological
+ astrologically
+astrologist
+ astrologists
+astrology
+astronaut
+ astronauts
+astronautic
+ astronautics
+astronautical
+astronomer
+ astronomers
+astronomic
+astronomical
+ astronomically
+astronomy
+astrophysical
+astrophysicist
+ astrophysicists
+astrophysics
+astute
+ astutely astuteness astuter astutest
+asunder
+asylum
+ asylums
+asymmetric
+asymmetrical
+ asymmetrically
+asymmetry
+ asymmetries
+asymptomatic
+asynchronous
+at
+atavism
+atavist
+ atavists
+atavistic
+ataxia
+ataxic
+ ataxics
+atelier
+ ateliers
+atheism
+atheist
+ atheists
+atheistic
+atherosclerosis
+athirst
+athlete
+ athletes
+athletic
+ athletically athletics
+athleticism
+athwart
+atilt
+atlas
+ atlases
+atmosphere
+ atmospheres
+atmospheric
+ atmospherically atmospherics
+atoll
+ atolls
+atom
+ atoms
+atomic
+ atomically
+atomize
+ atomise atomised atomises atomising atomized atomizes atomizing
+atomizer
+ atomiser atomisers atomizers
+atonal
+ atonally
+atonality
+atone
+ atoned atones atoning
+atonement
+atop
+atrial
+at-risk
+atrium
+ atria atriums
+atrocious
+ atrociously atrociousness
+atrocity
+ atrocities
+atrophy
+ atrophied atrophies atrophying
+atropine
+attaboy
+attach
+ attached attaches -> [attache] attaching
+attachable
+attache
+ attaches -> [attach]
+attachment
+ attachments
+attack
+ attacked attacking attacks
+attacker
+ attackers
+attain
+ attained attaining attains
+attainable
+ attainability
+attainder
+attainment
+ attainments
+attar
+attempt
+ attempted attempting attempts
+attend
+ attended attending attends
+attendance
+ attendances
+attendant
+ attendants
+attendee
+ attendees
+attender
+ attenders
+attention
+ attentions
+attentive
+ attentively attentiveness
+attenuate
+ attenuated attenuates attenuating
+attenuation
+attest
+ attested attesting attests
+attestation
+ attestations
+attic
+ attics
+attire
+ attired attires attiring
+attitude
+ attitudes
+attitudinal
+attitudinize
+ attitudinise attitudinised attitudinises attitudinising attitudinized attitudinizes attitudinizing
+attorney
+ attorneys
+attorney-general
+ attorney-generals attorneys-general
+attract
+ attracted attracting attracts
+attractable
+attractant
+ attractants
+attraction
+ attractions
+attractive
+ attractively attractiveness
+attributable
+attribute
+ attributed attributes attributing
+attribution
+ attributions
+attributive
+ attributively attributives
+attrition
+attune
+ attuned attunes attuning
+atwitter
+atypical
+ atypically
+aubergine
+ aubergines
+auburn
+auction
+ auctioned auctioning auctions
+auctioneer
+ auctioneers
+audacious
+ audaciously audaciousness
+audacity
+audible
+ audibility audibles audibly
+audience
+ audiences
+audio
+ audios
+audiobook
+ audiobooks
+audiological
+audiologist
+ audiologists
+audiology
+audiometer
+ audiometers
+audiophile
+ audiophiles
+audiotape
+ audiotapes
+audiotypist
+ audiotypists
+audiovisual
+ audiovisuals
+audit
+ audited auditing audits
+audition
+ auditioned auditioning auditions
+auditor
+ auditors
+auditorium
+ auditoria auditoriums
+auditory
+auger
+ augers
+aught
+ aughts ought -> [ought]
+augment
+ augmented augmenting augments
+augmentation
+ augmentations
+augmentative
+augmenter
+ augmenters
+augur
+ augured auguring augurs
+augury
+ auguries
+august
+ auguster augustest augustly augustness
+auk
+ auks
+aunt
+ aunts
+auntie
+ aunties aunty
+aura
+ aurae auras
+aural
+ aurally
+aureole
+ aureola aureolas aureoles
+auricle
+ auricles
+auricular
+aurora
+ aurorae auroras
+auscultate
+ auscultated auscultates auscultating
+auscultation
+ auscultations
+auspice
+ auspices
+auspicious
+ auspiciously auspiciousness
+austere
+ austerely austerer austerest
+austerity
+ austerities
+austral
+auteur
+ auteurs
+authentic
+ authentically
+authenticate
+ authenticated authenticates authenticating
+authentication
+ authentications
+authenticity
+author
+ authored authoring authors
+authoress
+ authoresses
+authorial
+authoritarian
+ authoritarians
+authoritarianism
+authoritative
+ authoritatively authoritativeness
+authority
+ authorities
+authorization
+ authorisation authorisations authorizations
+authorize
+ authorise authorised authorises authorising authorized authorizes authorizing
+authorship
+autism
+autistic
+auto
+ autos
+autobahn
+ autobahns
+autobiographer
+ autobiographers
+autobiographic
+autobiographical
+ autobiographically
+autobiography
+ autobiographies
+autoclave
+ autoclaves
+autocracy
+ autocracies
+autocrat
+ autocrats
+autocratic
+ autocratically
+autocross
+autodidact
+ autodidacts
+autoerotic
+autofocus
+ autofocuses
+autograph
+ autographed autographing autographs
+autoimmune
+autoimmunity
+automaker
+ automakers
+automate
+ automated automates automating
+automatic
+ automatically automatics
+automation
+automatism
+automatize
+ automatise automatised automatises automatising automatized automatizes automatizing
+automaton
+ automata automatons
+automobile
+ automobiles
+automotive
+autonomic
+autonomous
+ autonomously
+autonomy
+autopilot
+ autopilots
+autopsy
+ autopsied autopsies autopsying
+autosuggestion
+autoworker
+ autoworkers
+autumn
+ autumns
+autumnal
+auxiliary
+ auxiliaries
+auxin
+avail
+ availed availing avails
+available
+ availability
+avalanche
+ avalanches
+avant-garde
+avarice
+avaricious
+ avariciously
+avast
+avatar
+ avatars
+avaunt
+avenge
+ avenged avenges avenging
+avenger
+ avengers
+avenue
+ avenues
+aver
+ averred averring avers
+average
+ averaged averagely averages averaging
+averse
+aversion
+ aversions
+avert
+ averted averting averts
+avian
+aviary
+ aviaries
+aviation
+aviator
+ aviators
+aviatrix
+ aviatrices aviatrixes
+avid
+ avidly
+avidity
+avionic
+ avionics
+avitaminosis
+avocado
+ avocadoes avocados
+avocation
+ avocations
+avocational
+avoid
+ avoided avoiding avoids
+avoidable
+ avoidably
+avoidance
+avoirdupois
+avouch
+ avouched avouches avouching
+avow
+ avowed avowedly avowing avows
+avowal
+ avowals
+avuncular
+ avuncularly
+aw
+await
+ awaited awaiting awaits
+awake
+ awaked awakes awaking awoke awoken
+awaken
+ awakened awakening -> [awakening] awakens
+awakening -> [awaken]
+ awakenings
+award
+ awarded awarding awards
+award-winning
+aware
+ awareness
+awash
+away
+awe
+ awed awes awing
+aweigh
+awe-inspiring
+awesome
+ awesomely awesomeness
+awestricken
+awestruck
+awful
+ awfuller awfullest awfully awfulness
+awhile
+awkward
+ awkwarder awkwardest awkwardly awkwardness
+awl
+ awls
+awn
+ awns
+awning
+ awnings
+awol
+awry
+ax
+ axe axed axes -> [axis] axing
+axial
+ axially
+axiom
+ axioms
+axiomatic
+ axiomatically
+axis
+ axes -> [ax]
+axle
+ axles
+axletree
+ axletrees
+axolotl
+ axolotls
+axon
+ axons
+ayah
+ ayahs
+ayatollah
+ ayatollahs
+aye
+ ay ayes
+azalea
+ azaleas
+azimuth
+ azimuths
+azure
