@@ -1,5886 +1,5886 @@
-cab
+cab,abbreviation,noun,verb
  cabbed cabbing cabs
-cabal
+cabal,noun
  cabals
-cabala
-caballero
+cabala,noun
+caballero,noun
  caballeros
-cabana
+cabana,noun
  cabanas
-cabaret
+cabaret,noun
  cabarets
-cabbage
+cabbage,noun
  cabbages
-cabby
+cabby,noun
  cabbie cabbies
-cabdriver
+cabdriver!
  cabdrivers
-caber
+caber,noun
  cabers
-cabin
+cabin,noun,verb
  cabins
-cabinet
+cabinet,noun
  cabinets
-cabinetmaker
+cabinetmaker,noun
  cabinetmakers
-cabinetmaking
-cabinetry
-cabinetwork
-cable
+cabinetmaking,noun
+cabinetry,noun
+cabinetwork!
+cable,noun,verb
  cabled cables cabling
-cablecast
+cablecast!
  cablecasted cablecasting cablecasts
-cablegram
+cablegram,noun
  cablegrams
-cabochon
+cabochon,noun
  cabochons
-caboodle
-caboose
+caboodle,noun
+caboose,noun
  cabooses
-cabriolet
+cabriolet,noun
  cabriolets
-cabstand
+cabstand,noun
  cabstands
-cacao
+cacao,noun
  cacaos
-cache
+cache,noun,verb
  cached caches caching
-cachepot
+cachepot,noun
  cachepots
-cachet
+cachet,noun
  cachets
-cackle
+cackle,verb,noun
  cackled cackles cackling
-cackler
+cackler,verb,noun
  cacklers
-cacophonous
-cacophony
+cacophonous,adjective
+cacophony,noun
  cacophonies
-cactus
+cactus,noun
  cacti cactuses
-cad
+cad,abbreviation,noun
  caddish caddishly caddishness cads
-cadaver
+cadaver,noun
  cadavers
-cadaverous
-caddie
+cadaverous,adjective
+caddie,noun,verb
  caddied caddies caddy caddying
-cadence
+cadence,noun
  cadenced cadences
-cadenza
+cadenza,noun
  cadenzas
-cadet
+cadet,noun
  cadets
-cadge
+cadge,verb,noun
  cadged cadges cadging
-cadger
+cadger,noun
  cadgers
-cadmium
-cadre
+cadmium,noun
+cadre,noun
  cadres
-caduceus
+caduceus,noun
  caducei
-caesura
+caesura,noun
  caesurae caesuras
-cafe
+cafe,noun
  cafes
-cafeteria
+cafeteria,noun
  cafeterias
-cafetiere
+cafetiere,noun
  cafetieres
-caff
+caff,noun
  caffs
-caffeinated
-caffeine
-caftan
+caffeinated,adjective
+caffeine,noun
+caftan,noun
  caftans kaftan kaftans
-cage
+cage,noun,verb
  caged cages caging
-cagey
+cagey,adjective
  cagier cagiest cagily caginess cagy
-cagoule
+cagoule,noun
  cagoules
-cahoot
+cahoot!
  cahoots
-caiman
+caiman,noun
  caimans
-cairn
+cairn,noun
  cairns
-caisson
+caisson,noun
  caissons
-caitiff
+caitiff,noun
  caitiffs
-cajole
+cajole,verb
  cajoled cajoles cajoling
-cajolement
-cajoler
+cajolement,noun
+cajoler,noun
  cajolers
-cajolery
-cake
+cajolery,noun
+cake,noun,verb
  caked cakes caking
-cakehole
+cakehole,noun
  cakeholes
-cakewalk
+cakewalk,noun,verb
  cakewalks
-calabash
+calabash,noun
  calabashes
-calaboose
+calaboose,noun
  calabooses
-calamari
+calamari,noun
  calamaris
-calamine
-calamitous
+calamine,noun
+calamitous,adjective
  calamitously
-calamity
+calamity,noun
  calamities
-calcareous
-calciferous
-calcification
-calcify
+calcareous,adjective
+calciferous,adjective
+calcification,noun
+calcify,verb
  calcified calcifies calcifying
-calcimine
+calcimine,noun,verb
  calcimined calcimines calcimining
-calcine
+calcine,verb
  calcined calcines calcining
-calcite
-calcium
-calculable
-calculate
+calcite,noun
+calcium,noun
+calculable,adjective
+calculate,verb
  calculated calculatedly calculates calculating calculatingly
-calculation
+calculation,noun
  calculations
-calculative
-calculator
+calculative,adjective
+calculator,noun
  calculators
-calculus
+calculus,noun
  calculi calculuses
-caldera
+caldera,noun
  calderas
-calendar
+calendar,noun,verb
  calendared calendaring calendars
-calender
+calender,noun,verb
  calendered calendering calenders
-calf
+calf,noun
  calfs calves -> [calve]
-calfskin
-caliber
+calfskin,noun
+caliber,noun
  calibers calibre calibres
-calibrate
+calibrate,verb
  calibrated calibrates calibrating
-calibration
+calibration,noun
  calibrations
-calibrator
+calibrator,noun
  calibrators
-calico
+calico,adjective,noun
  calicoes calicos
-californium
-caliper
+californium,noun
+caliper,noun
  calipered calipering calipers calliper callipered callipering callipers
-caliph
+caliph,noun
  calif califs caliphs khalif khalifs
-caliphate
+caliphate,noun
  califate califates caliphates khalifate khalifates
-calisthenic
+calisthenic,adjective
  calisthenics callisthenic callisthenics
-call
+call,verb,noun
  called calling -> [calling] calls
-calla
+calla,noun
  callas
-callback
+callback,noun
  callbacks
-caller
+caller,noun
  callers
-calligrapher
+calligrapher,noun
  calligraphers
-calligraphic
-calligraphist
+calligraphic,adjective
+calligraphist,noun
  calligraphists
-calligraphy
-calling -> [call]
+calligraphy,noun
+calling,noun
  callings
-calliope
+calliope,noun,propernoun
  calliopes
-callosity
+callosity,noun
  callosities
-callous
+callous,adjective,noun
  calloused callouses callousing callously callousness
-callout
+callout,noun
  callouts
-callow
+callow,adjective
  callower callowest callowness
-call-up
+call-up,noun
  call-ups
-callus
+callus,noun
  callused calluses callusing
-calm
+calm,abbreviation,adjective,noun,verb
  calmed calmer calmest calming calmly calmness calms
-caloric
-calorie
+caloric,adjective,noun
+calorie,noun
  calories
-calorific
-calumet
+calorific,adjective
+calumet,noun
  calumets
-calumniate
+calumniate,verb
  calumniated calumniates calumniating
-calumniation
-calumniator
+calumniation,noun
+calumniator,noun
  calumniators
-calumnious
-calumny
+calumnious,adjective
+calumny,noun,verb
  calumnies
-calve
+calve,verb
  calved calves -> [calf] calving
-calypso
+calypso,noun,propernoun
  calypsos
-calyx
+calyx,noun
  calyces calyxes
-calzone
+calzone,noun
  calzones
-cam
+cam,abbreviation,noun
  cams
-camaraderie
-camber
+camaraderie,noun
+camber,noun
  cambered cambering cambers
-cambial
-cambium
+cambial,adjective
+cambium,noun
  cambia cambiums
-cambric
-camcorder
+cambric,noun
+camcorder,noun
  camcorders
-camel
+camel,noun
  camels
-camelhair
-camellia
+camelhair!
+camellia,noun
  camellias
-cameo
+cameo,noun
  cameos
-camera
+camera,noun
  cameras
-cameraman
+cameraman,noun
  cameramen
-camerawoman
+camerawoman,noun
  camerawomen
-camerawork
-camiknickers
-camisole
+camerawork,noun
+camiknickers,pluralnoun
+camisole,noun
  camisoles
-camouflage
+camouflage,noun,verb
  camouflaged camouflages camouflaging
-camouflager
+camouflager,noun,verb
  camouflagers
-camp
+camp,adjective,noun,verb
  camped camping camps
-campaign
+campaign,noun,verb
  campaigned campaigning campaigns
-campaigner
+campaigner,noun
  campaigners
-campanile
+campanile,noun
  campaniles campanili
-campanologist
+campanologist,noun
  campanologists
-campanology
-camper
+campanology,noun
+camper,noun
  campers
-campfire
+campfire,noun
  campfires
-campground
+campground,noun
  campgrounds
-camphor
-campsite
+camphor,noun
+campsite,noun
  campsites
-campus
+campus,noun
  campuses
-campy
+campy,adjective
  campier campiest
-camshaft
+camshaft,noun
  camshafts
-can
+can,modalverb,noun,verb
  canned canning cans canst
-canal
+canal,noun
  canals
-canalization
+canalization,noun
  canalisation
-canalize
+canalize,verb
  canalise canalised canalises canalising canalized canalizes canalizing
-canape
+canape,noun
  canapes
-canard
+canard,noun
  canards
-canary
+canary,noun
  canaries
-canasta
-cancan
+canasta,noun
+cancan,noun
  cancans
-cancel
+cancel,verb,noun
  canceled canceling cancelled cancelling cancels
-canceler
+canceler,noun
  cancelers canceller cancellers
-cancellation
+cancellation,noun
  cancellations
-cancer
+cancer,noun,propernoun
  cancers
-cancerous
-candelabrum
+cancerous,adjective
+candelabrum,noun
  candelabra candelabras candelabrums
-candid
+candid,adjective
  candidly candidness
-candida
-candidacy
+candida,noun
+candidacy,noun
  candidacies
-candidate
+candidate,noun
  candidates
-candidature
+candidature,noun
  candidatures
-candle
+candle,noun,verb
  candled candles candling
-candlelight
-candlelit
-candlepower
-candler
+candlelight,noun
+candlelit,adjective
+candlepower,noun
+candler,noun
  candlers
-candlestick
+candlestick,noun
  candlesticks
-candlewick
+candlewick,noun
  candlewicks
-can-do
-candor
+can-do,adjective
+candor,noun
  candour
-candy
+candy,noun,verb
  candied candies candying
-candyfloss
-cane
+candyfloss,noun
+cane,noun,verb
  caned canes caning
-canebrake
+canebrake,noun
  canebrakes
-caner
+caner,noun
  caners
-canine
+canine,adjective,noun
  canines
-canister
+canister,noun
  canisters
-canker
+canker,noun,verb
  cankered cankering cankers
-cankerous
-cannabis
+cankerous,adjective
+cannabis,noun
  cannabises
-cannelloni
-cannery
+cannelloni,noun
+cannery,noun
  canneries
-cannibal
+cannibal,noun
  cannibals
-cannibalism
-cannibalistic
-cannibalization
+cannibalism,noun
+cannibalistic!
+cannibalization,noun
  cannibalisation
-cannibalize
+cannibalize,verb
  cannibalise cannibalised cannibalises cannibalising cannibalized cannibalizes cannibalizing
-cannon
+cannon,noun,verb
  cannoned cannoning cannons
-cannonade
+cannonade,noun,verb
  cannonaded cannonades cannonading
-cannonball
+cannonball,noun
  cannonballs
-cannot
-canny
+cannot,contraction
+canny,adjective
  cannier canniest cannily canniness
-canoe
+canoe,noun,verb
  canoed canoeing canoes
-canoeist
+canoeist,noun
  canoeists
-canola
-canon
+canola,noun
+canon,noun
  canons
-canonical
+canonical,adjective,pluralnoun
  canonically
-canonization
+canonization,noun
  canonisation canonisations canonizations
-canonize
+canonize,verb
  canonise canonised canonises canonising canonized canonizes canonizing
-canoodle
+canoodle,verb
  canoodled canoodles canoodling
-canopy
+canopy,noun,verb
  canopied canopies canopying
-cant
+cant,noun,verb
  canted canting cants
-cantabile
-cantaloupe
+cantabile,adjective,adverb,noun
+cantaloupe,noun
  cantaloup cantaloupes cantaloups
-cantankerous
+cantankerous,adjective
  cantankerously cantankerousness
-cantata
+cantata,noun
  cantatas
-canteen
+canteen,noun
  canteens
-canter
+canter,noun,verb
  cantered cantering canters
-canticle
+canticle,noun
  canticles
-cantilever
+cantilever,noun,verb
  cantilevered cantilevering cantilevers
-canto
+canto,noun
  cantos
-canton
+canton,noun,propernoun
  cantons
-cantonal
-cantonment
+cantonal,adjective
+cantonment,noun
  cantonments
-cantor
+cantor,noun
  cantors
-canvas
+canvas,noun,verb
  canvased canvases canvasing canvassed -> [canvass] canvasses -> [canvass] canvassing -> [canvass]
-canvasback
+canvasback,noun
  canvasbacks
-canvass
+canvass,verb,noun
  canvassed -> [canvas] canvasses -> [canvas] canvassing -> [canvas]
-canvasser
+canvasser,noun
  canvassers
-canyon
+canyon,noun
  canyons
-canyoning
-cap
+canyoning,noun
+cap,abbreviation,noun,verb
  capped capping caps
-capability
+capability,noun
  capabilities
-capable
+capable,adjective
  capably
-capacious
+capacious,adjective
  capaciously capaciousness
-capacitance
-capacitor
+capacitance,noun
+capacitor,noun
  capacitors
-capacity
+capacity,noun
  capacities
-caparison
+caparison,noun,verb
  caparisoned caparisoning caparisons
-cape
+cape,noun,verb
  caped capes
-caper
+caper,verb,noun
  capered capering capers
-capeskin
-capillarity
-capillary
+capeskin,noun
+capillarity,noun
+capillary,adjective,noun
  capillaries
-capital
+capital,adjective,exclamation,noun
  capitally capitals
-capitalism
-capitalist
+capitalism,noun
+capitalist,adjective,noun
  capitalists
-capitalistic
+capitalistic,adjective
  capitalistically
-capitalization
+capitalization,noun
  capitalisation
-capitalize
+capitalize,verb
  capitalise capitalised capitalises capitalising capitalized capitalizes capitalizing
-capitation
+capitation,noun
  capitations
-capitol
+capitol,propernoun
  capitols
-capitulate
+capitulate,verb
  capitulated capitulates capitulating
-capitulation
+capitulation,noun
  capitulations
-caplet
+caplet,noun
  caplets
-capo
+capo,noun
  capos
-capon
+capon,noun
  capons
-cappuccino
+cappuccino,noun
  cappuccinos
-caprice
+caprice,noun
  caprices
-capricious
+capricious,adjective
  capriciously capriciousness
-capsicum
+capsicum,noun
  capsicums
-capsize
+capsize,verb,noun
  capsized capsizes capsizing
-capstan
+capstan,noun
  capstans
-capstone
+capstone,noun
  capstones
-capsular
-capsule
+capsular,adjective
+capsule,noun
  capsuled capsules capsuling
-capsulize
+capsulize,verb
  capsulise capsulised capsulises capsulising capsulized capsulizes capsulizing
-captain
+captain,noun,verb
  captained captaining captains
-captaincy
+captaincy,noun
  captaincies
-caption
+caption,noun,verb
  captioned captioning captions
-captious
+captious,adjective
  captiously captiousness
-captivate
+captivate,verb
  captivated captivates captivating
-captivation
-captivator
+captivation,noun
+captivator,noun
  captivators
-captive
+captive,adjective,noun
  captives
-captivity
+captivity,noun
  captivities
-captor
+captor,noun
  captors
-capture
+capture,verb,noun
  captured captures capturing
-car
+car,noun
  cars
-carafe
+carafe,noun
  carafes
-caramel
+caramel,noun
  caramels
-caramelize
+caramelize,verb
  caramelise caramelised caramelises caramelising caramelized caramelizes caramelizing
-carapace
+carapace,noun
  carapaces
-carat
+carat,noun
  carats
-caravan
+caravan,noun
  caravaned caravaning caravanned caravanning caravans
-caravansary
+caravansary,noun
  caravansaries caravanserai caravanserais
-caravel
+caravel,noun
  caravels
-caraway
+caraway,noun
  caraways
-carb
+carb,noun
  carbs
-carbide
+carbide,noun
  carbides
-carbine
+carbine,noun
  carbines
-carbohydrate
+carbohydrate,noun
  carbohydrates
-carbolic
-carbon
+carbolic,noun
+carbon,noun
  carbons
-carbonaceous
-carbonate
+carbonaceous,adjective
+carbonate,noun,verb
  carbonated carbonates carbonating
-carbonation
-carboniferous
-carbonize
+carbonation,noun
+carboniferous,adjective
+carbonize,verb
  carbonise carbonised carbonises carbonising carbonized carbonizes carbonizing
-carborundum
-carboy
+carborundum,noun
+carboy,noun
  carboys
-carbuncle
+carbuncle,noun
  carbuncles
-carbuncular
-carburetor
+carbuncular,adjective
+carburetor,noun
  carburetors carburetter carburetters carburettor carburettors
-carcass
+carcass,noun
  carcase carcases carcasses
-carcinogen
+carcinogen,noun
  carcinogens
-carcinogenic
+carcinogenic,adjective
  carcinogenics
-carcinogenicity
-carcinoma
+carcinogenicity,noun
+carcinoma,noun
  carcinomas carcinomata
-card
+card,noun,verb
  carded carding cards
-cardamom
+cardamom,noun
  cardamoms cardamon cardamons
-cardboard
-card-carrying
-carder
+cardboard,noun
+card-carrying,adjective
+carder,noun
  carders
-cardholder
+cardholder,noun
  cardholders
-cardiac
-cardie
+cardiac,adjective,noun
+cardie,noun
  cardies
-cardigan
+cardigan,noun
  cardigans
-cardinal
+cardinal,adjective,noun
  cardinally cardinals
-cardio
-cardiogram
+cardio,noun
+cardiogram,noun
  cardiograms
-cardiograph
+cardiograph,noun
  cardiographs
-cardiologist
+cardiologist,noun
  cardiologists
-cardiology
-cardiopulmonary
-cardiovascular
-cardsharp
+cardiology,noun
+cardiopulmonary,adjective
+cardiovascular,adjective
+cardsharp,noun
  cardsharper cardsharpers cardsharps
-care
+care,noun,verb
  cared careful carefuller carefullest carefully carefulness careless carelessly carelessness cares caring
-careen
+careen,verb
  careened careening careens
-career
+career,noun,verb
  careered careering careers
-careerism
-careerist
+careerism,noun
+careerist,adjective,noun
  careerists
-carefree
-caregiver
+carefree,adjective
+caregiver,noun
  caregivers
-carer
+carer,noun
  carers
-caress
+caress,verb,noun
  caressed caresses caressing
-caret
+caret,noun
  carets
-caretaker
+caretaker,noun
  caretakers
-careworn
-carfare
-cargo
+careworn,adjective
+carfare,noun
+cargo,noun
  cargoes cargos
-carhop
+carhop,noun
  carhops
-caribou
+caribou,noun
  caribous
-caricature
+caricature,noun,verb
  caricatured caricatures caricaturing
-caricaturist
+caricaturist,noun
  caricaturists
-caries
-carillon
+caries,noun
+carillon,noun
  carillons
-carious
-carjack
+carious,adjective
+carjack,verb
  carjacked carjacking -> [carjacking] carjacks
-carjacker
+carjacker,noun
  carjackers
-carjacking -> [carjack]
+carjacking,noun
  carjackings
-carload
+carload,noun
  carloads
-carmine
-carnage
-carnal
+carmine,noun
+carnage,noun
+carnal,adjective
  carnally
-carnality
-carnation
+carnality,noun
+carnation,noun
  carnations
-carnelian
+carnelian,noun
  carnelians
-carnival
+carnival,noun
  carnivals
-carnivore
+carnivore,noun
  carnivores
-carnivorous
+carnivorous,adjective
  carnivorously carnivorousness
-carny
+carny,adjective,noun
  carney carneys carnies
-carob
+carob,noun
  carobs
-carol
+carol,noun,verb
  caroled caroling carolled carolling carols
-caroler
+caroler,noun
  carolers caroller carollers
-carom
+carom,noun,verb
  caromed caroming caroms
-carotene
-carotid
+carotene,noun
+carotid,adjective,noun
  carotids
-carousal
+carousal,noun
  carousals
-carouse
+carouse,verb,noun
  caroused carouses carousing
-carousel
+carousel,noun
  carousels carrousel carrousels
-carouser
+carouser,noun
  carousers
-carp
+carp,noun,verb
  carped carping carps
-carpal
+carpal,adjective,noun
  carpals
-carpark
+carpark,noun
  carparks
-carpel
+carpel,noun
  carpels
-carpenter
+carpenter,noun,verb
  carpentered carpentering carpenters
-carpentry
-carper
+carpentry,noun
+carper,noun
  carpers
-carpet
+carpet,noun,verb
  carpeted carpeting -> [carpeting] carpets
-carpetbag
+carpetbag,noun,verb
  carpetbagged carpetbagging carpetbags
-carpetbagger
+carpetbagger,noun
  carpetbaggers
-carpeting -> [carpet]
+carpeting,noun
  carpetings
-carpool
+carpool,noun,verb
  carpooled carpooling carpools
-carport
+carport,noun
  carports
-carpus
+carpus,noun
  carpi
-carrel
+carrel,noun
  carrell carrells carrels
-carriage
+carriage,noun
  carriages
-carriageway
+carriageway,noun
  carriageways
-carrier
+carrier,noun
  carriers
-carrion
-carrot
+carrion,noun
+carrot,noun
  carrots
-carroty
-carry
+carroty,adjective
+carry,verb,noun
  carried carries carrying
-carryall
+carryall,noun
  carryalls
-carrycot
+carrycot,noun
  carrycots
-carryout
+carryout,noun,adjective
  carryouts
-carryover
+carryover,noun
  carryovers
-carsick
+carsick,adjective
  carsickness
-cart
+cart,noun,verb
  carted carting carts
-cartage
-cartel
+cartage,noun
+cartel,noun
  cartels
-carter
+carter,noun
  carters
-carthorse
+carthorse,noun
  carthorses
-cartilage
+cartilage,noun
  cartilages
-cartilaginous
-cartload
+cartilaginous,adjective
+cartload,noun
  cartloads
-cartographer
+cartographer,noun
  cartographers
-cartographic
-cartography
-carton
+cartographic,adjective
+cartography,noun
+carton,noun
  cartons
-cartoon
+cartoon,noun,verb
  cartooned cartooning cartoons
-cartoonist
+cartoonist,noun
  cartoonists
-cartridge
+cartridge,noun
  cartridges
-cartwheel
+cartwheel,noun,verb
  cartwheeled cartwheeling cartwheels
-carve
+carve,verb
  carved carves carving -> [carving]
-carver
+carver,noun
  carvers
-carvery
+carvery,noun
  carveries
-carving -> [carve]
+carving,noun
  carvings
-caryatid
+caryatid,noun
  caryatides caryatids
-casaba
+casaba,noun
  casabas
-cascade
+cascade,noun,verb
  cascaded cascades cascading
-cascara
+cascara,noun
  cascaras
-case
+case,noun,verb
  cased cases casing -> [casing]
-casebook
+casebook,noun
  casebooks
-caseharden
+caseharden,verb
  casehardened casehardening casehardens
-casein
-caseload
+casein,noun
+caseload,noun
  caseloads
-casement
+casement,noun
  casements
-casework
-caseworker
+casework,noun
+caseworker,noun
  caseworkers
-cash
+cash,noun,verb
  cashed cashes cashing cashless
-cashback
-cashbook
+cashback,noun
+cashbook,noun
  cashbooks
-cashcard
+cashcard,noun
  cashcards
-cashew
+cashew,noun
  cashews
-cashflow
-cashier
+cashflow,noun
+cashier,noun,verb
  cashiered cashiering cashiers
-cashmere
-cashpoint
+cashmere,noun
+cashpoint,noun
  cashpoints
-cash-strapped
-casing -> [case]
+cash-strapped,adjective
+casing,noun
  casings
-casino
+casino,noun
  casinos cassino
-cask
+cask,noun
  casks
-casket
+casket,noun
  caskets
-cassava
+cassava,noun
  cassavas
-casserole
+casserole,noun,verb
  casseroled casseroles casseroling
-cassette
+cassette,noun
  cassettes
-cassia
+cassia,noun
  cassias
-cassock
+cassock,noun
  cassocks
-cassowary
+cassowary,noun
  cassowaries
-cast
+cast,verb,noun
  casting -> [casting] casts
-castanet
+castanet!
  castanets
-castaway
+castaway,noun
  castaways
-caste
+caste,noun
  castes
-castellated
-caster
+castellated,adjective
+caster,noun
  casters castor castors
-castigate
+castigate,verb
  castigated castigates castigating
-castigation
-castigator
+castigation,noun
+castigator,noun
  castigators
-casting -> [cast]
+casting,noun
  castings
-cast-iron
-castle
+cast-iron,noun
+castle,noun,verb
  castled castles castling
-castoff
+castoff,adjective,noun
  castoffs
-castrate
+castrate,verb,noun
  castrated castrates castrating
-castration
+castration,noun
  castrations
-casual
+casual,adjective,noun
  casually casualness casuals
-casualization
+casualization,noun
  casualisation
-casualty
+casualty,noun
  casualties
-casuist
+casuist,noun
  casuists
-casuistic
-casuistry
-cat
+casuistic,adjective
+casuistry,noun
+cat,abbreviation,noun,verb
  catlike cats
-cataclysm
+cataclysm,noun
  cataclysms
-cataclysmal
-cataclysmic
-catacomb
+cataclysmal,adjective
+cataclysmic,adjective
+catacomb,noun
  catacombs
-catafalque
+catafalque,noun
  catafalques
-catalepsy
-cataleptic
+catalepsy,noun
+cataleptic,adjective,noun
  cataleptics
-catalog
+catalog,noun,verb
  cataloged cataloging catalogs catalogue catalogued catalogues cataloguing
-cataloger
+cataloger,noun
  catalogers cataloguer cataloguers
-catalpa
+catalpa,noun
  catalpas
-catalysis
+catalysis,noun
  catalyses -> [catalyze]
-catalyst
+catalyst,noun
  catalysts
-catalytic
+catalytic,adjective
  catalytics
-catalyze
+catalyze,verb
  catalyse catalysed catalyses -> [catalysis] catalysing catalyzed catalyzes catalyzing
-catamaran
+catamaran,noun
  catamarans
-catapult
+catapult,noun,verb
  catapulted catapulting catapults
-cataract
+cataract,noun
  cataracts
-catarrh
-catastrophe
+catarrh,noun
+catastrophe,noun
  catastrophes
-catastrophic
+catastrophic,adjective
  catastrophically
-catatonia
-catatonic
+catatonia,noun
+catatonic,adjective
  catatonics
-catbird
+catbird,noun
  catbirds
-catboat
+catboat,noun
  catboats
-catcall
+catcall,noun,verb
  catcalled catcalling catcalls
-catch
+catch,verb,noun
  catches catching caught
-catchall
+catchall,noun
  catchalls
-catcher
+catcher,noun
  catchers
-catchment
+catchment,noun
  catchments
-catchpenny
-catchphrase
+catchpenny,adjective
+catchphrase,noun
  catchphrases
-catchword
+catchword,noun
  catchwords
-catchy
+catchy,adjective
  catchier catchiest
-catechism
+catechism,noun
  catechisms
-catechist
+catechist,noun
  catechists
-catechize
+catechize,verb
  catechise catechised catechises catechising catechized catechizes catechizing
-categoric
-categorical
+categoric,adjective
+categorical,adjective
  categorically
-categorization
+categorization,noun
  categorisation categorisations categorizations
-categorize
+categorize,verb
  categorise categorised categorises categorising categorized categorizes categorizing
-category
+category,noun
  categories
-cater
+cater,verb
  catered catering caters
-catercorner
-caterer
+catercorner!
+caterer,noun
  caterers
-caterpillar
+caterpillar,noun
  caterpillars
-caterwaul
+caterwaul,verb,noun
  caterwauled caterwauling caterwauls
-catfight
+catfight,noun
  catfights
-catfish
+catfish,noun,verb
  catfishes
-catgut
-catharsis
+catgut,noun
+catharsis,noun
  catharses
-cathartic
+cathartic,adjective,noun
  cathartics
-cathedral
+cathedral,noun
  cathedrals
-catheter
+catheter,noun
  catheters
-catheterize
+catheterize,verb
  catheterise catheterised catheterises catheterising catheterized catheterizes catheterizing
-cathode
+cathode,noun
  cathodes
-cathodic
-catholic
-catholicity
-cation
+cathodic,adjective
+catholic,adjective,noun
+catholicity,noun
+cation,noun
  cations
-catkin
+catkin,noun
  catkins
-catmint
-catnap
+catmint,noun
+catnap,noun,verb
  catnapped catnapping catnaps
-catnip
-catsuit
+catnip,noun
+catsuit,noun
  catsuits
-cattail
+cattail,noun
  cattails
-cattery
+cattery,noun
  catteries
-cattle
-cattleman
+cattle,pluralnoun
+cattleman,noun
  cattlemen
-catty
+catty,adjective,noun
  cattier cattiest cattily cattiness
-catwalk
+catwalk,noun
  catwalks
-caucus
+caucus,noun,verb
  caucused caucuses caucusing caucussed caucussing
-caudal
+caudal,adjective
  caudally
-cauldron
+cauldron,noun
  caldron caldrons cauldrons
-cauliflower
+cauliflower,noun
  cauliflowers
-caulk
+caulk,noun,verb
  calk calked calking calks caulked caulking caulks
-caulker
+caulker,noun
  calker calkers caulkers
-causal
+causal,adjective
  causally
-causality
+causality,noun
  causalities
-causation
-causative
-cause
+causation,noun
+causative,adjective,noun
+cause,noun,verb
  caused causeless causes causing cos -> [cos]
-causer
+causer,noun
  causers
-causerie
+causerie,noun
  causeries
-causeway
+causeway,noun
  causeways
-caustic
+caustic,adjective,noun
  caustically caustics
-causticity
-cauterization
+causticity,noun
+cauterization,noun
  cauterisation
-cauterize
+cauterize,verb
  cauterise cauterised cauterises cauterising cauterized cauterizes cauterizing
-caution
+caution,noun,verb
  cautioned cautioning cautions
-cautionary
-cautious
+cautionary,adjective
+cautious,adjective
  cautiously cautiousness
-cavalcade
+cavalcade,noun
  cavalcades
-cavalier
+cavalier,adjective,noun
  cavalierly cavaliers
-cavalry
+cavalry,noun
  cavalries
-cavalryman
+cavalryman,noun
  cavalrymen
-cave
+cave,exclamation,noun,verb
  caved caves caving
-caveat
+caveat,noun
  caveats
-caveman
+caveman,noun
  cavemen
-caver
+caver,noun
  cavers
-cavern
+cavern,noun
  caverns
-cavernous
+cavernous,adjective
  cavernously
-caviar
+caviar,noun
  caviare
-cavil
+cavil,verb,noun
  caviled caviling cavilled cavilling cavils
-caviler
+caviler,noun
  cavilers caviller cavillers
-cavity
+cavity,noun
  cavities
-cavort
+cavort,verb
  cavorted cavorting cavorts
-caw
+caw,noun,verb
  cawed cawing caws
-cay
+cay,noun
  cays
-cayenne
-cayman
+cayenne,noun,propernoun
+cayman,noun
  caymans
-cayuse
+cayuse,adjective,noun
  cayuses
-cease
+cease,verb
  ceased ceaseless ceaselessly ceaselessness ceases ceasing
-ceasefire
+ceasefire,noun
  ceasefires
-cecal
+cecal,adjective
  caecal
-cecum
+cecum,noun
  caeca caecum ceca
-cedar
+cedar,noun
  cedars
-cedarwood
-cede
+cedarwood!
+cede,verb
  ceded cedes ceding
-ceder
+ceder,verb
  ceders
-cedilla
+cedilla,noun
  cedillas
-ceilidh
+ceilidh,noun
  ceilidhs
-ceiling
+ceiling,noun
  ceilings
-celandine
-celeb
+celandine,noun
+celeb,noun
  celebs
-celebrant
+celebrant,noun
  celebrants
-celebrate
+celebrate,verb
  celebrated celebrates celebrating
-celebration
+celebration,noun
  celebrations
-celebrator
+celebrator,noun
  celebrators
-celebratory
-celebrity
+celebratory,adjective
+celebrity,noun
  celebrities
-celeriac
-celerity
-celery
-celesta
+celeriac,noun
+celerity,noun
+celery,noun
+celesta,noun
  celestas
-celestial
+celestial,adjective
  celestially
-celibacy
-celibate
+celibacy,noun
+celibate,adjective,noun
  celibates
-cell
+cell,noun
  celled cells
-cellar
+cellar,noun,verb
  cellars
-cellblock
+cellblock,noun
  cellblocks
-cellist
+cellist,noun
  cellists
-cellmate
+cellmate,noun
  cellmates
-cello
+cello,noun
  celli cellos
-cellophane
-cellphone
+cellophane,noun
+cellphone,noun
  cellphones
-cellular
-cellulite
-celluloid
-cellulose
-cement
+cellular,adjective
+cellulite,noun
+celluloid,noun
+cellulose,noun
+cement,noun,verb
  cemented cementing cements
-cementer
+cementer,noun
  cementers
-cementum
-cemetery
+cementum,noun,verb
+cemetery,noun
  cemeteries
-cenobite
+cenobite,noun
  cenobites coenobite coenobites
-cenobitic
+cenobitic,adjective
  coenobitic
-cenotaph
+cenotaph,noun
  cenotaphs
-censer
+censer,noun
  censers
-censor
+censor,noun,verb
  censored censoring censors
-censorial
-censorious
+censorial,adjective
+censorious,adjective
  censoriously censoriousness
-censorship
-censurable
-censure
+censorship,noun
+censurable,adjective
+censure,verb,noun
  censured censures censuring
-censurer
+censurer,noun
  censurers
-census
+census,noun
  censused censuses censusing
-cent
+cent,noun
  cents
-centaur
+centaur,noun
  centaurs
-centavo
+centavo,noun
  centavos
-centenarian
+centenarian,noun
  centenarians
-centenary
+centenary,adjective,noun
  centenaries
-centennial
+centennial,adjective,noun
  centennially centennials
-center
+center,noun,verb,propernoun
  centered centering centers centre centred centres centring
-centerboard
+centerboard,noun
  centerboards centreboard centreboards
-centerfold
+centerfold,noun
  centerfolds centrefold centrefolds
-centerpiece
+centerpiece,noun
  centerpieces centrepiece centrepieces
-centigrade
-centigram
+centigrade,adjective,noun
+centigram,noun
  centigramme centigrammes centigrams
-centiliter
+centiliter,noun
  centiliters centilitre centilitres
-centime
+centime,noun
  centimes
-centimeter
+centimeter,noun
  centimeters centimetre centimetres
-centipede
+centipede,noun
  centipedes
-central
+central,adjective,noun
  centrally centrals
-centralism
-centralist
-centrality
-centralization
+centralism,noun
+centralist,adjective,noun
+centrality,noun
+centralization,noun
  centralisation
-centralize
+centralize,verb
  centralise centralised centralises centralising centralized centralizes centralizing
-centralizer
+centralizer,noun
  centraliser centralisers centralizers
-centrifugal
+centrifugal,adjective
  centrifugally
-centrifuge
+centrifuge,noun,verb
  centrifuged centrifuges centrifuging
-centripetal
+centripetal,adjective
  centripetally
-centrism
-centrist
+centrism,noun
+centrist,adjective,noun
  centrists
-centurion
+centurion,noun
  centurions
-century
+century,noun
  centuries
-cephalic
-ceramic
+cephalic,adjective
+ceramic,adjective,noun
  ceramics
-ceramicist
+ceramicist,noun
  ceramicists
-ceramist
+ceramist,noun
  ceramists
-cereal
+cereal,noun
  cereals
-cerebellar
-cerebellum
+cerebellar,adjective
+cerebellum,noun
  cerebella cerebellums
-cerebral
-cerebrate
+cerebral,adjective
+cerebrate,verb
  cerebrated cerebrates cerebrating
-cerebration
-cerebrum
+cerebration,noun
+cerebrum,noun
  cerebra cerebrums
-cerement
+cerement,noun
  cerements
-ceremonial
+ceremonial,adjective,noun
  ceremonially ceremonials
-ceremonious
+ceremonious,adjective
  ceremoniously ceremoniousness
-ceremony
+ceremony,noun
  ceremonies
-cerise
-cerium
-cermet
-cert
+cerise,noun
+cerium,noun
+cermet,noun
+cert,noun
  certs
-certain
+certain,adjective,pronoun
  certainly
-certainty
+certainty,noun
  certainties
-certifiable
+certifiable,adjective
  certifiably
-certificate
+certificate,noun,verb
  certificated certificates certificating
-certification
+certification,noun
  certifications
-certify
+certify,verb
  certified certifies certifying
-certitude
+certitude,noun
  certitudes
-cerulean
-cervical
-cervix
+cerulean,adjective,noun
+cervical,adjective
+cervix,noun
  cervices cervixes
-cesarean
+cesarean,adjective,noun
  caesarean caesareans caesarian caesarians cesareans
-cesium
+cesium,noun
  caesium
-cessation
+cessation,noun
  cessations
-cession
+cession,noun
  cessions
-cesspit
+cesspit,noun
  cesspits
-cesspool
+cesspool,noun
  cesspools
-cetacean
+cetacean,adjective,noun
  cetaceans
-chador
+chador,noun
  chadors
-chafe
+chafe,verb,noun
  chafed chafes chafing
-chaff
+chaff,noun,verb
  chaffed chaffing chaffs
-chaffinch
+chaffinch,noun
  chaffinches
-chagrin
+chagrin,noun,verb
  chagrined chagrining chagrinned chagrinning chagrins
-chain
+chain,noun,verb
  chained chaining chains
-chainsaw
+chainsaw,noun
  chainsawed chainsawing chainsaws
-chair
+chair,noun,verb
  chaired chairing chairs
-chairlift
+chairlift,noun
  chairlifts
-chairman
+chairman,noun
  chairmen
-chairmanship
+chairmanship,noun
  chairmanships
-chairperson
+chairperson,noun
  chairpersons
-chairwoman
+chairwoman,noun
  chairwomen
-chaise
+chaise,noun
  chaises
-chakra
+chakra,noun
  chakras
-chalcedony
-chalet
+chalcedony,noun
+chalet,noun
  chalets
-chalice
+chalice,noun
  chalices
-chalk
+chalk,noun,verb
  chalked chalking chalks
-chalkboard
+chalkboard,noun
  chalkboards
-chalky
+chalky,adjective
  chalkier chalkiest chalkiness
-challenge
+challenge,noun,verb
  challenged challenges challenging
-challenger
+challenger,noun
  challengers
-challis
-chamber
+challis,noun
+chamber,noun,verb
  chambered chambers
-chamberlain
+chamberlain,noun
  chamberlains
-chambermaid
+chambermaid,noun
  chambermaids
-chambray
-chameleon
+chambray,noun
+chameleon,noun
  chameleons
-chamois
+chamois,noun
  chammies chammy chamoix shammies shammy
-chamomile
+chamomile,noun
  camomile camomiles chamomiles
-champ
+champ,verb,noun
  champed champing champs
-champagne
+champagne,noun,propernoun
  champagnes
-champers
-champion
+champers,noun
+champion,adjective,noun,verb
  championed championing champions
-championship
+championship,noun
  championships
-chance
+chance,adjective,noun,verb
  chanced chances chancing
-chancel
+chancel,noun
  chancels
-chancellery
+chancellery,noun
  chancelleries
-chancellor
+chancellor,noun
  chancellors
-chancellorship
-chancer
+chancellorship,noun
+chancer,noun
  chancers
-chancery
+chancery,noun
  chanceries
-chancre
+chancre,noun
  chancres
-chancy
+chancy,adjective
  chancier chanciest chanciness
-chandelier
+chandelier,noun
  chandeliers
-chandler
+chandler,noun
  chandlers
-change
+change,verb,noun
  changed changeless changelessly changes changing
-changeable
+changeable,adjective
  changeability changeableness changeably
-changeling
+changeling,noun
  changelings
-changeover
+changeover,noun
  changeovers
-changer
+changer,noun
  changers
-channel
+channel,noun,verb
  channeled channeling channelled channelling channels
-channelization
+channelization,noun
  channelisation
-channelize
+channelize,verb
  channelise channelised channelises channelising channelized channelizes channelizing
-chanson
+chanson,noun
  chansons
-chant
+chant,noun,verb
  chanted chanting chants
-chanter
+chanter,noun
  chanters
-chanteuse
+chanteuse,noun
  chanteuses
-chantey
+chantey,noun
  chanteys chanties chanty shanties -> [shanty] shanty -> [shanty]
-chanticleer
+chanticleer,noun
  chanticleers
-chaos
-chaotic
+chaos,noun
+chaotic,adjective
  chaotically
-chap
+chap,verb,noun
  chapped chapping chaps chapt
-chaparral
+chaparral,noun
  chaparrals
-chapati
+chapati,noun
  chapatis chapatti chapattis
-chapbook
+chapbook,noun
  chapbooks
-chapeau
+chapeau,noun
  chapeaus chapeaux
-chapel
+chapel,adjective,noun
  chapels
-chaperon
+chaperon,noun,verb
  chaperone chaperoned chaperones chaperoning chaperons
-chaperonage
-chaplain
+chaperonage,noun
+chaplain,noun
  chaplains
-chaplaincy
+chaplaincy,noun
  chaplaincies
-chaplet
+chaplet,noun
  chaplets
-chappy
+chappy!
  chappies
-chapter
+chapter,noun
  chapters
-char
+char,verb,noun
  charred charring chars
-charabanc
+charabanc,noun
  charabancs
-character
+character,noun,verb
  characterful characterless characters
-characteristic
+characteristic,adjective,noun
  characteristically characteristics
-characterization
+characterization,noun
  characterisation characterisations characterizations
-characterize
+characterize,verb
  characterise characterised characterises characterising characterized characterizes characterizing
-charade
+charade,noun
  charades
-charbroil
+charbroil,verb
  charbroiled charbroiling charbroils
-charcoal
+charcoal,noun
  charcoals
-chard
-chardonnay
+chard,noun
+chardonnay,noun
  chardonnays
-charge
+charge,verb,noun
  charged charges charging
-chargeable
-chargecard
+chargeable,adjective
+chargecard!
  chargecards
-charger
+charger,noun
  chargers
-chargesheet
+chargesheet,noun,verb
  chargesheeted chargesheeting chargesheets
-chargrill
+chargrill,verb,noun
  chargrilled chargrilling chargrills
-chariot
+chariot,noun,verb
  chariots
-charioteer
+charioteer,noun
  charioteers
-charisma
-charismatic
+charisma,noun
+charismatic,adjective,noun
  charismatics
-charitable
+charitable,adjective
  charitableness charitably
-charity
+charity,noun
  charities
-charlady
+charlady,noun
  charladies
-charlatan
+charlatan,noun
  charlatans
-charlatanism
-charlatanry
-charlie
+charlatanism,noun
+charlatanry,noun
+charlie,noun
  charlies
-charm
+charm,noun,verb
  charmed charming charmingly charmless charms
-charmer
+charmer,noun
  charmers
-chart
+chart,noun,verb
  charted charting charts
-charter
+charter,noun,verb
  chartered chartering charters
-charterer
+charterer,noun
  charterers
-chartreuse
-charwoman
+chartreuse,noun
+charwoman,noun
  charwomen
-chary
+chary,adjective
  charier chariest charily chariness
-chase
+chase,verb,noun
  chased chases chasing
-chaser
+chaser,noun
  chasers
-chasm
+chasm,noun
  chasms
-chassis
-chaste
+chassis,noun
+chaste,adjective
  chastely chasteness chaster chastest
-chasten
+chasten,verb
  chastened chastening chastens
-chastise
+chastise,verb
  chastised chastises chastising
-chastisement
+chastisement,noun
  chastisements
-chastiser
+chastiser,noun
  chastisers
-chastity
-chasuble
+chastity,noun
+chasuble,noun
  chasubles
-chat
+chat,verb,noun
  chats chatted chatting
-chateau
+chateau,noun
  chateaus chateaux
-chatelaine
+chatelaine,noun
  chatelaines
-chatline
+chatline,noun
  chatlines
-chattel
+chattel,noun
  chattels
-chatter
+chatter,verb,noun
  chattered chattering chatters
-chatterbox
+chatterbox,noun
  chatterboxes
-chatterer
+chatterer,noun
  chatterers
-chatty
+chatty,adjective
  chattier chattiest chattily chattiness
-chauffeur
+chauffeur,noun,verb
  chauffeured chauffeuring chauffeurs
-chauvinism
-chauvinist
+chauvinism,noun
+chauvinist,adjective,noun
  chauvinists
-chauvinistic
+chauvinistic,adjective
  chauvinistically
-chav
+chav,noun
  chavs
-cheap
+cheap,adverb,adjective
  cheaper cheapest cheaply cheapness
-cheapen
+cheapen,verb
  cheapened cheapening cheapens
-cheapo
-cheapskate
+cheapo,adjective,noun
+cheapskate,noun
  cheapskates
-cheat
+cheat,verb,noun
  cheated cheating cheats
-cheater
+cheater,noun
  cheaters
-check
+check,exclamation,adjective,verb,noun
  checked checking checks cheque cheques
-checkbook
+checkbook,noun
  checkbooks chequebook chequebooks
-checkbox
+checkbox,noun
  checkboxes
-checker
+checker,verb,noun,noun
  checkered -> [checkered] checkering checkers chequer chequers
-checkerboard
+checkerboard,noun
  checkerboards chequerboard chequerboards
-checkered -> [checker]
+checkered,adjective
  chequered
-checklist
+checklist,noun
  checklists
-checkmate
+checkmate,noun,verb
  checkmated checkmates checkmating
-checkoff
+checkoff!
  checkoffs
-checkout
+checkout,noun
  checkouts
-checkpoint
+checkpoint,noun
  checkpoints
-checkroom
+checkroom,noun
  checkrooms
-checkup
+checkup,noun
  checkups
-cheddar
+cheddar,noun
  cheddars
-cheek
+cheek,noun,verb
  cheeked cheeking cheeks
-cheekbone
+cheekbone,noun
  cheekbones
-cheeky
+cheeky,adjective
  cheekier cheekiest cheekily cheekiness
-cheep
+cheep,noun,verb
  cheeped cheeping cheeps
-cheer
+cheer,verb,noun
  cheered cheerful cheerfuller cheerfullest cheerfully cheerfulness cheering cheerless cheerlessly cheerlessness cheers
-cheerer
+cheerer,noun
  cheerers
-cheerio
+cheerio,exclamation
  cheerios
-cheerleader
+cheerleader,noun
  cheerleaders
-cheerleading
-cheery
+cheerleading,adjective,noun
+cheery,adjective
  cheerier cheeriest cheerily cheeriness
-cheese
+cheese,noun,verb
  cheeses
-cheeseboard
+cheeseboard,noun
  cheeseboards
-cheeseburger
+cheeseburger,noun
  cheeseburgers
-cheesecake
+cheesecake,noun
  cheesecakes
-cheesecloth
-cheeseparing
-cheesesteak
+cheesecloth,noun
+cheeseparing,adjective,noun
+cheesesteak,noun
  cheesesteaks
-cheesy
+cheesy,adjective
  cheesier cheesiest cheesiness
-cheetah
+cheetah,noun
  cheetahs
-chef
+chef,noun,verb
  chefs
-chemical
+chemical,adjective,noun
  chemically chemicals
-chemise
+chemise,noun
  chemises
-chemist
+chemist,noun
  chemists
-chemistry
-chemo
-chemotherapeutic
-chemotherapy
-chemurgy
-chenille
-cheongsam
+chemistry,noun
+chemo,noun
+chemotherapeutic,adjective,noun
+chemotherapy,noun
+chemurgy,noun
+chenille,noun
+cheongsam,noun
  cheongsams
-cherish
+cherish,verb
  cherished cherishes cherishing
-cheroot
+cheroot,noun
  cheroots
-cherry
+cherry,noun
  cherries
-cherrypick
+cherrypick,verb
  cherrypicked cherrypicking cherrypicks
-chert
-cherub
+chert,noun
+cherub,noun
  cherubim cherubims cherubs
-cherubic
-chervil
-chess
-chessboard
+cherubic,adjective
+chervil,noun
+chess,noun
+chessboard,noun
  chessboards
-chessman
+chessman,noun
  chessmen
-chest
+chest,noun,verb
  chested chestful chestfuls chests
-chesterfield
+chesterfield,noun,propernoun
  chesterfields
-chestnut
+chestnut,noun
  chestnuts
-chesty
+chesty,adjective
  chestier chestiest
-chevalier
+chevalier,noun
  chevaliers
-cheviot
-chevron
+cheviot,noun
+chevron,noun
  chevrons
-chew
+chew,verb,noun
  chewed chewing chews
-chewer
+chewer,noun
  chewers
-chewy
+chewy,adjective,noun
  chewier chewiest chewiness
-chi
+chi,noun
  chis
-chiaroscuro
-chic
+chiaroscuro,noun
+chic,adjective,noun
  chicer chicest chicness
-chicane
+chicane,noun,verb
  chicanes
-chicanery
+chicanery,noun
  chicaneries
-chichi
+chichi,adjective,noun
  chichis
-chick
+chick,noun
  chicks
-chickadee
+chickadee,noun
  chickadees
-chicken
+chicken,adjective,noun,verb
  chickened chickening chickens
-chickenfeed
-chickenhearted
-chickenpox
-chickenshit
+chickenfeed!
+chickenhearted,adjective
+chickenpox,noun
+chickenshit,adjective,noun
  chickenshits
-chickpea
+chickpea,noun
  chickpeas
-chickweed
-chicle
-chicory
+chickweed,noun
+chicle,noun
+chicory,noun
  chicories
-chide
+chide,verb
  chid chidden chided chides chiding chidingly
-chief
+chief,adjective,noun
  chiefer chiefest chiefly chiefs
-chiefdom
-chieftain
+chiefdom,noun
+chieftain,noun
  chieftains
-chieftainship
+chieftainship,noun
  chieftainships
-chiffon
-chiffonier
+chiffon,noun
+chiffonier,noun
  chiffoniers
-chigger
+chigger,noun
  chiggers
-chignon
+chignon,noun
  chignons
-chihuahua
+chihuahua,noun,propernoun
  chihuahuas
-chilblain
+chilblain,noun
  chilblains
-child
+child,noun
  childish childishly childishness childless childlessness childlike children
-childbearing
-childbirth
+childbearing,noun
+childbirth,noun
  childbirths
-childcare
-childhood
+childcare,noun
+childhood,noun
  childhoods
-childminder
+childminder,noun
  childminders
-childminding
-childproof
+childminding,noun
+childproof,adjective,verb
  childproofed childproofing childproofs
-chili
+chili,noun
  chile chiles chilies chilis chilli chillies chillis
-chill
+chill,adjective,noun,verb
  chilled chiller -> [chiller] chillest chilling chillingly chillness chills
-chillax
+chillax,verb
  chillaxed chillaxes chillaxing
-chiller -> [chill]
+chiller,noun
  chillers
-chillout
-chilly
+chillout,adjective
+chilly,adjective
  chillier chilliest chilliness
-chime
+chime,noun,verb
  chimed chimes chiming
-chimer
+chimer,noun
  chimers
-chimera
+chimera,noun
  chimaera chimaeras chimeras
-chimeric
-chimerical
-chimney
+chimeric,adjective
+chimerical,adjective
+chimney,noun
  chimneys
-chimneypiece
+chimneypiece,noun
  chimneypieces
-chimp
+chimp,noun
  chimps
-chimpanzee
+chimpanzee,noun
  chimpanzees
-chin
+chin,adjective,noun,verb,propernoun
  chinless chinned chinning chins
-china
-chinaware
-chinchilla
+china,noun,propernoun
+chinaware,noun
+chinchilla,noun
  chinchillas
-chine
+chine,noun,verb
  chines
-chink
+chink,noun,verb
  chinked chinking chinks
-chino
+chino,noun
  chinos
-chinstrap
+chinstrap,noun
  chinstraps
-chintz
+chintz,noun
  chintzes
-chintzy
+chintzy,adjective
  chintzier chintziest
-chinwag
+chinwag,noun,verb
  chinwags
-chip
+chip,noun,verb
  chipped chipping -> [chipping] chips
-chipboard
-chipmunk
+chipboard,noun
+chipmunk,noun
  chipmunks
-chipolata
+chipolata,noun
  chipolatas
-chipper
+chipper,adjective,noun
  chippers
-chipping -> [chip]
+chipping,noun
  chippings
-chippy
+chippy,adjective,noun
  chippie chippies
-chirography
-chiropodist
+chirography,noun
+chiropodist,noun
  chiropodists
-chiropody
-chiropractic
+chiropody,noun
+chiropractic,noun
  chiropractics
-chiropractor
+chiropractor,noun
  chiropractors
-chirp
+chirp,verb,noun
  chirped chirping chirps chirrup chirruped chirruping chirrupped chirrupping chirrups
-chirpy
+chirpy,adjective
  chirpier chirpiest chirpily chirpiness
-chisel
+chisel,noun,verb
  chiseled chiseling chiselled chiselling chisels
-chiseler
+chiseler,noun
  chiselers chiseller chisellers
-chit
+chit,noun,verb
  chits
-chitchat
+chitchat,noun,verb
  chitchats chitchatted chitchatting
-chitin
-chitinous
-chitterlings
+chitin,noun
+chitinous,adjective
+chitterlings,pluralnoun
  chitlings chitlins
-chivalrous
+chivalrous,adjective
  chivalrously chivalrousness
-chivalry
-chive
+chivalry,noun
+chive,pluralnoun
  chives
-chivvy
+chivvy,verb
  chivied chivies chivvied chivvies chivvying chivy chivying
-chlamydia
+chlamydia,noun
  chlamydiae chlamydias
-chloral
-chlordane
-chloride
+chloral,noun
+chlordane,noun
+chloride,noun
  chlorides
-chlorinate
+chlorinate,verb
  chlorinated chlorinates chlorinating
-chlorination
-chlorine
-chlorofluorocarbon
+chlorination,noun
+chlorine,noun
+chlorofluorocarbon,noun
  chlorofluorocarbons
-chloroform
+chloroform,noun,verb
  chloroformed chloroforming chloroforms
-chlorophyll
+chlorophyll,noun
  chlorophyl
-chloroplast
+chloroplast,noun
  chloroplasts
-choc
+choc,noun
  chocs
-chock
+chock,noun,verb
  chocked chocking chocks
-chockablock
-chocoholic
+chockablock,adjective
+chocoholic,noun
  chocaholic chocaholics chocoholics
-chocolate
+chocolate,noun
  chocolates
-chocolatier
+chocolatier,noun
  chocolatiers
-chocolaty
+chocolaty,adjective
  chocolatey
-choice
+choice,adjective,noun
  choicer choices choicest
-choir
+choir,noun
  choirs
-choirboy
+choirboy,noun
  choirboys
-choirmaster
+choirmaster,noun
  choirmasters
-choke
+choke,verb,noun
  choked chokes choking
-chokecherry
+chokecherry,noun
  chokecherries
-choker
+choker,noun
  chokers
-choler
-cholera
-choleric
-cholesterol
-chomp
+choler,noun
+cholera,noun
+choleric,adjective
+cholesterol,noun
+chomp,verb,noun
  chomped chomping chomps
-chook
+chook,noun
  chooks
-choose
+choose,verb
  chooses choosing chose chosen
-chooser
+chooser,noun
  choosers
-choosy
+choosy,adjective
  choosey choosier choosiest choosiness
-chop
+chop,verb,noun
  chopped chopping chops
-chophouse
+chophouse,noun
  chophouses
-chopper
+chopper,noun
  choppered choppering choppers
-choppy
+choppy,adjective
  choppier choppiest choppily choppiness
-chopstick
+chopstick,noun
  chopsticks
-choral
+choral,adjective
  chorally chorals
-chorale
+chorale,noun
  chorales
-chord
+chord,noun,verb
  chords
-chordal
-chordate
+chordal,adjective
+chordate,adjective,noun
  chordates
-chore
+chore,noun
  chores
-chorea
-choreograph
+chorea,noun
+choreograph,verb
  choreographed choreographing choreographs
-choreographer
+choreographer,noun
  choreographers
-choreographic
+choreographic,adjective
  choreographically
-choreography
-chorister
+choreography,noun
+chorister,noun
  choristers
-chorizo
+chorizo,noun
  chorizos
-choroid
+choroid,adjective,noun
  choroids
-chortle
+chortle,verb,noun
  chortled chortles chortling
-chortler
+chortler,verb,noun
  chortlers
-chorus
+chorus,noun,verb
  chorused choruses chorusing chorussed chorussing
-chow
+chow,noun,verb
  chowed chowing chows
-chowder
+chowder,noun
  chowders
-chrism
-christen
+chrism,noun
+christen,verb
  christened christening -> [christening] christens
-christening -> [christen]
+christening,noun
  christenings
-christian
-chromatic
+christian,adjective,noun
+chromatic,adjective
  chromatically
-chromatin
-chromatography
-chrome
+chromatin,noun
+chromatography,noun
+chrome,noun
  chromed chromes chroming
-chromium
-chromosomal
-chromosome
+chromium,noun
+chromosomal,adjective
+chromosome,noun
  chromosomes
-chronic
+chronic,adjective
  chronically
-chronicle
+chronicle,noun,verb
  chronicled chronicles chronicling
-chronicler
+chronicler,noun
  chroniclers
-chronograph
+chronograph,noun
  chronographs
-chronological
+chronological,adjective
  chronologically
-chronologist
+chronologist,noun
  chronologists
-chronology
+chronology,noun
  chronologies
-chronometer
+chronometer,noun
  chronometers
-chrysalis
+chrysalis,noun
  chrysalides chrysalises
-chrysanthemum
+chrysanthemum,noun
  chrysanthemums
-chub
+chub,noun
  chubs
-chubby
+chubby,adjective
  chubbier chubbiest chubbiness
-chuck
+chuck,verb,noun
  chucked chucking chucks
-chuckhole
+chuckhole,noun
  chuckholes
-chuckle
+chuckle,verb,noun
  chuckled chuckles chuckling
-chuffed
-chug
+chuffed,adjective
+chug,verb,noun
  chugged chugging chugs
-chugalug
+chugalug,verb,noun
  chugalugged chugalugging chugalugs
-chukka
+chukka,noun
  chukkas
-chum
+chum,noun,verb
  chummed chumming chums
-chummy
+chummy,adjective
  chummier chummiest chummily chumminess
-chump
+chump,noun
  chumps
-chunder
+chunder,verb,noun
  chundered chundering chunders
-chunk
+chunk,noun,verb
  chunks
-chunky
+chunky,adjective
  chunkier chunkiest chunkiness
-chunter
+chunter,verb
  chuntered chuntering chunters
-church
+church,noun,verb
  churches
-churchgoer
+churchgoer,noun
  churchgoers
-churchgoing
-churchman
+churchgoing,noun,adjective
+churchman,noun
  churchmen
-churchwarden
+churchwarden,noun
  churchwardens
-churchwoman
+churchwoman,noun
  churchwomen
-churchy
-churchyard
+churchy,adjective
+churchyard,noun
  churchyards
-churl
+churl,noun
  churlish churlishly churlishness churls
-churn
+churn,noun,verb
  churned churning churns
-churner
+churner,noun,verb
  churners
-chute
+chute,noun
  chutes
-chutney
+chutney,noun
  chutneys
-chutzpah
+chutzpah,noun
  chutzpa hutzpa hutzpah
-chyme
-ciabatta
+chyme,noun
+ciabatta,noun
  ciabattas
-ciao
-cicada
+ciao,exclamation
+cicada,noun
  cicadae cicadas
-cicatrix
+cicatrix,noun
  cicatrice cicatrices cicatrixes
-cicerone
+cicerone,noun
  cicerones ciceroni
-cider
+cider,noun
  ciders cyder cyders
-cigar
+cigar,noun
  cigars
-cigarette
+cigarette,noun
  cigaret cigarets cigarettes
-cigarillo
+cigarillo,noun
  cigarillos
-ciggy
+ciggy,noun
  ciggie ciggies
-cilantro
-cilium
+cilantro,noun
+cilium,noun
  cilia
-cinch
+cinch,noun,verb
  cinched cinches cinching
-cinchona
+cinchona,noun
  cinchonas
-cincture
+cincture,noun
  cinctures
-cinder
+cinder,noun
  cindered cindering cinders
-cinderblock
+cinderblock,noun
  cinderblocks
-cine
-cinema
+cine,adjective
+cinema,noun
  cinemas
-cinematic
-cinematographer
+cinematic,adjective
+cinematographer,noun
  cinematographers
-cinematographic
-cinematography
-cinnabar
-cinnamon
-cipher
+cinematographic,adjective
+cinematography,noun
+cinnabar,noun
+cinnamon,noun
+cipher,noun,verb
  ciphered ciphering ciphers cypher cyphered cyphering cyphers
-circa
-circadian
-circle
+circa,preposition
+circadian,adjective
+circle,noun,verb
  circled circles circling
-circlet
+circlet,noun
  circlets
-circuit
+circuit,noun,verb
  circuited circuiting circuits
-circuital
-circuitous
+circuital,noun,verb
+circuitous,adjective
  circuitously circuitousness
-circuitry
-circuity
-circular
+circuitry,noun
+circuity!
+circular,adjective,noun
  circularly circulars
-circularity
-circularize
+circularity,noun
+circularize,verb
  circularise circularised circularises circularising circularized circularizes circularizing
-circulate
+circulate,verb
  circulated circulates circulating
-circulation
+circulation,noun
  circulations
-circulatory
-circumcise
+circulatory,adjective
+circumcise,verb
  circumcised circumcises circumcising
-circumcision
+circumcision,noun
  circumcisions
-circumference
+circumference,noun
  circumferences
-circumferential
-circumflex
+circumferential,adjective
+circumflex,adjective,noun
  circumflexes
-circumlocution
+circumlocution,noun
  circumlocutions
-circumlocutory
-circumnavigate
+circumlocutory,adjective
+circumnavigate,verb
  circumnavigated circumnavigates circumnavigating
-circumnavigation
+circumnavigation,noun
  circumnavigations
-circumpolar
-circumscribe
+circumpolar,adjective
+circumscribe,verb
  circumscribed circumscribes circumscribing
-circumscription
+circumscription,noun
  circumscriptions
-circumspect
+circumspect,adjective
  circumspectly
-circumspection
-circumstance
+circumspection,noun
+circumstance,noun
  circumstanced circumstances circumstancing
-circumstantial
+circumstantial,adjective
  circumstantially
-circumvent
+circumvent,verb
  circumvented circumventing circumvents
-circumvention
-circus
+circumvention,noun
+circus,noun
  circuses
-cirque
+cirque,noun
  cirques
-cirrhosis
-cirrhotic
+cirrhosis,noun
+cirrhotic,adjective
  cirrhotics
-cirrus
-cistern
+cirrus,noun
+cistern,noun
  cisterns
-citadel
+citadel,noun
  citadels
-citation
+citation,noun
  citations
-cite
+cite,verb,noun
  cited cites citing
-citified
-citizen
+citified,adjective
+citizen,noun
  citizens
-citizenry
-citizenship
-citric
-citron
+citizenry,noun
+citizenship,noun
+citric,adjective
+citron,noun
  citrons
-citronella
-citrous
-citrus
+citronella,noun
+citrous,adjective
+citrus,noun
  citruses
-city
+city,noun
  cities
-cityscape
+cityscape,noun
  cityscapes
-city-state
+city-state,noun
  city-states
-citywide
-civet
+citywide,adjective,adverb
+civet,noun
  civets
-civic
+civic,adjective
  civically civics
-civil
+civil,adjective
  civilly
-civilian
+civilian,adjective,noun
  civilians
-civility
+civility,noun
  civilities
-civilization
+civilization,noun
  civilisation civilisations civilizations
-civilize
+civilize,verb
  civilise civilised civilises civilising civilized civilizes civilizing
-civvies
+civvies,adjective,noun
  civies
-clack
+clack,verb,noun
  clacked clacking clacks
-cladding
-claim
+cladding,noun
+claim,verb,noun
  claimed claiming claims
-claimable
-claimant
+claimable,adjective
+claimant,noun
  claimants
-claimer
+claimer,noun
  claimers
-clairvoyance
-clairvoyant
+clairvoyance,noun
+clairvoyant,adjective,noun
  clairvoyants
-clam
+clam,noun,verb
  clammed clamming clams
-clambake
+clambake,noun
  clambakes
-clamber
+clamber,verb,noun
  clambered clambering clambers
-clamberer
+clamberer,verb,noun
  clamberers
-clammy
+clammy,adjective
  clammier clammiest clammily clamminess
-clamor
+clamor,noun,verb
  clamored clamoring clamors clamour clamoured clamouring clamours
-clamorous
-clamp
+clamorous,adjective
+clamp,noun,verb
  clamped clamping clamps
-clampdown
+clampdown,noun
  clampdowns
-clan
+clan,noun
  clannish clannishness clans
-clandestine
+clandestine,adjective
  clandestinely
-clang
+clang,noun,verb
  clanged clanging clangs
-clanger
+clanger,noun
  clangers
-clangor
+clangor,noun
  clangour
-clangorous
+clangorous,adjective
  clangorously
-clank
+clank,noun,verb
  clanked clanking clanks
-clansman
+clansman,noun
  clansmen
-clanswoman
+clanswoman,noun
  clanswomen
-clap
+clap,verb,noun
  clapped clapping claps
-clapboard
+clapboard,noun
  clapboarded clapboarding clapboards
-clapper
+clapper,noun
  clappers
-clapperboard
+clapperboard,noun
  clapperboards
-claptrap
-claque
+claptrap,noun
+claque,noun
  claques
-claret
+claret,noun
  clarets
-clarification
+clarification,noun
  clarifications
-clarify
+clarify,verb
  clarified clarifies clarifying
-clarinet
+clarinet,noun
  clarinets
-clarinetist
+clarinetist,noun
  clarinetists clarinettist clarinettists
-clarion
+clarion,adjective,noun
  clarions
-clarity
-clash
+clarity,noun
+clash,noun,verb
  clashed clashes clashing
-clasp
+clasp,verb,noun
  clasped clasping clasps
-class
+class,adjective,noun,verb
  classed classes classing classless classlessness
-class-action
-classic
+class-action,noun
+classic,adjective,noun
  classics
-classical
+classical,adjective
  classically
-classicism
-classicist
+classicism,noun
+classicist,noun
  classicists
-classifiable
-classification
+classifiable,adjective
+classification,noun
  classifications
-classified -> [classify]
+classified,adjective,noun
  classifieds
-classifier
+classifier,noun
  classifiers
-classify
+classify,verb
  classified -> [classified] classifies classifying
-classmate
+classmate,noun
  classmates
-classroom
+classroom,noun
  classrooms
-classwork
-classy
+classwork,noun
+classy,adjective
  classier classiest classiness
-clatter
+clatter,noun,verb
  clattered clattering clatters
-clausal
-clause
+clausal,adjective
+clause,noun
  clauses
-claustrophobia
-claustrophobic
+claustrophobia,noun
+claustrophobic,adjective,noun
  claustrophobics
-clavichord
+clavichord,noun
  clavichords
-clavicle
+clavicle,noun
  clavicles
-clavier
+clavier,noun
  claviers
-claw
+claw,noun,verb
  clawed clawing claws
-clay
+clay,noun
  clays
-clayey
+clayey,adjective
  clayier clayiest
-clean
+clean,adverb,adjective,verb,noun
  cleaned cleaner -> [cleaner] cleanest cleaning -> [cleaning] cleanlier cleanliest cleanliness cleanly cleanness cleans
-cleanable
-clean-cut
-cleaner -> [clean]
+cleanable,adjective
+clean-cut,adjective
+cleaner,noun
  cleaners
-cleaning -> [clean]
+cleaning,adverb,adjective,verb,noun
  cleanings
-cleanse
+cleanse,verb,noun
  cleansed cleanses cleansing
-cleanser
+cleanser,noun
  cleansers
-clean-shaven
-cleanup
+clean-shaven,adjective
+cleanup,noun
  cleanups
-clear
+clear,adverb,adjective,verb
  cleared clearer clearest clearing -> [clearing] clearly clearness clears
-clearance
+clearance,noun
  clearances
-clear-cut
-clearheaded
-clearing -> [clear]
+clear-cut,adjective,verb
+clearheaded,adjective
+clearing,noun
  clearings
-clearinghouse
+clearinghouse,noun
  clearinghouses
-clearout
+clearout,noun
  clearouts
-clearway
+clearway,noun
  clearways
-cleat
+cleat,noun
  cleats
-cleavage
+cleavage,noun
  cleavages
-cleave
+cleave,verb
  cleaved cleaves cleaving cleft -> [cleft] clove -> [clove] cloven
-cleaver
+cleaver,noun
  cleavers
-clef
+clef,noun
  clefs
-cleft -> [cleave]
+cleft,adjective,verb,noun
  clefts
-clematis
+clematis,noun
  clematises
-clemency
-clement
+clemency,noun
+clement,adjective
  clemently
-clementine
+clementine,noun
  clementines
-clench
+clench,verb,noun
  clenched clenches clenching
-clerestory
+clerestory,noun
  clerestories
-clergy
+clergy,noun
  clergies
-clergyman
+clergyman,noun
  clergymen
-clergywoman
+clergywoman,noun
  clergywomen
-cleric
+cleric,noun
  clerics
-clerical
+clerical,adjective
  clerically
-clericalism
-clerk
+clericalism,noun
+clerk,noun,verb
  clerked clerking clerks
-clerkship
-clever
+clerkship,noun
+clever,adjective
  cleverer cleverest cleverly cleverness
-clevis
+clevis,noun
  clevises
-clew
+clew,noun,verb
  clewed clewing clews
-cliche
+cliche,noun
  cliched cliches
-click
+click,noun,verb
  clicked clicking clicks
-clickable
-clicker
+clickable,adjective
+clicker,noun
  clickers
-clickstream
+clickstream,noun
  clickstreams
-client
+client,noun
  clients
-clientele
+clientele,noun
  clienteles
-client-server
-cliff
+client-server,adjective
+cliff,noun
  cliffs
-cliffhanger
+cliffhanger,noun
  cliffhangers
-cliffhanging
-clifftop
+cliffhanging,adjective
+clifftop,noun
  clifftops
-climacteric
-climactic
-climate
+climacteric,adjective,noun
+climactic,adjective
+climate,noun
  climates
-climatic
+climatic,adjective
  climatically
-climatologist
+climatologist,noun
  climatologists
-climatology
-climax
+climatology,noun
+climax,noun,verb
  climaxed climaxes climaxing
-climb
+climb,verb,noun
  climbed climbing climbs
-climbable
-climbdown
+climbable,adjective
+climbdown,noun
  climbdowns
-climber
+climber,noun
  climbers
-clime
+clime,noun
  climes
-clinch
+clinch,verb,noun
  clinched clinches clinching
-clincher
+clincher,noun
  clinchers
-cling
+cling,verb,noun
  clinging clings clung
-clinger
+clinger,noun
  clingers
-clingfilm
-clingy
+clingfilm,noun
+clingy,adjective
  clingier clingiest
-clinic
+clinic,noun
  clinics
-clinical
+clinical,adjective
  clinically
-clinician
+clinician,noun
  clinicians
-clink
+clink,noun,verb
  clinked clinking clinks
-clinker
+clinker,noun
  clinkers
-cliometric
+cliometric,adjective
  cliometrics
-cliometrician
+cliometrician,noun
  cliometricians
-clip
+clip,noun,verb
  clipped clipping -> [clipping] clips clipt
-clipboard
+clipboard,noun
  clipboards
-clipper
+clipper,noun
  clippers
-clipping -> [clip]
+clipping,noun
  clippings
-clique
+clique,noun
  cliques cliquish cliquishly cliquishness
-cliquey
+cliquey,adjective
  cliquier cliquiest
-clit
+clit,abbreviation,noun
  clits
-clitoral
-clitoris
+clitoral,adjective
+clitoris,noun
  clitorides clitorises
-cloaca
+cloaca,noun
  cloacae cloacas
-cloak
+cloak,noun,verb
  cloaked cloaking cloaks
-cloakroom
+cloakroom,noun
  cloakrooms
-clobber
+clobber,verb,noun
  clobbered clobbering clobbers
-cloche
+cloche,noun
  cloches
-clock
+clock,noun,verb
  clocked clocking clocks
-clockwise
-clockwork
+clockwise,adjective,adverb
+clockwork,adjective,noun
  clockworks
-clod
+clod,noun
  cloddish clods
-clodhopper
+clodhopper,noun
  clodhoppers
-clog
+clog,noun,verb
  clogged clogging clogs
-cloisonne
-cloister
+cloisonne,noun
+cloister,noun,verb
  cloistered cloistering cloisters
-cloistral
-clomp
+cloistral,adjective
+clomp,verb,noun
  clomped clomping clomps
-clonal
-clone
+clonal,adjective
+clone,noun,verb
  cloned clones cloning
-clonk
+clonk,noun,verb
  clonked clonking clonks
-clop
+clop,noun,verb
  clopped clopping clops
-close
+close,adverb,adjective,noun,verb
  closed closely closeness closer closes closest closing -> [closing]
-closed-circuit
-closedown
+closed-circuit,noun
+closedown,noun
  closedowns
-closefisted
-close-knit
-closemouthed
-closeout
+closefisted,adjective
+close-knit,adjective
+closemouthed,adjective
+closeout,noun
  closeouts
-closet
+closet,adjective,noun,verb
  closeted closeting closets
-closeup
+closeup,noun
  closeups
-closing -> [close]
+closing,adverb,adjective,noun,verb
  closings
-closure
+closure,noun,verb
  closures
-clot
+clot,noun,verb
  clots clotted clotting
-cloth
+cloth,noun
  cloths
-clothe
+clothe,verb
  clad clothed clothes -> [clothes] clothing -> [clothing]
-clothes -> [clothe]
-clotheshorse
+clothes,pluralnoun
+clotheshorse!
  clotheshorses
-clothesline
+clothesline,noun,verb
  clotheslines
-clothespin
+clothespin,noun
  clothespins
-clothier
+clothier,noun
  clothiers
-clothing -> [clothe]
-cloture
+clothing,noun
+cloture,noun
  clotures
-cloud
+cloud,noun,verb
  clouded clouding cloudless clouds
-cloudburst
+cloudburst,noun
  cloudbursts
-cloudy
+cloudy,adjective
  cloudier cloudiest cloudiness
-clout
+clout,noun,verb
  clouted clouting clouts
-clove -> [cleave]
+clove,noun
  cloves
-clover
+clover,noun
  clovers
-cloverleaf
+cloverleaf,noun
  cloverleafs cloverleaves
-clown
+clown,noun,verb
  clowned clowning clownish clownishly clownishness clowns
-cloy
+cloy,verb
  cloyed cloying cloyingly cloys
-club
+club,noun,verb
  clubbed clubbing clubs
-clubbable
-clubber
+clubbable,adjective
+clubber,noun
  clubbers
-clubfoot
+clubfoot!
  clubfeet clubfooted
-clubhouse
+clubhouse,noun
  clubhouses
-clubland
-cluck
+clubland,noun
+cluck,verb,noun
  clucked clucking clucks
-clue
+clue,noun,verb
  clued clueing clueless clues cluing
-clump
+clump,noun,verb
  clumped clumping clumps
-clumpy
+clumpy,adjective
  clumpier clumpiest
-clumsy
+clumsy,adjective
  clumsier clumsiest clumsily clumsiness
-clunk
+clunk,noun,verb
  clunked clunking clunks
-clunker
+clunker,noun
  clunkers
-clunky
+clunky,adjective
  clunkier clunkiest
-cluster
+cluster,noun,verb
  clustered clustering clusters
-clutch
+clutch,adjective,verb,noun
  clutched clutches clutching
-clutter
+clutter,verb,noun
  cluttered cluttering clutters
-cnidarian
+cnidarian,adjective,noun
  cnidarians
-coach
+coach,adverb,noun,verb
  coached coaches coaching
-coachload
+coachload,noun
  coachloads
-coachman
+coachman,noun
  coachmen
-coachwork
-coadjutor
+coachwork,noun
+coadjutor,noun
  coadjutors
-coagulant
+coagulant,noun
  coagulants
-coagulate
+coagulate,verb
  coagulated coagulates coagulating
-coagulation
-coagulator
+coagulation,noun
+coagulator,noun
  coagulators
-coal
+coal,noun,verb
  coaled coaling coals
-coalesce
+coalesce,verb
  coalesced coalesces coalescing
-coalescence
-coalescent
-coalface
+coalescence,noun
+coalescent,adjective
+coalface,noun
  coalfaces
-coalfield
+coalfield,noun
  coalfields
-coal-fired
-coalition
+coal-fired,adjective
+coalition,noun
  coalitions
-coalitionist
+coalitionist,noun
  coalitionists
-coalmine
+coalmine,noun
  coalmines
-coalminer
+coalminer,noun
  coalminers
-coarse
+coarse,adjective
  coarsely coarseness coarser coarsest
-coarsen
+coarsen,verb
  coarsened coarsening coarsens
-coast
+coast,noun,verb
  coasted coasting coasts
-coastal
-coaster
+coastal,adjective
+coaster,noun
  coasters
-coastguard
+coastguard,noun
  coastguards
-coastline
+coastline,noun
  coastlines
-coat
+coat,noun,verb
  coated coating -> [coating] coats
-coathanger
+coathanger!
  coathangers
-coating -> [coat]
+coating,noun
  coatings
-coatroom
+coatroom,noun
  coatrooms
-coattail
+coattail,noun
  coattails
-coauthor
+coauthor,noun,verb
  coauthored coauthoring coauthors
-coax
+coax,adjective,verb,noun
  coaxed coaxes coaxing coaxingly
-coaxer
+coaxer,noun
  coaxers
-coaxial
-cob
+coaxial,adjective
+cob,abbreviation,noun
  cobs
-cobalt
-cobber
+cobalt,noun
+cobber,noun
  cobbers
-cobble
+cobble,noun,verb
  cobbled cobbles cobbling
-cobbler
+cobbler,noun
  cobblers
-cobblestone
+cobblestone,noun
  cobblestones
-cobnut
+cobnut,abbreviation,noun
  cobnuts
-cobra
+cobra,noun
  cobras
-cobweb
+cobweb,noun
  cobwebbed cobwebs
-cobwebby
+cobwebby,adjective
  cobwebbier cobwebbiest
-coca
-cocaine
+coca,noun
+cocaine,noun
  cocain
-coccus
+coccus,noun
  cocci
-coccyx
+coccyx,noun
  coccyges coccyxes
-cochineal
-cochlea
+cochineal,noun
+cochlea,noun
  cochleae cochleas
-cochlear
-cock
+cochlear,adjective
+cock,noun,verb
  cocked cocking cocks
-cockade
+cockade,noun
  cockades
-cockamamie
+cockamamie,adjective
  cockamamy
-cockatiel
+cockatiel,noun
  cockatiels
-cockatoo
+cockatoo,noun
  cockatoos
-cockatrice
+cockatrice,noun
  cockatrices
-cockchafer
+cockchafer,noun
  cockchafers
-cockcrow
+cockcrow,noun
  cockcrows
-cockerel
+cockerel,noun
  cockerels
-cockeyed
-cockfight
+cockeyed,adjective
+cockfight,noun
  cockfighting cockfights
-cockle
+cockle,noun,verb
  cockles
-cockleshell
+cockleshell,noun,verb
  cockleshells
-cockney
+cockney,adjective,noun
  cockneys
-cockpit
+cockpit,noun
  cockpits
-cockroach
+cockroach,noun
  cockroaches
-cockscomb
+cockscomb,noun
  cockscombs
-cocksucker
+cocksucker,noun
  cocksuckers
-cocksure
-cocktail
+cocksure,adjective
+cocktail,noun
  cocktails
-cocky
+cocky,adjective,noun
  cockier cockiest cockily cockiness
-coco
+coco,noun
  cocos
-cocoa
+cocoa,noun
  cocoas
-coconut
+coconut,noun
  cocoanut cocoanuts coconuts
-cocoon
+cocoon,noun,verb
  cocooned cocooning cocoons
-cod
+cod,abbreviation,adjective,noun,verb
  cods
-coda
+coda,noun
  codas
-coddle
+coddle,verb
  coddled coddles coddling
-code
+code,noun,verb
  coded codes coding
-codeine
-codename
+codeine,noun
+codename,noun
  codenames
-codependency
-codependent
+codependency,noun
+codependent,noun,adjective
  codependents
-coder
+coder,noun
  coders
-codeword
+codeword,noun
  codewords
-codex
+codex,noun
  codexes codices
-codfish
+codfish,noun
  codfishes
-codger
+codger,noun
  codgers
-codicil
+codicil,noun
  codicils
-codification
+codification,noun
  codifications
-codifier
+codifier,noun
  codifiers
-codify
+codify,verb
  codified codifies codifying
-codpiece
+codpiece,noun
  codpieces
-codswallop
-coed
+codswallop,noun
+coed,adjective,noun
  coeds
-coeducation
-coeducational
-coefficient
+coeducation,noun
+coeducational,adjective
+coefficient,noun
  coefficients
-coelenterate
+coelenterate,noun
  coelenterates
-coequal
+coequal,adjective,noun
  coequally coequals
-coerce
+coerce,verb
  coerced coerces coercing
-coercer
+coercer,noun
  coercers
-coercion
-coercive
-coeval
+coercion,noun
+coercive,adjective
+coeval,adjective,noun
  coevally coevals
-coexist
+coexist,verb
  coexisted coexisting coexists
-coexistence
-coexistent
-coextensive
-coffee
+coexistence,noun
+coexistent,adjective
+coextensive,adjective
+coffee,noun
  coffees
-coffeecake
+coffeecake,noun
  coffeecakes
-coffeehouse
+coffeehouse,noun
  coffeehouses
-coffeemaker
+coffeemaker,noun
  coffeemakers
-coffeepot
+coffeepot,noun
  coffeepots
-coffer
+coffer,noun
  coffers
-cofferdam
+cofferdam,noun
  cofferdams
-coffin
+coffin,noun,verb
  coffined coffining coffins
-cog
+cog,noun,verb
  cogs
-cogency
-cogent
+cogency,noun
+cogent,adjective
  cogently
-cogitate
+cogitate,verb
  cogitated cogitates cogitating
-cogitation
+cogitation,noun
  cogitations
-cogitative
-cogitator
+cogitative,adjective
+cogitator,noun
  cogitators
-cognac
+cognac,noun
  cognacs
-cognate
+cognate,adjective,noun
  cognates
-cognition
-cognitional
-cognitive
+cognition,noun
+cognitional,adjective
+cognitive,adjective
  cognitively
-cognizable
+cognizable,adjective
  cognisable
-cognizance
+cognizance,noun
  cognisance
-cognizant
+cognizant,adjective
  cognisant
-cognomen
+cognomen,noun
  cognomens cognomina
-cognoscente
+cognoscente,noun
  cognoscenti
-cogwheel
+cogwheel,noun
  cogwheels
-cohabit
+cohabit,verb
  cohabited cohabiting cohabits
-cohabitant
+cohabitant,noun
  cohabitants
-cohabitation
-coheir
+cohabitation,noun
+coheir,noun
  coheirs
-cohere
+cohere,verb
  cohered coheres cohering
-coherence
+coherence,noun
  coherency
-coherent
+coherent,adjective
  coherently
-cohesion
-cohesive
+cohesion,noun
+cohesive,adjective
  cohesively cohesiveness
-coho
+coho,noun
  cohos
-cohort
+cohort,noun
  cohorts
-coif
+coif,noun,verb
  coifed coiffed coiffing coifing coifs
-coiffure
+coiffure,noun
  coiffured coiffures coiffuring
-coil
+coil,noun,verb
  coiled coiling coils
-coin
+coin,noun,verb
  coined coining coins
-coinage
+coinage,noun
  coinages
-coincide
+coincide,verb
  coincided coincides coinciding
-coincidence
+coincidence,noun
  coincidences
-coincident
-coincidental
+coincident,adjective
+coincidental,adjective
  coincidentally
-coiner
+coiner,noun
  coiners
-coinsurance
-coir
-coital
-coitus
-cojones
-coke
+coinsurance,noun
+coir,noun
+coital,adjective
+coitus,noun
+cojones,pluralnoun
+coke,noun,verb
  coked cokes coking
-cokehead
+cokehead,noun
  cokeheads
-col
+col,noun
  cols
-cola
+cola,abbreviation,noun
  colas kola kolas
-colander
+colander,noun
  colanders
-cold
+cold,adverb,adjective,noun
  colder coldest coldly coldness colds
-coldblooded
-coldcock
+coldblooded,adjective
+coldcock,verb
  coldcocked coldcocking coldcocks
-coldhearted
-coleslaw
-coleus
+coldhearted,adjective
+coleslaw,noun
+coleus,noun
  coleuses
-coley
+coley,noun
  coleys
-colic
-colicky
-coliseum
+colic,noun
+colicky,adjective
+coliseum,noun
  coliseums
-colitis
-collaborate
+colitis,noun
+collaborate,verb
  collaborated collaborates collaborating
-collaboration
+collaboration,noun
  collaborations
-collaborationist
-collaborative
+collaborationist,adjective,noun
+collaborative,adjective
  collaboratively
-collaborator
+collaborator,noun
  collaborators
-collage
+collage,noun
  collages
-collagen
-collapse
+collagen,noun
+collapse,verb,noun
  collapsed collapses collapsing
-collapsible
-collar
+collapsible,adjective
+collar,noun,verb
  collared collaring collarless collars
-collarbone
+collarbone,noun
  collarbones
-collard
+collard,noun
  collards
-collate
+collate,verb
  collated collates collating
-collateral
+collateral,adjective,noun
  collaterally
-collateralize
+collateralize,verb
  collateralise collateralised collateralises collateralising collateralized collateralizes collateralizing
-collation
+collation,noun
  collations
-collator
+collator,noun
  collators
-colleague
+colleague,noun
  colleagues
-collect
+collect,adjective,adverb,verb,noun
  collected collectedly collecting collects
-collectible
+collectible,adjective,noun
  collectable collectables collectibles
-collection
+collection,noun
  collections
-collective
+collective,adjective,noun
  collectively collectives
-collectivism
-collectivist
+collectivism,noun
+collectivist,adjective,noun
  collectivists
-collectivization
+collectivization,noun
  collectivisation
-collectivize
+collectivize,verb
  collectivise collectivised collectivises collectivising collectivized collectivizes collectivizing
-collector
+collector,noun
  collectors
-colleen
+colleen,noun
  colleens
-college
+college,noun
  colleges
-collegiality
-collegian
+collegiality,noun
+collegian,noun
  collegians
-collegiate
-collide
+collegiate,adjective
+collide,verb
  collided collides colliding
-collie
+collie,noun
  collies
-collier
+collier,noun
  colliers
-colliery
+colliery,noun
  collieries
-collision
+collision,noun
  collisions
-collocate
+collocate,verb,noun
  collocated collocates collocating
-collocation
+collocation,noun
  collocations
-colloid
+colloid,adjective,noun
  colloids
-colloidal
-colloquial
+colloidal,adjective
+colloquial,adjective
  colloquially
-colloquialism
+colloquialism,noun
  colloquialisms
-colloquium
+colloquium,noun
  colloquia colloquiums
-colloquy
+colloquy,noun
  colloquies
-collude
+collude,verb
  colluded colludes colluding
-collusion
-collusive
-cologne
+collusion,noun
+collusive,adjective
+cologne,noun,propernoun
  colognes
-colon
+colon,noun,propernoun
  colones colons
-colonel
+colonel,noun
  colonels
-colonelcy
-colonial
+colonelcy,noun
+colonial,adjective,noun
  colonially colonials
-colonialism
-colonialist
+colonialism,noun
+colonialist,adjective,noun
  colonialists
-colonist
+colonist,noun
  colonists
-colonization
+colonization,noun
  colonisation
-colonize
+colonize,verb
  colonise colonised colonises colonising colonized colonizes colonizing
-colonizer
+colonizer,noun
  coloniser colonisers colonizers
-colonnade
+colonnade,noun
  colonnaded colonnades
-colonoscopy
+colonoscopy,noun
  colonoscopies
-colony
+colony,noun
  colonies
-colophon
+colophon,noun
  colophons
-color
+color,noun,verb
  colored -> [colored] colorful colorfully colorfulness coloring -> [coloring] colorless colorlessly colorlessness colors colour coloured -> [colored] colourful colourfully colourfulness colouring -> [coloring] colourless colourlessly colourlessness colours
-colorant
+colorant,noun
  colorants colourant colourants
-coloration
+coloration,noun
  colouration
-coloratura
+coloratura,noun
  coloraturas
-colorblind
+colorblind!
  colorblindness
-color-coded
+color-coded,adjective
  colour-coded
-colored -> [color]
+colored,adjective,noun
  coloreds coloured -> [color] coloureds
-colorfast
+colorfast,adjective
  colorfastness colourfast
-coloring -> [color]
+coloring,noun
  colorings colouring -> [color] colourings
-colorist
+colorist,noun
  colorists colourist colourists
-colorization
+colorization,noun
  colourisation colourization
-colorize
+colorize,verb
  colorized colorizes colorizing colourise colourised colourises colourising colourize colourized colourizes colourizing
-colossal
+colossal,adjective
  colossally
-colossus
+colossus,noun
  colossi colossuses
-colostomy
+colostomy,noun
  colostomies
-colostrum
-colourway
+colostrum,noun
+colourway,noun
  colourways
-colt
+colt,noun
  coltish colts
-columbine
+columbine,noun,propernoun
  columbines
-column
+column,noun
  columned columns
-columnar
-columnist
+columnar,adjective
+columnist,noun
  columnists
-coma
+coma,noun
  comas
-comaker
+comaker!
  comakers
-comatose
-comb
+comatose,adjective
+comb,noun,verb
  combed combing -> [combing] combs
-combat
+combat,noun,verb
  combated combating combats combatted combatting
-combatant
+combatant,adjective,noun
  combatants
-combative
+combative,adjective
  combativeness
-comber
+comber,noun
  combers
-combination
+combination,noun
  combinations
-combine
+combine,verb,noun
  combined combines combining
-combiner
+combiner,noun
  combiners
-combing -> [comb]
+combing,noun,verb
  combings
-combo
+combo,noun
  combos
-combustible
+combustible,adjective,noun
  combustibility combustibles
-combustion
-combustive
-come
+combustion,noun
+combustive,adjective
+come,verb,noun,preposition
  came comes coming -> [coming] cum -> [cum] cummed cumming cums
-comeback
+comeback,noun
  comebacks
-comedian
+comedian,noun
  comedians comedienne comediennes
-comedic
-comedown
+comedic,adjective
+comedown,noun
  comedowns
-comedy
+comedy,noun
  comedies
-comely
+comely,adjective
  comelier comeliest comeliness
-come-on
+come-on,noun
  come-ons
-comer
+comer,noun
  comers
-comestible
+comestible,adjective,noun
  comestibles
-comet
+comet,noun
  comets
-comeuppance
+comeuppance,noun
  comeuppances
-comfit
+comfit,noun
  comfits
-comfort
+comfort,noun,verb
  comforted comforting comfortingly comfortless comforts
-comfortable
+comfortable,adjective,noun
  comfortableness comfortably
-comforter
+comforter,noun
  comforters
-comfy
+comfy,adjective
  comfier comfiest
-comic
+comic,adjective,noun
  comics
-comical
+comical,adjective
  comically
-comicality
-coming -> [come]
+comicality,noun
+coming,adjective,noun
  comings
-comity
-comma
+comity,noun
+comma,noun
  commas
-command
+command,verb,noun
  commanded commanding commands
-commandant
+commandant,noun
  commandants
-commandeer
+commandeer,verb
  commandeered commandeering commandeers
-commander
+commander,noun
  commanders
-commander-in-chief
+commander-in-chief,noun
  commanders-in-chief
-commandment
+commandment,noun
  commandments
-commando
+commando,noun
  commandoes commandos
-commemorate
+commemorate,verb
  commemorated commemorates commemorating
-commemoration
+commemoration,noun
  commemorations
-commemorative
-commemorator
+commemorative,adjective,noun
+commemorator,noun
  commemorators
-commence
+commence,verb
  commenced commences commencing
-commencement
+commencement,noun
  commencements
-commend
+commend,verb
  commended commending commends
-commendable
+commendable,adjective
  commendably
-commendation
+commendation,noun
  commendations
-commendatory
-commensalism
-commensurable
-commensurate
+commendatory,adjective
+commensalism,noun
+commensurable,adjective
+commensurate,adjective
  commensurately
-comment
+comment,noun,verb
  commented commenting comments
-commentary
+commentary,noun
  commentaries
-commentate
+commentate,verb
  commentated commentates commentating
-commentator
+commentator,noun
  commentators
-commerce
-commercial
+commerce,noun
+commercial,adjective,noun
  commercially commercials
-commercialism
-commercialization
+commercialism,noun
+commercialization,noun
  commercialisation
-commercialize
+commercialize,verb
  commercialise commercialised commercialises commercialising commercialized commercializes commercializing
-commie
+commie,adjective,noun
  commies
-commingle
+commingle,verb
  commingled commingles commingling
-commiserate
+commiserate,verb
  commiserated commiserates commiserating
-commiseration
+commiseration,noun
  commiserations
-commiserative
-commissar
+commiserative,adjective
+commissar,noun
  commissars
-commissariat
+commissariat,noun
  commissariats
-commissary
+commissary,noun
  commissaries
-commission
+commission,noun,verb
  commissioned commissioning commissions
-commissionaire
+commissionaire,noun
  commissionaires
-commissioner
+commissioner,noun
  commissioners
-commit
+commit,verb
  commits committed committing
-commitment
+commitment,noun
  commitments
-committal
+committal,noun
  committals
-committee
+committee,noun
  committees
-committeeman
+committeeman,noun
  committeemen
-committeewoman
+committeewoman,noun
  committeewomen
-commode
+commode,noun
  commodes
-commodious
+commodious,adjective
  commodiously
-commodity
+commodity,noun
  commodities
-commodore
+commodore,noun
  commodores
-common
+common,adjective,noun
  commoner -> [commoner] commonest commonly commonness commons
-commonality
+commonality,noun
  commonalities
-commonalty
-commoner -> [common]
+commonalty,noun
+commoner,noun
  commoners
-common-law
-commonplace
+common-law,noun
+commonplace,adjective,noun
  commonplaces
-commonsense
-commonsensical
-commonweal
-commonwealth
+commonsense,noun
+commonsensical,adjective
+commonweal,noun
+commonwealth,noun
  commonwealths
-commotion
+commotion,noun
  commotions
-communal
+communal,adjective
  communally
-commune
+commune,noun,verb
  communed communes communing
-communicable
+communicable,adjective
  communicability communicably
-communicant
+communicant,noun
  communicants
-communicate
+communicate,verb
  communicated communicates communicating
-communication
+communication,noun
  communications
-communicative
-communicator
+communicative,adjective
+communicator,noun
  communicators
-communion
+communion,noun
  communions
-communique
+communique,noun
  communiques
-communism
-communist
+communism,noun
+communist,adjective,noun
  communists
-communistic
-community
+communistic,adjective
+community,noun
  communities
-commutable
-commutation
+commutable,adjective
+commutation,noun
  commutations
-commutative
-commutator
+commutative,adjective
+commutator,noun
  commutators
-commute
+commute,verb,noun
  commuted commutes commuting
-commuter
+commuter,noun
  commuters
-comp
+comp,adjective,noun,verb
  comped comping comps
-compact
+compact,adjective,verb,noun
  compacted compacter compactest compacting compactly compactness compacts
-compactor
+compactor,noun
  compactors
-companion
+companion,noun,verb
  companions
-companionable
+companionable,adjective
  companionably
-companionship
-companionway
+companionship,noun
+companionway,noun
  companionways
-company
+company,noun,verb
  companies
-comparable
+comparable,adjective
  comparability comparably
-comparative
+comparative,adjective,noun
  comparatively comparatives
-compare
+compare,verb,noun
  compared compares comparing
-comparison
+comparison,noun
  comparisons
-compartment
+compartment,noun,verb
  compartments
-compartmental
-compartmentalization
+compartmental,adjective
+compartmentalization,noun
  compartmentalisation
-compartmentalize
+compartmentalize,verb
  compartmentalise compartmentalised compartmentalises compartmentalising compartmentalized compartmentalizes compartmentalizing
-compass
+compass,noun,verb
  compassed compasses compassing
-compassion
-compassionate
+compassion,noun
+compassionate,adjective
  compassionately
-compatible
+compatible,adjective,noun
  compatibility compatibles compatibly
-compatriot
+compatriot,noun
  compatriots
-compeer
+compeer,noun
  compeers
-compel
+compel,verb
  compelled compelling -> [compelling] compels
-compelling -> [compel]
+compelling,adjective
  compellingly
-compendious
-compendium
+compendious,adjective
+compendium,noun
  compendia compendiums
-compensate
+compensate,verb
  compensated compensates compensating
-compensation
+compensation,noun
  compensations
-compensatory
-compere
+compensatory,adjective
+compere,noun,verb
  compered comperes compering
-compete
+compete,verb
  competed competes competing
-competence
+competence,noun
  competences competencies competency
-competent
+competent,adjective
  competently
-competition
+competition,noun
  competitions
-competitive
+competitive,adjective
  competitively competitiveness
-competitor
+competitor,noun
  competitors
-compilation
+compilation,noun
  compilations
-compile
+compile,verb
  compiled compiles compiling
-compiler
+compiler,noun
  compilers
-complacency
+complacency,noun
  complacence
-complacent
+complacent,adjective
  complacently
-complain
+complain,verb
  complained complaining complains
-complainant
+complainant,noun
  complainants
-complainer
+complainer,noun
  complainers
-complaint
+complaint,noun
  complaints
-complaisance
-complaisant
+complaisance,noun
+complaisant,adjective
  complaisantly
-complected
-complement
+complected,adjective
+complement,noun,verb
  complemented complementing complements
-complementary
-complementation
-complete
+complementary,adjective
+complementation,noun
+complete,adjective,verb
  completed completely completeness completer completes completest completing
-completion
+completion,noun
  completions
-complex
+complex,adjective,noun,verb
  complexes complexly
-complexion
+complexion,noun
  complexioned complexions
-complexional
-complexity
+complexional,adjective
+complexity,noun
  complexities
-compliance
-compliant
+compliance,noun
+compliant,adjective
  compliantly
-complicate
+complicate,verb
  complicated complicatedly complicates complicating
-complication
+complication,noun
  complications
-complicit
-complicity
-compliment
+complicit,adjective
+complicity,noun
+compliment,noun,verb
  complimented complimenting compliments
-complimentary
-comply
+complimentary,adjective
+comply,verb
  complied complies complying
-component
+component,adjective,noun
  components
-comport
+comport,verb,noun
  comported comporting comports
-comportment
-compose
+comportment,noun
+compose,verb
  composed composedly composes composing
-composer
+composer,noun
  composers
-composite
+composite,adjective,noun,verb
  compositely composites
-composition
+composition,noun
  compositions
-compositor
+compositor,noun
  compositors
-compost
+compost,noun,verb
  composted composting composts
-composure
-compote
+composure,noun
+compote,noun
  compotes
-compound
+compound,adjective,noun,verb
  compounded compounding compounds
-compoundable
-comprehend
+compoundable,adjective
+comprehend,verb
  comprehended comprehending comprehends
-comprehensible
+comprehensible,adjective
  comprehensibility comprehensibly
-comprehension
+comprehension,noun
  comprehensions
-comprehensive
+comprehensive,adjective,noun
  comprehensively comprehensiveness comprehensives
-compress
+compress,verb,noun
  compressed compresses compressing
-compressible
-compression
-compressor
+compressible,adjective
+compression,noun
+compressor,noun
  compressors
-comprise
+comprise,verb
  comprised comprises comprising
-compromise
+compromise,noun,verb
  compromised compromises compromising
-compulsion
+compulsion,noun
  compulsions
-compulsive
+compulsive,adjective
  compulsively compulsiveness
-compulsory
+compulsory,adjective
  compulsories compulsorily
-compunction
+compunction,noun
  compunctions
-computable
-computation
+computable,adjective
+computation,noun
  computations
-computational
-compute
+computational,adjective
+compute,verb
  computed computes computing
-computer
+computer,noun
  computers
-computerate
-computerization
+computerate,adjective
+computerization,noun
  computerisation
-computerize
+computerize,verb
  computerise computerised computerises computerising computerized computerizes computerizing
-comrade
+comrade,noun
  comradely comrades
-comradeship
-con
+comradeship,noun
+con,verb,noun
  conned conning cons
-concatenate
+concatenate,verb
  concatenated concatenates concatenating
-concatenation
+concatenation,noun
  concatenations
-concave
+concave,adjective
  concavely concaveness
-concavity
+concavity,noun
  concavities
-conceal
+conceal,verb
  concealed concealing conceals
-concealable
-concealer
+concealable,adjective
+concealer,noun
  concealers
-concealment
-concede
+concealment,noun
+concede,verb
  conceded concedes conceding
-conceit
+conceit,noun
  conceited conceitedly conceitedness conceits
-conceivable
+conceivable,adjective
  conceivably
-conceive
+conceive,verb
  conceived conceives conceiving
-concentrate
+concentrate,verb,noun
  concentrated concentrates concentrating
-concentration
+concentration,noun
  concentrations
-concentric
+concentric,adjective
  concentrically
-concept
+concept,noun
  concepts
-conception
+conception,noun
  conceptions
-conceptional
-conceptual
+conceptional,adjective
+conceptual,adjective
  conceptually
-conceptualization
+conceptualization,noun
  conceptualisation conceptualisations conceptualizations
-conceptualize
+conceptualize,verb
  conceptualise conceptualised conceptualises conceptualising conceptualized conceptualizes conceptualizing
-concern
+concern,verb,noun
  concerned concernedly concerning concerns
-concert
+concert,noun,verb
  concerted concertedly concerting concerts
-concertgoer
+concertgoer,noun
  concertgoers
-concertina
+concertina,noun,verb
  concertinaed concertinaing concertinas
-concertize
+concertize,verb
  concertise concertised concertises concertising concertized concertizes concertizing
-concertmaster
+concertmaster,noun
  concertmasters
-concerto
+concerto,noun
  concerti concertos
-concession
+concession,noun
  concessions
-concessionaire
+concessionaire,noun
  concessionaires
-concessional
-concessionary
-concessioner
+concessional,adjective
+concessionary,adjective
+concessioner,noun
  concessioners
-conch
+conch,noun
  conches conchs
-conchie
+conchie,noun
  conchies
-concierge
+concierge,noun
  concierges
-conciliate
+conciliate,verb
  conciliated conciliates conciliating
-conciliation
-conciliator
+conciliation,noun
+conciliator,noun
  conciliators
-conciliatory
-concise
+conciliatory,adjective
+concise,adjective
  concisely conciseness conciser concisest
-concision
-conclave
+concision,noun
+conclave,noun
  conclaves
-conclude
+conclude,verb
  concluded concludes concluding
-conclusion
+conclusion,noun
  conclusions
-conclusive
+conclusive,adjective
  conclusively conclusiveness
-concoct
+concoct,verb
  concocted concocting concocts
-concoction
+concoction,noun
  concoctions
-concomitant
+concomitant,adjective,noun
  concomitantly concomitants
-concord
-concordance
+concord,noun,propernoun
+concordance,noun,verb
  concordances
-concordant
-concordat
+concordant,adjective
+concordat,noun
  concordats
-concourse
+concourse,noun
  concourses
-concrete
+concrete,adjective,noun,verb
  concreted concretely concreteness concretes concreting
-concretion
+concretion,noun
  concretions
-concubinage
-concubine
+concubinage,noun
+concubine,noun
  concubines
-concupiscence
-concupiscent
-concur
+concupiscence,noun
+concupiscent,adjective
+concur,verb
  concurred concurring concurs
-concurrence
+concurrence,noun
  concurrences
-concurrent
+concurrent,adjective
  concurrently
-concuss
+concuss,verb
  concussed concusses concussing
-concussion
+concussion,noun
  concussions
-concussive
-condemn
+concussive,adjective
+condemn,verb
  condemned condemning condemns
-condemnation
+condemnation,noun
  condemnations
-condemnatory
-condemner
+condemnatory,adjective
+condemner,adjective
  condemners
-condensate
+condensate,noun
  condensates
-condensation
+condensation,noun
  condensations
-condense
+condense,verb
  condensed condenses condensing
-condenser
+condenser,noun
  condensers
-condescend
+condescend,verb
  condescended condescending condescendingly condescends
-condescension
-condign
-condiment
+condescension,noun
+condign,adjective
+condiment,noun
  condiments
-condition
+condition,noun,verb
  conditioned conditioning conditions
-conditional
+conditional,adjective,noun
  conditionally conditionals
-conditioner
+conditioner,noun
  conditioners
-condo
+condo,noun
  condoes condos
-condole
+condole,verb
  condoled condoles condoling
-condolence
+condolence,noun
  condolences
-condom
+condom,noun
  condoms
-condominium
+condominium,noun
  condominiums
-condone
+condone,verb
  condoned condones condoning
-condor
+condor,noun
  condors
-conduce
+conduce,verb
  conduced conduces conducing
-conducive
-conduct
+conducive,adjective
+conduct,noun,verb
  conducted conducting conducts
-conductance
-conductible
+conductance,noun
+conductible,adjective
  conductibility
-conduction
-conductive
-conductivity
-conductor
+conduction,noun
+conductive,adjective
+conductivity,noun
+conductor,noun
  conductors
-conductress
+conductress,noun
  conductresses
-conduit
+conduit,noun
  conduits
-cone
+cone,noun,verb
  coned cones coning
-coney
+coney,noun
  coneys conies cony
-confab
+confab,noun,verb
  confabbed confabbing confabs
-confabulate
+confabulate,verb
  confabulated confabulates confabulating
-confabulation
+confabulation,noun
  confabulations
-confection
+confection,noun
  confections
-confectioner
+confectioner,noun
  confectioners
-confectionery
+confectionery,noun
  confectioneries
-confederacy
+confederacy,noun
  confederacies
-confederate
+confederate,adjective,noun,verb
  confederated confederates confederating
-confederation
+confederation,noun
  confederations
-confer
+confer,verb
  conferred conferring confers
-conferee
+conferee,noun
  conferees
-conference
+conference,noun,verb
  conferences
-conferment
+conferment,noun
  conferments
-conferrable
-conferral
-conferrer
+conferrable,adjective
+conferral,noun
+conferrer,noun
  conferrers
-confess
+confess,verb
  confessed confessedly confesses confessing
-confession
+confession,noun
  confessions
-confessional
+confessional,adjective,noun
  confessionals
-confessor
+confessor,noun
  confessors
-confetti
-confidant
+confetti,noun
+confidant,noun
  confidante confidantes confidants
-confide
+confide,verb
  confided confides confiding confidingly
-confidence
+confidence,noun
  confidences
-confident
+confident,adjective,noun
  confidently
-confidential
+confidential,adjective
  confidentially
-confidentiality
-confider
+confidentiality,noun
+confider,verb
  confiders
-configuration
+configuration,noun
  configurations
-configure
+configure,verb
  configured configures configuring
-confine
+confine,verb,noun
  confined confines confining
-confinement
+confinement,noun
  confinements
-confirm
+confirm,verb
  confirmed confirming confirms
-confirmation
+confirmation,noun
  confirmations
-confiscate
+confiscate,verb
  confiscated confiscates confiscating
-confiscation
+confiscation,noun
  confiscations
-confiscator
+confiscator,noun
  confiscators
-confiscatory
-conflagration
+confiscatory,adjective
+conflagration,noun
  conflagrations
-conflate
+conflate,verb
  conflated conflates conflating
-conflation
+conflation,noun
  conflations
-conflict
+conflict,noun,verb
  conflicted conflicting conflicts
-confluence
+confluence,noun
  confluences
-confluent
-conform
+confluent,adjective
+conform,verb
  conformed conforming conforms
-conformable
-conformance
-conformation
+conformable,adjective
+conformance,noun
+conformation,noun
  conformations
-conformer
+conformer,noun
  conformers
-conformism
-conformist
+conformism,noun
+conformist,adjective,noun
  conformists
-conformity
-confound
+conformity,noun
+confound,exclamation,verb
  confounded confounding confounds
-confraternity
+confraternity,noun
  confraternities
-confrere
+confrere,noun
  confreres
-confront
+confront,verb
  confronted confronting confronts
-confrontation
+confrontation,noun
  confrontations
-confrontational
-confuse
+confrontational,adjective
+confuse,verb
  confused confusedly confuses confusing confusingly
-confusion
+confusion,noun
  confusions
-confutation
-confute
+confutation,noun
+confute,verb
  confuted confutes confuting
-conga
+conga,noun,verb
  congaed congaing congas
-congeal
+congeal,verb
  congealed congealing congeals
-congealment
-congenial
+congealment,noun
+congenial,adjective
  congenially
-congeniality
-congenital
+congeniality,noun
+congenital,adjective
  congenitally
-conger
+conger,noun
  congers
-congeries
-congest
+congeries,noun
+congest,verb
  congested congesting congests
-congestion
-congestive
-conglomerate
+congestion,noun
+congestive,adjective
+conglomerate,adjective,noun,verb
  conglomerated conglomerates conglomerating
-conglomeration
+conglomeration,noun
  conglomerations
-congrats
-congratulate
+congrats,pluralnoun
+congratulate,verb
  congratulated congratulates congratulating
-congratulation
+congratulation,noun
  congratulations
-congratulatory
-congregant
+congratulatory,adjective
+congregant,noun
  congregants
-congregate
+congregate,verb
  congregated congregates congregating
-congregation
+congregation,noun
  congregations
-congregational
-congregationalism
-congregationalist
+congregational,adjective
+congregationalism,noun
+congregationalist,noun,adjective
  congregationalists
-congress
+congress,noun
  congresses
-congressional
-congressman
+congressional,adjective
+congressman,noun
  congressmen
-congressperson
+congressperson,noun
  congresspersons
-congresswoman
+congresswoman,noun
  congresswomen
-congruence
-congruent
+congruence,noun
+congruent,adjective
  congruently
-congruity
+congruity,noun
  congruities
-congruous
-conic
+congruous,adjective
+conic,adjective,noun
  conics
-conical
+conical,adjective
  conically
-conifer
+conifer,noun
  conifers
-coniferous
-conjectural
-conjecture
+coniferous,adjective
+conjectural,adjective
+conjecture,noun,verb
  conjectured conjectures conjecturing
-conjoin
+conjoin,verb
  conjoined conjoining conjoins
-conjoiner
+conjoiner,verb
  conjoiners
-conjoint
+conjoint,adjective
  conjointly
-conjugal
+conjugal,adjective
  conjugally
-conjugate
+conjugate,adjective,verb,noun
  conjugated conjugates conjugating
-conjugation
+conjugation,noun
  conjugations
-conjunct
+conjunct,adjective,noun
  conjuncts
-conjunction
+conjunction,noun
  conjunctions
-conjunctiva
+conjunctiva,noun
  conjunctivae conjunctivas
-conjunctive
+conjunctive,adjective,noun
  conjunctives
-conjunctivitis
-conjuncture
+conjunctivitis,noun
+conjuncture,noun
  conjunctures
-conjuration
+conjuration,noun
  conjurations
-conjure
+conjure,verb
  conjured conjures conjuring
-conjurer
+conjurer,noun
  conjurers conjuror conjurors
-conk
+conk,verb,noun
  conked conking conks
-conker
+conker,noun
  conkers
-conman
+conman,noun
  conmen
-connect
+connect,verb
  connected connecting connects
-connectible
+connectible,noun
  connectable
-connection
+connection,noun
  connections connexion connexions
-connective
+connective,adjective,noun
  connectives
-connectivity
-connector
+connectivity,noun
+connector,noun
  connecter connecters connectors
-conniption
+conniption,noun
  conniptions
-connivance
-connive
+connivance,noun
+connive,verb
  connived connives conniving
-conniver
+conniver,noun
  connivers
-connoisseur
+connoisseur,noun
  connoisseurs
-connotation
+connotation,noun
  connotations
-connotative
-connote
+connotative,adjective
+connote,verb
  connoted connotes connoting
-connubial
-conquer
+connubial,adjective
+conquer,verb
  conquered conquering conquers
-conquerable
-conqueror
+conquerable,adjective
+conqueror,noun
  conquerors
-conquest
+conquest,noun
  conquests
-conquistador
+conquistador,noun
  conquistadores conquistadors
-consanguineous
-consanguinity
-conscience
+consanguineous,adjective
+consanguinity,noun
+conscience,noun
  conscienceless consciences
-conscientious
+conscientious,adjective
  conscientiously conscientiousness
-conscious
+conscious,adjective
  consciously consciousness -> [consciousness]
-consciousness -> [conscious]
+consciousness,noun
  consciousnesses
-conscript
+conscript,verb,noun
  conscripted conscripting conscripts
-conscription
-consecrate
+conscription,noun
+consecrate,verb
  consecrated consecrates consecrating
-consecration
+consecration,noun
  consecrations
-consecutive
+consecutive,adjective
  consecutively
-consensual
-consensus
+consensual,adjective
+consensus,noun
  consensuses
-consent
+consent,noun,verb
  consented consenting consents
-consequence
+consequence,noun
  consequences
-consequent
+consequent,adjective,noun
  consequently
-consequential
+consequential,adjective
  consequentially
-conservancy
+conservancy,noun
  conservancies
-conservation
-conservationism
-conservationist
+conservation,noun
+conservationism,noun
+conservationist,noun
  conservationists
-conservatism
-conservative
+conservatism,noun
+conservative,adjective,noun
  conservatively conservatives
-conservatoire
+conservatoire,noun
  conservatoires
-conservator
+conservator,noun
  conservators
-conservatory
+conservatory,noun
  conservatories
-conserve
+conserve,verb,noun
  conserved conserves conserving
-consider
+consider,verb
  considered considering considers
-considerable
+considerable,adjective
  considerably
-considerate
+considerate,adjective
  considerately considerateness
-consideration
+consideration,noun
  considerations
-consign
+consign,verb
  consigned consigning consigns
-consignee
+consignee,noun
  consignees
-consignment
+consignment,noun
  consignments
-consignor
+consignor,noun
  consignors
-consist
+consist,verb,noun
  consisted consisting consists
-consistency
+consistency,noun
  consistence consistences consistencies
-consistent
+consistent,adjective
  consistently
-consistory
+consistory,noun
  consistories
-consolable
-consolation
+consolable,adjective
+consolation,noun
  consolations
-consolatory
-console
+consolatory,adjective
+console,verb,noun
  consoled consoles consoling consolingly
-consolidate
+consolidate,verb
  consolidated consolidates consolidating
-consolidation
+consolidation,noun
  consolidations
-consolidator
+consolidator,noun
  consolidators
-consomme
+consomme,noun
  consommes
-consonance
+consonance,noun
  consonances
-consonant
+consonant,adjective,noun
  consonantly consonants
-consort
+consort,noun,verb
  consorted consorting consorts
-consortium
+consortium,noun
  consortia consortiums
-conspectus
+conspectus,noun
  conspectuses
-conspicuous
+conspicuous,adjective
  conspicuously conspicuousness
-conspiracy
+conspiracy,noun
  conspiracies
-conspirator
+conspirator,noun
  conspirators
-conspiratorial
+conspiratorial,adjective
  conspiratorially
-conspire
+conspire,verb
  conspired conspires conspiring
-constable
+constable,noun
  constables
-constabulary
+constabulary,adjective,noun
  constabularies
-constancy
-constant
+constancy,noun
+constant,adjective,noun
  constantly constants
-constellation
+constellation,noun
  constellations
-consternation
-constipate
+consternation,noun
+constipate,verb
  constipated constipates constipating
-constipation
-constituency
+constipation,noun
+constituency,noun
  constituencies
-constituent
+constituent,adjective,noun
  constituents
-constitute
+constitute,verb
  constituted constitutes constituting
-constitution
+constitution,noun
  constitutions
-constitutional
+constitutional,adjective,noun
  constitutionally constitutionals
-constitutionalism
-constitutionality
-constitutive
-constrain
+constitutionalism,noun
+constitutionality,noun
+constitutive,adjective
+constrain,verb
  constrained constraining constrains
-constraint
+constraint,noun
  constraints
-constrict
+constrict,verb
  constricted constricting constricts
-constriction
+constriction,noun
  constrictions
-constrictive
-constrictor
+constrictive,adjective
+constrictor,noun
  constrictors
-construable
-construct
+construable,adjective
+construct,verb,noun
  constructed constructing constructs
-construction
+construction,noun
  constructions
-constructional
-constructionist
+constructional,adjective
+constructionist,noun
  constructionists
-constructive
+constructive,adjective
  constructively constructiveness
-constructor
+constructor,noun
  constructors
-construe
+construe,verb
  construed construes construing
-consubstantiation
-consul
+consubstantiation,noun
+consul,noun
  consuls
-consular
-consulate
+consular,adjective
+consulate,noun
  consulates
-consulship
-consult
+consulship,noun
+consult,verb,noun
  consulted consulting consults
-consultancy
+consultancy,noun
  consultancies
-consultant
+consultant,noun
  consultants
-consultation
+consultation,noun
  consultations
-consultative
-consumable
+consultative,adjective
+consumable,adjective,noun
  consumables
-consume
+consume,verb
  consumed consumes consuming
-consumer
+consumer,noun
  consumers
-consumerism
-consumerist
+consumerism,noun
+consumerist,adjective,noun
  consumerists
-consummate
+consummate,adjective,verb
  consummated consummately consummates consummating
-consummation
+consummation,noun
  consummations
-consumption
-consumptive
+consumption,noun
+consumptive,adjective,noun
  consumptives
-contact
+contact,noun,verb
  contacted contacting contacts
-contagion
+contagion,noun
  contagions
-contagious
+contagious,adjective
  contagiously contagiousness
-contain
+contain,verb
  contained containing contains
-containable
-container
+containable,adjective
+container,noun
  containers
-containerization
+containerization,noun
  containerisation
-containerize
+containerize,verb
  containerise containerised containerises containerising containerized containerizes containerizing
-containment
-contaminant
+containment,noun
+contaminant,noun
  contaminants
-contaminate
+contaminate,verb
  contaminated contaminates contaminating
-contamination
-contaminator
+contamination,noun
+contaminator,noun
  contaminators
-contemn
+contemn,verb
  contemned contemning contemns
-contemplate
+contemplate,verb
  contemplated contemplates contemplating
-contemplation
-contemplative
+contemplation,noun
+contemplative,adjective,noun
  contemplatively contemplatives
-contemporaneity
-contemporaneous
+contemporaneity,noun
+contemporaneous,adjective
  contemporaneously
-contemporary
+contemporary,adjective,noun
  contemporaries
-contempt
-contemptible
+contempt,noun
+contemptible,adjective
  contemptibly
-contemptuous
+contemptuous,adjective
  contemptuously contemptuousness
-contend
+contend,verb
  contended contending contends
-contender
+contender,noun
  contenders
-content
+content,adjective,verb,noun
  contented contentedly contentedness contenting contently contents
-contention
+contention,noun
  contentions
-contentious
+contentious,adjective
  contentiously contentiousness
-contentment
-conterminous
+contentment,noun
+conterminous,adjective
  conterminously
-contest
+contest,noun,verb
  contested contesting contests
-contestable
-contestant
+contestable,adjective
+contestant,noun
  contestants
-context
+context,noun
  contexts
-contextual
+contextual,adjective
  contextually
-contextualization
+contextualization,noun
  contextualisation
-contextualize
+contextualize,verb
  contextualise contextualised contextualises contextualising contextualized contextualizes contextualizing
-contiguity
-contiguous
+contiguity,noun
+contiguous,adjective
  contiguously
-continence
-continent
+continence,noun
+continent,adjective,noun
  continents
-continental
+continental,adjective,noun
  continentals
-contingency
+contingency,noun
  contingencies
-contingent
+contingent,adjective,noun
  contingently contingents
-continual
+continual,adjective
  continually
-continuance
+continuance,noun
  continuances
-continuation
+continuation,noun
  continuations
-continue
+continue,verb
  continued continues continuing
-continuity
+continuity,noun
  continuities
-continuous
+continuous,adjective
  continuously
-continuum
+continuum,noun
  continua continuums
-contort
+contort,verb
  contorted contorting contorts
-contortion
+contortion,noun
  contortions
-contortionist
+contortionist,noun
  contortionists
-contour
+contour,noun,verb
  contoured contouring contours
-contraband
-contraception
-contraceptive
+contraband,adjective,noun
+contraception,noun
+contraceptive,adjective,noun
  contraceptives
-contract
+contract,noun,verb
  contracted contracting contracts
-contractible
-contractile
-contraction
+contractible,adjective
+contractile,adjective
+contraction,noun
  contractions
-contractor
+contractor,noun
  contractors
-contractual
+contractual,adjective
  contractually
-contradict
+contradict,verb
  contradicted contradicting contradicts
-contradiction
+contradiction,noun
  contradictions
-contradictory
-contradistinction
+contradictory,adjective,noun
+contradistinction,noun
  contradistinctions
-contraflow
+contraflow,noun
  contraflows
-contrail
+contrail,noun
  contrails
-contraindicate
+contraindicate,verb
  contraindicated contraindicates contraindicating
-contraindication
+contraindication,noun
  contraindications
-contralto
+contralto,noun
  contralti contraltos
-contraption
+contraption,noun
  contraptions
-contrapuntal
+contrapuntal,adjective
  contrapuntally
-contrarian
+contrarian,adjective,noun
  contrarians
-contrariety
-contrariwise
-contrary
+contrariety,noun
+contrariwise,adverb
+contrary,adjective,noun
  contraries contrarily contrariness
-contrast
+contrast,noun,verb
  contrasted contrasting contrasts
-contrastive
-contravene
+contrastive,adjective
+contravene,verb
  contravened contravenes contravening
-contravention
+contravention,noun
  contraventions
-contretemps
-contribute
+contretemps,noun
+contribute,verb
  contributed contributes contributing
-contribution
+contribution,noun
  contributions
-contributor
+contributor,noun
  contributors
-contributory
-contrite
+contributory,adjective,noun
+contrite,adjective
  contritely contriteness
-contrition
-contrivance
+contrition,noun
+contrivance,noun
  contrivances
-contrive
+contrive,verb
  contrived contrives contriving
-contriver
+contriver,noun
  contrivers
-control
+control,noun,verb
  controlled controlling controls
-controllable
-controller
+controllable,adjective
+controller,noun
  comptroller comptrollers controllers
-controversial
+controversial,adjective
  controversially
-controversy
+controversy,noun
  controversies
-controvert
+controvert,verb
  controverted controverting controverts
-controvertible
-contumacious
+controvertible,adjective
+contumacious,adjective
  contumaciously
-contumacy
-contumelious
-contumely
+contumacy,noun
+contumelious,adjective
+contumely,noun
  contumelies
-contuse
+contuse,verb
  contused contuses contusing
-contusion
+contusion,noun
  contusions
-conundrum
+conundrum,noun
  conundrums
-conurbation
+conurbation,noun
  conurbations
-convalesce
+convalesce,verb
  convalesced convalesces convalescing
-convalescence
+convalescence,noun
  convalescences
-convalescent
+convalescent,adjective,noun
  convalescents
-convection
-convectional
-convective
-convector
+convection,noun
+convectional,adjective
+convective,adjective
+convector,noun
  convectors
-convene
+convene,verb
  convened convenes convening
-convener
+convener,noun
  conveners convenor convenors
-convenience
+convenience,noun
  conveniences
-convenient
+convenient,adjective
  conveniently
-convent
+convent,noun
  convents
-conventicle
+conventicle,noun
  conventicles
-convention
+convention,noun
  conventions
-conventional
+conventional,adjective
  conventionally
-conventionality
-conventionalize
+conventionality,noun
+conventionalize,verb
  conventionalise conventionalised conventionalises conventionalising conventionalized conventionalizes conventionalizing
-conventioneer
+conventioneer,noun
  conventioneers
-converge
+converge,verb
  converged converges converging
-convergence
+convergence,noun
  convergences
-convergent
-conversant
-conversation
+convergent,adjective
+conversant,adjective
+conversation,noun
  conversations
-conversational
+conversational,adjective
  conversationally
-conversationalist
+conversationalist,noun
  conversationalists
-converse
+converse,adjective,verb,noun
  conversed conversely converses conversing
-conversion
+conversion,noun
  conversions
-convert
+convert,verb,noun
  converted converting converts
-converter
+converter,noun
  converters convertor convertors
-convertible
+convertible,adjective,noun
  convertibility convertibles
-convex
+convex,adjective
  convexly
-convexity
-convey
+convexity,noun
+convey,verb
  conveyed conveying conveys
-conveyable
-conveyance
+conveyable,adjective
+conveyance,noun
  conveyances
-conveyancing
-conveyor
+conveyancing,noun
+conveyor,noun
  conveyer conveyers conveyors
-convict
+convict,verb,noun
  convicted convicting convicts
-conviction
+conviction,noun
  convictions
-convince
+convince,verb
  convinced convinces convincing convincingly
-convivial
+convivial,adjective
  convivially
-conviviality
-convocation
+conviviality,noun
+convocation,noun
  convocations
-convoke
+convoke,verb
  convoked convokes convoking
-convoluted
-convolution
+convoluted,adjective
+convolution,noun
  convolutions
-convoy
+convoy,noun,verb
  convoyed convoying convoys
-convulse
+convulse,verb
  convulsed convulses convulsing
-convulsion
+convulsion,noun
  convulsions
-convulsive
+convulsive,adjective
  convulsively
-coo
+coo,exclamation,verb,noun
  cooed cooing coos
-cook
+cook,verb,noun
  cooked cooking cooks
-cookbook
+cookbook,noun
  cookbooks
-cooker
+cooker,noun
  cookers
-cookery
+cookery,noun
  cookeries
-cookhouse
+cookhouse,noun
  cookhouses
-cookie
+cookie,noun
  cookies cooky
-cookie-cutter
-cookout
+cookie-cutter,noun
+cookout,noun
  cookouts
-cooktop
+cooktop,noun
  cooktops
-cookware
+cookware,noun
  cookwares
-cool
+cool,adjective,noun,verb
  cooled cooler -> [cooler] coolest cooling coolly coolness cools
-coolant
+coolant,noun
  coolants
-coolbox
+coolbox,noun
  coolboxes
-cooler -> [cool]
+cooler,noun
  coolers
-coolheaded
-coolie
+coolheaded,adjective
+coolie,noun
  coolies
-coon
+coon,noun
  coons
-coonskin
+coonskin,noun
  coonskins
-coop
+coop,noun,verb
  cooped cooping coops
-co-op
+co-op,noun
  co-ops
-cooper
+cooper,noun,verb
  coopered coopering coopers
-cooperage
-cooperate
+cooperage,noun
+cooperate,verb
  cooperated cooperates cooperating
-cooperation
-cooperative
+cooperation,noun
+cooperative,adjective,noun
  cooperatively cooperativeness cooperatives
-cooperator
+cooperator,noun
  cooperators
-co-opt
+co-opt,verb
  co-opted co-opting co-opts
-coordinate
+coordinate,adjective,verb,noun
  coordinated coordinately coordinates coordinating
-coordination
-coordinator
+coordination,noun
+coordinator,noun
  coordinators
-coot
+coot,noun
  coots
-cootie
+cootie,noun
  cooties
-cop
+cop,abbreviation,noun,verb
  copped copping cops
-copacetic
-copay
-cope
+copacetic,adjective
+copay,noun
+cope,verb,noun
  coped copes coping -> [coping]
-copier
+copier,noun
  copiers
-copilot
+copilot,noun,verb
  copilots
-coping -> [cope]
+coping,noun
  copings
-copious
+copious,adjective
  copiously copiousness
-copper
+copper,noun,verb
  coppers
-copperhead
+copperhead,noun
  copperheads
-copperplate
-coppery
-coppice
+copperplate,adjective,noun
+coppery,adjective
+coppice,noun,verb
  coppiced coppices coppicing
-copra
-copse
+copra,noun
+copse,noun
  copses
-copter
+copter,noun
  copters
-copula
+copula,noun
  copulae copulas
-copulate
+copulate,verb
  copulated copulates copulating
-copulation
-copulative
+copulation,noun
+copulative,adjective
  copulatives
-copy
+copy,noun,verb
  copied copies copying
-copybook
+copybook,adjective,noun
  copybooks
-copycat
+copycat,noun
  copycats copycatted copycatting
-copyist
+copyist,noun
  copyists
-copyright
+copyright,adjective,noun,verb
  copyrighted copyrighting copyrights
-copywriter
+copywriter,noun
  copywriters
-coquetry
+coquetry,noun
  coquetries
-coquette
+coquette,noun
  coquetted coquettes coquetting coquettish coquettishly
-cor
-coracle
+cor,exclamation
+coracle,noun
  coracles
-coral
+coral,noun
  corals
-corbel
+corbel,noun,verb
  corbels
-cord
+cord,noun,verb
  corded cording cordless cords
-cordage
-cordial
+cordage,noun
+cordial,adjective,noun
  cordially cordials
-cordiality
-cordillera
+cordiality,noun
+cordillera,noun
  cordilleras
-cordite
-cordon
+cordite,noun
+cordon,noun,verb
  cordoned cordoning cordons
-cordovan
-corduroy
+cordovan,noun
+corduroy,noun,verb
  corduroys
-core
+core,abbreviation,noun,verb
  cored cores coring
-coreligionist
+coreligionist,noun
  coreligionists
-corer
+corer,noun
  corers
-corespondent
+corespondent,noun
  corespondents
-corgi
+corgi,noun
  corgis
-coriander
-cork
+coriander,noun
+cork,noun,verb,propernoun
  corked corking corks
-corkage
-corker
+corkage,noun
+corker,adjective,noun
  corkers
-corkscrew
+corkscrew,noun,verb
  corkscrewed corkscrewing corkscrews
-corm
+corm,noun
  corms
-cormorant
+cormorant,noun
  cormorants
-corn
+corn,noun
  corned corning corns
-cornball
+cornball,adjective,noun
  cornballs
-cornbread
-corncob
+cornbread,noun
+corncob,abbreviation,noun
  corncobs
-corncrake
+corncrake,noun
  corncrakes
-cornea
+cornea,noun
  corneas
-corneal
-corner
+corneal,adjective
+corner,noun,verb
  cornered cornering corners
-cornerstone
+cornerstone,noun
  cornerstones
-cornet
+cornet,noun
  cornets
-cornfield
+cornfield,noun
  cornfields
-cornflakes
-cornflour
-cornflower
+cornflakes,pluralnoun
+cornflour,noun
+cornflower,noun
  cornflowers
-cornice
+cornice,noun
  cornices
-cornmeal
-cornrow
+cornmeal,noun
+cornrow,pluralnoun
  cornrowed cornrowing cornrows
-cornstalk
+cornstalk,noun
  cornstalks
-cornstarch
-cornucopia
+cornstarch,noun
+cornucopia,noun
  cornucopias
-corny
+corny,adjective
  cornier corniest cornily corniness
-corolla
+corolla,noun
  corollas
-corollary
+corollary,adjective,noun
  corollaries
-corona
+corona,noun
  coronae coronas
-coronal
+coronal,adjective,noun
  coronals
-coronary
+coronary,adjective,noun
  coronaries
-coronation
+coronation,noun
  coronations
-coroner
+coroner,noun
  coroners
-coronet
+coronet,noun
  coronets
-corporal
+corporal,adjective,noun
  corporals
-corporate
+corporate,adjective,noun
  corporately
-corporation
+corporation,noun
  corporations
-corporatism
-corporeal
+corporatism,noun
+corporeal,adjective
  corporeally
-corporeality
-corps
-corpse
+corporeality,noun
+corps,noun
+corpse,noun,verb
  corpses
-corpsman
+corpsman,noun
  corpsmen
-corpulence
-corpulent
-corpus
+corpulence,noun
+corpulent,adjective
+corpus,noun
  corpora corpuses
-corpuscle
+corpuscle,noun
  corpuscles
-corpuscular
-corral
+corpuscular,adjective
+corral,verb,noun
  corralled corralling corrals
-correct
+correct,adjective,verb
  corrected correcter correctest correcting correctly correctness corrects
-correctable
-correction
+correctable,adjective
+correction,noun
  corrections
-correctional
-corrective
+correctional,adjective
+corrective,adjective,noun
  correctives
-correlate
+correlate,verb,noun
  correlated correlates correlating
-correlation
+correlation,noun
  correlations
-correlative
+correlative,adjective,noun
  correlatives
-correspond
+correspond,verb
  corresponded corresponding correspondingly corresponds
-correspondence
+correspondence,noun
  correspondences
-correspondent
+correspondent,adjective,noun
  correspondents
-corridor
+corridor,noun
  corridors
-corrie
+corrie,noun
  corries
-corroborate
+corroborate,verb
  corroborated corroborates corroborating
-corroboration
+corroboration,noun
  corroborations
-corroborative
-corroborator
+corroborative,adjective
+corroborator,noun
  corroborators
-corroboratory
-corrode
+corroboratory,adjective
+corrode,verb
  corroded corrodes corroding
-corrosion
-corrosive
+corrosion,noun
+corrosive,adjective,noun
  corrosively corrosives
-corrugate
+corrugate,verb
  corrugated corrugates corrugating
-corrugation
+corrugation,noun
  corrugations
-corrupt
+corrupt,adjective,verb
  corrupted corrupter corruptest corrupting corruptly corruptness corrupts
-corruptible
+corruptible,adjective
  corruptibility
-corruption
+corruption,noun
  corruptions
-corsage
+corsage,noun
  corsages
-corsair
+corsair,noun
  corsairs
-corset
+corset,noun
  corseted corseting corsets
-cortege
+cortege,noun
  corteges
-cortex
+cortex,noun
  cortexes cortices
-cortical
-cortisone
-corundum
-coruscate
+cortical,adjective
+cortisone,noun
+corundum,noun
+coruscate,verb
  coruscated coruscates coruscating
-coruscation
-corvette
+coruscation,noun
+corvette,noun
  corvettes
-cos -> [cause]
-cosh
+cos,conjunction,abbreviation,noun
+cosh,abbreviation,noun,verb
  coshed coshes coshing
-cosign
+cosign,verb
  cosigned cosigning cosigns
-cosignatory
+cosignatory,noun
  cosignatories
-cosigner
+cosigner!
  cosigners
-cosine
+cosine,noun
  cosines
-cosmetic
+cosmetic,adjective,noun
  cosmetically cosmetics
-cosmetician
+cosmetician,noun
  cosmeticians
-cosmetologist
+cosmetologist,noun
  cosmetologists
-cosmetology
-cosmic
+cosmetology,noun
+cosmic,adjective
  cosmically
-cosmogonist
+cosmogonist,noun
  cosmogonists
-cosmogony
+cosmogony,noun
  cosmogonies
-cosmological
-cosmologist
+cosmological,adjective
+cosmologist,noun
  cosmologists
-cosmology
+cosmology,noun
  cosmologies
-cosmonaut
+cosmonaut,noun
  cosmonauts
-cosmopolitan
+cosmopolitan,adjective,noun
  cosmopolitans
-cosmopolitanism
-cosmos
+cosmopolitanism,noun
+cosmos,noun
  cosmoses
-cosplay
-cosponsor
+cosplay,noun,verb
+cosponsor!
  cosponsored cosponsoring cosponsors
-cosset
+cosset,verb
  cosseted cosseting cossets cossetted cossetting
-cost
+cost,verb,noun
  costed costing -> [costing] costlier costliest costliness costly costs
-costar
+costar,noun,verb
  costarred costarring costars
-cost-cutting
-cost-effective
+cost-cutting,noun
+cost-effective,adjective
  cost-effectiveness
-costermonger
+costermonger,noun
  costermongers
-costing -> [cost]
+costing,noun
  costings
-costume
+costume,noun,verb
  costumed costumes costuming
-costumer
+costumer,noun
  costumers costumier costumiers
-cot
+cot,abbreviation,noun
  cots
-cotangent
+cotangent,noun
  cotangents
-cote
+cote,noun
  cotes
-coterie
+coterie,noun
  coteries
-coterminous
-cotillion
+coterminous,adjective
+cotillion,noun
  cotillions
-cottage
+cottage,noun,verb
  cottages
-cottager
+cottager,noun
  cottagers
-cottaging
-cotter
+cottaging,noun,verb
+cotter,noun
  cottar cottars cotters
-cotton
+cotton,noun,verb
  cottoned cottoning cottons
-cottonmouth
+cottonmouth,noun
  cottonmouths
-cottonseed
+cottonseed,noun
  cottonseeds
-cottontail
+cottontail,noun
  cottontails
-cottonwood
+cottonwood,noun
  cottonwoods
-cottony
-cotyledon
+cottony,adjective
+cotyledon,noun
  cotyledons
-couch
+couch,noun,verb
  couched couches couching
-couchette
+couchette,noun
  couchettes
-cougar
+cougar,noun
  cougars
-cough
+cough,verb,noun
  coughed coughing coughs
-could
+could,modalverb
  couldst
-coulee
+coulee,noun
  coulees
-coulis
-coulomb
+coulis,noun
+coulomb,noun
  coulombs
-council
+council,noun
  councils
-councilman
+councilman,noun
  councilmen
-councilor
+councilor,noun
  councillor councillors councilors
-councilperson
+councilperson!
  councilpersons
-councilwoman
+councilwoman,noun
  councilwomen
-counsel
+counsel,noun,verb
  counseled counseling counselled counselling counsels
-counselor
+counselor,noun
  counsellor counsellors counselors
-count
+count,verb,noun
  counted counting countless counts
-countable
-countdown
+countable,adjective
+countdown,noun
  countdowns
-countenance
+countenance,noun,verb
  countenanced countenances countenancing
-counter
+counter,adverb,adjective,noun,verb
  countered countering counters
-counteract
+counteract,verb
  counteracted counteracting counteracts
-counteraction
+counteraction,noun
  counteractions
-counteractive
-counterargument
+counteractive,adjective
+counterargument,noun
  counterarguments
-counterattack
+counterattack,noun,verb
  counterattacked counterattacking counterattacks
-counterbalance
+counterbalance,noun,verb
  counterbalanced counterbalances counterbalancing
-counterblast
+counterblast,noun
  counterblasts
-counterclaim
+counterclaim,noun,verb
  counterclaimed counterclaiming counterclaims
-counterclockwise
-counterculture
+counterclockwise,adjective,adverb
+counterculture,noun
  countercultures
-counterespionage
-counterfeit
+counterespionage,noun
+counterfeit,adjective,noun,verb
  counterfeited counterfeiting counterfeits
-counterfeiter
+counterfeiter,noun
  counterfeiters
-counterfoil
+counterfoil,noun
  counterfoils
-counterinsurgency
+counterinsurgency,noun
  counterinsurgencies
-counterintelligence
-counterintuitive
-counterman
+counterintelligence,noun
+counterintuitive,adjective
+counterman,noun
  countermen
-countermand
+countermand,verb,noun
  countermanded countermanding countermands
-countermeasure
+countermeasure,noun
  countermeasures
-counteroffensive
+counteroffensive,noun
  counteroffensives
-counteroffer
+counteroffer,noun
  counteroffered counteroffering counteroffers
-counterpane
+counterpane,noun
  counterpanes
-counterpart
+counterpart,noun
  counterparts
-counterpoint
+counterpoint,noun,verb
  counterpointed counterpointing counterpoints
-counterpoise
+counterpoise,noun,verb
  counterpoised counterpoises counterpoising
-counterproductive
-counterrevolution
+counterproductive,adjective
+counterrevolution,noun
  counterrevolutions
-counterrevolutionary
+counterrevolutionary,adjective,noun
  counterrevolutionaries
-countersign
+countersign,verb,noun
  countersigned countersigning countersigns
-countersignature
+countersignature,noun
  countersignatures
-countersink
+countersink,verb
  countersank countersinking countersinks countersunk
-counterspy
+counterspy,noun
  counterspies
-countertenor
+countertenor,noun
  countertenors
-counterterrorism
-counterterrorist
-countertop
+counterterrorism,noun
+counterterrorist,noun
+countertop,noun
  countertops
-countervail
+countervail,verb
  countervailed countervailing countervails
-counterweight
+counterweight,noun
  counterweights
-countess
+countess,noun
  countesses
-countrified
-country
+countrified,adjective
+country,noun
  countries
-countryman
+countryman,noun
  countrymen
-countryside
+countryside,noun
  countrysides
-countrywide
-countrywoman
+countrywide,adjective,adverb
+countrywoman,noun
  countrywomen
-county
+county,noun
  counties
-countywide
-coup
+countywide,adjective,adverb
+coup,noun
  coups
-coupe
+coupe,noun
  coupes
-couple
+couple,noun,verb
  coupled couples coupling -> [coupling]
-couplet
+couplet,noun
  couplets
-coupling -> [couple]
+coupling,noun
  couplings
-coupon
+coupon,noun,verb
  coupons
-courage
-courageous
+courage,noun
+courageous,adjective
  courageously courageousness
-courgette
+courgette,noun
  courgettes
-courier
+courier,noun,verb
  couriered couriering couriers
-course
+course,noun,verb
  coursed courses coursing
-coursebook
+coursebook,noun
  coursebooks
-courser
+courser,noun
  coursers
-courseware
-coursework
-court
+courseware,noun
+coursework,noun
+court,noun,verb
  courted courting courtlier courtliest courtliness courtly courts
-courteous
+courteous,adjective
  courteously courteousness
-courtesan
+courtesan,noun
  courtesans
-courtesy
+courtesy,noun
  courtesies
-courthouse
+courthouse,noun
  courthouses
-courtier
+courtier,noun
  courtiers
-court-martial
+court-martial,noun,verb
  court-martialed court-martialing court-martialled court-martialling court-martials courts-martial
-courtroom
+courtroom,noun
  courtrooms
-courtship
+courtship,noun
  courtships
-courtyard
+courtyard,noun
  courtyards
-couscous
-cousin
+couscous,noun
+cousin,noun
  cousins
-couture
-couturier
+couture,noun
+couturier,noun
  couturiers
-cove
+cove,noun,verb
  coves
-coven
+coven,noun
  covens
-covenant
+covenant,noun,verb
  covenanted covenanting covenants
-cover
+cover,verb,noun
  covered covering -> [covering] covers
-coverage
-coverall
+coverage,noun
+coverall,adjective,noun
  coveralls
-covering -> [cover]
+covering,noun
  coverings
-coverlet
+coverlet,noun
  coverlets
-covert
+covert,adjective,noun
  covertly covertness coverts
-coverup
+coverup,noun
  coverups
-covet
+covet,verb
  coveted coveting covets
-covetous
+covetous,adjective
  covetously covetousness
-covey
+covey,noun
  coveys
-cow
+cow,noun,verb
  cowed cowing cows kine
-coward
+coward,adjective,noun
  cowardliness cowardly cowards
-cowardice
-cowbell
+cowardice,noun
+cowbell,noun
  cowbells
-cowbird
+cowbird,noun
  cowbirds
-cowboy
+cowboy,noun,verb
  cowboys
-cowcatcher
+cowcatcher,noun
  cowcatchers
-cower
+cower,verb
  cowered cowering cowers
-cowgirl
+cowgirl,noun
  cowgirls
-cowhand
+cowhand,noun
  cowhands
-cowherd
+cowherd,noun
  cowherds
-cowhide
+cowhide,noun
  cowhides
-cowl
+cowl,noun
  cowls
-cowlick
+cowlick,noun
  cowlicks
-cowling
+cowling,noun
  cowlings
-cowman
+cowman,noun
  cowmen
-coworker
+coworker,noun
  coworkers
-cowpat
+cowpat,noun
  cowpats
-cowpie
+cowpie!
  cowpies
-cowpoke
+cowpoke,noun
  cowpokes
-cowpox
-cowpuncher
+cowpox,noun
+cowpuncher,noun
  cowpunchers
-cowrie
+cowrie,noun
  cowries cowry
-cowshed
+cowshed,noun
  cowsheds
-cowslip
+cowslip,noun
  cowslips
-cox
+cox,noun,verb
  coxed coxes coxing
-coxcomb
+coxcomb,noun
  coxcombs
-coxswain
+coxswain,noun
  coxswains
-coy
+coy,abbreviation,adjective
  coyer coyest coyly coyness
-coyote
+coyote,noun
  coyotes
-coypu
+coypu,noun
  coypus
-cozen
+cozen,verb
  cozened cozening cozens
-cozenage
-cozy
+cozenage,noun
+cozy,adjective,noun,verb
  cosied cosier cosies cosiest cosily cosiness cosy cosying cozied cozier cozies coziest cozily coziness cozying
-crab
+crab,noun,verb
  crabbed crabbing crablike crabs
-crabber
+crabber,noun
  crabbers
-crabby
+crabby,adjective
  crabbier crabbiest crabbily crabbiness
-crabgrass
-crabmeat
-crabwise
-crack
+crabgrass,noun
+crabmeat,noun
+crabwise,adjective,adverb
+crack,adjective,noun,verb
  cracked cracking cracks
-crackbrained
-crackdown
+crackbrained,adjective
+crackdown,noun
  crackdowns
-cracker
+cracker,noun
  crackers
-crackerjack
+crackerjack,adjective,noun
  crackerjacks
-crackhead
+crackhead,noun
  crackheads
-crackhouse
+crackhouse,noun
  crackhouses
-crackle
+crackle,verb,noun
  crackled crackles crackling -> [crackling]
-crackling -> [crackle]
+crackling,noun
  cracklings
-crackly
-crackpot
+crackly,adjective
+crackpot,adjective,noun
  crackpots
-crackup
+crackup,noun
  crackups
-cradle
+cradle,noun,verb
  cradled cradles cradling
-craft
+craft,noun,verb
  crafted crafting crafts
-craftsman
+craftsman,noun
  craftsmen
-craftsmanship
-craftsperson
+craftsmanship,noun
+craftsperson,noun
  craftspeople
-craftswoman
+craftswoman,noun
  craftswomen
-crafty
+crafty,adjective
  craftier craftiest craftily craftiness
-crag
+crag,noun
  crags
-craggy
+craggy,adjective
  craggier craggiest cragginess
-craic
-cram
+craic,noun
+cram,verb
  crammed cramming crams
-crammer
+crammer,noun
  crammers
-cramp
+cramp,noun,verb
  cramped cramping cramps
-crampon
+crampon,noun
  crampons
-cranberry
+cranberry,noun
  cranberries
-crane
+crane,noun,verb
  craned cranes craning
-cranefly
+cranefly,noun
  craneflies
-cranial
-cranium
+cranial,adjective
+cranium,noun
  crania craniums
-crank
+crank,adjective,verb,noun
  cranked cranking cranks
-crankcase
+crankcase,noun
  crankcases
-crankshaft
+crankshaft,noun
  crankshafts
-cranky
+cranky,adjective
  crankier crankiest crankily crankiness
-cranny
+cranny,noun
  crannied crannies
-crap
+crap,adjective,noun,verb
  crapped crapping craps
-crapola
-crapper
+crapola,noun
+crapper,noun
  crappers
-crappie
+crappie,noun
  crappies
-crappy
+crappy,adjective
  crappier crappiest
-crapshoot
+crapshoot,noun
  crapshoots
-crapshooter
+crapshooter,noun
  crapshooters
-crash
+crash,adverb,adjective,verb,noun
  crashed crashes crashing
-crass
+crass,adjective
  crasser crassest crassly crassness
-crate
+crate,noun,verb
  crated crates crating
-crater
+crater,noun,verb,propernoun
  cratered cratering craters
-cravat
+cravat,noun
  cravats
-crave
+crave,verb
  craved craves craving -> [craving]
-craven
+craven,adjective,noun
  cravenly cravenness cravens
-craving -> [crave]
+craving,noun
  cravings
-craw
+craw,noun
  craws
-crawdad
+crawdad,noun
  crawdads
-crawl
+crawl,verb,noun
  crawled crawling crawls
-crawler
+crawler,noun
  crawlers
-crawlspace
+crawlspace,noun
  crawlspaces
-crawly
+crawly,adjective
  crawlier crawlies crawliest
-crayfish
+crayfish,noun
  crawfish crawfishes crayfishes
-crayon
+crayon,noun,verb
  crayoned crayoning crayons
-craze
+craze,noun,verb
  crazed crazes crazing
-crazy
+crazy,adverb,adjective,noun
  crazier crazies craziest crazily craziness
-creak
+creak,verb,noun
  creaked creaking creaks
-creaky
+creaky,adjective
  creakier creakiest creakily creakiness
-cream
+cream,noun,verb
  creamed creaming creams
-creamer
+creamer,noun
  creamers
-creamery
+creamery,noun
  creameries
-creampuff
+creampuff!
  creampuffs
-creamy
+creamy,adjective
  creamier creamiest creamily creaminess
-crease
+crease,noun,verb
  creased creases creasing
-create
+create,verb
  created creates creating
-creation
+creation,noun
  creations
-creationism
-creationist
+creationism,noun
+creationist,adjective,noun
  creationists
-creative
+creative,adjective,noun
  creatively creativeness creatives
-creativity
-creator
+creativity,noun
+creator,noun
  creators
-creature
+creature,noun
  creatures
-creche
+creche,noun
  creches
-cred
-credence
-credential
+cred,noun
+credence,noun
+credential,noun,verb
  credentialed credentialing credentials
-credenza
+credenza,noun
  credenzas
-credible
+credible,adjective
  credibility credibly
-credit
+credit,noun,verb
  credited crediting credits
-creditable
+creditable,adjective
  creditably
-creditor
+creditor,noun
  creditors
-creditworthy
+creditworthy,adjective
  creditworthiness
-credo
+credo,noun
  credos
-credulity
-credulous
+credulity,noun
+credulous,adjective
  credulously credulousness
-creed
+creed,noun
  creeds
-creek
+creek,adjective,noun
  creeks
-creel
+creel,noun
  creels
-creep
+creep,verb,noun
  creeped creeping creeps crept
-creeper
+creeper,noun
  creepers
-creepy
+creepy,adjective
  creepier creepiest creepily creepiness
-cremains
-cremate
+cremains,pluralnoun
+cremate,verb
  cremated cremates cremating
-cremation
+cremation,noun
  cremations
-crematorium
+crematorium,noun
  crematoria crematoriums
-crematory
+crematory,adjective,noun
  crematories
-creme
+creme,noun
  cremes
-crenelate
+crenelate,verb
  crenelated crenelates crenelating crenellate crenellated crenellates crenellating
-crenelation
+crenelation!
  crenelations crenellation crenellations
-creole
+creole,adjective,noun
  creoles
-creosote
+creosote,noun,verb
  creosoted creosotes creosoting
-crepe
+crepe,noun
  crape crapes crepes
-crepuscular
-crescendo
+crepuscular,adjective
+crescendo,adjective,adverb,noun,verb
  crescendi crescendoes crescendos
-crescent
+crescent,adjective,noun
  crescents
-cress
-crest
+cress,noun
+crest,noun,verb
  crested cresting crestless crests
-crestfallen
-cretaceous
-cretin
+crestfallen,adjective
+cretaceous,adjective
+cretin,noun
  cretins
-cretinism
-cretinous
-cretonne
-crevasse
+cretinism,noun
+cretinous,adjective
+cretonne,noun
+crevasse,noun
  crevasses
-crevice
+crevice,noun
  crevices
-crew -> [crow]
+crew,noun,verb
  crewed crewing crews
-crewcut
+crewcut,noun
  crewcuts
-crewel
-crewelwork
-crewman
+crewel,noun
+crewelwork,noun
+crewman,noun
  crewmen
-crewneck
+crewneck!
  crewnecks
-crib
+crib,noun,verb
  cribbed cribbing cribs
-cribbage
-cribber
+cribbage,noun
+cribber,noun
  cribbers
-crick
+crick,noun,verb
  cricked cricking cricks
-cricket
+cricket,noun
  cricketing crickets
-cricketer
+cricketer,noun
  cricketers
-crier
+crier,noun
  criers
-crikey
-crime
+crikey,exclamation
+crime,noun,verb
  crimes
-criminal
+criminal,adjective,noun
  criminally criminals
-criminality
-criminalize
+criminality,noun
+criminalize,verb
  criminalise criminalised criminalises criminalising criminalized criminalizes criminalizing
-criminologist
+criminologist,noun
  criminologists
-criminology
-crimp
+criminology,noun
+crimp,verb,noun
  crimped crimping crimps
-crimplene
-crimson
+crimplene,noun
+crimson,adjective,noun,verb
  crimsoned crimsoning crimsons
-cringe
+cringe,verb,noun
  cringed cringes cringing
-cringeworthy
-crinkle
+cringeworthy,adjective
+crinkle,verb,noun
  crinkled crinkles crinkling
-crinkly
+crinkly,adjective
  crinklier crinkliest
-crinoline
+crinoline,noun
  crinolines
-cripes
-cripple
+cripes,exclamation
+cripple,verb,noun
  crippled cripples crippling cripplingly
-crippler
+crippler,noun
  cripplers
-crisis
+crisis,noun
  crises
-crisp
+crisp,adjective,noun,verb
  crisped crisper crispest crisping crisply crispness crisps
-crispbread
+crispbread,noun
  crispbreads
-crispy
+crispy,adjective
  crispier crispiest crispiness
-crisscross
+crisscross,adjective,noun,verb
  crisscrossed crisscrosses crisscrossing
-criterion
+criterion,noun
  criteria criterions
-critic
+critic,noun
  critics
-critical
+critical,adjective
  critically
-criticism
+criticism,noun
  criticisms
-criticize
+criticize,verb
  criticise criticised criticises criticising criticized criticizes criticizing
-criticizer
+criticizer,noun
  criticiser criticisers criticizers
-critique
+critique,noun,verb
  critiqued critiques critiquing
-critter
+critter,noun
  critters
-croak
+croak,noun,verb
  croaked croaking croaks
-croaky
+croaky,adjective
  croakier croakiest
-croc
+croc,noun
  crocs
-crochet
+crochet,noun,verb
  crocheted crocheting crochets
-crocheter
+crocheter,noun
  crocheters
-crock
+crock,noun,verb
  crocks
-crocked
-crockery
-crocodile
+crocked,adjective
+crockery,noun
+crocodile,noun
  crocodiles
-crocus
+crocus,noun
  croci crocuses
-croft
+croft,noun,verb
  crofts
-crofter
+crofter,noun
  crofters
-crofting
-croissant
+crofting,noun
+croissant,noun
  croissants
-crone
+crone,noun
  crones
-crony
+crony,noun
  cronies
-cronyism
-crook
+cronyism,noun
+crook,adjective,noun,verb
  crooked -> [crooked] crooking crooks
-crooked -> [crook]
+crooked,adjective
  crookeder crookedest crookedly crookedness
-crookneck
+crookneck,noun
  crooknecks
-croon
+croon,verb,noun
  crooned crooning croons
-crooner
+crooner,noun
  crooners
-crop
+crop,noun,verb
  cropped cropping crops
-cropland
+cropland,noun
  croplands
-cropper
+cropper,noun
  croppers
-croquet
-croquette
+croquet,noun,verb
+croquette,noun
  croquettes
-crore
+crore,noun
  crores
-crosier
+crosier,noun
  crosiers crozier croziers
-cross
+cross,adjective,noun,verb
  crossed crosser crosses crossest crossing -> [crossing] crossly crossness
-crossbar
+crossbar,noun
  crossbars
-crossbeam
+crossbeam,noun
  crossbeams
-crossbones
-cross-border
-crossbow
+crossbones,noun
+cross-border,adjective
+crossbow,noun
  crossbows
-crossbowman
+crossbowman,noun
  crossbowmen
-crossbreed
+crossbreed,verb,noun
  crossbred crossbreeding crossbreeds
-crosscheck
+crosscheck,verb,noun
  crosschecked crosschecking crosschecks
-cross-country
-cross-cultural
-crosscurrent
+cross-country,adjective,noun
+cross-cultural,adjective
+crosscurrent,noun
  crosscurrents
-crosscut
+crosscut,adjective,verb,noun
  crosscuts crosscutting
-cross-examination
+cross-examination,noun
  cross-examinations
-cross-examine
+cross-examine,verb
  cross-examined cross-examines cross-examining
-crossfire
+crossfire,noun
  crossfires
-crosshatch
+crosshatch,verb
  crosshatched crosshatches crosshatching
-crossing -> [cross]
+crossing,noun
  crossings
-cross-legged
-crossover
+cross-legged,adjective,adverb
+crossover,noun
  crossovers
-crosspatch
+crosspatch,noun
  crosspatches
-crosspiece
+crosspiece,noun
  crosspieces
-crossroad
+crossroad!
  crossroads
-cross-section
+cross-section,noun,verb
  cross-sections
-cross-sectional
-crosstown
-crosswalk
+cross-sectional,adjective
+crosstown,adjective,adverb
+crosswalk,noun
  crosswalks
-crosswind
+crosswind,noun
  crosswinds
-crosswise
+crosswise,adverb
  crossways
-crossword
+crossword,noun
  crosswords
-crotch
+crotch,noun
  crotches
-crotchet
+crotchet,noun
  crotchets
-crotchety
-crouch
+crotchety,adjective
+crouch,verb,noun
  crouched crouches crouching
-croup
-croupier -> [croupy]
+croup,noun
+croupier,noun
  croupiers
-croupy
+croupy,adjective
  croupier -> [croupier] croupiest
-crouton
+crouton,noun
  croutons
-crow
+crow,adjective,noun,verb
  crew -> [crew] crowed crowing crows
-crowbar
+crowbar,noun,verb
  crowbars
-crowd
+crowd,noun,verb
  crowded crowding crowds
-crowdfund
+crowdfund,verb
  crowdfunded crowdfunding crowdfunds
-crowfoot
+crowfoot,noun
  crowfeet crowfoots
-crown
+crown,noun,verb
  crowned crowning crowns
-crucial
+crucial,adjective
  crucially
-crucible
+crucible,noun
  crucibles
-crucifix
+crucifix,noun
  crucifixes
-crucifixion
+crucifixion,noun
  crucifixions
-cruciform
+cruciform,adjective,noun
  cruciforms
-crucify
+crucify,verb
  crucified crucifies crucifying
-crud
-cruddy
+crud,noun
+cruddy,adjective
  cruddier cruddiest
-crude
+crude,adjective,noun
  crudely crudeness cruder crudest
-crudites
-crudity
+crudites,pluralnoun
+crudity,noun
  crudities
-cruel
+cruel,adjective,verb
  crueler cruelest crueller cruellest cruelly cruelness
-cruelty
+cruelty,noun
  cruelties
-cruet
+cruet,noun
  cruets
-cruise
+cruise,verb,noun
  cruised cruises cruising
-cruiser
+cruiser,noun
  cruisers
-cruller
+cruller,noun
  crullers
-crumb
+crumb,noun,verb
  crumbed crumbing crumbs
-crumble
+crumble,verb,noun
  crumbled crumbles crumbling
-crumbly
+crumbly,adjective,noun
  crumblier crumbliest crumbliness
-crumby
+crumby,adjective
  crumbier crumbiest
-crummy
+crummy,adjective,noun
  crummier crummiest crumminess
-crumpet
+crumpet,noun
  crumpets
-crumple
+crumple,verb,noun
  crumpled crumples crumpling
-crunch
+crunch,verb,noun
  crunched crunches crunching
-crunchy
+crunchy,adjective
  crunchier crunchiest crunchiness
-crupper
+crupper,noun
  cruppers
-crusade
+crusade,noun,verb
  crusaded crusades crusading
-crusader
+crusader,noun
  crusaders
-cruse
+cruse,noun
  cruses
-crush
+crush,verb,noun
  crushed crushes crushing crushingly
-crusher
+crusher,noun
  crushers
-crust
+crust,noun,verb
  crusted crusting crusts
-crustacean
+crustacean,adjective,noun
  crustaceans
-crustal
-crusty
+crustal,adjective
+crusty,adjective,noun
  crustier crusties crustiest crustily crustiness
-crutch
+crutch,noun
  crutches
-crux
+crux,noun,propernoun
  cruces cruxes
-cry
+cry,verb,noun
  cried cries crying
-crybaby
+crybaby,noun
  crybabies
-cryogenic
+cryogenic,adjective
  cryogenics
-cryonics
-cryosurgery
-crypt
+cryonics,pluralnoun
+cryosurgery,noun
+crypt,noun
  crypts
-cryptic
+cryptic,adjective
  cryptically
-cryptogram
+cryptogram,noun
  cryptograms
-cryptographer
+cryptographer,noun
  cryptographers
-cryptography
-crystal
+cryptography,noun
+crystal,adjective,noun
  crystals
-crystalline
-crystallization
+crystalline,adjective
+crystallization,noun
  crystallisation
-crystallize
+crystallize,verb
  crystallise crystallised crystallises crystallising crystallized crystallizes crystallizing
-c-section
+c-section,noun
  c-sections
-cub
+cub,noun,verb
  cubs
-cubbyhole
+cubbyhole,noun
  cubbyholes
-cube
+cube,noun,verb
  cubed cubes cubing
-cuber
+cuber,noun,verb
  cubers
-cubic
-cubical
-cubicle
+cubic,adjective,noun
+cubical,adjective
+cubicle,noun
  cubicles
-cubism
-cubist
+cubism,noun
+cubist,adjective,noun
  cubists
-cubit
+cubit,noun
  cubits
-cuboid
+cuboid,adjective,noun
  cuboids
-cuckold
+cuckold,noun,verb
  cuckolded cuckolding cuckolds
-cuckoldry
-cuckoo
+cuckoldry,noun
+cuckoo,adjective,noun
  cuckoos
-cucumber
+cucumber,noun
  cucumbers
-cud
+cud,noun
  cuds
-cuddle
+cuddle,verb,noun
  cuddled cuddles cuddling
-cuddly
+cuddly,adjective
  cuddlier cuddliest
-cudgel
+cudgel,noun,verb
  cudgeled cudgeling cudgelled cudgelling cudgels
-cue
+cue,noun,verb
  cued cueing cues cuing
-cuff
+cuff,noun,verb
  cuffed cuffing cuffs
-cufflink
+cufflink,noun
  cufflinks
-cuisine
+cuisine,noun
  cuisines
-cul-de-sac
+cul-de-sac,noun
  cul-de-sacs culs-de-sac
-culinary
-cull
+culinary,adjective
+cull,verb,noun
  culled culling culls
-cullender
+cullender!
  cullenders
-culminate
+culminate,verb
  culminated culminates culminating
-culmination
+culmination,noun
  culminations
-culotte
+culotte,noun
  culottes
-culpable
+culpable,adjective
  culpability culpably
-culprit
+culprit,noun
  culprits
-cult
+cult,noun
  cults
-cultism
-cultist
+cultism,noun
+cultist,noun
  cultists
-cultivable
-cultivatable
-cultivate
+cultivable,adjective
+cultivatable,adjective
+cultivate,verb
  cultivated cultivates cultivating
-cultivation
-cultivator
+cultivation,noun
+cultivator,noun
  cultivators
-cultural
+cultural,adjective
  culturally
-culture
+culture,noun,verb
  cultured cultures culturing
-culvert
+culvert,noun,verb
  culverts
-cum -> [come]
-cumber
+cum,verb,noun,preposition
+cumber,verb,noun
  cumbered cumbering cumbers
-cumbersome
+cumbersome,adjective
  cumbersomeness
-cumbrous
-cumin
-cummerbund
+cumbrous,adjective
+cumin,noun
+cummerbund,noun
  cummerbunds
-cumulative
+cumulative,adjective
  cumulatively
-cumulonimbus
+cumulonimbus,noun
  cumulonimbi cumulonimbuses
-cumulus
+cumulus,noun
  cumuli
-cuneiform
-cunnilingus
-cunning
+cuneiform,adjective,noun
+cunnilingus,noun
+cunning,adjective,noun
  cunninger cunningest cunningly
-cunt
+cunt,noun
  cunts
-cup
+cup,abbreviation,noun,verb
  cupful cupfuls cupped cupping cups cupsful
-cupboard
+cupboard,noun
  cupboards
-cupcake
+cupcake,noun
  cupcakes
-cupid
+cupid,propernoun
  cupids
-cupidity
-cupola
+cupidity,noun
+cupola,noun
  cupolaed cupolas
-cuppa
+cuppa,noun,contraction
  cuppas
-cupric
-cur
+cupric,adjective
+cur,noun
  curs
-curable
+curable,adjective
  curability
-curacao
-curacy
+curacao,noun,propernoun
+curacy,noun
  curacies
-curare
-curate
+curare,noun
+curate,noun,verb
  curated curates curating
-curative
+curative,adjective,noun
  curatives
-curator
+curator,noun
  curators
-curatorial
-curb
+curatorial,adjective
+curb,noun,verb
  curbed curbing curbs kerb kerbs
-curbside
+curbside,noun
  curbsides kerbside kerbsides
-curbstone
+curbstone,noun
  curbstones kerbstone kerbstones
-curd
+curd,noun
  curds
-curdle
+curdle,verb
  curdled curdles curdling
-cure
+cure,verb,noun
  cured cures curing
-curer
+curer,noun
  curers
-curettage
-curfew
+curettage,noun
+curfew,noun
  curfews
-curia
+curia,propernoun
  curiae
-curie
+curie,noun,propernoun
  curies
-curio
+curio,noun
  curios
-curiosity
+curiosity,noun
  curiosities
-curious
+curious,adjective
  curiously curiousness
-curium
-curl
+curium,noun
+curl,verb,noun
  curled curling curls
-curler
+curler,noun
  curlers
-curlew
+curlew,noun
  curlews
-curlicue
+curlicue,noun
  curlicued curlicues curlicuing curlycue curlycued curlycues curlycuing
-curly
+curly,adjective
  curlier curliest curliness
-curmudgeon
+curmudgeon,noun
  curmudgeonly curmudgeons
-currant
+currant,noun
  currants
-currency
+currency,noun
  currencies
-current
+current,adjective,noun
  currently currents
-curricular
-curriculum
+curricular,adjective
+curriculum,noun
  curricula curriculums
-curry
+curry,noun,verb
  curried curries currying
-currycomb
+currycomb,noun
  currycombed currycombing currycombs
-curse
+curse,noun,verb
  cursed cursedly curses cursing curst
-cursive
+cursive,adjective,noun
  cursively
-cursor
+cursor,noun
  cursors
-cursory
+cursory,adjective
  cursorily cursoriness
-curt
+curt,adjective
  curter curtest curtly curtness
-curtail
+curtail,verb
  curtailed curtailing curtails
-curtailment
+curtailment,noun
  curtailments
-curtain
+curtain,noun,verb
  curtained curtaining curtains
-curtsy
+curtsy,noun,verb
  curtsey curtseyed curtseying curtseys curtsied curtsies curtsying
-curvaceous
+curvaceous,adjective
  curvaceousness curvacious
-curvature
+curvature,noun
  curvatures
-curve
+curve,noun,verb
  curved curves curving
-curveball
+curveball,noun
  curveballs
-curvy
+curvy,adjective
  curvier curviest
-cushion
+cushion,noun,verb
  cushioned cushioning cushions
-cushy
+cushy,adjective
  cushier cushiest
-cusp
+cusp,noun
  cusps
-cuspid
+cuspid,noun
  cuspids
-cuspidor
+cuspidor,noun
  cuspidors
-cuss
+cuss,noun,verb
  cussed -> [cussed] cusses cussing
-cussed -> [cuss]
+cussed,adjective
  cussedly cussedness
-cussword
+cussword!
  cusswords
-custard
+custard,noun
  custards
-custodial
-custodian
+custodial,adjective
+custodian,noun
  custodians
-custodianship
-custody
-custom
+custodianship,noun
+custody,noun
+custom,adjective,noun
  customs
-customary
+customary,adjective,noun
  customarily
-custom-built
-customer
+custom-built,adjective
+customer,noun
  customers
-customhouse
+customhouse,noun
  customhouses
-customization
+customization,noun
  customisation
-customize
+customize,verb
  customise customised customises customising customized customizes customizing
-custom-made
-cut
+custom-made,adjective
+cut,verb,noun
  cuts cutting -> [cutting]
-cutaneous
-cutaway
+cutaneous,adjective
+cutaway,noun
  cutaways
-cutback
+cutback,noun
  cutbacks
-cute
+cute,adjective
  cutely cuteness cuter cutest
-cutesy
+cutesy,adjective
  cutesie cutesier cutesiest
-cuticle
+cuticle,noun
  cuticles
-cutie
+cutie,noun
  cutey cuteys cuties
-cutlass
+cutlass,noun
  cutlas cutlases cutlasses
-cutler
+cutler,noun
  cutlers
-cutlery
-cutlet
+cutlery,noun
+cutlet,noun
  cutlets
-cutoff
+cutoff,noun
  cutoffs
-cutout
+cutout,noun
  cutouts
-cutter
+cutter,noun
  cutters
-cutthroat
+cutthroat,adjective,noun
  cutthroats
-cutting -> [cut]
+cutting,adjective,noun
  cuttingly cuttings
-cutting-edge
-cuttlefish
+cutting-edge,adjective,noun
+cuttlefish,noun
  cuttlefishes
-cutup
+cutup,adjective,noun,phrasalverb
  cutups
-cutworm
+cutworm,noun
  cutworms
-cyan
-cyanide
-cyberbully
+cyan,noun
+cyanide,noun
+cyberbully,noun
  cyberbullies
-cybercafe
+cybercafe,noun
  cybercafes
-cybercrime
-cybernetic
+cybercrime,noun
+cybernetic,adjective
  cybernetics
-cyberpunk
+cyberpunk,noun
  cyberpunks
-cybersex
-cyberspace
-cybersquatter
+cybersex,noun
+cyberspace,noun
+cybersquatter,noun
  cybersquatters
-cybersquatting
-cyberstalking
-cyborg
+cybersquatting,noun
+cyberstalking,noun
+cyborg,noun
  cyborgs
-cyclamen
+cyclamen,noun
  cyclamens
-cycle
+cycle,noun,verb
  cycled cycles cycling
-cyclic
-cyclical
+cyclic,adjective
+cyclical,adjective
  cyclically
-cyclist
+cyclist,noun
  cyclists
-cyclometer
+cyclometer,noun
  cyclometers
-cyclone
+cyclone,noun
  cyclones
-cyclonic
-cyclops
+cyclonic,adjective
+cyclops,noun
  cyclopes
-cyclotron
+cyclotron,noun
  cyclotrons
-cygnet
+cygnet,noun
  cygnets
-cylinder
+cylinder,noun
  cylinders
-cylindrical
-cymbal
+cylindrical,adjective
+cymbal,noun
  cymbals
-cymbalist
+cymbalist,noun
  cymbalists
-cynic
+cynic,noun
  cynics
-cynical
+cynical,adjective
  cynically
-cynicism
-cynosure
+cynicism,noun
+cynosure,noun
  cynosures
-cypress
+cypress,noun
  cypresses
-cyrillic
-cyst
+cyrillic,adjective,noun
+cyst,noun
  cysts
-cystic
-cystitis
-cytologist
+cystic,adjective
+cystitis,noun
+cytologist,noun
  cytologists
-cytology
-cytoplasm
-cytoplasmic
-cytosine
-czar
+cytology,noun
+cytoplasm,noun
+cytoplasmic,adjective
+cytosine,noun
+czar,noun
  czars tsar tsars tzar tzars
-czarina
+czarina,noun
  czarinas tsarina tsarinas tzarina tzarinas
-czarism
+czarism!
  tsarism tzarism
-czarist
+czarist!
  czarists tsarist tsarists tzarist tzarists
