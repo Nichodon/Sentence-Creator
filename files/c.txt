@@ -2441,7 +2441,7 @@ clique
  cliques cliquish cliquishly cliquishness
 cliquey
  cliquier cliquiest
-clit!
+clit
  clits
 clitoral
 clitoris
@@ -5421,7 +5421,7 @@ crowbar
  crowbars
 crowd
  crowded crowding crowds
-crowdfund!
+crowdfund
  crowdfunded crowdfunding crowdfunds
 crowfoot
  crowfeet crowfoots
