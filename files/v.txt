@@ -1,914 +1,914 @@
-vac
+vac,noun
  vacs
-vacancy
+vacancy,noun
  vacancies
-vacant
+vacant,adjective
  vacantly
-vacate
+vacate,verb
  vacated vacates vacating
-vacation
+vacation,verb,noun
  vacationed vacationing vacations
-vacationer
+vacationer,noun
  vacationers
-vacationist
+vacationist,noun
  vacationists
-vaccinate
+vaccinate,verb
  vaccinated vaccinates vaccinating
-vaccination
+vaccination,noun
  vaccinations
-vaccine
+vaccine,noun
  vaccines
-vacillate
+vacillate,verb
  vacillated vacillates vacillating
-vacillation
+vacillation,noun
  vacillations
-vacuity
-vacuole
+vacuity,noun
+vacuole,noun
  vacuoles
-vacuous
+vacuous,adjective
  vacuously vacuousness
-vacuum
+vacuum,verb,noun
  vacua vacuumed vacuuming vacuums
-vagabond
+vagabond,adjective,verb,noun
  vagabonds
-vagabondage
-vagarious
-vagary
+vagabondage,noun
+vagarious,adjective
+vagary,noun
  vagaries
-vagina
+vagina,noun
  vaginae vaginas
-vaginal
+vaginal,adjective
  vaginally
-vagrancy
-vagrant
+vagrancy,noun
+vagrant,adjective,noun
  vagrants
-vague
+vague,adjective
  vaguely vagueness vaguer vaguest
-vain
+vain,adjective
  vainer vainest vainly
-vainglorious
+vainglorious,adjective
  vaingloriously
-vainglory
-valance
+vainglory,noun
+valance,noun
  valances
-vale
+vale,exclamation,noun
  vales
-valediction
+valediction,noun
  valedictions
-valedictorian
+valedictorian,noun
  valedictorians
-valedictory
+valedictory,adjective,noun
  valedictories
-valence
+valence,noun
  valences valencies valency
-valentine
+valentine,noun
  valentines
-valet
+valet,verb,noun
  valeted valeting valets
-valetudinarian
+valetudinarian,adjective,noun
  valetudinarians
-valetudinarianism
-valiance
-valiant
+valetudinarianism,noun
+valiance,noun
+valiant,adjective
  valiantly
-valid
+valid,adjective
  validly validness
-validate
+validate,verb
  validated validates validating
-validation
+validation,noun
  validations
-validity
-valise
+validity,noun
+valise,noun
  valises
-valley
+valley,noun
  valleys
-valor
+valor,noun
  valour
-valorous
+valorous,adjective
  valorously
-valuable
+valuable,adjective,noun
  valuables
-valuate
+valuate,verb
  valuated valuates valuating
-valuation
+valuation,noun
  valuations
-value
+value,verb,noun
  valued valueless values valuing
-valuer
+valuer,noun
  valuers
-valve
+valve,noun
  valved valveless valves valving
-valvular
-vamoose
+valvular,adjective
+vamoose,verb
  vamoosed vamooses vamoosing
-vamp
+vamp,verb,noun
  vamped vamping vamps
-vampire
+vampire,noun
  vampires
-van
+van,noun
  vanned vanning vans
-vanadium
-vandal
+vanadium,noun
+vandal,noun
  vandals
-vandalism
-vandalize
+vandalism,noun
+vandalize,verb
  vandalise vandalised vandalises vandalising vandalized vandalizes vandalizing
-vane
+vane,noun
  vanes
-vanguard
+vanguard,noun
  vanguards
-vanilla
+vanilla,adjective,noun
  vanillas
-vanish
+vanish,verb
  vanished vanishes vanishing
-vanity
+vanity,noun
  vanities
-vanquish
+vanquish,verb
  vanquished vanquishes vanquishing
-vanquisher
+vanquisher,noun
  vanquishers
-vantage
+vantage,noun
  vantages
-vape!
+vape,verb,noun
  vaped vapes vaping
-vapid
+vapid,adjective
  vapidly vapidness
-vapidity
-vapor
+vapidity,noun
+vapor,verb,noun
  vapors vapour vapours
-vaporization
+vaporization,noun
  vaporisation
-vaporize
+vaporize,verb
  vaporise vaporised vaporises vaporising vaporized vaporizes vaporizing
-vaporizer
+vaporizer,noun
  vaporiser vaporisers vaporizers
-vaporous
-vaporware
+vaporous,adjective
+vaporware,noun
  vapourware
-vapory
+vapory,adjective
  vapoury
-vaquero
+vaquero,noun
  vaqueros
-variable
+variable,adjective,noun
  variability variables variably
-variance
+variance,noun
  variances
-variant
+variant,noun
  variants
-variation
+variation,noun
  variations
-varicolored
-varicose
-variegate
+varicolored,adjective
+varicose,adjective
+variegate,verb
  variegated variegates variegating
-variegation
-varietal
+variegation,noun
+varietal,adjective,noun
  varietals
-variety
+variety,noun
  varieties
-various
+various,adjective,pronoun,determiner
  variously
-varlet
+varlet,noun
  varlets
-varmint
+varmint,noun
  varmints
-varnish
+varnish,verb,noun
  varnished varnishes varnishing
-varsity
+varsity,noun
  varsities
-vary
+vary,verb
  varied varies varying
-vascular
-vase
+vascular,adjective
+vase,noun
  vases
-vasectomy
+vasectomy,noun
  vasectomies
-vasomotor
-vassal
+vasomotor,adjective
+vassal,noun
  vassals
-vassalage
-vast
+vassalage,noun
+vast,adjective,noun
  vaster vastest vastly vastness vasts
-vat
+vat,abbreviation,verb,noun
  vats vatted vatting
-vaudeville
-vaudevillian
+vaudeville,noun
+vaudevillian,adjective,noun
  vaudevillians
-vault
+vault,verb,noun
  vaulted vaulting vaults
-vaulter
+vaulter,noun
  vaulters
-vaunt
+vaunt,verb,noun
  vaunted vaunting vaunts
-veal
-vector
+veal,noun
+vector,verb,noun
  vectored vectoring vectors
-veejay
+veejay,noun
  veejays
-veep
+veep,noun
  veeps
-veer
+veer,verb,noun
  veered veering veers
-veg
+veg,verb,noun
  veges vegged vegges vegging vegs
-vegan
+vegan,adjective,noun
  vegans
-vegetable
+vegetable,adjective,noun
  vegetables
-vegetarian
+vegetarian,adjective,noun
  vegetarians
-vegetarianism
-vegetate
+vegetarianism,noun
+vegetate,verb
  vegetated vegetates vegetating
-vegetation
-vegetative
-veggie
+vegetation,noun
+vegetative,adjective
+veggie,adjective,noun
  veggies
-veggieburger
+veggieburger!
  vegeburger vegeburgers veggieburgers
-vehemence
+vehemence,noun
  vehemency
-vehement
+vehement,adjective
  vehemently
-vehicle
+vehicle,noun
  vehicles
-vehicular
-veil
+vehicular,adjective
+veil,verb,noun
  veiled veiling veils
-vein
+vein,noun
  veined veining veins
-velar
+velar,adjective,noun
  velars
-veldt
+veldt,noun
  veld velds veldts
-vellum
-velocipede
+vellum,noun
+velocipede,noun
  velocipedes
-velocity
+velocity,noun
  velocities
-velodrome
+velodrome,noun
  velodromes
-velour
+velour,noun
  velours
-velum
+velum,noun
  vela
-velvet
+velvet,noun
  velvets
-velveteen
-velvety
-venal
+velveteen,noun
+velvety,adjective
+venal,adjective
  venally
-venality
-venation
-vend
+venality,noun
+venation,noun
+vend,verb
  vended vending vends
-vendetta
+vendetta,noun
  vendettas
-vendible
-vendor
+vendible,adjective
+vendor,noun
  vender venders vendors
-veneer
+veneer,verb,noun
  veneered veneering veneers
-venerable
+venerable,adjective
  venerability
-venerate
+venerate,verb
  venerated venerates venerating
-veneration
-venereal
-vengeance
-vengeful
+veneration,noun
+venereal,adjective
+vengeance,noun
+vengeful,adjective
  vengefully
-venial
-venireman
+venial,adjective
+venireman!
  veniremen
-venison
-venom
-venomous
+venison,noun
+venom,noun
+venomous,adjective
  venomously
-venous
-vent
+venous,adjective
+vent,verb,noun
  vented venting vents
-ventilate
+ventilate,verb
  ventilated ventilates ventilating
-ventilation
-ventilator
+ventilation,noun
+ventilator,noun
  ventilators
-ventral
-ventricle
+ventral,adjective
+ventricle,noun
  ventricles
-ventricular
-ventriloquism
-ventriloquist
+ventricular,adjective
+ventriloquism,noun
+ventriloquist,noun
  ventriloquists
-ventriloquy
-venture
+ventriloquy,noun
+venture,verb,noun
  ventured ventures venturing
-venturesome
+venturesome,adjective
  venturesomely venturesomeness
-venturous
+venturous,adjective
  venturously venturousness
-venue
+venue,noun
  venues
-veracious
+veracious,adjective
  veraciously
-veracity
-veranda
+veracity,noun
+veranda,noun
  verandah verandahs verandas
-verb
+verb,verb,noun
  verbs
-verbal
+verbal,adjective,verb,noun
  verbally verbals
-verbalization
+verbalization,noun
  verbalisation
-verbalize
+verbalize,verb
  verbalise verbalised verbalises verbalising verbalized verbalizes verbalizing
-verbatim
-verbena
+verbatim,adjective,adverb
+verbena,noun
  verbenas
-verbiage
-verbose
+verbiage,noun
+verbose,adjective
  verbosely
-verbosity
-verboten
-verdant
+verbosity,noun
+verboten,adjective
+verdant,adjective
  verdantly
-verdict
+verdict,noun
  verdicts
-verdigris
-verdure
-verge
+verdigris,noun
+verdure,noun
+verge,verb,noun
  verged verges verging
-verger
+verger,noun
  vergers
-verifiable
-verification
-verify
+verifiable,adjective
+verification,noun
+verify,verb
  verified verifies verifying
-verily
-verisimilitude
-veritable
+verily,adverb
+verisimilitude,noun
+veritable,adjective
  veritably
-verity
+verity,noun
  verities
-vermicelli
-vermiculite
-vermiform
-vermilion
+vermicelli,pluralnoun
+vermiculite,noun
+vermiform,adjective
+vermilion,noun
  vermillion
-vermin
-verminous
-vermouth
-vernacular
+vermin,noun
+verminous,adjective
+vermouth,noun
+vernacular,adjective,noun
  vernaculars
-vernal
-vernier
+vernal,adjective
+vernier,noun
  verniers
-veronica
-verruca
+veronica,noun
+verruca,noun
  verrucae verrucas
-versatile
-versatility
-verse
+versatile,adjective
+versatility,noun
+verse,verb,noun
  versed verses versing
-versification
-versifier
+versification,noun
+versifier,noun
  versifiers
-versify
+versify,verb
  versified versifies versifying
-version
+version,verb,noun
  versions
-verso
+verso,noun
  versos
-versus
-vertebra
+versus,preposition
+vertebra,noun
  vertebrae vertebras
-vertebral
-vertebrate
+vertebral,adjective
+vertebrate,adjective,noun
  vertebrates
-vertex
+vertex,noun
  vertexes vertices
-vertical
+vertical,adjective,noun
  vertically verticals
-vertiginous
-vertigo
-verve
-very
+vertiginous,adjective
+vertigo,noun
+verve,noun
+very,adjective,adverb
  verier veriest
-vesicle
+vesicle,noun
  vesicles
-vesicular
-vesiculate
-vesper
+vesicular,adjective
+vesiculate,adjective,verb
+vesper,noun
  vespers
-vessel
+vessel,noun
  vessels
-vest
+vest,verb,noun
  vested vesting vests
-vestal
+vestal,adjective,noun
  vestals
-vestibule
+vestibule,noun
  vestibules
-vestige
+vestige,noun
  vestiges
-vestigial
+vestigial,adjective
  vestigially
-vestment
+vestment,noun
  vestments
-vestry
+vestry,noun
  vestries
-vestryman
+vestryman,noun
  vestrymen
-vet
+vet,verb,noun
  vets vetted vetting
-vetch
+vetch,noun
  vetches
-veteran
+veteran,noun
  veterans
-veterinarian
+veterinarian,noun
  veterinarians
-veterinary
+veterinary,adjective,noun
  veterinaries
-veto
+veto,verb,noun
  vetoed vetoes vetoing
-vex
+vex,adjective,verb
  vexed vexes vexing
-vexation
+vexation,noun
  vexations
-vexatious
+vexatious,adjective
  vexatiously
-via
-viable
+via,preposition
+viable,adjective
  viability viably
-viaduct
+viaduct,noun
  viaducts
-vial
+vial,noun
  phial phials vials
-viand
+viand,noun
  viands
-vibe
+vibe,verb,noun
  vibes
-vibraharp
+vibraharp,noun
  vibraharps
-vibrancy
-vibrant
+vibrancy,noun
+vibrant,adjective
  vibrantly
-vibraphone
+vibraphone,noun
  vibraphones
-vibraphonist
+vibraphonist,noun
  vibraphonists
-vibrate
+vibrate,verb
  vibrated vibrates vibrating
-vibration
+vibration,noun
  vibrations
-vibrato
+vibrato,noun
  vibratos
-vibrator
+vibrator,noun
  vibrators
-vibratory
-viburnum
+vibratory,adjective
+viburnum,noun
  viburnums
-vicar
+vicar,noun
  vicars
-vicarage
+vicarage,noun
  vicarages
-vicarious
+vicarious,adjective
  vicariously vicariousness
-vice
+vice,preposition,noun
  viced vicelike vices vicing
-vicegerent
+vicegerent,noun
  vicegerents
-vicennial
-vice-president
+vicennial!
+vice-president,noun
  vice-presidents
-viceregal
-viceroy
+viceregal,adjective
+viceroy,noun
  viceroys
-vichyssoise
-vicinity
-vicious
+vichyssoise,noun
+vicinity,noun
+vicious,adjective
  viciously viciousness
-vicissitude
+vicissitude,noun
  vicissitudes
-victim
+victim,noun
  victimless victims
-victimization
+victimization,noun
  victimisation
-victimize
+victimize,verb
  victimise victimised victimises victimising victimized victimizes victimizing
-victor
+victor,noun
  victors
-victorious
+victorious,adjective
  victoriously
-victory
+victory,noun,propernoun
  victories
-victual
+victual,verb,noun
  victualed victualing victualled victualling victuals vittles
-vicuna
+vicuna,noun
  vicunas
-videlicet
-video
+videlicet,adverb
+video,verb,noun
  videoed videoing videos
-videocassette
+videocassette,noun
  videocassettes
-videoconference
+videoconference,noun
  videoconferences videoconferencing
-videodisc
+videodisc,noun
  videodiscs videodisk videodisks
-videophone
+videophone,noun
  videophones
-videotape
+videotape,verb,noun
  videotaped videotapes videotaping
-vie
+vie,verb
  vied vies vying
-view
+view,verb,noun
  viewed viewing -> [viewing] views
-viewer
+viewer,noun
  viewers
-viewership
-viewfinder
+viewership,noun
+viewfinder,noun
  viewfinders
-viewing -> [view]
+viewing,noun
  viewings
-viewpoint
+viewpoint,noun
  viewpoints
-vigesimal
-vigil
+vigesimal,adjective
+vigil,noun
  vigils
-vigilance
-vigilant
+vigilance,noun
+vigilant,adjective
  vigilantly
-vigilante
+vigilante,noun
  vigilantes
-vigilantism
-vigilantist
+vigilantism,noun
+vigilantist!
  vigilantists
-vignette
+vignette,verb,noun
  vignetted vignettes vignetting
-vignettist
+vignettist,noun
  vignettists
-vigor
+vigor,noun
  vigour
-vigorous
+vigorous,adjective
  vigorously
-viking
+viking,noun,propernoun
  vikings
-vile
+vile,adjective
  vilely vileness viler vilest
-vilification
-vilify
+vilification,noun
+vilify,verb
  vilified vilifies vilifying
-villa
+villa,noun
  villas
-village
+village,noun
  villages
-villager
+villager,noun
  villagers
-villain
+villain,noun
  villains
-villainous
-villainy
+villainous,adjective
+villainy,noun
  villainies
-villein
+villein,noun
  villeins
-villeinage
-villus
+villeinage,noun
+villus,noun
  villi
-vim
-vinaigrette
+vim,noun
+vinaigrette,noun
  vinaigrettes
-vincible
-vindicate
+vincible,adjective
+vindicate,verb
  vindicated vindicates vindicating
-vindication
+vindication,noun
  vindications
-vindicator
+vindicator,noun
  vindicators
-vindictive
+vindictive,adjective
  vindictively vindictiveness
-vine
+vine,noun
  vines
-vinegar
+vinegar,noun
  vinegars
-vinegary
-vineyard
+vinegary,adjective
+vineyard,noun
  vineyards
-vino
-vinous
-vintage
+vino,noun
+vinous,adjective
+vintage,adjective,noun
  vintages
-vintner
+vintner,noun
  vintners
-vinyl
+vinyl,noun
  vinyls
-viol
+viol,noun
  viols
-viola
+viola,noun
  violas
-violable
-violate
+violable,adjective
+violate,verb
  violated violates violating
-violation
+violation,noun
  violations
-violator
+violator,noun
  violators
-violence
-violent
+violence,noun
+violent,adjective
  violently
-violet
+violet,adjective,noun
  violets
-violin
+violin,noun
  violins
-violinist
+violinist,noun
  violinists
-violist
+violist,noun
  violists
-violoncellist
+violoncellist,noun
  violoncellists
-violoncello
+violoncello,noun
  violincello violincellos violoncellos
-viper
+viper,noun
  vipers
-viperous
-virago
+viperous,adjective
+virago,noun
  viragoes viragos
-viral
-vireo
+viral,adjective,noun
+vireo,noun
  vireos
-virgin
+virgin,adjective,noun
  virgins
-virginal
+virginal,adjective,noun
  virginals
-virginity
-virgule
+virginity,noun
+virgule,noun
  virgules
-virile
-virility
-virologist
+virile,adjective
+virility,noun
+virologist,noun
  virologists
-virology
-virtual
+virology,noun
+virtual,adjective
  virtually
-virtue
+virtue,noun
  virtues
-virtuosity
-virtuoso
+virtuosity,noun
+virtuoso,noun
  virtuosi virtuosos
-virtuous
+virtuous,adjective
  virtuously virtuousness
-virulence
-virulent
+virulence,noun
+virulent,adjective
  virulently
-virus
+virus,noun
  viruses
-visa
+visa,noun
  visaed visaing visas
-visage
+visage,noun
  visages
-vis-a-vis
-visceral
+vis-a-vis,preposition,noun,adverb
+visceral,adjective
  viscerally
-viscid
-viscose
-viscosity
-viscount
+viscid,adjective
+viscose,noun
+viscosity,noun
+viscount,noun
  viscounts
-viscountcy
+viscountcy,noun
  viscountcies
-viscountess
+viscountess,noun
  viscountesses
-viscous
-viscus
+viscous,adjective
+viscus!
  viscera
-vise
+vise,noun
  vised viselike vises vising
-visible
+visible,adjective,noun
  visibility visibly
-vision
+vision,verb,noun
  visioned visioning visions
-visionary
+visionary,adjective,noun
  visionaries
-visit
+visit,verb,noun
  visited visiting visits
-visitant
+visitant,adjective,noun
  visitants
-visitation
+visitation,noun
  visitations
-visitor
+visitor,noun
  visitors
-visor
+visor,noun
  visors vizor vizors
-vista
+vista,noun
  vistas
-visual
+visual,adjective,noun
  visually visuals
-visualization
+visualization,noun
  visualisation visualisations visualizations
-visualize
+visualize,verb
  visualise visualised visualises visualising visualized visualizes visualizing
-visualizer
+visualizer,noun
  visualiser visualisers visualizers
-vita
+vita,noun
  vitae vitas
-vital
+vital,adjective,noun
  vitally vitals
-vitality
-vitalization
+vitality,noun
+vitalization,noun
  vitalisation
-vitalize
+vitalize,verb
  vitalise vitalised vitalises vitalising vitalized vitalizes vitalizing
-vitamin
+vitamin,noun
  vitamins
-vitiate
+vitiate,verb
  vitiated vitiates vitiating
-vitiation
-viticulture
-viticulturist
+vitiation,noun
+viticulture,noun
+viticulturist,noun
  viticulturists
-vitreous
-vitrifaction
-vitrification
-vitrify
+vitreous,adjective
+vitrifaction,noun
+vitrification,noun
+vitrify,verb
  vitrified vitrifies vitrifying
-vitrine
+vitrine,noun
  vitrines
-vitriol
-vitriolic
+vitriol,noun
+vitriolic,adjective
  vitriolically
-vituperate
+vituperate,verb
  vituperated vituperates vituperating
-vituperation
-vituperative
-viva
+vituperation,noun
+vituperative,adjective
+viva,exclamation,verb,noun
  vivas
-vivace
-vivacious
+vivace,adjective,noun,adverb
+vivacious,adjective
  vivaciously vivaciousness
-vivacity
-vivarium
+vivacity,noun
+vivarium,noun
  vivaria vivariums
-vivid
+vivid,adjective
  vivider vividest vividly vividness
-vivify
+vivify,verb
  vivified vivifies vivifying
-viviparous
-vivisect
+viviparous,adjective
+vivisect,verb
  vivisected vivisecting vivisects
-vivisection
-vivisectional
-vivisectionist
+vivisection,noun
+vivisectional,adjective
+vivisectionist,adjective,noun
  vivisectionists
-vixen
+vixen,noun
  vixenish vixenishly vixens
-viz
-vizier
+viz,adverb
+vizier,noun
  viziers vizir vizirs
-vocab
-vocable
+vocab,abbreviation
+vocable,noun
  vocables
-vocabulary
+vocabulary,noun
  vocabularies
-vocal
+vocal,adjective,noun
  vocally vocals
-vocalic
-vocalist
+vocalic,adjective
+vocalist,noun
  vocalists
-vocalization
+vocalization,noun
  vocalisation vocalisations vocalizations
-vocalize
+vocalize,verb
  vocalise vocalised vocalises vocalising vocalized vocalizes vocalizing
-vocation
+vocation,noun
  vocations
-vocational
+vocational,adjective
  vocationally
-vocative
+vocative,adjective,noun
  vocatives
-vociferate
+vociferate,verb
  vociferated vociferates vociferating
-vociferation
-vociferous
+vociferation,noun
+vociferous,adjective
  vociferously vociferousness
-vodka
+vodka,noun
  vodkas
-vogue
+vogue,adjective,verb,noun
  vogues voguish
-voice
+voice,verb,noun
  voiced voiceless voicelessly voicelessness voices voicing
-voicemail
+voicemail,noun
  voicemails
-voiceover
+voiceover,verb,noun
  voiceovers
-voiceprint
+voiceprint,noun
  voiceprints
-void
+void,adjective,verb,noun
  voided voiding voids
-voidable
-voila
-voile
-volatile
-volatility
-volatilize
+voidable,adjective
+voila,exclamation
+voile,noun
+volatile,adjective,noun
+volatility,noun
+volatilize,verb
  volatilise volatilised volatilises volatilising volatilized volatilizes volatilizing
-volcanic
-volcano
+volcanic,adjective
+volcano,noun
  volcanoes volcanos
-vole
+vole,noun
  voles
-volition
-volitional
-volley
+volition,noun
+volitional,adjective
+volley,verb,noun
  volleyed volleying volleys
-volleyball
+volleyball,noun
  volleyballs
-volt
+volt,verb,noun
  volts
-voltage
+voltage,noun
  voltages
-voltaic
-voltmeter
+voltaic,adjective,adjective,noun
+voltmeter,noun
  voltmeters
-voluble
+voluble,adjective
  volubility volubly
-volume
+volume,noun
  volumes
-voluminous
+voluminous,adjective
  voluminously voluminousness
-voluntarism
-voluntary
+voluntarism,noun
+voluntary,adjective,noun
  voluntaries voluntarily
-volunteer
+volunteer,verb,noun
  volunteered volunteering volunteers
-volunteerism
-voluptuary
+volunteerism,noun
+voluptuary,adjective,noun
  voluptuaries
-voluptuous
+voluptuous,adjective
  voluptuously voluptuousness
-volute
+volute,adjective,noun
  volutes
-vomit
+vomit,verb,noun
  vomited vomiting vomits
-voodoo
+voodoo,verb,noun
  voodooed voodooing voodoos
-voodooism
-voracious
+voodooism,noun
+voracious,adjective
  voraciously voraciousness
-voracity
-vortex
+voracity,noun
+vortex,noun
  vortexes vortices
-votary
+votary,noun
  votaries
-vote
+vote,verb,noun
  voted votes voting
-voter
+voter,noun
  voters
-votive
-vouch
+votive,adjective,noun
+vouch,verb
  vouched vouches vouching
-voucher
+voucher,noun
  vouchers
-vouchsafe
+vouchsafe,verb
  vouchsafed vouchsafes vouchsafing
-vow
+vow,verb,noun
  vowed vowing vows
-vowel
+vowel,noun
  vowels
-voyage
+voyage,verb,noun
  voyaged voyages voyaging
-voyager
+voyager,noun,propernoun
  voyagers
-voyageur
+voyageur,noun
  voyageurs
-voyeur
+voyeur,noun
  voyeurs
-voyeurism
-voyeuristic
-vroom
-vulcanization
+voyeurism,noun
+voyeuristic,adjective
+vroom,exclamation,verb,noun
+vulcanization,noun
  vulcanisation
-vulcanize
+vulcanize,verb
  vulcanise vulcanised vulcanises vulcanising vulcanized vulcanizes vulcanizing
-vulgar
+vulgar,adjective
  vulgarer vulgarest vulgarly
-vulgarian
+vulgarian,noun
  vulgarians
-vulgarism
+vulgarism,noun
  vulgarisms
-vulgarity
+vulgarity,noun
  vulgarities
-vulgarization
+vulgarization,noun
  vulgarisation
-vulgarize
+vulgarize,verb
  vulgarise vulgarised vulgarises vulgarising vulgarized vulgarizes vulgarizing
-vulgarizer
+vulgarizer,verb
  vulgariser vulgarisers vulgarizers
-vulnerability -> [vulnerable]
+vulnerability,noun
  vulnerabilities
-vulnerable
+vulnerable,adjective
  vulnerability -> [vulnerability] vulnerably
-vulpine
-vulture
+vulpine,adjective
+vulture,noun
  vultures
-vulturous
-vulva
+vulturous,adjective
+vulva,noun
  vulvae vulvas
-vuvuzela
+vuvuzela,noun
  vuvuzelas
