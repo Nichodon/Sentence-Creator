@@ -91,7 +91,7 @@ damnable,adjective
  damnably
 damnation,noun,exclamation
 damp,noun,verb,adjective
- damped damper -> [damper] dampest damping damply dampness damps
+ damped damper dampest damping damply dampness damps
 dampen,verb
  dampened dampening dampens
 dampener,noun
@@ -171,7 +171,7 @@ dartboard,noun
 darter,noun
  darters
 dash,noun,verb,exclamation
- dashed dashes dashing -> [dashing]
+ dashed dashes dashing
 dashboard,noun
  dashboards
 dasher,noun
@@ -222,7 +222,7 @@ dawdler,noun
 dawn,noun,verb
  dawned dawning dawns
 day,noun
- daily -> [daily] days
+ daily days
 daybed,noun
  daybeds
 daybreak,noun
@@ -276,7 +276,7 @@ deaf,adjective
 deafen,verb
  deafened deafening deafeningly deafens
 deal,noun,verb
- dealing -> [dealing] deals dealt
+ dealing deals dealt
 dealbreaker,noun
  dealbreakers
 dealer,noun
@@ -291,7 +291,7 @@ deanery,noun
  deaneries
 deanship!
 dear,noun,adjective,adverb,exclamation
- dearer dearest -> [dearest] dearly dearness dears
+ dearer dearest dearly dearness dears
 dearest,noun,adjective
  dearests
 dearie,noun
@@ -347,7 +347,7 @@ debonair,adjective
 debouch,verb
  debouched debouches debouching
 debrief,noun,verb
- debriefed debriefing -> [debriefing] debriefs
+ debriefed debriefing debriefs
 debriefing,noun,verb
  debriefings
 debris,noun
@@ -431,7 +431,7 @@ decibel,noun
  decibels
 decidable,adjective
 decide,verb
- decided -> [decided] decides deciding
+ decided decides deciding
 decided,adjective
  decidedly
 decider,noun
@@ -1449,7 +1449,7 @@ determinate,adjective
 determination,noun
  determinations
 determine,verb
- determined -> [determined] determines determining
+ determined determines determining
 determined,adjective
  determinedly
 determiner,noun
@@ -1586,9 +1586,9 @@ diacritical,adjective
 diadem,noun
  diadems
 diagnose,verb
- diagnosed diagnoses -> [diagnosis] diagnosing
+ diagnosed diagnoses diagnosing
 diagnosis,noun
- diagnoses -> [diagnose]
+ diagnoses
 diagnostic,noun,adjective
  diagnostically diagnostics
 diagnostician,noun
@@ -1701,7 +1701,7 @@ didgeridoo,noun
 dido,noun,propernoun
  didoes didos
 die,noun,verb
- dice -> [dice] died dies dying
+ dice died dies dying
 diehard,noun
  diehards
 dielectric,noun,adjective
@@ -1746,7 +1746,7 @@ diffuse,verb,adjective
 diffusion,noun
 diffusive,adjective
 dig,noun,verb
- digging -> [digging] digs dug
+ digging digs dug
 digerati,pluralnoun
 digest,noun,verb
  digested digesting digests
@@ -1782,7 +1782,7 @@ digression,noun
  digressions
 digressive,adjective
 dike,noun
- diked dikes diking dyke -> [dyke] dyked dykes -> [dyke] dyking
+ diked dikes diking dyke dyked dykes dyking
 diktat,noun
  diktats
 dilapidated,adjective
@@ -1815,7 +1815,7 @@ dilute,verb,adjective
 dilution,noun
  dilutions
 dim,verb,adjective
- dimly dimmed dimmer -> [dimmer] dimmest dimming dimness dims
+ dimly dimmed dimmer dimmest dimming dimness dims
 dime,noun
  dimes
 dimension,noun,verb
@@ -2587,14 +2587,14 @@ diuretic,noun,adjective
 diurnal,adjective
  diurnally
 diva,noun
- divas dive -> [dive]
+ divas dive
 divalent,adjective
 divan,noun
  divans
 dive,noun,verb
- dived dives diving dove -> [dove]
+ dived dives diving dove
 diver,noun
- divers -> [divers]
+ divers
 diverge,verb
  diverged diverges diverging
 divergence,noun
@@ -2628,7 +2628,7 @@ divider,noun
  dividers
 divination,noun
 divine,noun,verb,adjective
- divined divinely diviner -> [diviner] divines divinest divining
+ divined divinely diviner divines divinest divining
 diviner,noun
  diviners
 divinity,noun
@@ -2643,9 +2643,9 @@ divisive,adjective
 divisor,noun
  divisors
 divorce,noun,verb
- divorced divorces -> [divorcee] divorcing
+ divorced divorces divorcing
 divorcee,noun
- divorce -> [divorce] divorcees divorces -> [divorce]
+ divorce divorcees divorces
 divorcement,noun
  divorcements
 divot,noun
@@ -2660,7 +2660,7 @@ dizzy,verb,adjective
 djellaba,noun
  djellabah djellabahs djellabas jellaba jellabas
 do,noun,verb,auxiliaryverb
- did didst does -> [doe] doh dohs doing -> [doing] done dos dost doth
+ did didst does doh dohs doing done dos dost doth
 doable,adjective
 dob,verb
  dobbed dobbing dobs
@@ -2723,7 +2723,7 @@ dodgy,adjective
 dodo,noun
  dodoes dodos
 doe,noun,abbreviation
- does -> [do]
+ does
 doer,noun
  doers
 doeskin,noun
@@ -2731,7 +2731,7 @@ doeskin,noun
 doff,verb
  doffed doffing doffs
 dog,noun,verb
- dogged -> [dogged] dogging dogs
+ dogged dogging dogs
 dogcart,noun
  dogcarts
 dogcatcher,noun
@@ -3100,7 +3100,7 @@ drachma,noun
  drachmae drachmai drachmas
 draconian,adjective
 draft,noun,verb,adjective
- drafted drafting drafts draught draughted draughting draughts -> [draughts]
+ drafted drafting drafts draught draughted draughting draughts
 draftee,noun
  draftees
 drafter,noun
@@ -3164,7 +3164,7 @@ draughtboard,noun
  draughtboards
 draughts,noun
 draw,noun,verb
- drawing -> [drawing] drawn draws drew
+ drawing drawn draws drew
 drawback,noun
  drawbacks
 drawbridge,noun
@@ -3212,7 +3212,7 @@ dreidel,noun
 drench,noun,verb
  drenched drenches drenching
 dress,noun,verb
- dressed dresses dressing -> [dressing] drest
+ dressed dresses dressing drest
 dressage,noun
 dresser,noun
  dressers
@@ -3245,18 +3245,18 @@ driller,noun
 drillmaster,noun
  drillmasters
 drink,noun,verb
- drank drinking drinks drunk -> [drunk]
+ drank drinking drinks drunk
 drinkable,adjective
 drinker,noun
  drinkers
 drip,noun,verb
- dripped dripping -> [dripping] drips dript
+ dripped dripping drips dript
 dripping,noun,adjective
  drippings
 drippy,adjective
  drippier drippiest
 drive,noun,verb
- driven drives driving drove -> [drove]
+ driven drives driving drove
 drive-by,noun,adjective
  drive-bys
 drivel,noun,verb
@@ -3293,7 +3293,7 @@ droop,noun,verb
 droopy,adjective
  droopier droopiest droopiness
 drop,noun,verb
- dropped dropping -> [dropping] drops
+ dropped dropping drops
 drop-dead,adjective
 dropkick!
  dropkicks
@@ -3317,7 +3317,7 @@ drove,noun,verb
 drover,noun
  drovers
 drown,verb
- drowned drowning -> [drowning] drowns
+ drowned drowning drowns
 drowning,verb
  drownings
 drowse,noun,verb
@@ -3325,7 +3325,7 @@ drowse,noun,verb
 drowsy,adjective
  drowsier drowsiest drowsily drowsiness
 drub,verb
- drubbed drubbing -> [drubbing] drubs
+ drubbed drubbing drubs
 drubber,noun
  drubbers
 drubbing,noun
@@ -3366,11 +3366,11 @@ drupe,noun
  drupes
 druthers,noun,adverb
 dry,noun,verb,adjective
- dried drier -> [dryer] dries driest drily dryer -> [dryer] dryest drying dryly dryness drys
+ dried drier dries driest drily dryer dryest drying dryly dryness drys
 dryad,noun
  dryads
 dryer,noun
- drier -> [dry] driers dryers
+ drier driers dryers
 drywall,noun
 dual,noun,verb,adjective
 dualism,noun
@@ -3557,7 +3557,7 @@ dwarfism,noun
 dweeb,noun
  dweebs
 dwell,noun,verb
- dwelled dwelling -> [dwelling] dwells dwelt
+ dwelled dwelling dwells dwelt
 dweller,noun
  dwellers
 dwelling,noun
@@ -3572,7 +3572,7 @@ dyer,noun
  dyers
 dyestuff,noun
 dyke,noun,verb
- dykes -> [dike]
+ dykes
 dynamic,noun,adjective
  dynamics
 dynamical,adjective

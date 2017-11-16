@@ -1,2525 +1,2525 @@
-fa
+fa,abbreviation,noun
  fah fahs fas
-fab
-fable
+fab,verb,adjective,noun
+fable,verb,noun
  fabled fables
-fabric
+fabric,noun
  fabrics
-fabricate
+fabricate,verb
  fabricated fabricates fabricating
-fabrication
+fabrication,noun
  fabrications
-fabricator
+fabricator,noun
  fabricators
-fabulous
+fabulous,adjective
  fabulously
-facade
+facade,noun
  facades
-face
+face,verb,noun
  faced faceless faces facing -> [facing]
-facecloth
+facecloth,noun
  facecloths
-facelift
+facelift,noun
  facelifts
-face-off
+face-off,noun
  face-offs
-facet
+facet,noun
  faceted faceting facets facetted facetting
-facetious
+facetious,adjective
  facetiously facetiousness
-face-to-face
-facial
+face-to-face,adjective,adverb
+facial,adjective,noun
  facially facials
-facile
+facile,adjective
  facilely
-facilitate
+facilitate,verb
  facilitated facilitates facilitating
-facilitation
-facilitator
+facilitation,noun
+facilitator,noun
  facilitators
-facility
+facility,noun
  facilities
-facing -> [face]
+facing,adjective,noun
  facings
-facsimile
+facsimile,verb,noun
  facsimiled facsimileing facsimiles
-fact
+fact,noun
  facts
-fact-finding
-faction
+fact-finding,adjective,noun
+faction,noun
  factions
-factional
-factionalism
-factious
-factitious
-factoid
+factional,adjective
+factionalism,noun
+factious,adjective
+factitious,adjective
+factoid,noun
  factoids
-factor
+factor,verb,noun
  factored factoring factors
-factorial
+factorial,adjective,noun
  factorials
-factorize
+factorize,verb
  factorise factorised factorises factorising factorized factorizes factorizing
-factory
+factory,noun
  factories
-factotum
+factotum,noun
  factotums
-factual
+factual,adjective
  factually
-faculty
+faculty,noun
  faculties
-fad
+fad,abbreviation,noun
  faddish faddishness fads
-faddist
+faddist,noun
  faddists
-faddy
+faddy,adjective
  faddiness
-fade
+fade,verb,noun
  faded fades fading
-faff
+faff,verb,noun
  faffed faffing faffs
-fag
+fag,verb,noun
  fagged fagging fags
-faggot -> [fagot]
+faggot,verb,noun
  faggots -> [fagot]
-fagot
+fagot,verb,noun
  faggot -> [faggot] faggots -> [faggot] fagots
-fagoting
+fagoting,noun
  faggoting
-faience
-fail
+faience,noun
+fail,verb,noun
  failed failing -> [failing] fails
-failing -> [fail]
+failing,preposition,noun
  failings
-faille
-failsafe
-failure
+faille,noun
+failsafe,adjective,noun
+failure,noun
  failures
-fain
+fain,adjective,adverb
  fainer fainest
-faint
+faint,verb,adjective,noun
  fainted fainter faintest fainting faintly faintness faints
-fainthearted
-fair
+fainthearted,adjective
+fair,verb,adjective,adverb,noun
  fairer fairest fairing -> [fairing] fairly fairness fairs
-fairground
+fairground,noun
  fairgrounds
-fair-haired
-fairing -> [fair]
+fair-haired,adjective
+fairing,noun
  fairings
-fairtrade
-fairway
+fairtrade,noun
+fairway,noun
  fairways
-fairy
+fairy,noun
  faerie faeries faery fairies
-fairyland
+fairyland,noun
  fairylands
-fairytale
+fairytale!
  fairytales
-faith
+faith,noun,exclamation
  faithful -> [faithful] faithfully faithfulness faithless faithlessly faithlessness faiths
-faithful -> [faith]
+faithful,adjective,noun
  faithfuls
-fajita
+fajita,pluralnoun
  fajitas
-fake
+fake,verb,adjective,noun,noun,verb
  faked fakes faking
-faker
+faker,noun
  fakers
-fakir
+fakir,noun
  fakirs
-falcon
+falcon,noun
  falcons
-falconer
+falconer,noun
  falconers
-falconry
-fall
+falconry,noun
+fall,verb,noun
  fallen falling falls fell -> [fell]
-fallacious
+fallacious,adjective
  fallaciously
-fallacy
+fallacy,noun
  fallacies
-fallback
+fallback,noun
  fallbacks
-fallible
+fallible,adjective
  fallibility fallibleness fallibly
-falloff
+falloff,noun
  falloffs
-fallout
-fallow
+fallout,noun
+fallow,verb,adjective,noun
  fallowed fallowing fallows
-false
+false,adjective
  falsely falseness falser falsest
-falsehood
+falsehood,noun
  falsehoods
-falsetto
+falsetto,noun
  falsettos
-falsie
+falsie!
  falsies
-falsification
+falsification,noun
  falsifications
-falsifier
+falsifier,noun
  falsifiers
-falsify
+falsify,verb
  falsified falsifies falsifying
-falsity
+falsity,noun
  falsities
-falter
+falter,verb
  faltered faltering falteringly falters
-fame
+fame,noun
  famed
-familial
-familiar
+familial,adjective
+familiar,adjective,noun
  familiarly familiars
-familiarity
-familiarization
+familiarity,noun
+familiarization,noun
  familiarisation
-familiarize
+familiarize,verb
  familiarise familiarised familiarises familiarising familiarized familiarizes familiarizing
-family
+family,adjective,noun
  families
-famine
+famine,noun
  famines
-famish
+famish,verb
  famished famishes famishing
-famous
+famous,adjective
  famously
-fan
+fan,verb,noun
  fanned fanning fans
-fanatic
+fanatic,adjective,noun
  fanatics
-fanatical
+fanatical,adjective
  fanatically
-fanaticism
-fanboy!
+fanaticism,noun
+fanboy,verb,noun
  fanboys
-fanciable
-fancier -> [fancy]
+fanciable,adjective
+fancier,noun
  fanciers
-fancy
+fancy,verb,adjective,noun
  fancied fancier -> [fancier] fancies fanciest fanciful fancifully fancifulness fancily fanciness fancying
-fancywork
-fandango
+fancywork,noun
+fandango,noun
  fandangoes fandangos
-fanfare
+fanfare,noun
  fanfares
-fanfic
+fanfic,noun
  fanfics
-fang
+fang,verb,adjective,noun
  fanged fangs
-fanlight
+fanlight,noun
  fanlights
-fanny
+fanny,verb,noun
  fannies
-fantabulous
-fantail
+fantabulous,adjective
+fantail,noun
  fantails
-fantasia
+fantasia,noun
  fantasias
-fantasist
+fantasist,noun
  fantasists
-fantasize
+fantasize,verb
  fantasise fantasised fantasises fantasising fantasized fantasizes fantasizing
-fantastic
-fantastical
+fantastic,adjective
+fantastical,adjective
  fantastically
-fantasy
+fantasy,verb,noun
  fantasied fantasies fantasying phantasied phantasies phantasy phantasying
-fanzine
+fanzine,noun
  fanzines
-far
+far,adjective,adverb
  farther farthermost farthest further -> [further] furthermost furthest
-farad
+farad,noun
  farads
-faraway
-farce
+faraway,adjective
+farce,noun
  farces
-farcical
+farcical,adjective
  farcically
-fare
+fare,verb,noun
  fared fares faring
-farewell
+farewell,verb,noun,exclamation
  farewells
-farfetched
-far-flung
-farina
-farinaceous
-farm
+farfetched,adjective
+far-flung,adjective
+farina,noun
+farinaceous,adjective
+farm,verb,noun
  farmed farming farms
-farmer
+farmer,noun
  farmers
-farmhand
+farmhand,noun
  farmhands
-farmhouse
+farmhouse,noun
  farmhouses
-farmland
+farmland,noun
  farmlands
-farmstead
+farmstead,noun
  farmsteads
-farmyard
+farmyard,noun
  farmyards
-faro
-far-off
-farrago
+faro,propernoun,noun
+far-off,adjective
+farrago,noun
  farragoes farragos
-far-reaching
-farrier
+far-reaching,adjective
+farrier,noun
  farriers
-farrow
+farrow,verb,noun
  farrowed farrowing farrows
-farseeing
-farsighted
+farseeing,adjective
+farsighted,adjective
  farsightedness
-fart
+fart,verb,noun
  farted farting farts
-farthing
+farthing,noun
  farthings
-fascia
+fascia,noun
  fasciae fascias
-fascicle
+fascicle,noun
  fascicles
-fascinate
+fascinate,verb
  fascinated fascinates fascinating fascinatingly
-fascination
+fascination,noun
  fascinations
-fascism
-fascist
+fascism,noun
+fascist,adjective,noun
  fascists
-fascistic
-fashion
+fascistic,adjective
+fashion,verb,noun
  fashioned fashioning fashions
-fashionable
+fashionable,adjective
  fashionably
-fashioner
+fashioner,noun
  fashioners
-fashionista
+fashionista,noun
  fashionistas
-fast
+fast,verb,adjective,adverb,noun
  fasted faster fastest fasting fastness -> [fastness] fasts
-fastback
+fastback,noun
  fastbacks
-fastball
+fastball,noun
  fastballs
-fasten
+fasten,verb
  fastened fastening -> [fastening] fastens
-fastener
+fastener,noun
  fasteners
-fastening -> [fasten]
+fastening,noun
  fastenings
-fast-food
-fast-forward
+fast-food,noun
+fast-forward,verb,noun
  fast-forwarded fast-forwarding fast-forwards
-fastidious
+fastidious,adjective
  fastidiously fastidiousness
-fastness -> [fast]
+fastness,noun
  fastnesses
-fast-track
+fast-track,verb,noun
  fast-tracked fast-tracking fast-tracks
-fat
+fat,verb,adjective,noun
  fatness fats fatter fattest
-fatal
+fatal,adjective
  fatally
-fatalism
-fatalist
+fatalism,noun
+fatalist,noun
  fatalists
-fatalistic
+fatalistic,adjective
  fatalistically
-fatality
+fatality,noun
  fatalities
-fatback
-fate
+fatback,noun
+fate,verb,noun
  fated fateful fatefully fatefulness fates fating
-fat-free
-fathead
+fat-free,adjective
+fathead,noun
  fatheaded fatheads
-father
+father,verb,noun
  fathered fathering fatherless fatherly fathers
-fatherhood
-father-in-law
+fatherhood,noun
+father-in-law,noun
  fathers-in-law
-fatherland
+fatherland,noun
  fatherlands
-fathom
+fathom,verb,noun
  fathomed fathoming fathomless fathoms
-fathomable
-fatigue
+fathomable,adjective
+fatigue,verb,noun
  fatigued fatigues -> [fatigues] fatiguing
-fatigues -> [fatigue]
-fatso
+fatigues,verb,noun
+fatso,noun
  fatsoes fatsos
-fatten
+fatten,verb
  fattened fattening fattens
-fatty
+fatty,adjective,noun
  fattier fatties fattiest fattiness
-fatuity
-fatuous
+fatuity,noun
+fatuous,adjective
  fatuously fatuousness
-fatwa
+fatwa,noun
  fatwas
-faucet
+faucet,noun
  faucets
-fault
+fault,verb,noun
  faulted faulting faultless faultlessly faultlessness faults
-faultfinder
+faultfinder,noun
  faultfinders
-faultfinding
-faultline
+faultfinding,noun
+faultline!
  faultlines
-faulty
+faulty,adjective
  faultier faultiest faultily faultiness
-faun
+faun,noun
  fauns
-fauna
+fauna,noun
  faunae faunas
-fauvism
-fauvist
+fauvism,noun
+fauvist,noun,adjective
  fauvists
-faux
-fave
+faux,adjective
+fave,noun,adjective
  faves
-favor
+favor,verb,noun
  favored favoring favors favour favoured favouring favours
-favorable
+favorable,adjective
  favorably favourable favourably
-favorite
+favorite,verb,adjective,noun
  favorites favourite favourites
-favoritism
+favoritism,noun
  favouritism
-fawn
+fawn,verb,noun
  fawned fawner -> [fawner] fawnest fawning fawns
-fawner -> [fawn]
+fawner,noun
  fawners
-fax
+fax,verb,pluralnoun,noun
  faxed faxes faxing
-fay
+fay,noun
  fayer fayest fays
-faze
+faze,verb
  fazed fazes fazing
-fealty
-fear
+fealty,noun
+fear,verb,noun
  feared fearful fearfully fearfulness fearing fearless fearlessly fearlessness fears
-fearsome
-feasible
+fearsome,adjective
+feasible,adjective
  feasibility feasibly
-feast
+feast,verb,noun
  feasted feasting feasts
-feaster
+feaster,noun
  feasters
-feat
+feat,noun
  feats
-feather
+feather,verb,noun
  feathered feathering featherless feathers
-featherbedding
-featherbrained
-featherweight
+featherbedding!
+featherbrained,adjective
+featherweight,noun
  featherweights
-feathery
+feathery,adjective
  featherier featheriest
-feature
+feature,verb,noun
  featured featureless features featuring
-febrile
-fecal
+febrile,adjective
+fecal,adjective
  faecal
-feces
+feces,pluralnoun
  faeces
-feckless
+feckless,adjective
  fecklessly fecklessness
-fecund
-fecundate
+fecund,adjective
+fecundate,verb
  fecundated fecundates fecundating
-fecundation
-fecundity
-fed -> [feed]
+fecundation,noun
+fecundity,noun
+fed,noun
  feds
-federal
+federal,adjective
  federally federals
-federalism
-federalist
+federalism,noun
+federalist,adjective,noun
  federalists
-federalization
+federalization,noun
  federalisation
-federalize
+federalize,verb
  federalise federalised federalises federalising federalized federalizes federalizing
-federate
+federate,verb,adjective
  federated federates federating
-federation
+federation,noun
  federations
-fedora
+fedora,noun
  fedoras
-fee
+fee,verb,noun
  fees
-feeble
+feeble,adjective
  feebleness feebler feeblest feebly
-feebleminded
-feed
+feebleminded,adjective
+feed,verb,noun
  fed -> [fed] feeding -> [feeding] feeds
-feedback
-feedbag
+feedback,noun
+feedbag,noun
  feedbags
-feeder
+feeder,noun
  feeders
-feeding -> [feed]
+feeding,verb,noun
  feedings
-feedlot
+feedlot,noun
  feedlots
-feel
+feel,verb,noun
  feeling -> [feeling] feels felt -> [felt]
-feeler
+feeler,noun
  feelers
-feelgood
-feeling -> [feel]
+feelgood,adjective
+feeling,adjective,noun
  feelingly feelings
-feign
+feign,verb
  feigned feigning feigns
-feint
+feint,verb,adjective,noun
  feinted feinting feints
-feisty
+feisty,adjective
  feistier feistiest
-felafel
+felafel,noun
  falafel falafels felafels
-feldspar
+feldspar,noun
  feldspars
-felicitate
+felicitate,verb
  felicitated felicitates felicitating
-felicitation
+felicitation,pluralnoun
  felicitations
-felicitous
+felicitous,adjective
  felicitously
-felicity
+felicity,noun
  felicities
-feline
+feline,adjective,noun
  felines
-fell -> [fall]
+fell,verb,adjective,noun
  felled feller -> [fella] fellest felling fells
-fella
+fella,noun
  fellas feller -> [fell] fellers
-fellatio
-fellow
+fellatio,noun
+fellow,adjective,noun
  fellows
-fellowman
+fellowman!
  fellowmen
-fellowship
+fellowship,noun
  fellowships
-felon
+felon,adjective,noun
  felons
-felonious
-felony
+felonious,adjective
+felony,noun
  felonies
-felt -> [feel]
+felt,verb,noun
  felted felting felts
-female
+female,adjective,noun
  femaleness females
-feminine
+feminine,adjective,noun
  femininely feminines
-femininity
-feminism
-feminist
+femininity,noun
+feminism,noun
+feminist,adjective,noun
  feminists
-feminize
+feminize,verb
  feminise feminised feminises feminising feminized feminizes feminizing
-femoral
-femur
+femoral,adjective
+femur,noun
  femora femurs
-fen
+fen,noun
  fens
-fence
+fence,verb,noun
  fenced fences fencing
-fencer
+fencer,noun
  fencers
-fend
+fend,verb
  fended fending fends
-fender
+fender,noun
  fenders
-fenestration
-fenland
+fenestration,noun
+fenland,noun
  fenlands
-fennel
-feral
-feringhee
+fennel,noun
+feral,adjective,noun
+feringhee,noun
  feringhees
-ferment
+ferment,verb,noun
  fermented fermenting ferments
-fermentation
-fermium
-fern
+fermentation,noun
+fermium,noun
+fern,noun
  ferns
-ferny
+ferny,adjective
  fernier ferniest
-ferocious
+ferocious,adjective
  ferociously ferociousness
-ferocity
-ferret
+ferocity,noun
+ferret,verb,noun
  ferreted ferreting ferrets
-ferric
-ferromagnetic
-ferrous
-ferrule
+ferric,adjective
+ferromagnetic,adjective
+ferrous,adjective
+ferrule,noun
  ferrules
-ferry
+ferry,verb,noun
  ferried ferries ferrying
-ferryboat
+ferryboat,verb,noun
  ferryboats
-ferryman
+ferryman,noun
  ferrymen
-fertile
-fertility
-fertilization
+fertile,adjective
+fertility,noun
+fertilization,noun
  fertilisation
-fertilize
+fertilize,verb
  fertilise fertilised fertilises fertilising fertilized fertilizes fertilizing
-fertilizer
+fertilizer,noun
  fertiliser fertilisers fertilizers
-ferule
+ferule,noun
  ferules
-fervency
-fervent
+fervency,noun
+fervent,adjective
  fervently
-fervid
+fervid,adjective
  fervidly
-fervor
+fervor,noun
  fervour
-fess
+fess,verb,noun
  fessed fesses fessing
-fest
+fest,noun
  fests
-festal
-fester
+festal,adjective
+fester,verb
  festered festering festers
-festival
+festival,noun
  festivals
-festive
+festive,adjective
  festively festiveness
-festivity
+festivity,noun
  festivities
-festoon
+festoon,verb,noun
  festooned festooning festoons
-feta
-fetal
+feta,noun
+fetal,adjective
  foetal
-fetch
+fetch,verb,noun
  fetched fetches fetching -> [fetching]
-fetcher
+fetcher,noun
  fetchers
-fetching -> [fetch]
+fetching,adjective
  fetchingly
-fete
+fete,verb,noun
  feted fetes feting
-fetid
+fetid,adjective
  fetidness foetid foetidness
-fetish
+fetish,noun
  fetich fetiches fetishes
-fetishism
+fetishism,noun
  fetichism
-fetishist
+fetishist,noun
  fetichist fetichists fetishists
-fetishistic
+fetishistic,adjective
  fetichistic
-fetlock
+fetlock,noun
  fetlocks
-fetter
+fetter,verb,noun
  fettered fettering fetters
-fettle
-fettuccine
-fetus
+fettle,verb,noun
+fettuccine,noun
+fetus,noun
  fetuses foetus foetuses
-feud
+feud,verb,noun
  feuded feuding feuds
-feudal
-feudalism
-feudalistic
-fever
+feudal,adjective
+feudalism,noun
+feudalistic,adjective
+fever,verb,noun
  fevered feverish feverishly feverishness fevers
-few
+few,pronoun<spanclass="listSeparator">,</span>adjective<spanclass="listSeparator">,</span>,noun,determiner
  fewer fewest fewness
-fey
-fez
+fey,adjective
+fez,propernoun,noun
  fezes fezzes
-fiance
+fiance,noun
  fiancee fiancees fiances
-fiasco
+fiasco,noun
  fiascoes fiascos
-fiat
+fiat,noun
  fiats
-fib
+fib,verb,noun
  fibbed fibbing fibs
-fibber
+fibber,noun
  fibbers
-fiber
+fiber,noun
  fibers fibre fibres
-fiberboard
+fiberboard,noun
  fibreboard
-fiberfill
+fiberfill,noun
  fibrefill
-fiberglass
+fiberglass,noun
  fibreglass
-fiber-optic
+fiber-optic,adjective
  fibre-optic
-fibril
+fibril,noun
  fibrils
-fibrillate
+fibrillate,verb
  fibrillated fibrillates fibrillating
-fibrillation
-fibrin
-fibroid
-fibrosis
-fibrous
-fibula
+fibrillation,noun
+fibrin,noun
+fibroid,adjective,noun
+fibrosis,noun
+fibrous,adjective
+fibula,noun
  fibulae fibulas
-fibular
-fiche
+fibular,adjective
+fiche,noun
  fiches
-fichu
+fichu,noun
  fichus
-fickle
+fickle,adjective
  fickleness fickler ficklest
-fiction
+fiction,noun
  fictions
-fictional
+fictional,adjective
  fictionally
-fictionalization
+fictionalization,noun
  fictionalisation fictionalisations fictionalizations
-fictionalize
+fictionalize,verb
  fictionalise fictionalised fictionalises fictionalising fictionalized fictionalizes fictionalizing
-fictitious
+fictitious,adjective
  fictitiously
-fictive
-ficus
-fiddle
+fictive,adjective
+ficus,noun
+fiddle,verb,noun
  fiddled fiddles fiddling
-fiddler
+fiddler,noun
  fiddlers
-fiddlesticks
-fiddly
+fiddlesticks,noun,exclamation
+fiddly,adjective
  fiddlier fiddliest
-fidelity
-fidget
+fidelity,noun
+fidget,verb,noun
  fidgeted fidgeting fidgets
-fidgety
-fiduciary
+fidgety,adjective
+fiduciary,adjective,noun
  fiduciaries
-fie
-fief
+fie,exclamation
+fief,noun
  fiefs
-fiefdom
+fiefdom,noun
  fiefdoms
-field
+field,verb,adjective,noun
  fielded fielding fields
-fielder
+fielder,noun
  fielders
-fieldmouse
+fieldmouse,noun
  fieldmice
-fieldsman
+fieldsman,noun
  fieldsmen
-fieldwork
-fieldworker
+fieldwork,noun
+fieldworker,noun
  fieldworkers
-fiend
+fiend,noun
  fiendish fiendishly fiends
-fierce
+fierce,adjective,adverb
  fiercely fierceness fiercer fiercest
-fiery
+fiery,adjective
  fierier fieriest fieriness
-fiesta
+fiesta,noun
  fiestas
-fife
+fife,propernoun,verb,noun
  fifes
-fifer
+fifer,noun
  fifers
-fifteen
+fifteen,cardinalnumber
  fifteens
-fifteenth
+fifteenth,ordinalnumber
  fifteenths
-fifth
+fifth,ordinalnumber
  fifthly fifths
-fiftieth
+fiftieth,ordinalnumber
  fiftieths
-fifty
+fifty,cardinalnumber
  fifties fiftyish
-fig
+fig,verb,noun
  figs
-fight
+fight,verb,noun
  fighting fights fought
-fightback
+fightback,noun
  fightbacks
-fighter
+fighter,noun
  fighters
-figment
+figment,noun
  figments
-figuration
-figurative
+figuration,noun
+figurative,adjective
  figuratively
-figure
+figure,verb,noun
  figured figures figuring
-figurehead
+figurehead,noun
  figureheads
-figurine
+figurine,noun
  figurines
-filament
+filament,noun
  filaments
-filamentous
-filbert
+filamentous,adjective
+filbert,noun
  filberts
-filch
+filch,verb
  filched filches filching
-file
+file,verb,noun
  filed files filing -> [filing]
-filer
+filer,noun
  filers
-filet -> [fillet]
+filet,noun
  filets -> [fillet]
-filial
-filibuster
+filial,adjective
+filibuster,verb,noun
  filibustered filibustering filibusters
-filibusterer
+filibusterer,verb,noun
  filibusterers
-filigree
+filigree,noun
  filigreed filigreeing filigrees
-filing -> [file]
+filing,noun
  filings
-fill
+fill,verb,noun
  filled filling -> [filling] fills
-filler
+filler,noun
  fillers
-fillet
+fillet,verb,noun
  filet -> [filet] fileted fileting filets -> [filet] filleted filleting fillets
-filling -> [fill]
+filling,adjective,noun
  fillings
-fillip
+fillip,verb,noun
  filliped filliping fillips
-filly
+filly,noun
  fillies
-film
+film,verb,noun
  filmed filming films
-filmgoer
+filmgoer,noun
  filmgoers
-filmic
-filmmaker
+filmic,adjective
+filmmaker,noun
  filmmakers
-filmstrip
+filmstrip,noun
  filmstrips
-filmy
+filmy,adjective
  filmier filmiest filminess
-filter
+filter,verb,noun
  filtered filtering filters
-filterable
+filterable,adjective
  filtrable
-filterer
+filterer,noun
  filterers
-filth
-filthy
+filth,noun
+filthy,adjective,adverb
  filthier filthiest filthily filthiness
-filtrate
+filtrate,verb,noun
  filtrated filtrates filtrating
-filtration
-fin
+filtration,noun
+fin,verb,noun
  finned fins
-finagle
+finagle,verb
  finagled finagles finagling
-finagler
+finagler,noun
  finaglers
-final
+final,adjective,noun
  finally finals
-finale
+finale,noun
  finales
-finalist
+finalist,noun
  finalists
-finality
-finalization
+finality,noun
+finalization,noun
  finalisation
-finalize
+finalize,verb
  finalise finalised finalises finalising finalized finalizes finalizing
-finance
+finance,verb,noun
  financed finances financing
-financial
+financial,adjective,noun
  financially
-financier
+financier,noun
  financiers
-finch
+finch,noun
  finches
-find
+find,verb,noun
  finding -> [finding] finds found -> [found]
-finder
+finder,noun
  finders
-finding -> [find]
+finding,noun
  findings
-fine
+fine,verb,adjective,noun,adverb
  fined finely fineness finer fines finest fining
-finery
-finespun
-finesse
+finery,noun
+finespun,adjective
+finesse,verb,noun
  finessed finesses finessing
-fine-tune
+fine-tune,verb
  fine-tuned fine-tunes fine-tuning
-finger
+finger,verb,noun
  fingered fingering -> [fingering] fingers
-fingerboard
+fingerboard,noun
  fingerboards
-fingering -> [finger]
+fingering,noun
  fingerings
-fingerling
+fingerling,noun
  fingerlings
-fingermark
+fingermark,noun
  fingermarks
-fingernail
+fingernail,noun
  fingernails
-fingerprint
+fingerprint,verb,noun
  fingerprinted fingerprinting fingerprints
-fingertip
+fingertip,noun
  fingertips
-finial
+finial,noun
  finials
-finical
-finicky
+finical,adjective
+finicky,adjective
  finickier finickiest finickiness
-finis
+finis,noun
  finises
-finish
+finish,verb,noun
  finished finishes finishing
-finisher
+finisher,noun
  finishers
-finite
+finite,adjective
  finitely
-finito
-fink
+finito,adjective
+fink,verb,noun
  finked finking finks
-finny
+finny,adjective
  finnier finniest
-fir
+fir,noun
  firs
-fire
+fire,verb,noun
  fired fires firing -> [firing]
-firearm
+firearm,noun
  firearms
-fireball
+fireball,noun
  fireballs
-firebomb
+firebomb,verb,noun
  firebombed firebombing -> [firebombing] firebombs
-firebombing -> [firebomb]
+firebombing,verb,noun
  firebombings
-firebox
+firebox,noun
  fireboxes
-firebrand
+firebrand,noun
  firebrands
-firebreak
+firebreak,noun
  firebreaks
-firebrick
+firebrick,noun
  firebricks
-firebug
+firebug,noun
  firebugs
-firecracker
+firecracker,noun
  firecrackers
-firedamp
-firefight
+firedamp,noun
+firefight,noun
  firefights
-firefighter
+firefighter,noun
  firefighters
-firefighting
-firefly
+firefighting,noun
+firefly,noun
  fireflies
-fireguard
+fireguard,noun
  fireguards
-firehouse
+firehouse,noun
  firehouses
-firelight
-firelighter
+firelight,noun
+firelighter,noun
  firelighters
-fireman
+fireman,noun
  firemen
-fireplace
+fireplace,noun
  fireplaces
-fireplug
+fireplug,noun
  fireplugs
-firepower
-fireproof
+firepower,noun
+fireproof,verb,adjective
  fireproofed fireproofing fireproofs
-firer
+firer,noun
  firers
-firescreen
+firescreen!
  firescreens
-fireside
+fireside,noun
  firesides
-firestorm
+firestorm,noun
  firestorms
-firetrap
+firetrap,noun
  firetraps
-firetruck
+firetruck,noun
  firetrucks
-firewall
+firewall,verb,noun
  firewalls
-firewater
-firewood
-firework
+firewater,noun
+firewood,noun
+firework,noun
  fireworks
-firing -> [fire]
+firing,noun
  firings
-firm
+firm,verb,adjective,adverb,noun
  firmed firmer firmest firming firmly firmness firms
-firmament
+firmament,noun
  firmaments
-firmware
-first
+firmware,noun
+first,ordinalnumber
  firstly firsts
-first-aid
-firstborn
+first-aid,noun
+firstborn,adjective,noun
  firstborns
-first-class
-first-degree
-first-ever
-first-generation
-firsthand
-first-rate
-first-time
-firth
+first-class,adjective,noun,adverb
+first-degree,adjective
+first-ever,adjective
+first-generation,adjective
+firsthand,adverb,adjective
+first-rate,adjective
+first-time,adjective
+firth,noun
  firths
-fiscal
+fiscal,adjective,noun
  fiscally fiscals
-fish
+fish,verb,noun
  fished fishes fishing
-fishbowl
+fishbowl,noun
  fishbowls
-fishcake
+fishcake,noun
  fishcakes
-fisher
+fisher,propernoun,noun
  fishers
-fisherman
+fisherman,noun
  fishermen
-fishery
+fishery,noun
  fisheries
-fishfinger
+fishfinger,noun
  fishfingers
-fishhook
+fishhook!
  fishhooks
-fishmonger
+fishmonger,noun
  fishmongers
-fishnet
+fishnet,noun
  fishnets
-fishpond
+fishpond,noun
  fishponds
-fishtail
+fishtail,verb,noun
  fishtailed fishtailing fishtails
-fishwife
+fishwife,noun
  fishwives
-fishy
+fishy,adjective
  fishier fishiest fishily fishiness
-fissile
-fission
-fissionable
-fissure
+fissile,adjective
+fission,verb,noun
+fissionable,adjective
+fissure,verb,noun
  fissures
-fist
+fist,verb,noun
  fistful fistfuls fists
-fistfight
+fistfight,noun
  fistfights
-fisticuffs
-fistula
+fisticuffs,pluralnoun
+fistula,noun
  fistulae fistulas
-fistulous
-fit
+fistulous,adjective
+fit,verb,adjective,noun
  fitly fitness fits fitted fitter -> [fitter] fittest fitting -> [fitting]
-fitful
+fitful,adjective
  fitfully fitfulness
-fitment
+fitment,noun
  fitments
-fitter -> [fit]
+fitter,noun
  fitters
-fitting -> [fit]
+fitting,adjective,noun
  fittingly fittings
-five
+five,cardinalnumber
  fives
-fivefold
-fiver
+fivefold,adjective,adverb
+fiver,noun
  fivers
-five-star
-fix
+five-star,adjective
+fix,verb,noun
  fixed fixedly fixes fixing -> [fixing]
-fixable
-fixate
+fixable,adjective
+fixate,verb
  fixated fixates fixating
-fixation
+fixation,noun
  fixations
-fixative
+fixative,adjective,noun
  fixatives
-fixer
+fixer,noun
  fixers
-fixing -> [fix]
+fixing,noun
  fixings
-fixity
-fixture
+fixity,noun
+fixture,noun
  fixtures
-fizz
+fizz,verb,noun
  fizzed fizzes fizzing
-fizzle
+fizzle,verb,noun
  fizzled fizzles fizzling
-fizzy
+fizzy,adjective
  fizzier fizziest
-fjord
+fjord,noun
  fiord fiords fjords
-flab
-flabbergast
+flab,noun
+flabbergast,verb
  flabbergasted flabbergasting flabbergasts
-flabby
+flabby,adjective
  flabbier flabbiest flabbily flabbiness
-flaccid
+flaccid,adjective
  flaccidly
-flaccidity
-flack -> [flak]
+flaccidity,noun
+flack,verb,noun
  flacks
-flag
+flag,verb,noun
  flagged flagging flags
-flagellant
+flagellant,noun
  flagellants
-flagellate
+flagellate,verb,adjective,noun
  flagellated flagellates flagellating
-flagellation
-flagellum
+flagellation,noun
+flagellum,noun
  flagella flagellums
-flagman
+flagman,noun
  flagmen
-flagon
+flagon,noun
  flagons
-flagpole
+flagpole,noun
  flagpoles
-flagrancy
+flagrancy,noun
  flagrance
-flagrant
+flagrant,adjective
  flagrantly
-flagship
+flagship,noun
  flagships
-flagstaff
+flagstaff,noun
  flagstaffs
-flagstone
+flagstone,noun
  flagstones
-flail
+flail,verb,noun
  flailed flailing flails
-flair
+flair,noun
  flairs
-flak
+flak,noun
  flack -> [flack]
-flake
+flake,verb,noun
  flaked flakes flaking
-flaky
+flaky,adjective
  flakier flakiest flakiness
-flambe
+flambe,verb,adjective
  flambeed flambeing flambes
-flamboyance
+flamboyance,noun
  flamboyancy
-flamboyant
+flamboyant,adjective,noun
  flamboyantly
-flame
+flame,verb,noun
  flamed flames flaming
-flamenco
+flamenco,noun
  flamencos
-flameproof
+flameproof,verb,adjective
  flameproofed flameproofing flameproofs
-flamethrower
+flamethrower,noun
  flamethrowers
-flamingo
+flamingo,noun
  flamingoes flamingos
-flammable
+flammable,adjective
  flammability flammables
-flan
+flan,noun
  flans
-flange
+flange,noun
  flanges
-flank
+flank,verb,noun
  flanked flanking flanks
-flanker
+flanker,noun
  flankers
-flannel
+flannel,verb,noun
  flanneled flanneling flannelled flannelling flannels
-flannelette
+flannelette,noun
  flannelet
-flap
+flap,verb,noun
  flapped flapping flaps
-flapjack
+flapjack,noun
  flapjacks
-flapper
+flapper,noun
  flappers
-flare
+flare,verb,noun
  flared flares flaring
-flareup
+flareup,noun
  flareups
-flash
+flash,verb,adjective,noun
  flashed flasher -> [flasher] flashes flashest flashing
-flashback
+flashback,noun
  flashbacks
-flashbulb
+flashbulb,noun
  flashbulbs
-flashcard
+flashcard,noun
  flashcards
-flashcube
+flashcube,noun
  flashcubes
-flasher -> [flash]
+flasher,noun
  flashers
-flashgun
+flashgun,noun
  flashguns
-flashlight
+flashlight,noun
  flashlights
-flashmob
+flashmob,noun
  flashmobs
-flashpoint
+flashpoint,noun
  flashpoints
-flashy
+flashy,adjective
  flashier flashiest flashily flashiness
-flask
+flask,noun
  flasks
-flat
+flat,verb,adjective,adverb,noun
  flatly flatness flats flatted flatter -> [flatter] flattest flatting flattish
-flatbed
+flatbed,noun
  flatbeds
-flatboat
+flatboat,noun
  flatboats
-flatcar
+flatcar,noun
  flatcars
-flatfish
+flatfish,noun
  flatfishes
-flatfoot
+flatfoot,noun
  flatfeet flatfoots
-flatfooted
-flatiron
+flatfooted,adjective
+flatiron,verb,noun
  flatirons
-flatland
-flatlet
+flatland,noun
+flatlet,noun
  flatlets
-flatline
+flatline,verb
  flatlined flatlines flatlining
-flatmate
+flatmate,noun
  flatmates
-flat-out
-flatpack
+flat-out,phrase
+flatpack,verb,noun
  flatpacks
-flatscreen
-flatten
+flatscreen,noun
+flatten,verb
  flattened flattening flattens
-flatter -> [flat]
+flatter,verb
  flattered flattering flatteringly flatters
-flatterer
+flatterer,noun
  flatterers
-flattery
-flattop
+flattery,noun
+flattop,noun
  flattops
-flatulence
-flatulent
-flatus
-flatware
-flatworm
+flatulence,noun
+flatulent,adjective
+flatus,noun
+flatware,noun
+flatworm,noun
  flatworms
-flaunt
+flaunt,verb
  flaunted flaunting flauntingly flaunts
-flavor
+flavor,verb,noun
  flavored flavorful flavoring -> [flavoring] flavorless flavors flavour flavoured flavourful flavouring -> [flavoring] flavourless flavours
-flavoring -> [flavor]
+flavoring,noun
  flavorings flavouring -> [flavor] flavourings
-flavorsome
+flavorsome,adjective
  flavoursome
-flaw
+flaw,verb,noun
  flawed flawing flawless flawlessly flawlessness flaws
-flax
-flaxen
-flay
+flax,noun
+flaxen,adjective
+flay,verb
  flayed flaying flays
-flea
+flea,noun
  fleas
-fleabag
+fleabag,noun
  fleabags
-fleabite
+fleabite,noun
  fleabites
-fleabitten
-fleapit
+fleabitten,adjective
+fleapit,noun
  fleapits
-fleck
+fleck,verb,noun
  flecked flecking flecks
-fledged
-fledgling
+fledged,adjective
+fledgling,noun
  fledgeling fledgelings fledglings
-flee
+flee,verb
  fled fleeing flees
-fleece
+fleece,verb,noun
  fleeced fleeces fleecing
-fleecer
+fleecer,adjective
  fleecers
-fleecy
+fleecy,adjective
  fleecier fleeciest fleeciness
-fleet
+fleet,verb,adjective,noun,adverb
  fleeted fleeter fleetest fleeting fleetingly fleetingness fleetly fleetness fleets
-flesh
+flesh,verb,noun
  fleshed fleshes fleshing fleshlier fleshliest fleshly
-fleshpot
+fleshpot,pluralnoun
  fleshpots
-fleshy
+fleshy,adjective
  fleshier fleshiest
-flex
+flex,verb,noun
  flexed flexes flexing
-flexible
+flexible,adjective
  flexibility flexibly
-flextime
+flextime,noun
  flexitime
-flibbertigibbet
+flibbertigibbet,noun
  flibbertigibbets
-flick
+flick,verb,noun
  flicked flicking flicks
-flicker
+flicker,verb,noun
  flickered flickering flickers
-flier -> [fly]
+flier,noun
  fliers flyer flyers
-flight
+flight,verb,noun
  flightless flights
-flighty
+flighty,adjective
  flightier flightiest flightiness
-flimflam
+flimflam,verb,noun
  flimflammed flimflamming flimflams
-flimsy
+flimsy,adjective,noun
  flimsier flimsiest flimsily flimsiness
-flinch
+flinch,verb,noun
  flinched flinches flinching
-fling
+fling,verb,noun
  flinging flings flung
-flint
+flint,noun
  flints
-flintlock
+flintlock,noun
  flintlocks
-flinty
+flinty,adjective
  flintier flintiest
-flip
+flip,verb,adjective,noun,exclamation
  flipped flipper -> [flipper] flippest flipping flips
-flipchart
+flipchart,noun
  flipcharts
-flippancy
-flippant
+flippancy,noun
+flippant,adjective
  flippantly
-flipper -> [flip]
+flipper,noun
  flippers
-flirt
+flirt,verb,noun
  flirted flirting flirts
-flirtation
+flirtation,noun
  flirtations
-flirtatious
+flirtatious,adjective
  flirtatiously flirtatiousness
-flirty
-flit
+flirty,adjective
+flit,verb,noun
  flits flitted flitting
-float
+float,verb,noun
  floated floating floats
-floater
+floater,noun
  floaters
-flock
+flock,verb,noun
  flocked flocking flocks
-floe
+floe,noun
  floes
-flog
+flog,verb,noun
  flogged flogging -> [flogging] flogs
-flogger
+flogger,noun
  floggers
-flogging -> [flog]
+flogging,verb,noun
  floggings
-flood
+flood,verb,noun
  flooded flooding floods
-floodgate
+floodgate,noun
  floodgates
-floodlight
+floodlight,verb,noun
  floodlighted floodlighting floodlights floodlit
-floodplain
+floodplain,noun
  floodplains
-floodwater
-floor
+floodwater,noun
+floor,verb,noun
  floored flooring -> [flooring] floors
-floorboard
+floorboard,noun
  floorboards
-flooring -> [floor]
+flooring,noun
  floorings
-floorshow
+floorshow,noun
  floorshows
-floorwalker
+floorwalker,noun
  floorwalkers
-floozy
+floozy,noun
  floozie floozies
-flop
+flop,verb,noun
  flopped flopping flops
-flophouse
+flophouse,noun
  flophouses
-floppy
+floppy,adjective,noun
  floppier floppies floppiest floppily floppiness
-flora
+flora,propernoun,noun
  florae floras
-floral
-florescence
-florescent
-floret
+floral,adjective,noun
+florescence,noun
+florescent!
+floret,noun
  florets
-florid
+florid,adjective
  florider floridest floridly floridness
-florin
+florin,noun
  florins
-florist
+florist,noun
  florists
-floss
+floss,verb,noun
  flossed flosses flossing
-flossy
+flossy,adjective
  flossier flossiest
-flotation
+flotation,noun
  floatation floatations flotations
-flotilla
+flotilla,noun
  flotillas
-flotsam
-flounce
+flotsam,noun
+flounce,verb,noun
  flounced flounces flouncing
-flouncy
+flouncy,adjective
  flouncier flounciest
-flounder
+flounder,verb,noun
  floundered floundering flounders
-flour
+flour,verb,noun
  floured flouring flours
-flourish
+flourish,verb,noun
  flourished flourishes flourishing
-floury
-flout
+floury,adjective
+flout,verb
  flouted flouting flouts
-flouter
+flouter,verb
  flouters
-flow
+flow,verb,noun
  flowed flowing flows
-flowchart
+flowchart!
  flowcharts
-flower
+flower,verb,noun
  flowered flowering -> [flowering] flowerless flowers
-flowerbed
+flowerbed,noun
  flowerbeds
-flowering -> [flower]
+flowering,adjective
  flowerings
-flowerpot
+flowerpot,noun
  flowerpots
-flowery
+flowery,adjective
  flowerier floweriest floweriness
-flu
-flub
+flu,noun
+flub,verb,noun
  flubbed flubbing flubs
-fluctuate
+fluctuate,verb
  fluctuated fluctuates fluctuating
-fluctuation
+fluctuation,noun
  fluctuations
-flue
+flue,noun
  flues
-fluency
-fluent
+fluency,noun
+fluent,adjective
  fluently
-fluff
+fluff,verb,noun
  fluffed fluffing fluffs
-fluffy
+fluffy,adjective
  fluffier fluffiest fluffiness
-fluid
+fluid,adjective,noun
  fluidly fluids
-fluidity
-fluke
+fluidity,noun
+fluke,verb,noun
  flukes
-fluky
+fluky,adjective
  flukey flukier flukiest
-flume
+flume,noun
  flumes
-flummox
+flummox,verb
  flummoxed flummoxes flummoxing
-flunk
+flunk,verb
  flunked flunking flunks
-flunky
+flunky,noun
  flunkey flunkeys flunkies
-fluoresce
+fluoresce,verb
  fluoresced fluoresces fluorescing
-fluorescence
-fluorescent
-fluoridate
+fluorescence,noun
+fluorescent,adjective,noun
+fluoridate,verb
  fluoridated fluoridates fluoridating
-fluoridation
-fluoride
+fluoridation,noun
+fluoride,noun
  fluorides
-fluorine
-fluorite
-fluorocarbon
+fluorine,noun
+fluorite,noun
+fluorocarbon,noun
  fluorocarbons
-fluoroscope
+fluoroscope,noun
  fluoroscopes
-fluoroscopic
-flurry
+fluoroscopic,adjective
+flurry,verb,noun
  flurried flurries flurrying
-flush
+flush,verb,adjective,noun,adverb
  flushed flusher flushes flushest flushing
-fluster
+fluster,verb,noun
  flustered flustering flusters
-flute
+flute,verb,noun
  fluted flutes fluting
-flutist
+flutist,noun
  flautist flautists flutists
-flutter
+flutter,verb,noun
  fluttered fluttering flutters
-fluttery
-fluvial
-flux
+fluttery,adjective
+fluvial,adjective
+flux,verb,noun
  fluxed fluxes fluxing
-fly
+fly,verb,adjective,noun
  flew flied flier -> [flier] flies fliest flown flying
-flyable
-flyaway
-flyblown
-flyby
+flyable,adjective
+flyaway,adjective
+flyblown,adjective
+flyby,noun
  flybys
-flycatcher
+flycatcher,noun
  flycatchers
-fly-fishing
-flyleaf
+fly-fishing,noun
+flyleaf,noun
  flyleaves
-flyover
+flyover,noun
  flyovers
-flypaper
+flypaper,noun
  flypapers
-flypast
+flypast,noun
  flypasts
-flyposting
-flysheet
+flyposting!
+flysheet,noun
  flysheets
-flyspeck
+flyspeck,noun
  flyspecked flyspecking flyspecks
-flyswatter
+flyswatter,noun
  flyswatters
-flyway
+flyway,noun
  flyways
-flyweight
+flyweight,noun
  flyweights
-flywheel
+flywheel,noun
  flywheels
-foal
+foal,verb,noun
  foaled foaling foals
-foam
+foam,verb,noun
  foamed foaming foams
-foamy
+foamy,adjective
  foamier foamiest foaminess
-fob
+fob,verb,noun
  fobbed fobbing fobs
-focal
+focal,adjective
  focally
-focus
+focus,verb,noun
  foci focused focuses focusing focussed focusses focussing
-fodder
+fodder,verb,noun
  fodders
-foe
+foe,abbreviation,noun
  foes
-fog
+fog,verb,noun
  fogged fogging fogs
-fogbound
-foggy
+fogbound,adjective
+foggy,adjective
  foggier foggiest foggily fogginess
-foghorn
+foghorn,noun
  foghorns
-fogy
+fogy,noun
  fogey fogeys fogies fogyish
-foible
+foible,noun
  foibles
-foil
+foil,verb,noun
  foiled foiling foils
-foist
+foist,verb
  foisted foisting foists
-fold
+fold,verb,noun
  folded folding folds
-foldaway
-folder
+foldaway,adjective
+folder,noun
  folders
-foldout
+foldout,adjective,noun
  foldouts
-foliage
-folio
+foliage,noun
+folio,noun
  folios
-folk
+folk,adjective,noun
  folks
-folklore
-folkloric
-folklorist
+folklore,noun
+folkloric,adjective
+folklorist,noun
  folklorists
-folksinger
+folksinger,noun
  folksingers
-folksinging
-folksong
+folksinging!
+folksong,noun
  folksongs
-folksy
+folksy,adjective
  folksier folksiest folksiness
-folktale
+folktale,noun
  folktales
-folkway
+folkway,pluralnoun
  folkways
-follicle
+follicle,noun
  follicles
-follow
+follow,verb
  followed following -> [following] follows
-follower
+follower,noun
  followers
-following -> [follow]
+following,preposition,adjective,noun
  followings
-follow-through
+follow-through,noun
  follow-throughs
-follow-up
+follow-up,noun
  follow-ups
-folly
+folly,noun
  follies
-foment
+foment,verb
  fomented fomenting foments
-fomentation
-fond
+fomentation,noun
+fond,adjective
  fonder fondest fondly fondness
-fondant
+fondant,noun
  fondants
-fondle
+fondle,verb,noun
  fondled fondles fondling
-fondue
+fondue,noun
  fondu fondues
-font
+font,noun
  fonts
-fontanel
+fontanel,noun
  fontanelle fontanelles fontanels
-food
+food,noun
  foods
-foodie
+foodie,noun
  foodies
-foodstuff
+foodstuff,noun
  foodstuffs
-fool
+fool,verb,adjective,noun
  fooled fooling foolish foolishly foolishness fools
-foolery
+foolery,noun
  fooleries
-foolhardy
+foolhardy,adjective
  foolhardier foolhardiest foolhardily foolhardiness
-foolproof
-foolscap
-foosball
-foot
+foolproof,adjective
+foolscap,noun
+foosball,noun
+foot,verb,noun
  feet footed footing -> [footing] footless foots
-footage
-football
+footage,noun
+football,noun
  footballing footballs
-footballer
+footballer,noun
  footballers
-footbrake
+footbrake,noun
  footbrakes
-footbridge
+footbridge,noun
  footbridges
-footdragging
-footer
+footdragging,noun
+footer,verb,noun
  footers
-footfall
+footfall,noun
  footfalls
-footfault
+footfault!
  footfaults
-foothill
+foothill,noun
  foothills
-foothold
+foothold,noun
  footholds
-footing -> [foot]
+footing,noun
  footings
-footlights
-footling
+footlights,pluralnoun
+footling,adjective
  footlings
-footlocker
+footlocker,noun
  footlockers
-footloose
-footman
+footloose,adjective
+footman,noun
  footmen
-footnote
+footnote,verb,noun
  footnoted footnotes footnoting
-footpath
+footpath,noun
  footpaths
-footplate
+footplate,noun
  footplates
-footprint
+footprint,noun
  footprints
-footrace
+footrace!
  footraces
-footrest
+footrest,noun
  footrests
-footsie
+footsie,noun
  footsies
-footslogging
-footsore
-footstep
+footslogging,verb,noun
+footsore,adjective
+footstep,noun
  footsteps
-footstool
+footstool,noun
  footstools
-footwear
-footwork
-footy
+footwear,noun
+footwork,noun
+footy,noun
  footie
-fop
+fop,noun
  foppish foppishness fops
-foppery
-for
-forage
+foppery,noun
+for,preposition,conjunction
+forage,verb,noun
  foraged forages foraging
-forager
+forager,noun
  foragers
-foray
+foray,verb,noun
  forayed foraying forays
-forbear -> [forebear]
+forbear,verb,noun
  forbearing forbears -> [forebear] forbore forborne
-forbearance
-forbid
+forbearance,noun
+forbid,verb
  forbad forbade forbidden forbidding -> [forbidding] forbids
-forbidding -> [forbid]
+forbidding,adjective
  forbiddingly
-force
+force,verb,noun
  forced forceful forcefully forcefulness forces forcing
-forceps
-forcible
+forceps,pluralnoun
+forcible,adjective
  forcibly
-ford
+ford,verb,noun
  forded fording fords
-fordable
-fore
+fordable,adjective
+fore,preposition,adjective,noun,exclamation
  fores
-forearm
+forearm,verb,noun
  forearmed forearming forearms
-forebear
+forebear,noun
  forbear -> [forbear] forbears -> [forbear] forebears
-forebode
+forebode,verb
  foreboded forebodes foreboding -> [foreboding]
-foreboding -> [forebode]
+foreboding,adjective,noun
  forebodings
-forecast
+forecast,verb,noun
  forecasted forecasting forecasts
-forecaster
+forecaster,noun
  forecasters
-forecastle
+forecastle,noun
  forecastles
-foreclose
+foreclose,verb
  foreclosed forecloses foreclosing
-foreclosure
+foreclosure,noun
  foreclosures
-forecourt
+forecourt,noun
  forecourts
-foredoom
+foredoom,verb
  foredoomed foredooming foredooms
-forefather
+forefather,noun
  forefathers
-forefinger
+forefinger,noun
  forefingers
-forefoot
+forefoot,noun
  forefeet
-forefront
+forefront,noun
  forefronts
-forego -> [forgo]
+forego,verb
  foregoes -> [forgo] foregoing -> [forgo] foregone -> [forgo] forewent -> [forgo]
-foreground
+foreground,verb,noun
  foregrounded foregrounding foregrounds
-forehand
+forehand,noun
  forehands
-forehead
+forehead,noun
  foreheads
-foreign
+foreign,adjective
  foreignness
-foreigner
+foreigner,noun
  foreigners
-foreknow
+foreknow,verb
  foreknew foreknowing foreknown foreknows
-foreknowledge
-foreleg
+foreknowledge,noun
+foreleg,noun
  forelegs
-forelimb
+forelimb,noun
  forelimbs
-forelock
+forelock,noun
  forelocks
-foreman
+foreman,noun
  foremen
-foremast
+foremast,noun
  foremasts
-foremost
-forename
+foremost,adjective,adverb
+forename,noun
  forenames
-forenamed
-forenoon
+forenamed,noun
+forenoon,noun
  forenoons
-forensic
+forensic,adjective,noun
  forensically forensics
-foreordain
+foreordain,verb
  foreordained foreordaining foreordains
-forepart
+forepart,noun
  foreparts
-foreperson
+foreperson,noun
  forepersons
-foreplay
-forequarter
+foreplay,noun
+forequarter,noun
  forequarters
-forerunner
+forerunner,noun
  forerunners
-foresail
+foresail,noun
  foresails
-foresee
+foresee,verb
  foresaw foreseeing foreseen foresees
-foreseeable
-foreseer
+foreseeable,adjective
+foreseer,noun
  foreseers
-foreshadow
+foreshadow,verb
  foreshadowed foreshadowing foreshadows
-foreshore
+foreshore,noun
  foreshores
-foreshorten
+foreshorten,verb
  foreshortened foreshortening foreshortens
-foresight
+foresight,noun
  foresighted foresightedness
-foreskin
+foreskin,noun
  foreskins
-forest
+forest,verb,noun
  forested foresting forests
-forestall
+forestall,verb
  forestalled forestalling forestalls
-forestation
-forester
+forestation,noun
+forester,noun
  foresters
-forestland
-forestry
-foreswear
+forestland,noun
+forestry,noun
+foreswear!
  foreswearing foreswears foreswore foresworn
-foretaste
+foretaste,noun
  foretasted foretastes foretasting
-foretell
+foretell,verb
  foretelling foretells foretold
-forethought
-forever
-forevermore
-forewarn
+forethought,noun
+forever,adjective,adverb
+forevermore,adverb
+forewarn,verb
  forewarned forewarning forewarns
-forewoman
+forewoman,noun
  forewomen
-foreword
+foreword,noun
  forewords
-forfeit
+forfeit,verb,adjective,noun
  forfeited forfeiting forfeits
-forfeiture
+forfeiture,noun
  forfeitures
-forgather
+forgather,verb
  foregather foregathered foregathering foregathers forgathered forgathering forgathers
-forge
+forge,verb,noun
  forged forges forging -> [forging]
-forger
+forger,noun
  forgers
-forgery
+forgery,noun
  forgeries
-forget
+forget,verb
  forgetful forgetfully forgetfulness forgets forgetting forgot forgotten
-forgettable
-forging -> [forge]
+forgettable,adjective
+forging,verb,noun
  forgings
-forgivable
-forgive
+forgivable,adjective
+forgive,verb
  forgave forgiven forgiveness forgives forgiving
-forgiver
+forgiver,noun
  forgivers
-forgo
+forgo,verb
  forego -> [forego] foregoes -> [forego] foregoing -> [forego] foregone -> [forego] forewent -> [forego] forgoes forgoing forgone forwent
-forgoer
+forgoer,verb
  forgoers
-fork
+fork,verb,noun
  forked forkful forkfuls forking forks
-forklift
+forklift,verb,noun
  forklifts
-forlorn
+forlorn,adjective
  forlornly
-form
+form,verb,noun
  formed forming formless formlessly formlessness forms
-formal
+formal,adjective,noun
  formally formals
-formaldehyde
-formalin
-formalism
-formalist
+formaldehyde,noun
+formalin,noun
+formalism,noun
+formalist,adjective,noun
  formalists
-formality
+formality,noun
  formalities
-formalization
+formalization,noun
  formalisation
-formalize
+formalize,verb
  formalise formalised formalises formalising formalized formalizes formalizing
-format
+format,verb,noun
  formated formating formats formatted formatting
-formation
+formation,noun
  formations
-formative
-former
+formative,adjective,noun
+former,adjective,noun
  formerly
-formfitting
-formic
-formidable
+formfitting,adjective
+formic,noun
+formidable,adjective
  formidably
-formula
+formula,noun
  formulae formulas
-formulaic
-formulate
+formulaic,adjective
+formulate,verb
  formulated formulates formulating
-formulation
+formulation,noun
  formulations
-formulator
+formulator,noun
  formulators
-fornicate
+fornicate,verb
  fornicated fornicates fornicating
-fornication
-fornicator
+fornication,noun
+fornicator,noun
  fornicators
-forsake
+forsake,verb
  forsaken forsakes forsaking forsook
-forsooth
-forswear
+forsooth,adverb
+forswear,verb
  forswearing forswears forswore forsworn
-forsythia
+forsythia,noun
  forsythias
-fort
+fort,noun
  forts
-forte
+forte,noun,adverb,adjective
  fortes
-forth
-forthcoming
-forthright
+forth,propernoun,adverb
+forthcoming,adjective
+forthright,adjective,adverb
  forthrightly forthrightness
-forthwith
-fortieth
+forthwith,adverb
+fortieth,ordinalnumber
  fortieths
-fortification
+fortification,noun
  fortifications
-fortifier
+fortifier,noun
  fortifiers
-fortify
+fortify,verb
  fortified fortifies fortifying
-fortissimo
-fortitude
-fortnight
+fortissimo,adjective,noun,adverb
+fortitude,noun
+fortnight,noun
  fortnightly fortnights
-fortress
+fortress,noun
  fortresses
-fortuitous
+fortuitous,adjective
  fortuitously fortuitousness
-fortuity
-fortunate
+fortuity,noun
+fortunate,adjective
  fortunately
-fortune
+fortune,noun
  fortunes
-fortuneteller
+fortuneteller,noun
  fortunetellers
-fortunetelling
-forty
+fortunetelling,noun
+forty,cardinalnumber
  forties fortyish
-forum
+forum,noun
  fora forums
-forward
+forward,verb,adjective,adverb,noun
  forwarded forwarder -> [forwarder] forwardest forwarding forwardly forwardness forwards
-forwarder -> [forward]
+forwarder,adjective,noun,adverb
  forwarders
-forward-looking
-fossil
+forward-looking,adjective
+fossil,noun
  fossils
-fossilization
+fossilization,noun
  fossilisation
-fossilize
+fossilize,verb
  fossilise fossilised fossilises fossilising fossilized fossilizes fossilizing
-foster
+foster,verb
  fostered fostering fosters
-foul
+foul,verb,adjective,noun,adverb
  fouled fouler foulest fouling foully foulness fouls
-foulard
-foulmouthed
-found -> [find]
+foulard,noun
+foulmouthed,adjective
+found,verb,adjective
  founded founding founds
-foundation
+foundation,noun
  foundations
-founder
+founder,verb,noun
  foundered foundering founders
-foundling
+foundling,noun
  foundlings
-foundry
+foundry,noun
  foundries
-fount
+fount,noun
  founts
-fountain
+fountain,verb,noun
  fountains
-fountainhead
+fountainhead,noun
  fountainheads
-four
+four,cardinalnumber
  fours
-fourfold
-four-legged
-fourposter
+fourfold,adjective,adverb
+four-legged,noun
+fourposter,noun
  fourposters
-fourscore
-foursome
+fourscore,cardinalnumber
+foursome,noun
  foursomes
-foursquare
-four-star
-fourteen
+foursquare,adjective,adverb
+four-star,adjective,noun
+fourteen,cardinalnumber
  fourteens
-fourteenth
+fourteenth,ordinalnumber
  fourteenths
-fourth
+fourth,ordinalnumber
  fourthly fourths
-four-wheel
-fowl
+four-wheel,noun
+fowl,noun
  fowled fowling fowls
-fox
+fox,verb,adjective,noun
  foxed foxes foxing
-foxfire
-foxglove
+foxfire,noun
+foxglove,noun
  foxgloves
-foxhole
+foxhole,noun
  foxholes
-foxhound
+foxhound,noun
  foxhounds
-foxhunt
+foxhunt,noun
  foxhunting foxhunts
-foxtrot
+foxtrot,verb,noun
  foxtrots foxtrotted foxtrotting
-foxy
+foxy,adjective
  foxier foxiest foxily foxiness
-foyer
+foyer,noun
  foyers
-fracas
+fracas,noun
  fracases
-frack!
+frack,verb,exclamation
  fracked fracking fracks
-fractal
+fractal,adjective,noun
  fractals
-fraction
+fraction,noun
  fractions
-fractional
+fractional,adjective
  fractionally
-fractious
+fractious,adjective
  fractiously fractiousness
-fracture
+fracture,verb,noun
  fractured fractures fracturing
-fragile
-fragility
-fragment
+fragile,adjective
+fragility,noun
+fragment,verb,noun
  fragmented fragmenting fragments
-fragmentary
-fragmentation
-fragrance
+fragmentary,adjective
+fragmentation,noun
+fragrance,noun
  fragrances
-fragrant
+fragrant,adjective
  fragrantly
-frail
+frail,adjective,noun
  frailer frailest frailly frailness
-frailty
+frailty,noun
  frailties
-frame
+frame,verb,noun
  framed frames framing
-framer
+framer,noun
  framers
-framework
+framework,noun
  frameworks
-franc
+franc,noun
  francs
-franchise
+franchise,verb,noun
  franchised franchises franchising
-franchisee
+franchisee,noun
  franchisees
-franchiser
+franchiser,noun
  franchisers franchisor franchisors
-francium
-francophone
+francium,noun
+francophone,adjective,noun
  francophones
-frangible
+frangible,adjective
  frangibility
-frank
+frank,verb,adjective,noun
  franked franker frankest franking frankly frankness franks
-frankfurter
+frankfurter,noun
  frankfurters
-frankincense
-frantic
+frankincense,noun
+frantic,adjective
  frantically
-frappe
+frappe,adjective,noun
  frappes
-frat
+frat,noun
  frats
-fraternal
+fraternal,adjective
  fraternally
-fraternity
+fraternity,noun
  fraternities
-fraternization
+fraternization,noun
  fraternisation
-fraternize
+fraternize,verb
  fraternise fraternised fraternises fraternising fraternized fraternizes fraternizing
-fraternizer
+fraternizer,noun
  fraterniser fraternisers fraternizers
-fratricidal
-fratricide
+fratricidal,adjective
+fratricide,noun
  fratricides
-fraud
+fraud,noun
  frauds
-fraudster
+fraudster,noun
  fraudsters
-fraudulence
-fraudulent
+fraudulence,noun
+fraudulent,adjective
  fraudulently
-fraught
-fray
+fraught,adjective
+fray,verb,noun
  frayed fraying frays
-frazzle
+frazzle,verb,noun
  frazzled frazzles frazzling
-freak
+freak,verb,noun
  freaked freaking freakish freakishly freakishness freaks
-freakout
+freakout,noun
  freakouts
-freaky
+freaky,adjective
  freakier freakiest
-freckle
+freckle,verb,noun
  freckled freckles freckling
-freckly
+freckly,adjective
  frecklier freckliest
-free
+free,verb,adjective,adverb
  freed freeing freely freer frees freest
-freebase
+freebase,verb,noun
  freebased freebases freebasing
-freebie
+freebie,noun
  freebee freebees freebies
-freebooter
+freebooter,noun
  freebooters
-freeborn
-freedman
+freeborn,adjective
+freedman,noun
  freedmen
-freedom
+freedom,noun
  freedoms
-free-floating
-freefone
-free-for-all
+free-floating,adjective
+freefone,noun
+free-for-all,noun
  free-for-alls
-freeform
-freehand
-freehold
+freeform,adjective
+freehand,adjective,adverb
+freehold,adjective,noun
  freeholds
-freeholder
+freeholder,noun
  freeholders
-freelance
+freelance,verb,adjective,adverb,noun
  freelanced freelances freelancing
-freelancer
+freelancer,noun
  freelancers
-freeload
+freeload,verb
  freeloaded freeloading freeloads
-freeloader
+freeloader,noun
  freeloaders
-freeman
+freeman,noun
  freemen
-freemasonry
-freephone
-freepost
-free-range
-freerunning
-freesia
+freemasonry,noun
+freephone,noun
+freepost,noun
+free-range,adjective
+freerunning,noun
+freesia,noun
  freesias
-freestanding
-freestone
+freestanding,adjective
+freestone,noun
  freestones
-freestyle
+freestyle,verb,adjective,noun
  freestyles
-freethinker
+freethinker,noun
  freethinkers
-freethinking
-freeware
-freeway
+freethinking,noun,adjective
+freeware,noun
+freeway,noun
  freeways
-freewheel
+freewheel,verb,noun
  freewheeled freewheeling freewheels
-freewill
-freezable
-freeze
+freewill,adjective,noun
+freezable,adjective
+freeze,verb,noun
  freezes freezing froze frozen
-freeze-dry
+freeze-dry,verb
  freeze-dried freeze-dries freeze-drying
-freezer
+freezer,noun
  freezers
-freight
+freight,verb,noun
  freighted freighting freights
-freighter
+freighter,noun
  freighters
-frenetic
+frenetic,adjective
  frenetically phrenetic phrenetically
-frenzy
+frenzy,noun
  frenzied frenziedly frenzies
-frequency
+frequency,noun
  frequencies
-frequent
+frequent,verb,adjective
  frequented frequenter -> [frequenter] frequentest frequenting frequently frequents
-frequenter -> [frequent]
+frequenter,noun
  frequenters
-frequent-flier
-fresco
+frequent-flier,verb,adjective
+fresco,noun
  frescoes frescos
-fresh
+fresh,adjective,adverb
  fresher -> [fresher] freshest freshly freshness
-freshen
+freshen,verb
  freshened freshening freshens
-freshener
+freshener,noun
  fresheners
-fresher -> [fresh]
+fresher,noun
  freshers
-freshet
+freshet,noun
  freshets
-fresh-faced
-freshman
+fresh-faced,adjective
+freshman,noun
  freshmen
-freshwater
-fret
+freshwater,adjective
+fret,verb,noun
  fretful fretfully fretfulness frets fretted fretting
-fretsaw
+fretsaw,noun
  fretsaws
-fretwork
-friable
-friar
+fretwork,noun
+friable,adjective
+friar,noun
  friars
-friary
+friary,noun
  friaries
-fricassee
+fricassee,verb,noun
  fricasseed fricasseeing fricassees
-fricative
+fricative,adjective,noun
  fricatives
-friction
+friction,noun
  frictions
-frictional
-fridge
+frictional,adjective
+fridge,noun
  fridges
-friedcake
+friedcake!
  friedcakes
-friend
+friend,verb,noun
  friended! friending! friendless friendlier friendliest friendliness friendly -> [friendly] friends
-friendly -> [friend]
+friendly,adjective,noun
  friendlies
-friendship
+friendship,noun
  friendships
-frieze
+frieze,noun
  friezes
-frig
+frig,verb,noun,exclamation
  frigged frigging frigs
-frigate
+frigate,noun
  frigates
-fright
+fright,verb,noun
  frighted frightful frightfully frightfulness frighting frights
-frighten
+frighten,verb
  frightened frightening frighteningly frightens
-frighteners
-frigid
+frighteners,noun
+frigid,adjective
  frigidly frigidness
-frigidity
-frill
+frigidity,noun
+frill,noun
  frilled frills
-frilly
+frilly,adjective,pluralnoun
  frillier frilliest
-fringe
+fringe,verb,noun
  fringed fringes fringing
-frippery
+frippery,adjective,noun
  fripperies
-frisk
+frisk,verb,noun
  frisked frisking frisks
-frisky
+frisky,adjective
  friskier friskiest friskily friskiness
-frisson
+frisson,noun
  frissons
-fritter
+fritter,verb,noun
  frittered frittering fritters
-fritz
-frivolity
+fritz,noun
+frivolity,noun
  frivolities
-frivolous
+frivolous,adjective
  frivolously frivolousness
-frizz
+frizz,verb,noun
  friz frizzed frizzes frizzing
-frizzle
+frizzle,verb,noun
  frizzled frizzles frizzling
-frizzy
+frizzy,adjective
  frizzier frizziest frizzlier frizzliest frizzly
-fro
-frock
+fro,adverb
+frock,noun
  frocks
-frog
+frog,noun
  frogs
-frogman
+frogman,noun
  frogmen
-frogmarch
+frogmarch,verb
  frogmarched frogmarches frogmarching
-frogspawn
-frolic
+frogspawn,noun
+frolic,verb,adjective,noun
  frolicked frolicking frolics
-frolicker
+frolicker,noun
  frolickers
-frolicsome
-from
-frond
+frolicsome,adjective
+from,preposition
+frond,noun
  fronds
-front
+front,verb,adjective,noun
  fronted fronting fronts
-frontage
+frontage,noun
  frontages
-frontal
+frontal,adjective,noun
  frontally
-frontbench
+frontbench,noun
  frontbenches
-frontbencher
+frontbencher,noun
  frontbenchers
-frontier
+frontier,noun
  frontiers
-frontiersman
+frontiersman,noun
  frontiersmen
-frontierswoman
+frontierswoman,noun
  frontierswomen
-frontispiece
+frontispiece,noun
  frontispieces
-frontman
+frontman,noun
  frontmen
-front-page
-frontrunner
+front-page,verb,noun
+frontrunner!
  frontrunners
-frontward
+frontward,adjective,adverb
  frontwards
-frosh
-frost
+frosh,noun
+frost,verb,noun
  frosted frosting -> [frosting] frosts
-frostbite
+frostbite,noun
  frostbit frostbites frostbiting frostbitten
-frosting -> [frost]
+frosting,noun
  frostings
-frosty
+frosty,adjective
  frostier frostiest frostily frostiness
-froth
+froth,verb,noun
  frothed frothing froths
-frothy
+frothy,adjective
  frothier frothiest frothiness
-froufrou
-froward
+froufrou,noun
+froward,adjective
  frowardness
-frown
+frown,verb,noun
  frowned frowning frowns
-frowsty
-frowzy
+frowsty,adjective
+frowzy,adjective
  frowsier frowsiest frowsily frowsiness frowsy frowzier frowziest frowzily frowziness
-fructify
+fructify,verb
  fructified fructifies fructifying
-fructose
-frugal
+fructose,noun
+frugal,adjective
  frugally
-frugality
-fruit
+frugality,noun
+fruit,verb,noun
  fruited fruitful fruitfully fruitfulness fruiting fruitless fruitlessly fruitlessness fruits
-fruitbat
+fruitbat,noun
  fruitbats
-fruitcake
+fruitcake,noun
  fruitcakes
-fruiterer
+fruiterer,noun
  fruiterers
-fruition
-fruity
+fruition,noun
+fruity,adjective
  fruitier fruitiest fruitiness
-frump
+frump,noun
  frumpish frumps
-frumpy
+frumpy,adjective
  frumpier frumpiest
-frustrate
+frustrate,verb,adjective
  frustrated frustrates frustrating frustratingly
-frustration
+frustration,noun
  frustrations
-frustum
+frustum,noun
  frusta frustums
-fry
+fry,verb,pluralnoun,noun
  fried fries frying
-fryer
+fryer,noun
  frier friers fryers
-fuchsia
+fuchsia,noun
  fuchsias
-fuck
+fuck,verb,noun,exclamation
  fucked fucking fucks
-fucker
+fucker,noun
  fuckers
-fuckhead
+fuckhead,noun
  fuckheads
-fuddle
+fuddle,verb,noun
  fuddled fuddles fuddling
-fudge
+fudge,verb,noun,exclamation
  fudged fudges fudging
-fuel
+fuel,verb,noun
  fueled fueling fuelled fuelling fuels
-fug
-fugal
-fuggy
-fugitive
+fug,noun
+fugal,adjective
+fuggy,adjective
+fugitive,adjective,noun
  fugitives
-fugue
+fugue,noun
  fugues
-fuhrer
+fuhrer,noun
  fuehrer fuehrers fuhrers
-fulcrum
+fulcrum,noun
  fulcra fulcrums
-fulfill
+fulfill,verb
  fulfil fulfilled fulfilling fulfills fulfils
-fulfillment
+fulfillment,noun
  fulfilment
-full
+full,verb,adjective,adverb,noun
  fulled fuller -> [fuller] fullest fulling fullness fulls fully fulness
-fullback
+fullback,noun
  fullbacks
-full-blown
-full-bodied
-fuller -> [full]
+full-blown,adjective
+full-bodied,adjective
+fuller,verb,noun
  fullers
-full-fledged
-full-grown
-full-length
-full-on
-full-page
-full-scale
-full-size
+full-fledged,adjective
+full-grown,adjective
+full-length,adjective,adverb
+full-on,phrase
+full-page,noun
+full-scale,adjective
+full-size,adjective
  full-sized
-full-time
-fulminate
+full-time,adjective,adverb,noun
+fulminate,verb,noun
  fulminated fulminates fulminating
-fulmination
+fulmination,noun
  fulminations
-fulsome
+fulsome,adjective
  fulsomely fulsomeness
-fumble
+fumble,verb,noun
  fumbled fumbles fumbling fumblingly
-fumbler
+fumbler,noun
  fumblers
-fume
+fume,verb,noun
  fumed fumes fuming
-fumigant
+fumigant,noun
  fumigants
-fumigate
+fumigate,verb
  fumigated fumigates fumigating
-fumigation
-fumigator
+fumigation,noun
+fumigator,noun
  fumigators
-fumy
+fumy,adjective
  fumier fumiest
-fun
+fun,verb,adjective,noun
  funner funnest
-function
+function,verb,noun
  functioned functioning functions
-functional
+functional,adjective
  functionally
-functionalism
-functionalist
+functionalism,noun
+functionalist,noun,adjective
  functionalists
-functionality
+functionality,noun
  functionalities
-functionary
+functionary,noun
  functionaries
-fund
+fund,verb,noun
  funded funding funds
-fundamental
+fundamental,adjective,noun
  fundamentally fundamentals
-fundamentalism
-fundamentalist
+fundamentalism,noun
+fundamentalist,adjective,noun
  fundamentalists
-fundraiser
+fundraiser,noun
  fundraisers
-fund-raising
-funeral
+fund-raising,adjective,noun
+funeral,noun
  funerals
-funerary
-funereal
+funerary,adjective
+funereal,adjective
  funereally
-funfair
+funfair,noun
  funfairs
-fungal
-fungible
+fungal,adjective
+fungible,adjective
  fungibles
-fungicidal
-fungicide
+fungicidal,adjective
+fungicide,noun
  fungicides
-fungoid
-fungous
-fungus
+fungoid,adjective,noun
+fungous,adjective
+fungus,noun
  fungi funguses
-funhouse
+funhouse,noun
  funhouses
-funicular
+funicular,adjective,noun
  funiculars
-funk
+funk,verb,noun
  funked funking funks
-funky
+funky,adjective
  funkier funkiest funkiness
-funnel
+funnel,verb,noun
  funneled funneling funnelled funnelling funnels
-funny
+funny,adjective,noun
  funnier funnies funniest funnily funniness
-funnyman
+funnyman,noun
  funnymen
-fur
+fur,verb,adjective,noun
  furred furring furs
-furbelow
-furbish
+furbelow,verb,noun
+furbish,verb
  furbished furbishes furbishing
-furious
+furious,adjective
  furiously
-furl
+furl,verb
  furled furling furls
-furlong
+furlong,noun
  furlongs
-furlough
+furlough,verb,noun
  furloughed furloughing furloughs
-furnace
+furnace,noun
  furnaces
-furnish
+furnish,verb
  furnished furnishes furnishing -> [furnishing]
-furnishing -> [furnish]
+furnishing,noun
  furnishings
-furniture
-furor
+furniture,noun
+furor,noun
  furore furores furors
-furrier -> [furry]
+furrier,noun
  furriers
-furrow
+furrow,verb,noun
  furrowed furrowing furrows
-furry
+furry,adjective,noun
  furrier -> [furrier] furriest furriness
-further -> [far]
+further,</span></h3><spanclass="transitivity"></span><ulclass="semb"><li><divclass="trg"><p><spanclass="iteration"></span></p><divclass="crossReference">usedascomparativeof<ahref="/definition/far">far</a></div></div></li></ul></section><divclass="banbox"><divclass="container"></div><divclass="containermpu"><divclass="banner"><divid="div-gpt-ad-1467382167665-1"><script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1467382167665-1');});</script></div></div></div></div><sectionclass="gramb"><h3class="pspos"><spanclass="pos">adverb,verb,adjective
  furthered furthering furthers
-furtherance
-furthermore
-furtive
+furtherance,noun
+furthermore,adverb
+furtive,adjective
  furtively furtiveness
-fury
+fury,noun
  furies
-furze
-fuse
+furze,noun
+fuse,verb,noun
  fused fuses fusing fuze fuzed fuzes fuzing
-fusee
+fusee,noun
  fusees
-fuselage
+fuselage,noun
  fuselages
-fusible
+fusible,adjective
  fusibility
-fusilier
+fusilier,noun
  fusileer fusileers fusiliers
-fusillade
+fusillade,verb,noun
  fusillades
-fusion
+fusion,noun
  fusions
-fuss
+fuss,verb,noun
  fussed fusses fussing
-fussbudget
+fussbudget,noun
  fussbudgets
-fusspot
+fusspot,noun
  fusspots
-fussy
+fussy,adjective
  fussier fussiest fussily fussiness
-fustian
-fusty
+fustian,noun
+fusty,adjective
  fustier fustiest fustiness
-futile
+futile,adjective
  futilely
-futility
-futon
+futility,noun
+futon,noun
  futons
-future
+future,adjective,noun
  futures
-futurism
-futurist
+futurism,noun
+futurist,adjective,noun
  futurists
-futuristic
-futurity
+futuristic,adjective
+futurity,noun
  futurities
-futurologist
+futurologist,noun
  futurologists
-futurology
-futz
+futurology,noun
+futz,verb
  futzed futzes futzing
-fuzz
+fuzz,verb,noun
  fuzzed fuzzes fuzzing
-fuzzy
+fuzzy,adjective
  fuzzier fuzziest fuzzily fuzziness
