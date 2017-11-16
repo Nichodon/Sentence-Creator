@@ -1,3603 +1,3603 @@
-dab
+dab,noun,verb,abbreviation
  dabbed dabbing dabs
-dabber
+dabber,noun
  dabbers
-dabble
+dabble,verb
  dabbled dabbles dabbling
-dabbler
+dabbler,noun
  dabblers
-dace
+dace,noun
  daces
-dacha
+dacha,noun
  dachas
-dachshund
+dachshund,noun
  dachshunds
-dacoit
+dacoit,noun
  dacoits
-dactyl
+dactyl,noun
  dactyls
-dactylic
+dactylic,noun,adjective
  dactylics
-dad
+dad,noun
  dads
-dadaism
-dadaist
+dadaism,noun
+dadaist,adjective,noun
  dadaists
-daddy
+daddy,noun
  daddies
-dado
+dado,noun
  dadoes dados
-daemon
+daemon,noun
  daemons
-daemonic
-daffodil
+daemonic,adjective
+daffodil,noun
  daffodils
-daffy
+daffy,adjective
  daffier daffiest daffiness
-daft
+daft,adjective
  dafter daftest daftly daftness
-dag
+dag,noun,verb
  dags
-dagger
+dagger,noun
  daggers
-daggy
-dago
+daggy,adjective
+dago,noun
  dagoes dagos
-daguerreotype
+daguerreotype,noun
  daguerreotyped daguerreotypes daguerreotyping
-dahlia
+dahlia,noun
  dahlias
-daily -> [day]
+daily,noun,adjective,adverb
  dailies dailiness
-dainty
+dainty,noun,adjective
  daintier dainties daintiest daintily daintiness
-daiquiri
+daiquiri,noun
  daiquiris
-dairy
+dairy,noun,adjective
  dairies dairying
-dairymaid
+dairymaid,noun
  dairymaids
-dairyman
+dairyman,noun
  dairymen
-dairywoman
+dairywoman!
  dairywomen
-dais
+dais,noun
  daises
-daisy
+daisy,noun
  daisies
-dale
+dale,noun
  dales
-dalliance
+dalliance,noun
  dalliances
-dallier
+dallier,noun
  dalliers
-dally
+dally,verb
  dallied dallies dallying
-dalmatian
+dalmatian,noun,adjective
  dalmatians
-dam
+dam,noun,verb,abbreviation
  dammed damming dams
-damage
+damage,noun,verb
  damaged damages damaging
-damageable
-damask
+damageable,adjective
+damask,noun,verb,adjective
  damasked damasking damasks
-dame
+dame,noun
  dames
-dammit
-damn
+dammit,exclamation
+damn,verb,adjective,exclamation
  damndest damned damnedest damning damns
-damnable
+damnable,adjective
  damnably
-damnation
-damp
+damnation,noun,exclamation
+damp,noun,verb,adjective
  damped damper -> [damper] dampest damping damply dampness damps
-dampen
+dampen,verb
  dampened dampening dampens
-dampener
+dampener,noun
  dampeners
-damper -> [damp]
+damper,noun
  dampers
-damsel
+damsel,noun
  damsels
-damselfly
+damselfly,noun
  damselflies
-damson
+damson,noun
  damsons
-dance
+dance,noun,verb
  danced dances dancing
-dancefloor
+dancefloor!
  dancefloors
-dancer
+dancer,noun
  dancers
-dandelion
+dandelion,noun
  dandelions
-dander
-dandify
+dander,noun,verb
+dandify!
  dandified dandifies dandifying
-dandle
+dandle,verb
  dandled dandles dandling
-dandruff
-dandy
+dandruff,noun
+dandy,noun,adjective
  dandier dandies dandiest
-dang
+dang,adjective,exclamation<spanclass="listSeparator">,</span>verb<spanclass="listSeparator">,</span>
  danged danging dangs
-danger
+danger,noun
  dangers
-dangerous
+dangerous,adjective
  dangerously
-dangle
+dangle,verb
  dangled dangles dangling
-dangler
+dangler,noun
  danglers
-danish
+danish,noun,adjective
  danishes
-dank
+dank,adjective
  danker dankest dankly dankness
-danseuse
+danseuse,noun
  danseuses
-dapper
+dapper,adjective
  dapperer dapperest
-dapple
+dapple,noun,verb
  dappled dapples dappling
-dare
+dare,noun,verb
  dared dares daring daringly durst
-daredevil
+daredevil,noun,adjective
  daredevils
-daredevilry
-darer
+daredevilry,noun
+darer,noun
  darers
-daresay
-dark
+daresay,verb
+dark,noun,adjective
  darker darkest darkly darkness
-darken
+darken,verb
  darkened darkening darkens
-darkener
+darkener,noun
  darkeners
-darkie
+darkie,noun
  darkies
-darkroom
+darkroom,noun
  darkrooms
-darling
+darling,noun,adjective
  darlings
-darn
+darn,noun,verb,adjective<spanclass="listSeparator">,</span>verb<spanclass="listSeparator">,</span>,exclamation
  darned darneder darnedest darning darns
-darner
+darner,noun
  darners
-dart
+dart,noun,verb
  darted darting darts
-dartboard
+dartboard,noun
  dartboards
-darter
+darter,noun
  darters
-dash
+dash,noun,verb,exclamation
  dashed dashes dashing -> [dashing]
-dashboard
+dashboard,noun
  dashboards
-dasher
+dasher,noun
  dashers
-dashiki
+dashiki,noun
  dashikis
-dashing -> [dash]
+dashing,adjective
  dashingly
-dastard
+dastard,noun
  dastardliness dastardly dastards
-data
+data,noun
  datum datums
-databank
+databank,noun
  databanks
-database
+database,noun
  databases
-datable
-date
+datable,adjective
+date,noun,verb
  dated dateless dates dating
-datebook
+datebook,noun
  datebooks
-dateline
+dateline,noun,verb
  datelined datelines datelining
-dater
+dater,noun
  daters
-dative
+dative,noun,adjective
  datives
-daub
+daub,noun,verb
  daubed daubing daubs
-dauber
+dauber,noun
  daubers
-daughter
+daughter,noun
  daughterly daughters
-daughter-in-law
+daughter-in-law,noun
  daughters-in-law
-daunt
+daunt,verb
  daunted daunting dauntingly dauntless dauntlessly dauntlessness daunts
-dauphin
+dauphin,noun
  dauphins
-davenport
+davenport,noun
  davenports
-davit
+davit,noun
  davits
-dawdle
+dawdle,verb
  dawdled dawdles dawdling
-dawdler
+dawdler,noun
  dawdlers
-dawn
+dawn,noun,verb
  dawned dawning dawns
-day
+day,noun
  daily -> [daily] days
-daybed
+daybed,noun
  daybeds
-daybreak
-daycare
-daydream
+daybreak,noun
+daycare,noun
+daydream,noun,verb
  daydreamed daydreaming daydreams daydreamt
-daydreamer
+daydreamer,noun
  daydreamers
-daylight
+daylight,noun
  daylights
-daylong
-dayroom
+daylong,adjective
+dayroom,noun
  dayrooms
-daytime
-day-to-day
-daze
+daytime,noun
+day-to-day,noun,adjective,adverb
+daze,noun,verb
  dazed dazedly dazes dazing
-dazzle
+dazzle,noun,verb
  dazzled dazzles dazzling dazzlingly
-dazzler
+dazzler,noun
  dazzlers
-deacon
+deacon,noun,verb
  deacons
-deaconess
+deaconess,noun
  deaconesses
-deactivate
+deactivate,verb
  deactivated deactivates deactivating
-deactivation
-dead
+deactivation,noun
+dead,adjective,adverb
  deader deadest deadlier deadliest deadliness deadly
-deadbeat
+deadbeat,noun,adjective
  deadbeats
-deadbolt
+deadbolt,noun
  deadbolts
-deaden
+deaden,verb
  deadened deadening deadens
-dead-end
-deadhead
+dead-end,noun,verb
+deadhead,noun,verb
  deadheaded deadheading deadheads
-deadline
+deadline,noun
  deadlines
-deadlock
+deadlock,noun,verb
  deadlocked deadlocking deadlocks
-deadpan
+deadpan,verb,adjective,adverb
  deadpanned deadpanning deadpans
-deadweight
+deadweight!
  deadweights
-deadwood
-deaf
+deadwood,noun,propernoun
+deaf,adjective
  deafer deafest deafness
-deafen
+deafen,verb
  deafened deafening deafeningly deafens
-deal
+deal,noun,verb
  dealing -> [dealing] deals dealt
-dealbreaker
+dealbreaker,noun
  dealbreakers
-dealer
+dealer,noun
  dealers
-dealership
+dealership,noun
  dealerships
-dealing -> [deal]
+dealing,noun
  dealings
-dean
+dean,noun
  deans
-deanery
+deanery,noun
  deaneries
-deanship
-dear
+deanship!
+dear,noun,adjective,adverb,exclamation
  dearer dearest -> [dearest] dearly dearness dears
-dearest -> [dear]
+dearest,noun,adjective
  dearests
-dearie
+dearie,noun
  dearies deary
-dearth
+dearth,noun
  dearths
-death
+death,noun
  deathless deathlessly deathlike deathly deaths
-deathbed
+deathbed,noun
  deathbeds
-deathblow
+deathblow!
  deathblows
-deathtrap
+deathtrap,noun
  deathtraps
-deathwatch
+deathwatch,noun
  deathwatches
-deb
+deb,noun
  debs
-debacle
+debacle,noun
  debacles
-debar
+debar,verb
  debarred debarring debars
-debark
+debark,verb
  debarked debarking debarks
-debarkation
-debarment
-debase
+debarkation,noun
+debarment,noun
+debase,verb
  debased debases debasing
-debasement
+debasement,noun
  debasements
-debatable
-debate
+debatable,adjective
+debate,noun,verb
  debated debates debating
-debater
+debater,noun
  debaters
-debauch
+debauch,noun,verb
  debauched debauches debauching
-debauchee
+debauchee,noun
  debauchees
-debauchery
+debauchery,noun
  debaucheries
-debenture
+debenture,noun
  debentures
-debilitate
+debilitate,verb
  debilitated debilitates debilitating
-debilitation
-debility
+debilitation,noun
+debility,noun
  debilities
-debit
+debit,noun,verb
  debited debiting debits
-debonair
+debonair,adjective
  debonaire debonairly debonairness
-debouch
+debouch,verb
  debouched debouches debouching
-debrief
+debrief,noun,verb
  debriefed debriefing -> [debriefing] debriefs
-debriefing -> [debrief]
+debriefing,noun,verb
  debriefings
-debris
-debt
+debris,noun
+debt,noun
  debts
-debtor
+debtor,noun
  debtors
-debug
+debug,noun,verb
  debugged debugging debugs
-debugger
+debugger,noun
  debuggers
-debunk
+debunk,verb
  debunked debunking debunks
-debut
+debut,noun,verb
  debuted debuting debuts
-debutante
+debutante,noun
  debutantes
-decade
+decade,noun
  decades
-decadence
+decadence,noun
  decadency
-decadent
+decadent,noun,adjective
  decadently decadents
-decaf
+decaf,noun,adjective
  decaff decaffs decafs
-decaffeinate
+decaffeinate,verb
  decaffeinated decaffeinates decaffeinating
-decagon
+decagon,noun
  decagons
-decal
+decal,noun
  decals
-decamp
+decamp,verb
  decamped decamping decamps
-decampment
-decant
+decampment,noun
+decant,verb
  decanted decanting decants
-decanter
+decanter,noun
  decanters
-decapitate
+decapitate,verb
  decapitated decapitates decapitating
-decapitation
+decapitation,noun
  decapitations
-decapitator
+decapitator,noun
  decapitators
-decathlete
+decathlete,noun
  decathletes
-decathlon
+decathlon,noun
  decathlons
-decay
+decay,noun,verb
  decayed decaying decays
-decease
+decease,noun,verb
  deceased deceases deceasing
-decedent
+decedent,noun
  decedents
-deceit
+deceit,noun
  deceitful deceitfully deceitfulness deceits
-deceive
+deceive,verb
  deceived deceives deceiving deceivingly
-deceiver
+deceiver,noun
  deceivers
-decelerate
+decelerate,verb
  decelerated decelerates decelerating
-deceleration
-decelerator
+deceleration,noun
+decelerator,noun
  decelerators
-decency
+decency,noun
  decencies
-decennial
+decennial,adjective
  decennials
-decent
+decent,adjective
  decently
-decentralization
+decentralization,noun
  decentralisation
-decentralize
+decentralize,verb
  decentralise decentralised decentralises decentralising decentralized decentralizes decentralizing
-deception
+deception,noun
  deceptions
-deceptive
+deceptive,adjective
  deceptively deceptiveness
-decibel
+decibel,noun
  decibels
-decidable
-decide
+decidable,adjective
+decide,verb
  decided -> [decided] decides deciding
-decided -> [decide]
+decided,adjective
  decidedly
-decider
+decider,noun
  deciders
-deciduous
-deciliter
+deciduous,adjective
+deciliter,noun
  deciliters decilitre decilitres
-decimal
+decimal,noun,adjective
  decimals
-decimalization
+decimalization,noun
  decimalisation
-decimate
+decimate,verb
  decimated decimates decimating
-decimation
-decimeter
+decimation,noun
+decimeter,noun
  decimeters decimetre decimetres
-decipher
+decipher,verb
  deciphered deciphering deciphers
-decipherable
-decision
+decipherable,adjective
+decision,noun
  decisions
-decision-making
-decisive
+decision-making,noun
+decisive,adjective
  decisively decisiveness
-deck
+deck,noun,verb
  decked decking decks
-deckchair
+deckchair,noun
  deckchairs
-deckhand
+deckhand,noun
  deckhands
-declaim
+declaim,verb
  declaimed declaiming declaims
-declaimer
+declaimer,noun
  declaimers
-declamation
+declamation,noun
  declamations
-declamatory
-declarable
-declaration
+declamatory,adjective
+declarable,adjective
+declaration,noun
  declarations
-declarative
-declaratory
-declare
+declarative,noun,adjective
+declaratory,adjective
+declare,verb
  declared declares declaring
-declarer
+declarer,noun
  declarers
-declassification
-declassify
+declassification,noun
+declassify,verb
  declassified declassifies declassifying
-declaw
+declaw,verb
  declawed declawing declaws
-declension
+declension,noun
  declensions
-declination
-decline
+declination,noun
+decline,noun,verb
  declined declines declining
-decliner
+decliner,noun
  decliners
-declivity
+declivity,noun
  declivities
-declutter
+declutter,verb
  decluttered decluttering declutters
-decode
+decode,noun,verb
  decoded decodes decoding
-decoder
+decoder,noun
  decoders
-decolletage
+decolletage,noun
  decolletages
-decollete
-decolonization
+decollete,noun,adjective
+decolonization,noun
  decolonisation
-decolonize
+decolonize,verb
  decolonise decolonised decolonises decolonising decolonized decolonizes decolonizing
-decommission
+decommission,verb
  decommissioned decommissioning decommissions
-decompose
+decompose,verb
  decomposed decomposes decomposing
-decomposition
-decompress
+decomposition,noun
+decompress,verb
  decompressed decompresses decompressing
-decompression
-decongestant
+decompression,noun
+decongestant,noun,adjective
  decongestants
-deconstruct
+deconstruct,verb
  deconstructed deconstructing deconstructs
-deconstruction
+deconstruction,noun
  deconstructions
-deconstructionism
-deconstructionist
+deconstructionism,noun
+deconstructionist,adjective,noun
  deconstructionists
-decontaminate
+decontaminate,verb
  decontaminated decontaminates decontaminating
-decontamination
-decontrol
+decontamination,noun
+decontrol,noun,verb
  decontrolled decontrolling decontrols
-decor
+decor,noun
  decors
-decorate
+decorate,verb
  decorated decorates decorating
-decoration
+decoration,noun
  decorations
-decorative
+decorative,adjective
  decoratively
-decorator
+decorator,noun
  decorators
-decorous
+decorous,adjective
  decorously decorousness
-decorum
-decoupage
+decorum,noun
+decoupage,noun
  decoupaged decoupages decoupaging
-decouple
+decouple,verb
  decoupled decouples decoupling
-decoy
+decoy,noun,verb
  decoyed decoying decoys
-decrease
+decrease,noun,verb
  decreased decreases decreasing decreasingly
-decree
+decree,noun,verb
  decreed decreeing decrees
-decrepit
-decrepitude
-decrescendo
+decrepit,adjective
+decrepitude,noun
+decrescendo,adjective<spanclass="listSeparator">,</span>noun<spanclass="listSeparator">,</span>,adverb
  decrescendi decrescendos
-decriminalization
+decriminalization,noun
  decriminalisation
-decriminalize
+decriminalize,verb
  decriminalise decriminalised decriminalises decriminalising decriminalized decriminalizes decriminalizing
-decry
+decry,verb
  decried decries decrying
-dedicate
+dedicate,verb
  dedicated dedicates dedicating
-dedication
+dedication,noun
  dedications
-dedicator
+dedicator,noun
  dedicators
-dedicatory
-deduce
+dedicatory,adjective
+deduce,verb
  deduced deduces deducing
-deducible
-deduct
+deducible,adjective
+deduct,verb
  deducted deducting deducts
-deductible
+deductible,noun,adjective
  deductibles
-deduction
+deduction,noun
  deductions
-deductive
+deductive,adjective
  deductively
-deed
+deed,noun,verb
  deeded deeding deeds
-deejay
+deejay,noun,verb
  deejayed deejaying deejays
-deem
+deem,verb
  deemed deeming deems
-de-emphasize
+de-emphasize,verb
  de-emphasized de-emphasizes de-emphasizing
-deep
+deep,noun,adjective,adverb
  deeper deepest deeply deepness deeps
-deepen
+deepen,verb
  deepened deepening deepens
-deep-fried
-deep-rooted
-deep-sea
-deep-seated
-deep-set
-deer
+deep-fried,verb
+deep-rooted,adjective
+deep-sea,noun
+deep-seated,adjective
+deep-set,adjective
+deer,noun
  deers
-deerskin
-deerstalker
+deerskin,noun
+deerstalker,noun
  deerstalkers
-deescalate
+deescalate,verb
  deescalated deescalates deescalating
-deescalation
-def
+deescalation,noun
+def,adjective
  deffer deffest
-deface
+deface,verb
  defaced defaces defacing
-defacement
-defacer
+defacement,noun
+defacer,noun
  defacers
-defalcate
+defalcate,verb
  defalcated defalcates defalcating
-defalcation
+defalcation,noun
  defalcations
-defamation
-defamatory
-defame
+defamation,noun
+defamatory,adjective
+defame,verb
  defamed defames defaming
-defamer
+defamer,noun
  defamers
-default
+default,noun,verb
  defaulted defaulting defaults
-defaulter
+defaulter,noun
  defaulters
-defeat
+defeat,noun,verb
  defeated defeating defeats
-defeater
+defeater,noun
  defeaters
-defeatism
-defeatist
+defeatism,noun
+defeatist,noun,adjective
  defeatists
-defecate
+defecate,verb
  defecated defecates defecating
-defecation
-defect
+defecation,noun
+defect,noun,verb
  defected defecting defects
-defection
+defection,noun
  defections
-defective
+defective,noun,adjective
  defectively defectiveness defectives
-defector
+defector,noun
  defectors
-defend
+defend,verb
  defended defending defends
-defendant
+defendant,noun
  defendants
-defender
+defender,noun
  defenders
-defense
+defense,noun
  defence defenceless defencelessly defencelessness defences defensed defenseless defenselessly defenselessness defenses defensing
-defensible
+defensible,adjective
  defensibly
-defensive
+defensive,adjective
  defensively defensiveness
-defer
+defer,verb
  deferred deferring defers
-deference
-deferential
+deference,noun
+deferential,adjective
  deferentially
-deferment
+deferment,noun
  deferments
-deferral
+deferral,noun
  deferrals
-defiance
-defiant
+defiance,noun
+defiant,adjective
  defiantly
-defibrillator
+defibrillator,noun
  defibrillators
-deficiency
+deficiency,noun
  deficiencies
-deficient
-deficit
+deficient,adjective
+deficit,noun
  deficits
-defile
+defile,noun,verb
  defiled defiles defiling
-defilement
-defiler
+defilement,noun
+defiler,noun
  defilers
-definable
-define
+definable,adjective
+define,verb
  defined defines defining
-definer
+definer,noun
  definers
-definite
+definite,adjective
  definitely definiteness
-definition
+definition,noun
  definitions
-definitive
+definitive,noun,adjective
  definitively
-deflate
+deflate,verb
  deflated deflates deflating
-deflation
-deflationary
-deflect
+deflation,noun
+deflationary,adjective
+deflect,verb
  deflected deflecting deflects
-deflection
+deflection,noun
  deflections
-deflective
-deflector
+deflective,noun
+deflector,noun
  deflectors
-deflower
+deflower,verb
  deflowered deflowering deflowers
-defog
+defog,verb
  defogged defogging defogs
-defogger
+defogger,noun
  defoggers
-defoliant
+defoliant,noun
  defoliants
-defoliate
+defoliate,verb
  defoliated defoliates defoliating
-defoliation
-defoliator
+defoliation,noun
+defoliator,noun
  defoliators
-deforest
+deforest,verb
  deforested deforesting deforests
-deforestation
-deform
+deforestation,noun
+deform,verb
  deformed deforming deforms
-deformation
+deformation,noun
  deformations
-deformity
+deformity,noun
  deformities
-defrag
+defrag,verb
  defragged defragging defrags
-defragment
+defragment,verb
  defragmented defragmenting defragments
-defraud
+defraud,verb
  defrauded defrauding defrauds
-defrauder
+defrauder,noun
  defrauders
-defray
+defray,verb
  defrayed defraying defrays
-defrayal
-defrock
+defrayal,noun
+defrock,verb
  defrocked defrocking defrocks
-defrost
+defrost,verb
  defrosted defrosting defrosts
-defroster
+defroster,noun
  defrosters
-deft
+deft,adjective
  defter deftest deftly deftness
-defunct
-defuse
+defunct,adjective
+defuse,verb
  defused defuses defusing
-defy
+defy,verb
  defied defies defying
-degas
+degas,verb
  degases degassed degasses degassing
-degeneracy
-degenerate
+degeneracy,noun
+degenerate,noun,verb,adjective
  degenerated degenerates degenerating
-degeneration
-degenerative
-degradable
-degradation
+degeneration,noun
+degenerative,adjective
+degradable,adjective
+degradation,noun
  degradations
-degrade
+degrade,verb
  degraded degrades degrading
-degree
+degree,noun
  degrees
-dehumanization
+dehumanization,noun
  dehumanisation
-dehumanize
+dehumanize,verb
  dehumanise dehumanised dehumanises dehumanising dehumanized dehumanizes dehumanizing
-dehumidifier
+dehumidifier,noun
  dehumidifiers
-dehumidify
+dehumidify,verb
  dehumidified dehumidifies dehumidifying
-dehydrate
+dehydrate,verb
  dehydrated dehydrates dehydrating
-dehydration
-dehydrator
+dehydration,noun
+dehydrator,noun
  dehydrators
-dehydrogenate
+dehydrogenate,verb
  dehydrogenated dehydrogenates dehydrogenating
-deice
+deice,verb
  deiced deices deicing
-deicer
+deicer,noun
  deicers
-deictic
-deification
-deify
+deictic,noun,adjective
+deification,noun
+deify,verb
  deified deifies deifying
-deign
+deign,verb
  deigned deigning deigns
-deism
-deist
+deism,noun
+deist,noun
  deists
-deistic
-deity
+deistic,adjective
+deity,noun
  deities
-deject
+deject,verb
  dejected dejectedly dejecting dejects
-dejection
-delay
+dejection,noun
+delay,noun,verb
  delayed delaying delays
-delayer
+delayer,noun,verb
  delayers
-delayering
-delectable
+delayering,noun
+delectable,adjective
  delectably
-delectation
-delegate
+delectation,noun
+delegate,noun,verb
  delegated delegates delegating
-delegation
+delegation,noun
  delegations
-delete
+delete,noun,verb
  deleted deletes deleting
-deleterious
-deletion
+deleterious,adjective
+deletion,noun
  deletions
-deleverage
+deleverage,verb,noun
  deleveraged deleverages deleveraging
-delft
-delftware
-deli
+delft,noun,propernoun
+delftware,noun
+deli,noun
  delis
-deliberate
+deliberate,verb,adjective
  deliberated deliberately deliberateness deliberates deliberating
-deliberation
+deliberation,noun
  deliberations
-deliberative
-delicacy
+deliberative,adjective
+delicacy,noun
  delicacies
-delicate
+delicate,noun,adjective
  delicately delicateness delicates
-delicatessen
+delicatessen,noun
  delicatessens
-delicious
+delicious,adjective
  deliciously deliciousness
-delight
+delight,noun,verb
  delighted delightedly delightful delightfully delighting delights
-delimit
+delimit,verb
  delimited delimiting delimits
-delimitation
-delineate
+delimitation,noun
+delineate,verb
  delineated delineates delineating
-delineation
+delineation,noun
  delineations
-delinquency
+delinquency,noun
  delinquencies
-delinquent
+delinquent,noun,adjective
  delinquently delinquents
-deliquesce
+deliquesce,verb
  deliquesced deliquesces deliquescing
-deliquescent
-delirious
+deliquescent,adjective
+delirious,adjective
  deliriously deliriousness
-delirium
+delirium,noun
  deliria deliriums
-deliver
+deliver,verb
  delivered delivering delivers
-deliverable
+deliverable,noun,adjective
  deliverables
-deliverance
-deliverer
+deliverance,noun
+deliverer,noun
  deliverers
-delivery
+delivery,noun
  deliveries
-deliveryman
+deliveryman!
  deliverymen
-dell
+dell,noun
  dells
-delouse
+delouse,verb
  deloused delouses delousing
-delphinium
+delphinium,noun
  delphinia delphiniums
-delta
+delta,noun
  deltas
-deltoids
-delude
+deltoids,noun,adjective
+delude,verb
  deluded deludes deluding
-deluge
+deluge,noun,verb
  deluged deluges deluging
-delusion
+delusion,noun
  delusions
-delusional
-delusive
+delusional,adjective
+delusive,adjective
  delusively
-deluxe
-delve
+deluxe,adjective
+delve,verb
  delved delves delving
-delver
+delver,noun
  delvers
-demagnetization
+demagnetization,noun
  demagnetisation
-demagnetize
+demagnetize,verb
  demagnetise demagnetised demagnetises demagnetising demagnetized demagnetizes demagnetizing
-demagogic
+demagogic,adjective
  demagogically
-demagogue
+demagogue,noun
  demagog demagogs demagogues
-demagoguery
-demagogy
-demand
+demagoguery,noun
+demagogy,noun
+demand,noun,verb
  demanded demanding demands
-demarcate
+demarcate,verb
  demarcated demarcates demarcating
-demarcation
+demarcation,noun
  demarcations
-demean
+demean,verb
  demeaned demeaning demeans
-demeanor
+demeanor,noun
  demeanour
-demented
+demented,adjective
  dementedly
-dementia
+dementia,noun
  dementias
-demerge
+demerge,verb
  demerged demerges demerging
-demerger
+demerger,noun
  demergers
-demerit
+demerit,noun
  demerits
-demesne
+demesne,noun
  demesnes
-demigod
+demigod,noun
  demigods
-demigoddess
+demigoddess,noun
  demigoddesses
-demijohn
+demijohn,noun
  demijohns
-demilitarization
+demilitarization,noun
  demilitarisation
-demilitarize
+demilitarize,verb
  demilitarise demilitarised demilitarises demilitarising demilitarized demilitarizes demilitarizing
-demimondaine
+demimondaine,noun
  demimondaines
-demimonde
-demise
+demimonde,noun
+demise,noun,verb
  demised demises demising
-demist
+demist,verb
  demisted demisting demists
-demister
+demister,noun
  demisters
-demitasse
+demitasse,noun
  demitasses
-demo
+demo,noun,verb
  demoed demoing demos
-demob
+demob,noun,verb
  demobbed demobbing demobs
-demobilization
+demobilization,noun
  demobilisation
-demobilize
+demobilize,verb
  demobilise demobilised demobilises demobilising demobilized demobilizes demobilizing
-democracy
+democracy,noun
  democracies
-democrat
+democrat,noun
  democrats
-democratic
+democratic,adjective
  democratically
-democratization
+democratization,noun
  democratisation
-democratize
+democratize,verb
  democratise democratised democratises democratising democratized democratizes democratizing
-demode
-demodulate
+demode,adjective
+demodulate,verb
  demodulated demodulates demodulating
-demodulation
-demographer
+demodulation,noun
+demographer,noun
  demographers
-demographic
+demographic,noun,adjective
  demographically demographics
-demography
-demolish
+demography,noun
+demolish,verb
  demolished demolishes demolishing
-demolition
+demolition,noun
  demolitions
-demon
+demon,noun
  demons
-demonetization
+demonetization,noun
  demonetisation
-demonetize
+demonetize,verb
  demonetise demonetised demonetises demonetising demonetized demonetizes demonetizing
-demoniac
-demoniacal
+demoniac,noun,adjective
+demoniacal,adjective
  demoniacally
-demonic
+demonic,adjective
  demonically
-demonize
+demonize,verb
  demonise demonised demonises demonising demonized demonizes demonizing
-demonology
+demonology,noun
  demonologies
-demonstrable
+demonstrable,adjective
  demonstrability demonstrably
-demonstrate
+demonstrate,verb
  demonstrated demonstrates demonstrating
-demonstration
+demonstration,noun
  demonstrations
-demonstrative
+demonstrative,noun,adjective
  demonstratively demonstrativeness demonstratives
-demonstrator
+demonstrator,noun
  demonstrators
-demoralization
+demoralization,noun
  demoralisation
-demoralize
+demoralize,verb
  demoralise demoralised demoralises demoralising demoralized demoralizes demoralizing
-demote
+demote,verb
  demoted demotes demoting
-demotic
-demotion
+demotic,noun,adjective
+demotion,noun
  demotions
-demotivate
+demotivate,verb
  demotivated demotivates demotivating
-demulcent
+demulcent,noun,adjective
  demulcents
-demur
+demur,noun,verb
  demurred demurring demurs
-demure
+demure,adjective
  demurely demureness demurer demurest
-demurral
+demurral,noun
  demurrals
-demurrer
+demurrer,noun
  demurrers
-demystification
-demystify
+demystification,noun
+demystify,verb
  demystified demystifies demystifying
-den
+den,noun,verb
  dens
-denationalization
+denationalization,noun
  denationalisation
-denationalize
+denationalize,verb
  denationalise denationalised denationalises denationalising denationalized denationalizes denationalizing
-denature
+denature,verb
  denatured denatures denaturing
-dendrite
+dendrite,noun
  dendrites
-dengue
-deniable
-denial
+dengue,noun
+deniable,adjective
+denial,noun
  denials
-denier
+denier,noun
  deniers
-denigrate
+denigrate,verb
  denigrated denigrates denigrating
-denigration
-denim
+denigration,noun
+denim,noun
  denims
-denizen
+denizen,noun
  denizens
-denominate
+denominate,verb
  denominated denominates denominating
-denomination
+denomination,noun
  denominations
-denominational
-denominator
+denominational,adjective
+denominator,noun
  denominators
-denotation
+denotation,noun
  denotations
-denotative
-denote
+denotative,adjective
+denote,verb
  denoted denotes denoting
-denouement
+denouement,noun
  denouements
-denounce
+denounce,verb
  denounced denounces denouncing
-denouncement
+denouncement,noun
  denouncements
-dense
+dense,adjective
  densely denseness denser densest
-density
+density,noun
  densities
-dent
+dent,noun,verb
  dented denting dents
-dental
+dental,noun,adjective
  dentally
-dentifrice
+dentifrice,noun
  dentifrices
-dentin
+dentin,noun
  dentine
-dentist
+dentist,noun
  dentists
-dentistry
-dentition
-denture
+dentistry,noun
+dentition,noun
+denture,noun
  dentures
-denuclearize
+denuclearize,verb
  denuclearise denuclearised denuclearises denuclearising denuclearized denuclearizes denuclearizing
-denudation
-denude
+denudation,noun
+denude,verb
  denuded denudes denuding
-denunciation
+denunciation,noun
  denunciations
-deny
+deny,verb
  denied denies denying
-deodorant
+deodorant,noun
  deodorants
-deodorization
+deodorization,noun
  deodorisation
-deodorize
+deodorize,verb
  deodorise deodorised deodorises deodorising deodorized deodorizes deodorizing
-deodorizer
+deodorizer,noun
  deodoriser deodorisers deodorizers
-depart
+depart,verb
  departed departing departs
-department
+department,noun
  departments
-departmental
+departmental,adjective
  departmentally
-departmentalization
+departmentalization,noun
  departmentalisation
-departmentalize
+departmentalize,verb
  departmentalise departmentalised departmentalises departmentalising departmentalized departmentalizes departmentalizing
-departure
+departure,noun
  departures
-depend
+depend,verb
  depended depending depends
-dependable
+dependable,adjective
  dependability dependably
-dependence
+dependence,noun
  dependance
-dependency
+dependency,noun
  dependencies
-dependent
+dependent,noun,adjective
  dependant dependants dependently dependents
-depersonalize
+depersonalize,verb
  depersonalise depersonalised depersonalises depersonalising depersonalized depersonalizes depersonalizing
-depict
+depict,verb
  depicted depicting depicts
-depiction
+depiction,noun
  depictions
-depilatory
+depilatory,noun,adjective
  depilatories
-deplane
+deplane,verb
  deplaned deplanes deplaning
-deplete
+deplete,verb
  depleted depletes depleting
-depletion
-deplorable
+depletion,noun
+deplorable,adjective
  deplorably
-deplore
+deplore,verb
  deplored deplores deploring
-deploy
+deploy,verb
  deployed deploying deploys
-deployment
+deployment,noun
  deployments
-depolarization
+depolarization,noun
  depolarisation
-depolarize
+depolarize,verb
  depolarise depolarised depolarises depolarising depolarized depolarizes depolarizing
-depoliticize
+depoliticize,verb
  depoliticise depoliticised depoliticises depoliticising depoliticized depoliticizes depoliticizing
-deponent
+deponent,noun,adjective
  deponents
-depopulate
+depopulate,verb
  depopulated depopulates depopulating
-depopulation
-deport
+depopulation,noun
+deport,verb
  deported deporting deports
-deportation
+deportation,noun
  deportations
-deportee
+deportee,noun
  deportees
-deportment
-depose
+deportment,noun
+depose,verb
  deposed deposes deposing
-deposit
+deposit,noun,verb
  deposited depositing deposits
-deposition
+deposition,noun
  depositions
-depositor
+depositor,noun
  depositors
-depository
+depository,noun
  depositories
-depot
+depot,noun
  depots
-deprave
+deprave,verb
  depraved depraves depraving
-depravity
+depravity,noun
  depravities
-deprecate
+deprecate,verb
  deprecated deprecates deprecating deprecatingly
-deprecation
-deprecatory
-depreciate
+deprecation,noun
+deprecatory,adjective
+depreciate,verb
  depreciated depreciates depreciating
-depreciation
-depredation
+depreciation,noun
+depredation,noun
  depredations
-depress
+depress,verb
  depressed depresses depressing depressingly
-depressant
+depressant,noun,adjective
  depressants
-depression
+depression,noun
  depressions
-depressive
+depressive,noun,adjective
  depressives
-depressor
+depressor,noun
  depressors
-depressurization
+depressurization,noun
  depressurisation
-depressurize
+depressurize,verb
  depressurise depressurised depressurises depressurising depressurized depressurizes depressurizing
-deprivation
+deprivation,noun
  deprivations
-deprive
+deprive,verb
  deprived deprives depriving
-deprogram
+deprogram,verb
  deprogramed deprograming deprogramme deprogrammed deprogrammes deprogramming deprograms
-depth
+depth,noun
  depths
-deputation
+deputation,noun
  deputations
-depute
+depute,noun,verb
  deputed deputes deputing
-deputize
+deputize,verb
  deputise deputised deputises deputising deputized deputizes deputizing
-deputy
+deputy,noun
  deputies
-derail
+derail,verb
  derailed derailing derails
-derailleur
+derailleur,noun
  derailleurs
-derailment
+derailment,noun
  derailments
-derange
+derange,verb
  deranged deranges deranging
-derangement
-derby
+derangement,noun
+derby,noun,propernoun
  derbies
-deregulate
+deregulate,verb
  deregulated deregulates deregulating
-deregulation
-derelict
+deregulation,noun
+derelict,noun,adjective
  derelicts
-dereliction
+dereliction,noun
  derelictions
-deride
+deride,verb
  derided derides deriding
-derision
-derisive
+derision,noun
+derisive,adjective
  derisively derisiveness
-derisory
-derivation
+derisory,adjective
+derivation,noun
  derivations
-derivative
+derivative,noun,adjective
  derivatives
-derive
+derive,verb
  derived derives deriving
-dermal
-dermatitis
-dermatological
-dermatologist
+dermal,adjective
+dermatitis,noun
+dermatological,adjective
+dermatologist,noun
  dermatologists
-dermatology
-dermis
-derogate
+dermatology,noun
+dermis,noun
+derogate,verb
  derogated derogates derogating
-derogation
+derogation,noun
  derogations
-derogatory
+derogatory,adjective
  derogatorily
-derrick
+derrick,noun
  derricks
-derriere
+derriere,noun
  derrieres
-derringer
+derringer,noun
  derringers
-derv
-dervish
+derv,noun
+dervish,noun
  dervishes
-desalinate
+desalinate,verb
  desalinated desalinates desalinating
-desalination
-desalinization
+desalination,noun
+desalinization,noun
  desalinisation
-desalinize
+desalinize,verb
  desalinise desalinised desalinises desalinising desalinized desalinizes desalinizing
-desalt
+desalt,verb
  desalted desalting desalts
-descale
+descale,verb
  descaled descales descaling
-descant
+descant,noun,verb
  descanted descanting descants
-descend
+descend,verb
  descended descending descends
-descendant
+descendant,noun
  descendants descendent descendents
-descent
+descent,noun
  descents
-describable
-describe
+describable,adjective
+describe,verb
  described describes describing
-describer
+describer,noun
  describers
-description
+description,noun
  descriptions
-descriptive
+descriptive,adjective
  descriptively descriptiveness
-descry
+descry,verb
  descried descries descrying
-desecrate
+desecrate,verb
  desecrated desecrates desecrating
-desecration
-deseed
+desecration,noun
+deseed,verb
  deseeded deseeding deseeds
-desegregate
+desegregate,verb
  desegregated desegregates desegregating
-desegregation
-deselect
+desegregation,noun
+deselect,verb
  deselected deselecting deselects
-deselection
-desensitization
+deselection,noun
+desensitization,noun
  desensitisation
-desensitize
+desensitize,verb
  desensitise desensitised desensitises desensitising desensitized desensitizes desensitizing
-desert
+desert,noun,verb,adjective
  deserted deserting deserts
-deserter
+deserter,noun
  deserters
-desertification
-desertion
+desertification,noun
+desertion,noun
  desertions
-deserve
+deserve,verb
  deserved deservedly deserves deserving
-deshabille
-desiccant
+deshabille,noun
+desiccant,noun
  desiccants
-desiccate
+desiccate,verb
  desiccated desiccates desiccating
-desiccation
-desiccator
+desiccation,noun
+desiccator,noun
  desiccators
-desideratum
+desideratum,noun
  desiderata
-design
+design,noun,verb
  designed designing designs
-designate
+designate,verb,adjective
  designated designates designating
-designation
+designation,noun
  designations
-designer
+designer,noun
  designers
-desirable
+desirable,noun,adjective
  desirability desirableness desirably
-desire
+desire,noun,verb
  desired desires desiring
-desirous
-desist
+desirous,adjective
+desist,verb
  desisted desisting desists
-desk
+desk,noun
  desks
-deskill
+deskill,verb
  deskilled deskilling deskills
-desktop
+desktop,noun
  desktops
-desolate
+desolate,verb,adjective
  desolated desolately desolateness desolates desolating
-desolation
-despair
+desolation,noun
+despair,noun,verb
  despaired despairing despairingly despairs
-desperado
+desperado,noun
  desperadoes desperados
-desperate
+desperate,adjective
  desperately desperateness
-desperation
-despicable
+desperation,noun
+despicable,adjective
  despicably
-despise
+despise,verb
  despised despises despising
-despite
-despoil
+despite,noun,preposition
+despoil,verb
  despoiled despoiling despoils
-despoiler
+despoiler,noun
  despoilers
-despoilment
-despoliation
-despondency
+despoilment,noun
+despoliation,noun
+despondency,noun
  despondence
-despondent
+despondent,adjective
  despondently
-despot
+despot,noun
  despots
-despotic
+despotic,adjective
  despotically
-despotism
-dessert
+despotism,noun
+dessert,noun
  desserts
-dessertspoon
+dessertspoon,noun
  dessertspoonful dessertspoonfuls dessertspoons dessertspoonsful
-destabilization
+destabilization,noun
  destabilisation
-destabilize
+destabilize,verb
  destabilise destabilised destabilises destabilising destabilized destabilizes destabilizing
-destination
+destination,noun
  destinations
-destine
+destine,verb
  destined destines destining
-destiny
+destiny,noun
  destinies
-destitute
-destitution
-destress
+destitute,adjective
+destitution,noun
+destress,verb
  destressed destresses destressing
-destroy
+destroy,verb
  destroyed destroying destroys
-destroyer
+destroyer,noun
  destroyers
-destruct
+destruct,noun,verb
  destructed destructing destructs
-destructible
+destructible,adjective
  destructibility
-destruction
-destructive
+destruction,noun
+destructive,adjective
  destructively destructiveness
-desuetude
-desultory
+desuetude,noun
+desultory,adjective
  desultorily
-detach
+detach,verb
  detached detaches detaching
-detachable
-detachment
+detachable,adjective
+detachment,noun
  detachments
-detail
+detail,noun,verb
  detailed detailing details
-detain
+detain,verb
  detained detaining detains
-detainee
+detainee,noun
  detainees
-detainment
-detect
+detainment,noun
+detect,verb
  detected detecting detects
-detectable
+detectable,adjective
  detectible
-detection
-detective
+detection,noun
+detective,noun
  detectives
-detector
+detector,noun
  detectors
-detente
+detente,noun
  detentes
-detention
+detention,noun
  detentions
-deter
+deter,verb
  deterred deterring deters
-detergent
+detergent,noun,adjective
  detergents
-deteriorate
+deteriorate,verb
  deteriorated deteriorates deteriorating
-deterioration
+deterioration,noun
  deteriorations
-determent
-determinable
-determinant
+determent,verb
+determinable,adjective
+determinant,noun,adjective
  determinants
-determinate
-determination
+determinate,adjective
+determination,noun
  determinations
-determine
+determine,verb
  determined -> [determined] determines determining
-determined -> [determine]
+determined,adjective
  determinedly
-determiner
+determiner,noun
  determiners
-determinism
-deterministic
-deterrence
-deterrent
+determinism,noun
+deterministic,adjective
+deterrence,noun
+deterrent,noun,adjective
  deterrents
-detest
+detest,verb
  detested detesting detests
-detestable
+detestable,adjective
  detestably
-detestation
-dethrone
+detestation,noun
+dethrone,verb
  dethroned dethrones dethroning
-dethronement
-detonate
+dethronement,noun
+detonate,verb
  detonated detonates detonating
-detonation
+detonation,noun
  detonations
-detonator
+detonator,noun
  detonators
-detour
+detour,noun,verb
  detoured detouring detours
-detox
+detox,noun,verb
  detoxed detoxes detoxing
-detoxification
-detoxify
+detoxification,noun
+detoxify,verb
  detoxified detoxifies detoxifying
-detract
+detract,verb
  detracted detracting detracts
-detraction
-detractor
+detraction,noun
+detractor,noun
  detractors
-detrain
+detrain,verb
  detrained detraining detrains
-detriment
+detriment,noun
  detriments
-detrimental
+detrimental,adjective
  detrimentally
-detritus
-deuce
+detritus,noun
+deuce,noun
  deuces
-deuterium
-deutschmark
+deuterium,noun
+deutschmark,noun
  deutschmarks
-devaluation
+devaluation,noun
  devaluations
-devalue
+devalue,verb
  devalued devalues devaluing
-devastate
+devastate,verb
  devastated devastates devastating devastatingly
-devastation
-devastator
+devastation,noun
+devastator,noun
  devastators
-develop
+develop,verb
  developed developing develops
-developer
+developer,noun
  developers
-development
+development,noun
  developments
-developmental
+developmental,adjective
  developmentally
-deviance
+deviance,noun
  deviancy
-deviant
+deviant,noun,adjective
  deviants
-deviate
+deviate,verb,adjective,noun
  deviated deviates deviating
-deviation
+deviation,noun
  deviations
-device
+device,noun
  devices
-devil
+devil,noun,verb
  deviled deviling devilish devilishly devilishness devilled devilling devils
-devilment
-devilry
+devilment,noun
+devilry,noun
  devilries deviltries deviltry
-devious
+devious,adjective
  deviously deviousness
-devise
+devise,noun,verb
  devised devises devising
-devitalize
+devitalize,verb
  devitalise devitalised devitalises devitalising devitalized devitalizes devitalizing
-devoice
+devoice,verb
  devoiced devoices devoicing
-devoid
-devolution
-devolve
+devoid,adjective
+devolution,noun
+devolve,verb
  devolved devolves devolving
-devote
+devote,verb
  devoted devotedly devotes devoting
-devotee
+devotee,noun
  devotees
-devotion
+devotion,noun
  devotions
-devotional
+devotional,adjective
  devotionals
-devour
+devour,verb
  devoured devouring devours
-devout
+devout,adjective
  devouter devoutest devoutly devoutness
-dew
-dewberry
+dew,noun,verb,abbreviation
+dewberry,noun
  dewberries
-dewclaw
+dewclaw,noun
  dewclaws
-dewdrop
+dewdrop,noun
  dewdrops
-dewlap
+dewlap,noun
  dewlaps
-dewy
+dewy,adjective
  dewier dewiest dewiness
-dexterity
-dexterous
+dexterity,noun
+dexterous,adjective
  dexterously dexterousness dextrous dextrously dextrousness
-dextrose
-dhal
+dextrose,noun
+dhal,noun,abbreviation
  dal dals dhals
-dhoti
+dhoti,noun
  dhotis
-dhow
+dhow,noun
  dhows
-diabetes
-diabetic
+diabetes,noun
+diabetic,noun,adjective
  diabetics
-diabolic
-diabolical
+diabolic,adjective
+diabolical,adjective
  diabolically
-diacritic
+diacritic,noun,adjective
  diacritics
-diacritical
-diadem
+diacritical,adjective
+diadem,noun
  diadems
-diagnose
+diagnose,verb
  diagnosed diagnoses -> [diagnosis] diagnosing
-diagnosis
+diagnosis,noun
  diagnoses -> [diagnose]
-diagnostic
+diagnostic,noun,adjective
  diagnostically diagnostics
-diagnostician
+diagnostician,noun
  diagnosticians
-diagonal
+diagonal,noun,adjective
  diagonally diagonals
-diagram
+diagram,noun,verb
  diagramed diagraming diagrammed diagramming diagrams
-diagrammatic
+diagrammatic,adjective
  diagrammatically
-dial
+dial,noun,verb
  dialed dialing dialled dialling dials
-dialect
+dialect,noun
  dialects
-dialectal
-dialectic
+dialectal,adjective
+dialectic,noun,adjective
  dialectics
-dialectical
-dialogue
+dialectical,adjective
+dialogue,noun,verb
  dialog dialogs dialogues
-dial-up
-dialysis
+dial-up,adjective
+dialysis,noun
  dialyses
-diamante
-diameter
+diamante,noun,adjective
+diameter,noun
  diameters
-diametric
-diametrical
+diametric,adjective
+diametrical,adjective
  diametrically
-diamond
+diamond,noun
  diamonds
-diamondback
+diamondback,noun
  diamondbacks
-diapason
+diapason,noun
  diapasons
-diaper
+diaper,noun,verb
  diapered diapering diapers
-diaphanous
-diaphragm
+diaphanous,adjective
+diaphragm,noun
  diaphragms
-diaphragmatic
-diarist
+diaphragmatic,adjective
+diarist,noun
  diarists
-diarrhea
+diarrhea,noun
  diarrhoea
-diary
+diary,noun
  diaries
-diaspora
+diaspora,noun
  diasporas
-diastase
-diastole
-diastolic
-diathermy
-diatom
+diastase,noun
+diastole,noun
+diastolic,adjective
+diathermy,noun
+diatom,noun
  diatoms
-diatomic
-diatonic
-diatribe
+diatomic,adjective
+diatonic,adjective
+diatribe,noun
  diatribes
-dibble
+dibble,noun,verb
  dibbled dibbles dibbling
-dibs
-dice -> [die]
+dibs,pluralnoun
+dice,noun,verb
  diced dices dicing
-dicey
+dicey,adjective
  dicier diciest
-dichotomous
-dichotomy
+dichotomous,adjective
+dichotomy,noun
  dichotomies
-dick
+dick,noun,verb
  dicks
-dickens
-dicker
+dickens,noun
+dicker,verb
  dickered dickering dickers
-dickey
+dickey,noun,adjective
  dickeys dickies dicky
-dickhead
+dickhead,noun
  dickheads
-dickybird
+dickybird!
  dickybirds
-dicotyledon
+dicotyledon,noun
  dicotyledons
-dicotyledonous
-dictate
+dicotyledonous,adjective
+dictate,noun,verb
  dictated dictates dictating
-dictation
+dictation,noun
  dictations
-dictator
+dictator,noun
  dictators
-dictatorial
+dictatorial,adjective
  dictatorially
-dictatorship
+dictatorship,noun
  dictatorships
-diction
-dictionary
+diction,noun
+dictionary,noun
  dictionaries
-dictum
+dictum,noun
  dicta dictums
-didactic
+didactic,adjective
  didactically
-diddle
+diddle,verb
  diddled diddles diddling
-diddler
+diddler,noun
  diddlers
-diddly
-diddlysquat
-diddums
-didgeridoo
+diddly,noun,adjective
+diddlysquat,pronoun
+diddums,exclamation
+didgeridoo,noun
  didgeridoos
-dido
+dido,noun,propernoun
  didoes didos
-die
+die,noun,verb
  dice -> [dice] died dies dying
-diehard
+diehard,noun
  diehards
-dielectric
+dielectric,noun,adjective
  dielectrics
-dieresis
+dieresis,noun
  diaereses diaeresis diereses
-diesel
+diesel,noun
  dieseled dieseling diesels
-diet
+diet,noun,verb
  dieted dieting diets
-dietary
+dietary,noun,adjective
  dietaries
-dieter
+dieter,noun
  dieters
-dietetic
+dietetic,adjective
  dietetics
-dietitian
+dietitian,noun
  dietician dieticians dietitians
-differ
+differ,verb
  differed differing differs
-difference
+difference,noun,verb
  differences
-different
+different,adjective
  differently
-differential
+differential,noun,adjective
  differentials
-differentiate
+differentiate,verb
  differentiated differentiates differentiating
-differentiation
-difficult
+differentiation,noun
+difficult,adjective
  difficultly
-difficulty
+difficulty,noun
  difficulties
-diffidence
-diffident
+diffidence,noun
+diffident,adjective
  diffidently
-diffract
+diffract,verb
  diffracted diffracting diffracts
-diffraction
-diffuse
+diffraction,noun
+diffuse,verb,adjective
  diffused diffusely diffuseness diffuses diffusing
-diffusion
-diffusive
-dig
+diffusion,noun
+diffusive,adjective
+dig,noun,verb
  digging -> [digging] digs dug
-digerati
-digest
+digerati,pluralnoun
+digest,noun,verb
  digested digesting digests
-digestible
+digestible,adjective
  digestibility
-digestion
+digestion,noun
  digestions
-digestive
+digestive,noun,adjective
  digestives
-digger
+digger,noun
  diggers
-digging -> [dig]
+digging,noun,verb
  diggings
-digit
+digit,noun
  digits
-digital
+digital,adjective
  digitally
-digitalis
-digitize
+digitalis,noun
+digitize,verb
  digitise digitised digitises digitising digitized digitizes digitizing
-diglossia
-dignify
+diglossia,noun
+dignify,verb
  dignified dignifies dignifying
-dignitary
+dignitary,noun
  dignitaries
-dignity
+dignity,noun
  dignities
-digraph
+digraph,noun
  digraphs
-digress
+digress,verb
  digressed digresses digressing
-digression
+digression,noun
  digressions
-digressive
-dike
+digressive,adjective
+dike,noun
  diked dikes diking dyke -> [dyke] dyked dykes -> [dyke] dyking
-diktat
+diktat,noun
  diktats
-dilapidated
-dilapidation
-dilatation
-dilate
+dilapidated,adjective
+dilapidation,noun
+dilatation,noun
+dilate,verb
  dilated dilates dilating
-dilation
-dilator
+dilation,noun
+dilator,noun
  dilators
-dilatory
-dildo
+dilatory,adjective
+dildo,noun
  dildoes dildos
-dilemma
+dilemma,noun
  dilemmas
-dilettante
+dilettante,noun
  dilettantes dilettanti dilettantish
-dilettantism
-diligence
-diligent
+dilettantism,noun
+diligence,noun
+diligent,adjective
  diligently
-dill
+dill,noun
  dills
-dilly
+dilly,noun,adjective
  dillies
-dillydally
+dillydally,verb
  dillydallied dillydallies dillydallying
-dilute
+dilute,verb,adjective
  diluted dilutes diluting
-dilution
+dilution,noun
  dilutions
-dim
+dim,verb,adjective
  dimly dimmed dimmer -> [dimmer] dimmest dimming dimness dims
-dime
+dime,noun
  dimes
-dimension
+dimension,noun,verb
  dimensions
-dimensional
-diminish
+dimensional,adjective
+diminish,verb
  diminished diminishes diminishing
-diminuendo
+diminuendo,noun,verb,adjective,adverb
  diminuendoes diminuendos
-diminution
+diminution,noun
  diminutions
-diminutive
+diminutive,noun,adjective
  diminutives
-dimity
-dimmer -> [dim]
+dimity,noun
+dimmer,noun
  dimmers
-dimple
+dimple,noun,verb
  dimpled dimples dimpling
-dimply
-dimwit
+dimply,adjective
+dimwit,noun
  dimwits dimwitted
-din
+din,noun,verb
  dinned dinning dins
-dinar
+dinar,noun
  dinars
-dine
+dine,verb
  dined dines dining
-diner
+diner,noun
  diners
-dinero
-dinette
+dinero,noun
+dinette,noun
  dinettes
-ding
+ding,noun,verb,exclamation
  dinged dinging dings
-dingbat
+dingbat,noun
  dingbats
-dingdong
-dinghy
+dingdong,noun,adjective,adverb
+dinghy,noun
  dinghies
-dingle
+dingle,noun
  dingles
-dingo
+dingo,noun,verb
  dingoes
-dingus
+dingus,noun
  dinguses
-dingy
+dingy,adjective
  dingier dingiest dingily dinginess
-dinky
+dinky,noun,adjective
  dinkier dinkies dinkiest
-dinner
+dinner,noun
  dinners
-dinnertime
-dinnerware
-dinosaur
+dinnertime,noun
+dinnerware,noun
+dinosaur,noun
  dinosaurs
-dint
-diocesan
+dint,noun,verb
+diocesan,noun,adjective
  diocesans
-diocese
+diocese,noun
  dioceses
-diode
+diode,noun
  diodes
-diorama
+diorama,noun
  dioramas
-dioxide
+dioxide,noun
  dioxides
-dioxin
+dioxin,noun
  dioxins
-dip
+dip,noun,verb,abbreviation
  dipped dipping dips
-diphtheria
-diphthong
+diphtheria,noun
+diphthong,noun
  diphthongs
-diploid
+diploid,noun,adjective
  diploids
-diploma
+diploma,noun
  diplomas diplomata
-diplomacy
-diplomat
+diplomacy,noun
+diplomat,noun
  diplomats
-diplomatic
+diplomatic,adjective
  diplomatically
-diplomatist
+diplomatist,noun
  diplomatists
-dipole
+dipole,noun
  dipoles
-dipper
+dipper,noun
  dippers
-dippy
+dippy,adjective
  dippier dippiest
-dipso
+dipso,noun
  dipsos
-dipsomania
-dipsomaniac
+dipsomania,noun
+dipsomaniac,noun
  dipsomaniacs
-dipstick
+dipstick,noun
  dipsticks
-dipterous
-diptych
+dipterous,adjective
+diptych,noun
  diptychs
-dire
+dire,adjective
  direful direly direr direst
-direct
+direct,verb,adjective,adverb
  directed directer directest directing directly directness directs
-direction
+direction,noun
  directionless directions
-directional
-directive
+directional,adjective
+directive,noun,adjective
  directives
-director
+director,noun
  directors
-directorate
+directorate,noun
  directorates
-directorial
-directorship
+directorial,adjective
+directorship,noun
  directorships
-directory
+directory,noun
  directories
-dirge
+dirge,noun
  dirges
-dirigible
+dirigible,noun,adjective
  dirigibles
-dirk
+dirk,noun
  dirks
-dirndl
+dirndl,noun
  dirndls
-dirt
-dirty
+dirt,noun
+dirty,verb,adjective,adverb
  dirtied dirtier dirties dirtiest dirtily dirtiness dirtying
-dis
+dis,noun,verb
  diss dissed disses dissing
-disability
+disability,noun
  disabilities
-disable
+disable,verb
  disabled disables disabling
-disablement
-disabuse
+disablement,noun
+disabuse,verb
  disabused disabuses disabusing
-disadvantage
+disadvantage,noun,verb
  disadvantaged disadvantages disadvantaging
-disadvantageous
+disadvantageous,adjective
  disadvantageously
-disaffect
+disaffect,verb
  disaffected disaffecting disaffects
-disaffection
-disaffiliate
+disaffection,noun
+disaffiliate,verb
  disaffiliated disaffiliates disaffiliating
-disaffiliation
-disafforest
+disaffiliation,noun
+disafforest,verb
  disafforested disafforesting disafforests
-disagree
+disagree,verb
  disagreed disagreeing disagrees
-disagreeable
+disagreeable,adjective
  disagreeableness disagreeably
-disagreement
+disagreement,noun
  disagreements
-disallow
+disallow,verb
  disallowed disallowing disallows
-disambiguate
+disambiguate,verb
  disambiguated disambiguates disambiguating
-disappear
+disappear,verb
  disappeared disappearing disappears
-disappearance
+disappearance,noun
  disappearances
-disappoint
+disappoint,verb
  disappointed disappointing disappointingly disappoints
-disappointment
+disappointment,noun
  disappointments
-disapprobation
-disapproval
-disapprove
+disapprobation,noun
+disapproval,noun
+disapprove,verb
  disapproved disapproves disapproving disapprovingly
-disarm
+disarm,noun,verb
  disarmed disarming disarmingly disarms
-disarmament
-disarrange
+disarmament,noun
+disarrange,verb
  disarranged disarranges disarranging
-disarrangement
-disarray
+disarrangement,noun
+disarray,noun,verb
  disarrayed disarraying disarrays
-disassemble
+disassemble,verb
  disassembled disassembles disassembling
-disaster
+disaster,noun
  disasters
-disastrous
+disastrous,adjective
  disastrously
-disavow
+disavow,verb
  disavowed disavowing disavows
-disavowal
+disavowal,noun
  disavowals
-disband
+disband,verb
  disbanded disbanding disbands
-disbandment
-disbar
+disbandment,noun
+disbar,verb
  disbarred disbarring disbars
-disbarment
-disbelief
-disbelieve
+disbarment,noun
+disbelief,noun
+disbelieve,verb
  disbelieved disbelieves disbelieving disbelievingly
-disbeliever
+disbeliever,noun
  disbelievers
-disbursal
-disburse
+disbursal,noun
+disburse,verb
  disbursed disburses disbursing
-disbursement
+disbursement,noun
  disbursements
-discard
+discard,noun,verb
  discarded discarding discards
-discern
+discern,verb
  discerned discerning discerningly discerns
-discernible
+discernible,adjective
  discernibly
-discernment
-discharge
+discernment,noun
+discharge,noun,verb
  discharged discharges discharging
-disciple
+disciple,noun
  disciples
-discipleship
-disciplinarian
+discipleship,noun
+disciplinarian,noun
  disciplinarians
-disciplinary
-discipline
+disciplinary,adjective
+discipline,noun,verb
  disciplined disciplines disciplining
-disclaim
+disclaim,verb
  disclaimed disclaiming disclaims
-disclaimer
+disclaimer,noun
  disclaimers
-disclose
+disclose,verb
  disclosed discloses disclosing
-disclosure
+disclosure,noun
  disclosures
-disco
+disco,noun,verb
  discoed discoing discos
-discography
+discography,noun
  discographies
-discolor
+discolor,verb
  discolored discoloring discolors discolour discoloured discolouring discolours
-discoloration
+discoloration,noun
  discolorations discolouration discolourations
-discombobulate
+discombobulate,verb
  discombobulated discombobulates discombobulating
-discombobulation
-discomfit
+discombobulation,noun
+discomfit,verb
  discomfited discomfiting discomfits
-discomfiture
-discomfort
+discomfiture,noun
+discomfort,noun,verb
  discomforted discomforting discomforts
-discommode
+discommode,verb
  discommoded discommodes discommoding
-discompose
+discompose,verb
  discomposed discomposes discomposing
-discomposure
-disconcert
+discomposure,noun
+disconcert,verb
  disconcerted disconcerting disconcertingly disconcerts
-disconnect
+disconnect,noun,verb
  disconnected disconnectedly disconnectedness disconnecting disconnects
-disconnection
+disconnection,noun
  disconnections
-disconsolate
+disconsolate,adjective
  disconsolately
-discontent
+discontent,noun,adjective
  discontented discontentedly discontenting discontents
-discontentment
-discontinuance
+discontentment,noun
+discontinuance,noun
  discontinuances
-discontinuation
+discontinuation,noun
  discontinuations
-discontinue
+discontinue,verb
  discontinued discontinues discontinuing
-discontinuity
+discontinuity,noun
  discontinuities
-discontinuous
+discontinuous,adjective
  discontinuously
-discord
+discord,noun,verb
  discorded discording discords
-discordance
-discordant
+discordance,noun
+discordant,adjective
  discordantly
-discotheque
+discotheque,noun
  discotheques
-discount
+discount,noun,verb
  discounted discounting discounts
-discountenance
+discountenance,verb
  discountenanced discountenances discountenancing
-discounter
+discounter,noun
  discounters
-discourage
+discourage,verb
  discouraged discourages discouraging discouragingly
-discouragement
+discouragement,noun
  discouragements
-discourse
+discourse,noun,verb
  discoursed discourses discoursing
-discourteous
+discourteous,adjective
  discourteously
-discourtesy
+discourtesy,noun
  discourtesies
-discover
+discover,verb
  discovered discovering discovers
-discoverer
+discoverer,noun
  discoverers
-discovery
+discovery,noun
  discoveries
-discredit
+discredit,noun,verb
  discredited discrediting discredits
-discreditable
+discreditable,adjective
  discreditably
-discreet
+discreet,adjective
  discreeter discreetest discreetly discreetness
-discrepancy
+discrepancy,noun
  discrepancies
-discrepant
-discrete
+discrepant,adjective
+discrete,adjective
  discretely discreteness
-discretion
-discretionary
-discriminate
+discretion,noun
+discretionary,adjective
+discriminate,verb
  discriminated discriminates discriminating
-discrimination
+discrimination,noun
  discriminations
-discriminator
+discriminator,noun
  discriminators
-discriminatory
-discursive
+discriminatory,adjective
+discursive,adjective
  discursively discursiveness
-discus
+discus,noun
  discuses
-discuss
+discuss,verb
  discussed discusses discussing
-discussant
+discussant,noun
  discussants
-discussion
+discussion,noun
  discussions
-disdain
+disdain,noun,verb
  disdained disdainful disdainfully disdaining disdains
-disease
+disease,noun
  diseased diseases
-disembark
+disembark,verb
  disembarked disembarking disembarks
-disembarkation
-disembodiment
-disembody
+disembarkation,noun
+disembodiment,noun
+disembody,verb
  disembodied disembodies disembodying
-disembowel
+disembowel,verb
  disemboweled disemboweling disembowelled disembowelling disembowels
-disembowelment
-disempower
+disembowelment,noun
+disempower,verb
  disempowered disempowering disempowers
-disenchant
+disenchant,verb
  disenchanted disenchanting disenchants
-disenchantment
-disencumber
+disenchantment,noun
+disencumber,verb
  disencumbered disencumbering disencumbers
-disenfranchise
+disenfranchise,verb
  disenfranchised disenfranchises disenfranchising
-disenfranchisement
-disengage
+disenfranchisement,noun
+disengage,noun,verb
  disengaged disengages disengaging
-disengagement
+disengagement,noun
  disengagements
-disentangle
+disentangle,verb
  disentangled disentangles disentangling
-disentanglement
-disequilibrium
-disestablish
+disentanglement,noun
+disequilibrium,noun
+disestablish,verb
  disestablished disestablishes disestablishing
-disestablishment
-disesteem
+disestablishment,noun
+disesteem,noun,verb
  disesteemed disesteeming disesteems
-disfavor
+disfavor,noun,verb
  disfavored disfavoring disfavors disfavour disfavoured disfavouring disfavours
-disfigure
+disfigure,verb
  disfigured disfigures disfiguring
-disfigurement
+disfigurement,noun
  disfigurements
-disfranchise
+disfranchise,verb
  disfranchised disfranchises disfranchising
-disfranchisement
-disgorge
+disfranchisement,noun
+disgorge,verb
  disgorged disgorges disgorging
-disgorgement
-disgrace
+disgorgement,noun
+disgrace,noun,verb
  disgraced disgraceful disgracefully disgracefulness disgraces disgracing
-disgruntle
+disgruntle,verb
  disgruntled disgruntles disgruntling
-disgruntlement
-disguise
+disgruntlement,noun
+disguise,noun,verb
  disguised disguises disguising
-disgust
+disgust,noun,verb
  disgusted disgustedly disgusting disgustingly disgusts
-dish
+dish,noun,verb
  dished dishes dishing
-dishabille
-disharmonious
-disharmony
-dishcloth
+dishabille,noun
+disharmonious,adjective
+disharmony,noun
+dishcloth,noun
  dishcloths
-dishearten
+dishearten,verb
  disheartened disheartening dishearteningly disheartens
-dishevel
+dishevel,verb
  disheveled disheveling dishevelled dishevelling dishevels
-dishevelment
-dishonest
+dishevelment,noun
+dishonest,adjective
  dishonestly
-dishonesty
-dishonor
+dishonesty,noun
+dishonor,noun,verb
  dishonored dishonoring dishonors dishonour dishonoured dishonouring dishonours
-dishonorable
+dishonorable,adjective
  dishonorably dishonourable dishonourably
-dishpan
+dishpan,noun
  dishpans
-dishrag
+dishrag,noun
  dishrags
-dishtowel
+dishtowel,noun
  dishtowels
-dishware
-dishwasher
+dishware!
+dishwasher,noun
  dishwashers
-dishwater
-dishy
+dishwater,noun
+dishy,adjective
  dishier dishiest
-disillusion
+disillusion,noun,verb
  disillusioned disillusioning disillusions
-disillusionment
-disincentive
+disillusionment,noun
+disincentive,noun,adjective
  disincentives
-disinclination
-disincline
+disinclination,noun
+disincline!
  disinclined disinclines disinclining
-disinfect
+disinfect,verb
  disinfected disinfecting disinfects
-disinfectant
+disinfectant,noun,adjective
  disinfectants
-disinfection
-disinflation
-disinformation
-disingenuous
+disinfection,noun
+disinflation,noun
+disinformation,noun
+disingenuous,adjective
  disingenuously
-disinherit
+disinherit,verb
  disinherited disinheriting disinherits
-disinheritance
-disintegrate
+disinheritance,noun
+disintegrate,verb
  disintegrated disintegrates disintegrating
-disintegration
-disinter
+disintegration,noun
+disinter,verb
  disinterred disinterring disinters
-disinterest
+disinterest,noun
  disinterested disinterestedly disinterestedness disinterests
-disinterment
-disinvest
+disinterment,noun
+disinvest,verb
  disinvested disinvesting disinvests
-disinvestment
-disjoint
+disinvestment,noun
+disjoint,verb,adjective
  disjointed disjointedly disjointedness disjointing disjoints
-disjunction
+disjunction,noun
  disjunctions
-disjunctive
-disjuncture
-disk
+disjunctive,noun,adjective
+disjuncture,noun
+disk,noun
  disc discs disks
-diskette
+diskette,noun
  diskettes
-dislike
+dislike,noun,verb
  disliked dislikes disliking
-dislocate
+dislocate,verb
  dislocated dislocates dislocating
-dislocation
+dislocation,noun
  dislocations
-dislodge
+dislodge,verb
  dislodged dislodges dislodging
-disloyal
+disloyal,adjective
  disloyally
-disloyalty
-dismal
+disloyalty,noun
+dismal,adjective
  dismally
-dismantle
+dismantle,verb
  dismantled dismantles dismantling
-dismantlement
-dismay
+dismantlement,noun
+dismay,noun,verb
  dismayed dismaying dismays
-dismember
+dismember,verb
  dismembered dismembering dismembers
-dismemberment
-dismiss
+dismemberment,noun
+dismiss,verb
  dismissed dismisses dismissing
-dismissal
+dismissal,noun
  dismissals
-dismissive
+dismissive,adjective
  dismissively
-dismount
+dismount,noun,verb
  dismounted dismounting dismounts
-disobedience
-disobedient
+disobedience,noun
+disobedient,adjective
  disobediently
-disobey
+disobey,verb
  disobeyed disobeying disobeys
-disoblige
+disoblige,verb
  disobliged disobliges disobliging
-disorder
+disorder,noun,verb
  disordered disordering disorderliness disorderly disorders
-disorganization
+disorganization,noun
  disorganisation
-disorganize
+disorganize,verb
  disorganise disorganised disorganises disorganising disorganized disorganizes disorganizing
-disorient
+disorient,verb
  disoriented disorienting disorients
-disorientate
+disorientate,verb
  disorientated disorientates disorientating
-disorientation
-disown
+disorientation,noun
+disown,verb
  disowned disowning disowns
-disparage
+disparage,verb
  disparaged disparages disparaging disparagingly
-disparagement
-disparate
+disparagement,noun
+disparate,noun,adjective
  disparately
-disparity
+disparity,noun
  disparities
-dispassion
-dispassionate
+dispassion,noun
+dispassionate,adjective
  dispassionately
-dispatch
+dispatch,noun,verb
  despatch despatched despatches despatching dispatched dispatches dispatching
-dispatcher
+dispatcher,noun
  despatcher despatchers dispatchers
-dispel
+dispel,verb
  dispelled dispelling dispels
-dispensable
-dispensary
+dispensable,adjective
+dispensary,noun
  dispensaries
-dispensation
+dispensation,noun
  dispensations
-dispense
+dispense,verb
  dispensed dispenses dispensing
-dispenser
+dispenser,noun
  dispensers
-dispersal
-disperse
+dispersal,noun
+disperse,verb,adjective
  dispersed disperses dispersing
-dispersion
-dispirit
+dispersion,noun
+dispirit,verb
  dispirited dispiriting dispirits
-displace
+displace,verb
  displaced displaces displacing
-displacement
+displacement,noun
  displacements
-display
+display,noun,verb
  displayed displaying displays
-displease
+displease,verb
  displeased displeases displeasing
-displeasure
-disport
+displeasure,noun,verb
+disport,noun,verb
  disported disporting disports
-disposable
+disposable,noun,adjective
  disposables
-disposal
+disposal,noun
  disposals
-dispose
+dispose,verb
  disposed disposes disposing
-disposer
+disposer,noun
  disposers
-disposition
+disposition,noun
  dispositions
-dispossess
+dispossess,verb
  dispossessed dispossesses dispossessing
-dispossession
-dispraise
+dispossession,noun
+dispraise,noun,verb
  dispraised dispraises dispraising
-disproof
+disproof,noun
  disproofs
-disproportion
+disproportion,noun
  disproportions
-disproportional
-disproportionate
+disproportional,adjective
+disproportionate,verb,adjective
  disproportionately
-disprovable
-disprove
+disprovable,adjective
+disprove,verb
  disproved disproven disproves disproving
-disputable
+disputable,adjective
  disputably
-disputant
+disputant,noun
  disputants
-disputation
+disputation,noun
  disputations
-disputatious
+disputatious,adjective
  disputatiously
-dispute
+dispute,noun,verb
  disputed disputes disputing
-disputer
+disputer,noun
  disputers
-disqualification
+disqualification,noun
  disqualifications
-disqualify
+disqualify,verb
  disqualified disqualifies disqualifying
-disquiet
+disquiet,noun,verb
  disquieted disquieting disquiets
-disquietude
-disquisition
+disquietude,noun
+disquisition,noun
  disquisitions
-disregard
+disregard,noun,verb
  disregarded disregardful disregarding disregards
-disrepair
-disreputable
+disrepair,noun
+disreputable,adjective
  disreputably
-disrepute
-disrespect
+disrepute,noun
+disrespect,noun,verb
  disrespected disrespectful disrespectfully disrespecting disrespects
-disrobe
+disrobe,verb
  disrobed disrobes disrobing
-disrupt
+disrupt,verb
  disrupted disrupting disrupts
-disruption
+disruption,noun
  disruptions
-disruptive
+disruptive,adjective
  disruptively
-dissatisfaction
+dissatisfaction,noun
  dissatisfactions
-dissatisfy
+dissatisfy,verb
  dissatisfied dissatisfies dissatisfying
-dissect
+dissect,verb
  dissected dissecting dissects
-dissection
+dissection,noun
  dissections
-dissector
+dissector,noun
  dissectors
-dissemblance
-dissemble
+dissemblance,noun
+dissemble,verb
  dissembled dissembles dissembling
-dissembler
+dissembler,noun
  dissemblers
-disseminate
+disseminate,verb
  disseminated disseminates disseminating
-dissemination
-dissension
+dissemination,noun
+dissension,noun
  dissensions
-dissent
+dissent,noun,verb
  dissented dissenting dissents
-dissenter
+dissenter,noun
  dissenters
-dissertation
+dissertation,noun
  dissertations
-disservice
+disservice,noun
  disservices
-dissever
+dissever,verb
  dissevered dissevering dissevers
-dissidence
-dissident
+dissidence,noun
+dissident,noun,adjective
  dissidents
-dissimilar
-dissimilarity
+dissimilar,adjective
+dissimilarity,noun
  dissimilarities
-dissimilitude
+dissimilitude,noun
  dissimilitudes
-dissimulate
+dissimulate,verb
  dissimulated dissimulates dissimulating
-dissimulation
-dissimulator
+dissimulation,noun
+dissimulator,noun
  dissimulators
-dissipate
+dissipate,verb
  dissipated dissipates dissipating
-dissipation
-dissociate
+dissipation,noun
+dissociate,verb
  disassociate disassociated disassociates disassociating dissociated dissociates dissociating
-dissociation
+dissociation,noun
  disassociation
-dissoluble
-dissolute
+dissoluble,adjective
+dissolute,adjective
  dissolutely dissoluteness
-dissolution
-dissolve
+dissolution,noun
+dissolve,noun,verb
  dissolved dissolves dissolving
-dissonance
+dissonance,noun
  dissonances
-dissonant
-dissuade
+dissonant,adjective
+dissuade,verb
  dissuaded dissuades dissuading
-dissuasion
-dissuasive
-distaff
+dissuasion,noun
+dissuasive,adjective
+distaff,noun
  distaffs
-distal
+distal,adjective
  distally
-distance
+distance,noun,verb
  distanced distances distancing
-distant
+distant,adjective
  distantly
-distaste
+distaste,noun
  distasteful distastefully distastefulness distastes
-distemper
-distend
+distemper,noun,verb
+distend,verb
  distended distending distends
-distention
+distention!
  distension distensions distentions
-distill
+distill,verb
  distil distilled distilling distills distils
-distillate
+distillate,noun
  distillates
-distillation
+distillation,noun
  distillations
-distiller
+distiller,noun
  distillers
-distillery
+distillery,noun
  distilleries
-distinct
+distinct,adjective
  distincter distinctest distinctly distinctness
-distinction
+distinction,noun
  distinctions
-distinctive
+distinctive,adjective
  distinctively distinctiveness
-distinguish
+distinguish,verb
  distinguished distinguishes distinguishing
-distinguishable
-distort
+distinguishable,adjective
+distort,verb
  distorted distorting distorts
-distortion
+distortion,noun
  distortions
-distract
+distract,verb
  distracted distractedly distracting distracts
-distraction
+distraction,noun
  distractions
-distrait
-distraught
-distress
+distrait,adjective
+distraught,adjective
+distress,noun,verb
  distressed distresses distressful distressing distressingly
-distribute
+distribute,verb
  distributed distributes distributing
-distribution
+distribution,noun
  distributions
-distributional
-distributive
+distributional,adjective
+distributive,noun,adjective
  distributively
-distributor
+distributor,noun
  distributors
-distributorship
+distributorship!
  distributorships
-district
+district,noun,verb
  districts
-distrust
+distrust,noun,verb
  distrusted distrustful distrustfully distrusting distrusts
-disturb
+disturb,verb
  disturbed disturbing disturbingly disturbs
-disturbance
+disturbance,noun
  disturbances
-disturber
+disturber,noun
  disturbers
-disunion
-disunite
+disunion,noun
+disunite,verb
  disunited disunites disuniting
-disunity
-disuse
+disunity,noun
+disuse,noun
  disused disuses disusing
-disyllabic
-ditch
+disyllabic,adjective
+ditch,noun,verb
  ditched ditches ditching
-dither
+dither,noun,verb
  dithered dithering dithers
-ditherer
+ditherer,noun
  ditherers
-ditransitive
-ditsy
+ditransitive,adjective
+ditsy,adjective
  ditsier ditsiest ditzier ditziest ditzy
-ditto
+ditto,noun
  dittoed dittoes dittoing dittos
-ditty
+ditty,noun
  ditties
-ditz
+ditz,noun
  ditzes
-diuretic
+diuretic,noun,adjective
  diuretics
-diurnal
+diurnal,adjective
  diurnally
-diva
+diva,noun
  divas dive -> [dive]
-divalent
-divan
+divalent,adjective
+divan,noun
  divans
-dive -> [diva]
+dive,noun,verb
  dived dives diving dove -> [dove]
-diver
+diver,noun
  divers -> [divers]
-diverge
+diverge,verb
  diverged diverges diverging
-divergence
+divergence,noun
  divergences
-divergent
-divers -> [diver]
-diverse
+divergent,adjective
+divers,adjective
+diverse,adjective
  diversely diverseness
-diversification
-diversify
+diversification,noun
+diversify,verb
  diversified diversifies diversifying
-diversion
+diversion,noun
  diversions
-diversionary
-diversity
+diversionary,adjective
+diversity,noun
  diversities
-divert
+divert,verb
  diverted diverting diverts
-diverticulitis
-divest
+diverticulitis,noun
+divest,verb
  divested divesting divests
-divestiture
+divestiture,noun
  divestitures
-divestment
-dividable
-divide
+divestment,noun
+dividable,noun
+divide,noun,verb
  divided divides dividing
-dividend
+dividend,noun
  dividends
-divider
+divider,noun
  dividers
-divination
-divine
+divination,noun
+divine,noun,verb,adjective
  divined divinely diviner -> [diviner] divines divinest divining
-diviner -> [divine]
+diviner,noun
  diviners
-divinity
+divinity,noun
  divinities
-divisible
+divisible,adjective
  divisibility
-division
+division,noun
  divisions
-divisional
-divisive
+divisional,adjective
+divisive,adjective
  divisively divisiveness
-divisor
+divisor,noun
  divisors
-divorce -> [divorcee]
+divorce,noun,verb
  divorced divorces -> [divorcee] divorcing
-divorcee
+divorcee,noun
  divorce -> [divorce] divorcees divorces -> [divorce]
-divorcement
+divorcement,noun
  divorcements
-divot
+divot,noun
  divots
-divulge
+divulge,verb
  divulged divulges divulging
-divvy
+divvy,noun,verb,adjective
  divvied divvies divvying
-dixieland
-dizzy
+dixieland,noun
+dizzy,verb,adjective
  dizzied dizzier dizzies dizziest dizzily dizziness dizzying
-djellaba
+djellaba,noun
  djellabah djellabahs djellabas jellaba jellabas
-do
+do,noun,verb,auxiliaryverb
  did didst does -> [doe] doh dohs doing -> [doing] done dos dost doth
-doable
-dob
+doable,adjective
+dob,verb
  dobbed dobbing dobs
-dobbin
+dobbin,noun
  dobbins
-doberman
+doberman,noun
  dobermans
-doc
+doc,abbreviation
  docs
-docent
+docent,noun
  docents
-docile
+docile,adjective
  docilely
-docility
-dock
+docility,noun
+dock,noun,verb
  docked docking docks
-docker
+docker,noun
  dockers
-docket
+docket,noun,verb
  docketed docketing dockets
-dockland
+dockland,noun
  docklands
-dockside
-dockworker
+dockside,noun
+dockworker,noun
  dockworkers
-dockyard
+dockyard,noun
  dockyards
-doctor
+doctor,noun,verb
  doctored doctoring doctors
-doctoral
-doctorate
+doctoral,adjective
+doctorate,noun
  doctorates
-doctrinaire
+doctrinaire,noun,adjective
  doctrinaires
-doctrinal
-doctrine
+doctrinal,adjective
+doctrine,noun
  doctrines
-docudrama
+docudrama,noun
  docudramas
-document
+document,noun,verb
  documented documenting documents
-documentary
+documentary,noun,adjective
  documentaries
-documentation
-docusoap
+documentation,noun
+docusoap,noun
  docusoaps
-dodder
+dodder,noun,verb
  doddered doddering dodders
-doddery
-doddle
-dodge
+doddery,adjective
+doddle,noun
+dodge,noun,verb
  dodged dodges dodging
-dodgeball
-dodgem
+dodgeball,noun
+dodgem,noun
  dodgems
-dodger
+dodger,noun
  dodgers
-dodgy
+dodgy,adjective
  dodgier dodgiest
-dodo
+dodo,noun
  dodoes dodos
-doe
+doe,noun,abbreviation
  does -> [do]
-doer
+doer,noun
  doers
-doeskin
+doeskin,noun
  doeskins
-doff
+doff,verb
  doffed doffing doffs
-dog
+dog,noun,verb
  dogged -> [dogged] dogging dogs
-dogcart
+dogcart,noun
  dogcarts
-dogcatcher
+dogcatcher,noun
  dogcatchers
-doge
+doge,noun
  doges
-dogear
+dogear,verb
  dogeared dogearing dogears
-dogfight
+dogfight,noun
  dogfights
-dogfish
+dogfish,noun
  dogfishes
-dogged -> [dog]
+dogged,adjective
  doggedly doggedness
-doggerel
-doggone
+doggerel,noun
+doggone,verb,adjective
  doggoned doggoneder doggonedest doggoner doggones doggonest doggoning
-doggy
+doggy,noun,adjective
  doggie doggier doggies doggiest
-doghouse
+doghouse,noun
  doghouses
-dogie
+dogie,noun
  dogies dogy
-dogleg
+dogleg,noun,verb,adjective
  doglegged doglegging doglegs
-dogma
+dogma,noun
  dogmas dogmata
-dogmatic
+dogmatic,adjective
  dogmatically
-dogmatism
-dogmatist
+dogmatism,noun
+dogmatist,noun
  dogmatists
-do-gooder
+do-gooder,noun
  do-gooders
-dogsbody
+dogsbody,noun
  dogsbodies
-dogsled
+dogsled,noun
  dogsleds
-dogtrot
+dogtrot,noun,verb
  dogtrots dogtrotted dogtrotting
-dogwood
+dogwood,noun
  dogwoods
-doily
+doily,noun
  doilies
-doing -> [do]
+doing,noun
  doings
-do-it-yourself
-doldrums
-dole
+do-it-yourself,adjective,noun
+doldrums,pluralnoun
+dole,noun,verb
  doled doleful dolefully dolefulness doles doling
-doll
+doll,noun,verb
  dolled dolling dolls
-dollar
+dollar,noun
  dollars
-dollhouse
+dollhouse,noun
  dollhouses
-dollop
+dollop,noun,verb
  dolloped dolloping dollops
-dolly
+dolly,noun,verb
  dollies
-dolmen
+dolmen,noun
  dolmens
-dolomite
-dolor
+dolomite,noun
+dolor,noun
  dolour
-dolorous
+dolorous,adjective
  dolorously
-dolphin
+dolphin,noun
  dolphins
-dolt
+dolt,noun
  doltish doltishly doltishness dolts
-domain
+domain,noun
  domains
-dome
+dome,noun,verb
  domed domes doming
-domestic
+domestic,noun,adjective
  domestically domestics
-domesticate
+domesticate,verb
  domesticated domesticates domesticating
-domestication
-domesticity
-domicile
+domestication,noun
+domesticity,noun
+domicile,noun,verb
  domiciled domiciles domiciling
-domiciliary
-dominance
-dominant
+domiciliary,adjective
+dominance,noun
+dominant,noun,adjective
  dominantly dominants
-dominate
+dominate,verb
  dominated dominates dominating
-domination
-dominatrix
+domination,noun
+dominatrix,noun
  dominatrices dominatrixes
-domineer
+domineer,verb
  domineered domineering domineeringly domineers
-dominion
+dominion,noun
  dominions
-domino
+domino,noun
  dominoes dominos
-don
+don,noun,verb,propernoun
  donned donning donnish dons
-dona
+dona,noun
  donas
-donate
+donate,verb
  donated donates donating
-donation
+donation,noun
  donations
-dong
+dong,noun,verb
  dongs
-donga
+donga,noun
  dongas
-dongle
+dongle,noun
  dongles
-donkey
+donkey,noun
  donkeys
-donkeywork
-donnybrook
+donkeywork,noun
+donnybrook,noun
  donnybrooks
-donor
+donor,noun
  donors
-doodad
+doodad,noun
  doodads doodah doodahs
-doodle
+doodle,noun,verb
  doodled doodles doodling
-doodlebug
+doodlebug,noun
  doodlebugs
-doodler
+doodler,noun
  doodlers
-doofus
+doofus,noun
  doofuses
-doohickey
+doohickey,noun
  doohickeys
-doolally
-doom
+doolally,adjective
+doom,noun,verb
  doomed dooming dooms
-doomsayer
+doomsayer,noun
  doomsayers
-doomsday
-doomster
+doomsday,noun
+doomster,noun
  doomsters
-doona
+doona,noun
  doonas
-door
+door,noun
  doors
-doorbell
+doorbell,noun
  doorbells
-doorjamb
+doorjamb,noun
  doorjambs
-doorkeeper
+doorkeeper,noun
  doorkeepers
-doorknob
+doorknob,noun
  doorknobs
-doorknocker
+doorknocker,noun
  doorknockers
-doorman
+doorman,noun
  doormen
-doormat
+doormat,noun
  doormats
-doorplate
+doorplate,noun
  doorplates
-doorpost
+doorpost,noun
  doorposts
-doorstep
+doorstep,noun,verb
  doorstepped doorstepping doorsteps
-doorstop
+doorstop,noun
  doorstops
-door-to-door
-doorway
+door-to-door,phrase
+doorway,noun
  doorways
-dooryard
+dooryard,noun
  dooryards
-doozy
+doozy,noun
  doozies
-dopa
-dope
+dopa,noun
+dope,noun,verb,adjective
  doped dopes doping
-doper
+doper,noun
  dopers
-dopey
+dopey,adjective
  dopier dopiest dopiness dopy
-doppelganger
+doppelganger,noun
  doppelgangers
-dork
+dork,noun
  dorks
-dorky
+dorky,adjective
  dorkier dorkiest
-dorm
+dorm,noun
  dorms
-dormancy
-dormant
-dormer
+dormancy,noun
+dormant,adjective
+dormer,noun
  dormers
-dormitory
+dormitory,noun
  dormitories
-dormouse
+dormouse,noun
  dormice
-dorsal
+dorsal,adjective
  dorsally
-dory
+dory,noun
  dories
-dosage
+dosage,noun
  dosages
-dose
+dose,noun,verb
  dosed doses dosing
-dosh
-dosimeter
+dosh,noun
+dosimeter,noun
  dosimeters
-doss
+doss,noun,verb
  dossed dosses dossing
-dosser
+dosser,noun
  dossers
-dosshouse
+dosshouse,noun
  dosshouses
-dossier
+dossier,noun
  dossiers
-dot
+dot,noun,verb,abbreviation
  dots dotted dotting
-dotage
-dotard
+dotage,noun
+dotard,noun
  dotards
-dotcom
+dotcom,noun
  dotcoms
-dote
+dote,noun,verb
  doted dotes doting dotingly
-doter
+doter,noun
  doters
-dotty
+dotty,adjective
  dottier dottiest
-double
+double,verb,pronoun,noun,adjective,adverb,predeterminer
  doubled doubles doubling doubly
-double-blind
-double-breasted
-double-check
+double-blind,adjective
+double-breasted,adjective
+double-check,verb
  double-checked double-checking double-checks
-double-digit
-double-edged
-doubleheader
+double-digit,noun,adjective
+double-edged,adjective
+doubleheader,noun
  doubleheaders
-doublespeak
-doublet
+doublespeak,noun
+doublet,noun
  doublets
-doubletalk
-doublewide
+doubletalk,noun
+doublewide,noun
  doublewides
-doubloon
+doubloon,noun
  doubloons
-doubt
+doubt,noun,verb
  doubted doubtful doubtfuller doubtfullest doubtfully doubtfulness doubting doubtingly doubtless doubtlessly doubts
-doubter
+doubter,noun
  doubters
-douche
+douche,noun,verb
  douched douches douching
-dough
+dough,noun
  doughs
-doughnut
+doughnut,noun
  donut donuts doughnuts
-doughty
+doughty,adjective
  doughtier doughtiest
-doughy
+doughy,adjective
  doughier doughiest
-doula
+doula,noun
  doulas
-dour
+dour,adjective
  dourer dourest dourly dourness
-douse
+douse,verb
  doused douses dousing
-dove -> [dive]
+dove,noun
  doves dovish
-dovecote
+dovecote,noun
  dovecot dovecotes dovecots
-dovetail
+dovetail,noun,verb
  dovetailed dovetailing dovetails
-dowager
+dowager,noun
  dowagers
-dowdy
+dowdy,adjective
  dowdier dowdiest dowdily dowdiness
-dowel
+dowel,noun,verb
  doweled doweling dowelled dowelling dowels
-dower
+dower,noun,verb
  dowered dowering dowers
-down
+down,verb,propernoun,noun,preposition,adverb,adjective
  downed downing downs
-downbeat
+downbeat,noun,adjective
  downbeats
-downcast
-downdraft
+downcast,noun,adjective
+downdraft,noun
  downdrafts downdraught downdraughts
-downer
+downer,noun
  downers
-downfall
+downfall,noun
  downfalls
-downfallen
-downgrade
+downfallen!
+downgrade,noun,verb
  downgraded downgrades downgrading
-downhearted
+downhearted,adjective
  downheartedly downheartedness
-downhill
+downhill,noun,adverb,adjective
  downhills
-down-home
-downlighter
+down-home,adjective
+downlighter,noun
  downlighters
-download
+download,noun,verb
  downloaded downloading downloads
-downloadable
-downmarket
-downpayment
+downloadable,adjective
+downmarket,adjective,adverb
+downpayment,noun
  downpayments
-downpipe
+downpipe,noun
  downpipes
-downplay
+downplay,verb
  downplayed downplaying downplays
-downpour
+downpour,noun
  downpours
-downrange
-downright
-downriver
-downscale
+downrange,adverb
+downright,adjective,adverb
+downriver,adjective,adverb
+downscale,verb,adjective
  downscaled downscales downscaling
-downshift
+downshift,noun,verb
  downshifted downshifting downshifts
-downside
+downside,noun
  downsides
-downsize
+downsize,verb
  downsized downsizes downsizing
-downspout
+downspout,noun
  downspouts
-downstage
-downstairs
-downstate
-downstream
-downswing
+downstage,adjective,adverb
+downstairs,noun,adverb,adjective
+downstate,noun,adjective,adverb
+downstream,adjective,adverb
+downswing,noun
  downswings
-downtime
-down-to-earth
-downtown
+downtime,noun
+down-to-earth,adjective
+downtown,noun,adjective,adverb
  downtowns
-downtrend
+downtrend,noun
  downtrends
-downtrodden
-downturn
+downtrodden,adjective
+downturn,noun,verb
  downturns
-downward
+downward,adverb,adjective
  downwards
-downwind
-downy
+downwind,adjective,adverb
+downy,adjective
  downier downiest
-dowry
+dowry,noun
  dowries
-dowse
+dowse,verb
  dowsed dowses dowsing
-dowser
+dowser,noun
  dowsers
-doxology
+doxology,noun
  doxologies
-doyen
+doyen,noun
  doyenne doyennes doyens
-doze
+doze,noun,verb
  dozed dozes dozing
-dozen
+dozen,noun
  dozens
-dozenth
-dozy
+dozenth,ordinalnumber
+dozy,adjective
  dozier doziest dozily doziness
-drab
+drab,noun,adjective
  drabber drabbest drably drabness drabs
-drachma
+drachma,noun
  drachmae drachmai drachmas
-draconian
-draft
+draconian,adjective
+draft,noun,verb,adjective
  drafted drafting drafts draught draughted draughting draughts -> [draughts]
-draftee
+draftee,noun
  draftees
-drafter
+drafter,noun
  drafters
-draftsman
+draftsman,noun
  draftsmen draughtsman draughtsmen
-draftsmanship
+draftsmanship!
  draughtsmanship
-draftswoman
+draftswoman,noun
  draftswomen draughtswoman draughtswomen
-drafty
+drafty,adjective
  draftier draftiest draftily draftiness draughtier draughtiest draughtiness draughty
-drag
+drag,noun,verb
  dragged dragging drags
-draggy
+draggy,adjective
  draggier draggiest
-dragnet
+dragnet,noun
  dragnets
-dragon
+dragon,noun
  dragons
-dragonfly
+dragonfly,noun
  dragonflies
-dragoon
+dragoon,noun,verb
  dragooned dragooning dragoons
-dragster
+dragster,noun
  dragsters
-drain
+drain,noun,verb
  drained draining drains
-drainage
-drainboard
+drainage,noun
+drainboard,noun
  drainboards
-drainer
+drainer,noun
  drainers
-drainpipe
+drainpipe,noun
  drainpipes
-drake
+drake,noun
  drakes
-dram
+dram,noun
  drams
-drama
+drama,noun
  dramas
-dramatic
+dramatic,adjective
  dramatically dramatics
-dramatist
+dramatist,noun
  dramatists
-dramatization
+dramatization,noun
  dramatisation dramatisations dramatizations
-dramatize
+dramatize,verb
  dramatise dramatised dramatises dramatising dramatized dramatizes dramatizing
-drape
+drape,noun,verb
  draped drapes draping
-draper
+draper,noun
  drapers
-drapery
+drapery,noun
  draperies
-drastic
+drastic,adjective
  drastically
-drat
+drat,exclamation
  dratted
-draughtboard
+draughtboard,noun
  draughtboards
-draughts -> [draft]
-draw
+draughts,noun
+draw,noun,verb
  drawing -> [drawing] drawn draws drew
-drawback
+drawback,noun
  drawbacks
-drawbridge
+drawbridge,noun
  drawbridges
-drawer
+drawer,noun
  drawers
-drawing -> [draw]
+drawing,noun
  drawings
-drawl
+drawl,noun,verb
  drawled drawling drawls
-drawn-out
-drawstring
+drawn-out,adjective
+drawstring,noun
  drawstrings
-dray
+dray,noun
  drays
-dread
+dread,noun,verb,adjective
  dreaded dreading dreads
-dreadful
+dreadful,adjective
  dreadfully dreadfulness
-dreadlocks
-dreadnought
+dreadlocks,pluralnoun
+dreadnought,noun
  dreadnaught dreadnaughts dreadnoughts
-dream
+dream,noun,verb
  dreamed dreaming dreamless dreamlike dreams dreamt
-dreamboat
+dreamboat,noun
  dreamboats
-dreamer
+dreamer,noun
  dreamers
-dreamland
-dreamworld
+dreamland,noun
+dreamworld,noun
  dreamworlds
-dreamy
+dreamy,adjective
  dreamier dreamiest dreamily dreaminess
-drear
-dreary
+drear,adjective
+dreary,adjective
  drearier dreariest drearily dreariness
-dreck
-dredge
+dreck,noun
+dredge,noun,verb
  dredged dredges dredging
-dredger
+dredger,noun
  dredgers
-dregs
-dreidel
+dregs,pluralnoun
+dreidel,noun
  dreidels
-drench
+drench,noun,verb
  drenched drenches drenching
-dress
+dress,noun,verb
  dressed dresses dressing -> [dressing] drest
-dressage
-dresser
+dressage,noun
+dresser,noun
  dressers
-dressing -> [dress]
+dressing,noun
  dressings
-dressmaker
+dressmaker,noun
  dressmakers
-dressmaking
-dress-up
-dressy
+dressmaking,noun
+dress-up,phrasalverb
+dressy,adjective
  dressier dressiest dressiness
-dribble
+dribble,noun,verb
  dribbled dribbles dribbling
-dribbler
+dribbler,noun
  dribblers
-driblet
+driblet,noun
  driblets
-dribs
-drift
+dribs,pluralnoun
+drift,noun,verb
  drifted drifting drifts
-drifter
+drifter,noun
  drifters
-driftnet
+driftnet,noun
  driftnets
-driftwood
-drill
+driftwood,noun
+drill,noun,verb
  drilled drilling drills
-driller
+driller,noun
  drillers
-drillmaster
+drillmaster,noun
  drillmasters
-drink
+drink,noun,verb
  drank drinking drinks drunk -> [drunk]
-drinkable
-drinker
+drinkable,adjective
+drinker,noun
  drinkers
-drip
+drip,noun,verb
  dripped dripping -> [dripping] drips dript
-dripping -> [drip]
+dripping,noun,adjective
  drippings
-drippy
+drippy,adjective
  drippier drippiest
-drive
+drive,noun,verb
  driven drives driving drove -> [drove]
-drive-by
+drive-by,noun,adjective
  drive-bys
-drivel
+drivel,noun,verb
  driveled driveling drivelled drivelling drivels
-driveler
+driveler,noun
  drivelers driveller drivellers
-driver
+driver,noun
  drivers
-driveshaft
+driveshaft,noun
  driveshafts
-drive-through
+drive-through,noun,adjective
  drive-throughs
-drivetime
-driveway
+drivetime,noun
+driveway,noun
  driveways
-drizzle
+drizzle,noun,verb
  drizzled drizzles drizzling
-drizzly
+drizzly,adjective
  drizzlier drizzliest
-drogue
+drogue,noun
  drogues
-droll
+droll,noun,adjective
  droller drollest drollness drolly
-drollery
+drollery,noun
  drolleries
-dromedary
+dromedary,noun
  dromedaries
-drone
+drone,noun,verb
  droned drones droning
-drool
+drool,noun,verb
  drooled drooling drools
-droop
+droop,noun,verb
  drooped drooping droops
-droopy
+droopy,adjective
  droopier droopiest droopiness
-drop
+drop,noun,verb
  dropped dropping -> [dropping] drops
-drop-dead
-dropkick
+drop-dead,adjective
+dropkick!
  dropkicks
-droplet
+droplet,noun
  droplets
-drop-off
+drop-off,noun
  drop-offs
-dropout
+dropout,noun
  dropouts
-dropper
+dropper,noun
  droppers
-dropping -> [drop]
+dropping,noun,verb
  droppings
-dropsical
-dropsy
-dross
-drought
+dropsical,adjective
+dropsy,noun
+dross,noun
+drought,noun
  droughts drouth drouths
-drove -> [drive]
+drove,noun,verb
  droves
-drover
+drover,noun
  drovers
-drown
+drown,verb
  drowned drowning -> [drowning] drowns
-drowning -> [drown]
+drowning,verb
  drownings
-drowse
+drowse,noun,verb
  drowsed drowses drowsing
-drowsy
+drowsy,adjective
  drowsier drowsiest drowsily drowsiness
-drub
+drub,verb
  drubbed drubbing -> [drubbing] drubs
-drubber
+drubber,noun
  drubbers
-drubbing -> [drub]
+drubbing,noun
  drubbings
-drudge
+drudge,noun,verb
  drudged drudges drudging
-drudgery
-drug
+drudgery,noun
+drug,noun,verb
  drugged drugging drugs
-druggie
+druggie,noun,adjective
  druggies druggy
-druggist
+druggist,noun
  druggists
-drugstore
+drugstore,noun
  drugstores
-druid
+druid,noun
  druids
-druidism
-drum
+druidism,noun
+drum,noun,verb
  drummed drumming drums
-drumbeat
+drumbeat,noun
  drumbeats
-drumlin
+drumlin,noun
  drumlins
-drummer
+drummer,noun
  drummers
-drumroll
+drumroll,noun
  drumrolls
-drumstick
+drumstick,noun
  drumsticks
-drunk -> [drink]
+drunk,noun,verb,adjective
  drunker drunkest drunks
-drunkard
+drunkard,noun
  drunkards
-drunken
+drunken,adjective
  drunkenly drunkenness
-drupe
+drupe,noun
  drupes
-druthers
-dry
+druthers,noun,adverb
+dry,noun,verb,adjective
  dried drier -> [dryer] dries driest drily dryer -> [dryer] dryest drying dryly dryness drys
-dryad
+dryad,noun
  dryads
-dryer -> [dry]
+dryer,noun
  drier -> [dry] driers dryers
-drywall
-dual
-dualism
-duality
+drywall,noun
+dual,noun,verb,adjective
+dualism,noun
+duality,noun
  dualities
-dub
+dub,noun,verb
  dubbed dubbing dubs
-dubber
+dubber,noun
  dubbers
-dubbin
-dubiety
-dubious
+dubbin,noun,verb
+dubiety,noun
+dubious,adjective
  dubiously dubiousness
-ducal
-ducat
+ducal,adjective
+ducat,noun
  ducats
-duchess
+duchess,noun
  duchesses
-duchy
+duchy,noun
  duchies
-duck
+duck,noun,verb
  ducked ducking ducks
-duckbill
+duckbill,noun,adjective
  duckbills
-duckboards
-duckling
+duckboards,noun
+duckling,noun
  ducklings
-duckpins
-duckweed
-ducky
+duckpins,noun
+duckweed,noun
+ducky,noun,adjective
  duckier duckies duckiest
-duct
+duct,noun,verb
  ducting ductless ducts
-ductile
-ductility
-ductwork
-dud
+ductile,adjective
+ductility,noun
+ductwork,noun
+dud,noun,verb,adjective
  duds
-dude
+dude,noun,verb
  duded dudes duding
-dudgeon
-due
+dudgeon,noun
+due,noun,adjective,adverb
  dues
-duel
+duel,noun,verb
  dueled dueling duelled duelling duels
-dueler
+dueler,noun
  duelers dueller duellers
-duelist
+duelist,noun
  duelists duellist duellists
-duenna
+duenna,noun
  duennas
-duet
+duet,noun,verb
  duets
-duff
+duff,noun,verb,adjective
  duffed duffing duffs
-duffer
+duffer,noun
  duffers
-dugout
+dugout,noun
  dugouts
-duh
-duke
+duh,exclamation
+duke,noun,verb
  dukes
-dukedom
+dukedom,noun
  dukedoms
-dulcet
-dulcimer
+dulcet,adjective
+dulcimer,noun
  dulcimers
-dull
+dull,verb,adjective
  dulled duller dullest dulling dullness dulls dully dulness
-dullard
+dullard,noun
  dullards
-duly
-dumb
+duly,adverb
+dumb,verb,adjective
  dumber dumbest dumbly dumbness
-dumbbell
+dumbbell,noun
  dumbbells
-dumbfound
+dumbfound,verb
  dumbfounded dumbfounding dumbfounds dumfound dumfounded dumfounding dumfounds
-dumbo
+dumbo,noun
  dumbos
-dumbstruck
-dumbwaiter
+dumbstruck,adjective
+dumbwaiter!
  dumbwaiters
-dumdum
+dumdum,noun
  dumdums
-dummy
+dummy,noun,verb
  dummies
-dump
+dump,noun,verb
  dumped dumping dumps
-dumper
+dumper,noun
  dumpers
-dumpling
+dumpling,noun
  dumplings
-dumpster
+dumpster,noun
  dumpsters
-dumpy
+dumpy,adjective
  dumpier dumpiest dumpiness
-dun
+dun,noun,verb,adjective
  dunned dunner dunnest dunning duns
-dunce
+dunce,noun
  dunces
-dunderhead
+dunderhead,noun
  dunderheads
-dune
+dune,noun
  dunes
-dung
+dung,noun,verb
  dunged dunging dungs
-dungaree
+dungaree!
  dungarees
-dungeon
+dungeon,noun,verb
  dungeons
-dunghill
+dunghill,noun
  dunghills
-dunk
+dunk,noun,verb
  dunked dunking dunks
-dunno
-dunny
+dunno,contraction
+dunny,noun
  dunnies
-duo
+duo,noun
  duos
-duodecimal
-duodenal
-duodenum
+duodecimal,noun,adjective
+duodenal,adjective
+duodenum,noun
  duodena duodenums
-duopoly
+duopoly,noun
  duopolies
-dupatta
+dupatta,noun
  dupattas
-dupe
+dupe,noun,verb,verb,noun
  duped dupes duping
-duper
+duper,noun
  dupers
-duple
-duplex
+duple,adjective
+duplex,noun,adjective
  duplexes
-duplicate
+duplicate,noun,verb,adjective
  duplicated duplicates duplicating
-duplication
+duplication,noun
  duplications
-duplicator
+duplicator,noun
  duplicators
-duplicitous
-duplicity
-durable
+duplicitous,adjective
+duplicity,noun
+durable,noun,adjective
  durability durables durably
-durance
-duration
-duress
-during
-durum
-dusk
-dusky
+durance,noun
+duration,noun
+duress,noun
+during,preposition
+durum,noun
+dusk,noun,verb,adjective
+dusky,adjective
  duskier duskiest duskiness
-dust
+dust,noun,verb
  dusted dusting dustless dusts
-dustbin
+dustbin,noun
  dustbins
-dustcart
+dustcart,noun
  dustcarts
-duster
+duster,noun
  dusters
-dustman
+dustman,noun
  dustmen
-dustpan
+dustpan,noun
  dustpans
-dustsheet
+dustsheet!
  dustsheets
-dustup
+dustup,noun
  dustups
-dusty
+dusty,adjective
  dustier dustiest dustiness
-dutch
-duteous
+dutch,noun,adjective
+duteous,adjective
  duteously
-dutiable
-duty
+dutiable,adjective
+duty,noun
  duties dutiful dutifully dutifulness
-duty-free
-duvet
+duty-free,noun,adjective,adverb
+duvet,noun
  duvets
-dwarf
+dwarf,noun,verb
  dwarfed dwarfing dwarfish dwarfs dwarves
-dwarfism
-dweeb
+dwarfism,noun
+dweeb,noun
  dweebs
-dwell
+dwell,noun,verb
  dwelled dwelling -> [dwelling] dwells dwelt
-dweller
+dweller,noun
  dwellers
-dwelling -> [dwell]
+dwelling,noun
  dwellings
-dwindle
+dwindle,verb
  dwindled dwindles dwindling
-dybbuk
+dybbuk,noun
  dybbukim dybbuks
-dye
+dye,noun,verb
  dyed dyeing dyes
-dyer
+dyer,noun
  dyers
-dyestuff
-dyke -> [dike]
+dyestuff,noun
+dyke,noun,verb
  dykes -> [dike]
-dynamic
+dynamic,noun,adjective
  dynamics
-dynamical
+dynamical,adjective
  dynamically
-dynamism
-dynamite
+dynamism,noun
+dynamite,noun,verb
  dynamited dynamites dynamiting
-dynamiter
+dynamiter,noun
  dynamiters
-dynamo
+dynamo,noun
  dynamos
-dynastic
-dynasty
+dynastic,adjective
+dynasty,noun
  dynasties
-dysentery
-dysfunction
+dysentery,noun
+dysfunction,noun
  dysfunctions
-dysfunctional
-dyslexia
-dyslexic
+dysfunctional,adjective
+dyslexia,noun
+dyslexic,noun,adjective
  dyslectic dyslectics dyslexics
-dyspepsia
-dyspeptic
+dyspepsia,noun
+dyspeptic,noun,adjective
  dyspeptics
-dysprosium
-dystopia
+dysprosium,noun
+dystopia,noun
  dystopias
-dystopian
+dystopian,noun,adjective
