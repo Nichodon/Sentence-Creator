@@ -124,7 +124,7 @@ gameplay,noun
 gamer,noun
  gamers
 gamesmanship,noun
-gamester!!!
+gamester!
  gamesters
 gamete,noun
  gametes
@@ -225,7 +225,7 @@ garrison,verb,noun
  garrisoned garrisoning garrisons
 garrote,verb,noun
  garote garoted garotes garoting garotte garotted garottes garotting garroted garrotes garroting garrotte garrotted garrottes garrotting
-garroter!!!
+garroter!
  garotter garotters garroters garrotter garrotters
 garrulity,noun
 garrulous,adjective
@@ -623,7 +623,7 @@ gibbon,noun
 gibbous,adjective
 gibe,verb,noun
  gibed gibes gibing jibe jibed jibes jibing
-giblet!!!
+giblet!
  giblets
 giddy,verb,adjective
  giddier giddiest giddily giddiness
@@ -746,7 +746,7 @@ glade,noun
 gladiator,noun
  gladiators
 gladiatorial,adjective
-gladiola!!!
+gladiola!
  gladiolas
 gladiolus,noun
  gladioli gladioluses
@@ -898,7 +898,7 @@ glum,adjective
 glut,verb,noun
  gluts glutted glutting
 gluten,noun
-glutenous!!!
+glutenous!
 gluteus,noun
  glutei
 glutinous,adjective
@@ -1036,7 +1036,7 @@ goldfinch,noun
  goldfinches
 goldfish,noun
  goldfishes
-goldmine!!!
+goldmine!
  goldmines
 gold-plated,adjective
 goldsmith,noun
@@ -1127,7 +1127,7 @@ gorilla,noun
  gorillas
 gormandize,verb,noun
  gormandise gormandised gormandises gormandising gormandized gormandizes gormandizing
-gormandizer!!!
+gormandizer!
  gormandiser gormandisers gormandizers
 gormless,adjective
 gorp,noun
@@ -1344,7 +1344,7 @@ grasshopper,noun
  grasshoppers
 grassland,noun
  grasslands
-grassroots!!!
+grassroots!
 grassy,adjective
  grassier grassiest
 grate,verb,noun
@@ -1434,7 +1434,7 @@ green,verb,adjective,noun
  greened greener greenest greening greenish greenly greenness greens
 greenback,noun
  greenbacks
-greenbelt!!!
+greenbelt!
  greenbelts
 greenery,noun
 greenfield,adjective
@@ -1477,7 +1477,7 @@ grid,verb,noun
  grids
 griddle,verb,noun
  griddles
-griddlecake!!!
+griddlecake!
  griddlecakes
 gridiron,noun
  gridirons
@@ -1732,9 +1732,9 @@ guest,verb,noun
  guested guesting guests
 guestbook,noun
  guestbooks
-guesthouse!!!
+guesthouse!
  guesthouses
-guestroom!!!
+guestroom!
  guestrooms
 guff,noun
 guffaw,verb,noun
@@ -1929,7 +1929,7 @@ gyp,verb,noun
  gypped gypping gyps
 gypper,verb,noun
  gyppers
-gypster!!!
+gypster!
  gypsters
 gypsum,noun
 gypsy,noun

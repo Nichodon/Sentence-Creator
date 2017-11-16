@@ -67,7 +67,7 @@ backcomb,verb
 backcountry,noun
 backdate,verb
  backdated backdates backdating
-backdoor!!!
+backdoor!
 backdrop,verb,noun
  backdrops
 backer,noun
@@ -131,7 +131,7 @@ backstabber,noun
  backstabbers
 backstabbing,adjective,noun
 backstage,adjective,noun,adverb
-backstair!!!
+backstair!
  backstairs
 backstop,verb,noun
  backstopped backstopping backstops
@@ -226,7 +226,7 @@ bailiwick,noun
  bailiwicks
 bailout,noun
  bailouts
-bailsman!!!
+bailsman!
  bailsmen
 bairn,noun
  bairns
@@ -292,7 +292,7 @@ ballerina,noun
 ballet,noun
  ballets
 balletic,adjective
-ballgame!!!
+ballgame!
  ballgames
 ballgirl,noun
  ballgirls
@@ -700,7 +700,7 @@ bather,noun
 bathetic,adjective
 bathhouse,noun
  bathhouses
-bathmat!!!
+bathmat!
  bathmats
 bathos,noun
 bathrobe,noun
@@ -820,7 +820,7 @@ beanie,noun
  beanies
 beanpole,noun
  beanpoles
-beansprout!!!
+beansprout!
  beansprouts
 beanstalk,noun
  beanstalks
@@ -1250,7 +1250,7 @@ besmirch,verb
  besmirched besmirches besmirching
 besom,noun
  besoms
-besot!!!
+besot!
  besots besotted besotting
 bespangle,verb
  bespangled bespangles bespangling
@@ -1891,7 +1891,7 @@ bliss,verb,noun
  blissed blisses blissful blissfully blissfulness blissing
 blister,verb,noun
  blistered blistering blisteringly blisters
-blistery!!!
+blistery!
 blithe,adjective
  blithely blitheness blither blithest
 blithering,adjective
@@ -2045,7 +2045,7 @@ bluegill,noun
 bluegrass,noun
 bluejacket,noun
  bluejackets
-bluejay!!!
+bluejay!
  bluejays
 bluejeans,pluralnoun
 bluenose,noun
@@ -2140,7 +2140,7 @@ bobolink,noun
  bobolinks
 bobsled,noun
  bobsledded bobsledding bobsleds
-bobsledder!!!
+bobsledder!
  bobsledders
 bobsleigh,noun
  bobsleighed bobsleighing bobsleighs
@@ -2173,7 +2173,7 @@ bodyguard,noun
  bodyguards
 bodysuit,noun
  bodysuits
-bodywarmer!!!
+bodywarmer!
  bodywarmers
 bodywork,noun
 boerewors,noun
@@ -2390,7 +2390,7 @@ boon,noun
 boondocks,pluralnoun
 boondoggle,verb,noun
  boondoggled boondoggles boondoggling
-boondoggler!!!
+boondoggler!
  boondogglers
 boonies,pluralnoun
 boor,noun
@@ -2529,7 +2529,7 @@ bound,verb,adjective,noun
  bounded bounding boundless boundlessly boundlessness bounds
 boundary,noun
  boundaries
-bounden!!!
+bounden!
 bounder,noun
  bounders
 bounteous,adjective
@@ -2567,7 +2567,7 @@ bower,verb,noun
  bowers
 bowl,verb,noun
  bowled bowlful bowlfuls bowling bowls
-bowleg!!!
+bowleg!
  bowlegged bowlegs
 bowler,noun
  bowlers
@@ -2721,7 +2721,7 @@ braze,verb,noun
  brazed brazes brazing
 brazen,adjective,verb
  brazened brazening brazenly brazenness brazens
-brazer!!!
+brazer!
  brazers
 brazier,noun
  braziers
@@ -3011,7 +3011,7 @@ brood,verb,adjective,noun
  brooded brooding broodingly broods
 brooder,noun
  brooders
-broodmare!!!
+broodmare!
  broodmares
 broody,adjective
  broodier broodiest broodily broodiness

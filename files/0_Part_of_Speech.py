@@ -13,7 +13,7 @@ def pos(word): #word you want to search for
     if len(poss)>0:
         return ''.join((','+','.join(poss)).split()) #regex finds all occurences of the specific
     else:
-        return '!!!'
+        return '!'
 
 fname = input("letter:")
 
