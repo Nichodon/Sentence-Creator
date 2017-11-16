@@ -2617,7 +2617,7 @@ coastguard,noun
 coastline,noun
  coastlines
 coat,noun,verb
- coated coating -> [coating] coats
+ coated coating coats
 coathanger!
  coathangers
 coating,noun
@@ -3003,7 +3003,7 @@ colony,noun
 colophon,noun
  colophons
 color,noun,verb
- colored -> [colored] colorful colorfully colorfulness coloring -> [coloring] colorless colorlessly colorlessness colors colour coloured -> [colored] colourful colourfully colourfulness colouring -> [coloring] colourless colourlessly colourlessness colours
+ colored colorful colorfully colorfulness coloring colorless colorlessly colorlessness colors colour coloured colourful colourfully colourfulness colouring colourless colourlessly colourlessness colours
 colorant,noun
  colorants colourant colourants
 coloration,noun
@@ -3015,11 +3015,11 @@ colorblind!
 color-coded,adjective
  colour-coded
 colored,adjective,noun
- coloreds coloured -> [color] coloureds
+ coloreds coloured coloureds
 colorfast,adjective
  colorfastness colourfast
 coloring,noun
- colorings colouring -> [color] colourings
+ colorings colouring colourings
 colorist,noun
  colorists colourist colourists
 colorization,noun
@@ -3050,7 +3050,7 @@ comaker!
  comakers
 comatose,adjective
 comb,noun,verb
- combed combing -> [combing] combs
+ combed combing combs
 combat,noun,verb
  combated combating combats combatted combatting
 combatant,adjective,noun
@@ -3074,7 +3074,7 @@ combustible,adjective,noun
 combustion,noun
 combustive,adjective
 come,verb,noun,preposition
- came comes coming -> [coming] cum -> [cum] cummed cumming cums
+ came comes coming cum cummed cumming cums
 comeback,noun
  comebacks
 comedian,noun
@@ -3210,7 +3210,7 @@ commodity,noun
 commodore,noun
  commodores
 common,adjective,noun
- commoner -> [commoner] commonest commonly commonness commons
+ commoner commonest commonly commonness commons
 commonality,noun
  commonalities
 commonalty,noun
@@ -3303,7 +3303,7 @@ compatriot,noun
 compeer,noun
  compeers
 compel,verb
- compelled compelling -> [compelling] compels
+ compelled compelling compels
 compelling,adjective
  compellingly
 compendious,adjective
@@ -3877,7 +3877,7 @@ conscience,noun
 conscientious,adjective
  conscientiously conscientiousness
 conscious,adjective
- consciously consciousness -> [consciousness]
+ consciously consciousness
 consciousness,noun
  consciousnesses
 conscript,verb,noun
@@ -4360,7 +4360,7 @@ cooktop,noun
 cookware,noun
  cookwares
 cool,adjective,noun,verb
- cooled cooler -> [cooler] coolest cooling coolly coolness cools
+ cooled cooler coolest cooling coolly coolness cools
 coolant,noun
  coolants
 coolbox,noun
@@ -4404,7 +4404,7 @@ cop,abbreviation,noun,verb
 copacetic,adjective
 copay,noun
 cope,verb,noun
- coped copes coping -> [coping]
+ coped copes coping
 copier,noun
  copiers
 copilot,noun,verb
@@ -4675,7 +4675,7 @@ cosponsor!
 cosset,verb
  cosseted cosseting cossets cossetted cossetting
 cost,verb,noun
- costed costing -> [costing] costlier costliest costliness costly costs
+ costed costing costlier costliest costliness costly costs
 costar,noun,verb
  costarred costarring costars
 cost-cutting,noun
@@ -4848,7 +4848,7 @@ coup,noun
 coupe,noun
  coupes
 couple,noun,verb
- coupled couples coupling -> [coupling]
+ coupled couples coupling
 couplet,noun
  couplets
 coupling,noun
@@ -4903,7 +4903,7 @@ coven,noun
 covenant,noun,verb
  covenanted covenanting covenants
 cover,verb,noun
- covered covering -> [covering] covers
+ covered covering covers
 coverage,noun
 coverall,adjective,noun
  coveralls
@@ -5009,7 +5009,7 @@ crackhead,noun
 crackhouse,noun
  crackhouses
 crackle,verb,noun
- crackled crackles crackling -> [crackling]
+ crackled crackles crackling
 crackling,noun
  cracklings
 crackly,adjective
@@ -5086,7 +5086,7 @@ crater,noun,verb,propernoun
 cravat,noun
  cravats
 crave,verb
- craved craves craving -> [craving]
+ craved craves craving
 craven,adjective,noun
  cravenly cravenness cravens
 craving,noun
@@ -5326,7 +5326,7 @@ crony,noun
  cronies
 cronyism,noun
 crook,adjective,noun,verb
- crooked -> [crooked] crooking crooks
+ crooked crooking crooks
 crooked,adjective
  crookeder crookedest crookedly crookedness
 crookneck,noun
@@ -5349,7 +5349,7 @@ crore,noun
 crosier,noun
  crosiers crozier croziers
 cross,adjective,noun,verb
- crossed crosser crosses crossest crossing -> [crossing] crossly crossness
+ crossed crosser crosses crossest crossing crossly crossness
 crossbar,noun
  crossbars
 crossbeam,noun
@@ -5412,11 +5412,11 @@ croup,noun
 croupier,noun
  croupiers
 croupy,adjective
- croupier -> [croupier] croupiest
+ croupier croupiest
 crouton,noun
  croutons
 crow,adjective,noun,verb
- crew -> [crew] crowed crowing crows
+ crew crowed crowing crows
 crowbar,noun,verb
  crowbars
 crowd,noun,verb
@@ -5745,7 +5745,7 @@ cuspid,noun
 cuspidor,noun
  cuspidors
 cuss,noun,verb
- cussed -> [cussed] cusses cussing
+ cussed cusses cussing
 cussed,adjective
  cussedly cussedness
 cussword!
@@ -5772,7 +5772,7 @@ customize,verb
  customise customised customises customising customized customizes customizing
 custom-made,adjective
 cut,verb,noun
- cuts cutting -> [cutting]
+ cuts cutting
 cutaneous,adjective
 cutaway,noun
  cutaways
