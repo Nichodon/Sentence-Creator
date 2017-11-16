@@ -161,7 +161,7 @@ calendar,noun,verb
 calender,noun,verb
  calendered calendering calenders
 calf,noun
- calfs calves -> [calve]
+ calfs calves
 calfskin,noun
 caliber,noun
  calibers calibre calibres
@@ -183,7 +183,7 @@ caliphate,noun
 calisthenic,adjective
  calisthenics callisthenic callisthenics
 call,verb,noun
- called calling -> [calling] calls
+ called calling calls
 calla,noun
  callas
 callback,noun
@@ -229,7 +229,7 @@ calumnious,adjective
 calumny,noun,verb
  calumnies
 calve,verb
- calved calves -> [calf] calving
+ calved calves calving
 calypso,noun,propernoun
  calypsos
 calyx,noun
@@ -427,11 +427,11 @@ cantonment,noun
 cantor,noun
  cantors
 canvas,noun,verb
- canvased canvases canvasing canvassed -> [canvass] canvasses -> [canvass] canvassing -> [canvass]
+ canvased canvases canvasing canvassed canvasses canvassing
 canvasback,noun
  canvasbacks
 canvass,verb,noun
- canvassed -> [canvas] canvasses -> [canvas] canvassing -> [canvas]
+ canvassed canvasses canvassing
 canvasser,noun
  canvassers
 canyon,noun
@@ -646,7 +646,7 @@ carillon,noun
  carillons
 carious,adjective
 carjack,verb
- carjacked carjacking -> [carjacking] carjacks
+ carjacked carjacking carjacks
 carjacker,noun
  carjackers
 carjacking,noun
@@ -703,7 +703,7 @@ carpentry,noun
 carper,noun
  carpers
 carpet,noun,verb
- carpeted carpeting -> [carpeting] carpets
+ carpeted carpeting carpets
 carpetbag,noun,verb
  carpetbagged carpetbagging carpetbags
 carpetbagger,noun
@@ -769,7 +769,7 @@ cartridge,noun
 cartwheel,noun,verb
  cartwheeled cartwheeling cartwheels
 carve,verb
- carved carves carving -> [carving]
+ carved carves carving
 carver,noun
  carvers
 carvery,noun
@@ -785,7 +785,7 @@ cascade,noun,verb
 cascara,noun
  cascaras
 case,noun,verb
- cased cases casing -> [casing]
+ cased cases casing
 casebook,noun
  casebooks
 caseharden,verb
@@ -835,7 +835,7 @@ cassock,noun
 cassowary,noun
  cassowaries
 cast,verb,noun
- casting -> [casting] casts
+ casting casts
 castanet!
  castanets
 castaway,noun
@@ -891,13 +891,13 @@ cataloger,noun
 catalpa,noun
  catalpas
 catalysis,noun
- catalyses -> [catalyze]
+ catalyses
 catalyst,noun
  catalysts
 catalytic,adjective
  catalytics
 catalyze,verb
- catalyse catalysed catalyses -> [catalysis] catalysing catalyzed catalyzes catalyzing
+ catalyse catalysed catalyses catalysing catalyzed catalyzes catalyzing
 catamaran,noun
  catamarans
 catapult,noun,verb
@@ -1017,7 +1017,7 @@ causality,noun
 causation,noun
 causative,adjective,noun
 cause,noun,verb
- caused causeless causes causing cos -> [cos]
+ caused causeless causes causing cos
 causer,noun
  causers
 causerie,noun
@@ -1399,7 +1399,7 @@ chanter,noun
 chanteuse,noun
  chanteuses
 chantey,noun
- chanteys chanties chanty shanties -> [shanty] shanty -> [shanty]
+ chanteys chanties chanty shanties shanty
 chanticleer,noun
  chanticleers
 chaos,noun
@@ -1561,7 +1561,7 @@ checkbook,noun
 checkbox,noun
  checkboxes
 checker,verb,noun,noun
- checkered -> [checkered] checkering checkers chequer chequers
+ checkered checkering checkers chequer chequers
 checkerboard,noun
  checkerboards chequerboard chequerboards
 checkered,adjective
@@ -1734,7 +1734,7 @@ childproof,adjective,verb
 chili,noun
  chile chiles chilies chilis chilli chillies chillis
 chill,adjective,noun,verb
- chilled chiller -> [chiller] chillest chilling chillingly chillness chills
+ chilled chiller chillest chilling chillingly chillness chills
 chillax,verb
  chillaxed chillaxes chillaxing
 chiller,noun
@@ -1779,7 +1779,7 @@ chintzy,adjective
 chinwag,noun,verb
  chinwags
 chip,noun,verb
- chipped chipping -> [chipping] chips
+ chipped chipping chips
 chipboard,noun
 chipmunk,noun
  chipmunks
@@ -1928,7 +1928,7 @@ chowder,noun
  chowders
 chrism,noun
 christen,verb
- christened christening -> [christening] christens
+ christened christening christens
 christening,noun
  christenings
 christian,adjective,noun
@@ -2263,7 +2263,7 @@ classified,adjective,noun
 classifier,noun
  classifiers
 classify,verb
- classified -> [classified] classifies classifying
+ classified classifies classifying
 classmate,noun
  classmates
 classroom,noun
@@ -2292,7 +2292,7 @@ clay,noun
 clayey,adjective
  clayier clayiest
 clean,adverb,adjective,verb,noun
- cleaned cleaner -> [cleaner] cleanest cleaning -> [cleaning] cleanlier cleanliest cleanliness cleanly cleanness cleans
+ cleaned cleaner cleanest cleaning cleanlier cleanliest cleanliness cleanly cleanness cleans
 cleanable,adjective
 clean-cut,adjective
 cleaner,noun
@@ -2307,7 +2307,7 @@ clean-shaven,adjective
 cleanup,noun
  cleanups
 clear,adverb,adjective,verb
- cleared clearer clearest clearing -> [clearing] clearly clearness clears
+ cleared clearer clearest clearing clearly clearness clears
 clearance,noun
  clearances
 clear-cut,adjective,verb
@@ -2325,7 +2325,7 @@ cleat,noun
 cleavage,noun
  cleavages
 cleave,verb
- cleaved cleaves cleaving cleft -> [cleft] clove -> [clove] cloven
+ cleaved cleaves cleaving cleft clove cloven
 cleaver,noun
  cleavers
 clef,noun
@@ -2430,7 +2430,7 @@ cliometric,adjective
 cliometrician,noun
  cliometricians
 clip,noun,verb
- clipped clipping -> [clipping] clips clipt
+ clipped clipping clips clipt
 clipboard,noun
  clipboards
 clipper,noun
@@ -2481,7 +2481,7 @@ clonk,noun,verb
 clop,noun,verb
  clopped clopping clops
 close,adverb,adjective,noun,verb
- closed closely closeness closer closes closest closing -> [closing]
+ closed closely closeness closer closes closest closing
 closed-circuit,noun
 closedown,noun
  closedowns
@@ -2503,7 +2503,7 @@ clot,noun,verb
 cloth,noun
  cloths
 clothe,verb
- clad clothed clothes -> [clothes] clothing -> [clothing]
+ clad clothed clothes clothing
 clothes,pluralnoun
 clotheshorse!
  clotheshorses
