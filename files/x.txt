@@ -1,18 +1,18 @@
-xenon
-xenophobe
+xenon,noun
+xenophobe,noun
  xenophobes
-xenophobia
-xenophobic
-xerographic
-xerography
-xerox
+xenophobia,noun
+xenophobic,adjective
+xerographic,adjective
+xerography,noun
+xerox,verb,noun
  xeroxed xeroxes xeroxing
-xi
+xi,noun
  xis
-x-ray
+x-ray,verb,noun
  x-rayed x-raying x-rays
-xylem
-xylophone
+xylem,noun
+xylophone,noun
  xylophones
-xylophonist
+xylophonist,noun
  xylophonists

@@ -1,178 +1,178 @@
-yacht
+yacht,verb,noun
  yachted yachting yachts
-yachtsman
+yachtsman,noun
  yachtsmen
-yachtswoman
+yachtswoman,noun
  yachtswomen
-yahoo
+yahoo,exclamation,noun
  yahoos
-yak
+yak,verb,noun
  yack yacked yacking yacks yakked yakking yaks
-yakka
-yam
+yakka,noun
+yam,verb,noun
  yams
-yammer
+yammer,verb,noun
  yammered yammering yammers
-yammerer
+yammerer,noun
  yammerers
-yang
-yank
+yang,noun
+yank,verb,noun
  yanked yanking yanks
-yap
+yap,verb,noun
  yapped yapping yaps
-yard
+yard,verb,noun
  yards
-yardage
+yardage,noun
  yardages
-yardarm
+yardarm,noun
  yardarms
-yardman
+yardman,noun
  yardmen
-yardmaster
+yardmaster,noun
  yardmasters
-yardstick
+yardstick,noun
  yardsticks
-yarmulke
+yarmulke,noun
  yarmelke yarmelkes yarmulkes
-yarn
+yarn,verb,noun
  yarns
-yarrow
-yashmak
+yarrow,noun
+yashmak,noun
  yashmaks
-yaw
+yaw,verb,noun
  yawed yawing yaws
-yawl
+yawl,noun
  yawls
-yawn
+yawn,verb,noun
  yawned yawning yawns
-yawner
+yawner,noun
  yawners
-yay
-ye
-yea
+yay,exclamation,adverb
+ye,determiner,pronoun
+yea,noun,adverb
  yeas
-yeah
+yeah,noun,exclamation
  yeahs yep yeps yup -> [yup] yups -> [yup]
-year
+year,noun
  yearly -> [yearly] years
-yearbook
+yearbook,noun
  yearbooks
-yearling
+yearling,adjective,noun
  yearlings
-yearlong
-yearly -> [year]
+yearlong,adjective
+yearly,adjective,adverb
  yearlies
-yearn
+yearn,verb
  yearned yearning -> [yearning] yearns
-yearning -> [yearn]
+yearning,adjective,noun
  yearnings
-year-round
-yeast
+year-round,adjective,adverb
+yeast,noun
  yeasts
-yeasty
+yeasty,adjective
  yeastier yeastiest
-yegg
+yegg,noun
  yeggs
-yell
+yell,verb,noun
  yelled yelling yells
-yellow
+yellow,adjective,verb,noun
  yellowed yellower yellowest yellowing yellowish yellowness yellows
-yellowhammer
+yellowhammer,noun
  yellowhammers
-yellowjacket
+yellowjacket,noun
  yellowjackets
-yellowy
-yelp
+yellowy,adjective
+yelp,verb,noun
  yelped yelping yelps
-yen
+yen,verb,noun
  yens
-yeoman
+yeoman,noun
  yeomen
-yeomanry
-yes
+yeomanry,noun
+yes,exclamation,noun
  yeses yessed yessing
-yeshiva
+yeshiva,noun
  yeshivah yeshivahs yeshivas yeshivot yeshivoth
-yessir
-yesterday
+yessir,exclamation,verb
+yesterday,noun,adverb
  yesterdays
-yesteryear
-yet
-yeti
+yesteryear,noun
+yet,conjunction,adverb
+yeti,noun
  yetis
-yew
+yew,noun
  yews
-yid
+yid,noun
  yids
-yield
+yield,verb,noun
  yielded yielding yields
-yikes
-yin
-yip
+yikes,exclamation
+yin,noun
+yip,verb,noun
  yipped yipping yips
-yipe
-yippee
-yo
-yob
+yipe,exclamation
+yippee,exclamation
+yo,exclamation,possessivedeterminer,pronoun
+yob,noun
  yobbo yobbos yobs
-yodel
+yodel,verb,noun
  yodeled yodeling yodelled yodelling yodels
-yodeler
+yodeler,noun
  yodelers yodeller yodellers
-yoga
-yogi
+yoga,noun
+yogi,noun
  yogin yogins yogis
-yogic
-yogurt
+yogic,adjective
+yogurt,noun
  yoghourt yoghourts yoghurt yoghurts yogurts
-yoke
+yoke,verb,noun
  yoked yokes yoking
-yokel
+yokel,noun
  yokels
-yolk
+yolk,noun
  yolked yolks
-yon
-yonder
-yonks
-yoof
-yore
-you
+yon,determiner,pronoun,adverb
+yonder,noun,determiner,adverb
+yonks,pluralnoun
+yoof,noun
+yore,noun
+you,pronoun
  ya yous
-young
+young,adjective,noun
  younger youngest youngish
-youngster
+youngster,noun
  youngsters
-your
+your,possessivedeterminer
  yer yours
-yourself
+yourself,pronoun
  yourselves
-youth
+youth,noun
  youthful youthfully youthfulness youths
-yowl
+yowl,verb,noun
  yowled yowling yowls
-yo-yo
+yo-yo,verb,noun
  yo-yos
-ytterbium
-yttrium
-yuan
-yucca
+ytterbium,noun
+yttrium,noun
+yuan,noun,propernoun
+yucca,noun
  yuccas
-yuck -> [yuk]
+yuck,exclamation,verb,noun
  yecch
-yucky
+yucky,adjective
  yuckier yuckiest yukkier yukkiest yukky
-yuk
+yuk,exclamation,verb,noun
  yuck -> [yuck] yucked yucking yucks yukked yukking yuks
-yule
-yuletide
-yum
-yummy
+yule,noun
+yuletide,noun
+yum,exclamation,adjective
+yummy,adjective,noun
  yummier yummiest
-yup -> [yeah]
+yup,noun,exclamation,noun
  yups -> [yeah]
-yuppie
+yuppie,noun
  yuppies yuppy
-yuppify
+yuppify,verb
  yuppified yuppifies yuppifying
-yurt
+yurt,noun
  yurts
