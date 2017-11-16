@@ -1,1951 +1,1951 @@
-gab
+gab,verb,noun
  gabbed gabbing gabs
-gabardine
+gabardine,noun
  gabardines gaberdine gaberdines
-gabble
+gabble,verb,noun
  gabbled gabbles gabbling
-gabby
+gabby,adjective
  gabbier gabbiest gabbiness
-gabfest
+gabfest,noun
  gabfests
-gable
+gable,noun
  gabled gables
-gad
+gad,verb,exclamation,noun,propernoun
  gadded gadding gads
-gadabout
+gadabout,noun
  gadabouts
-gadder
+gadder,verb,exclamation,noun,propernoun
  gadders
-gadfly
+gadfly,noun
  gadflies
-gadget
+gadget,noun
  gadgets
-gadgetry
-gadolinium
-gaff
+gadgetry,noun
+gadolinium,noun
+gaff,verb,noun
  gaffed gaffing gaffs
-gaffe
+gaffe,noun
  gaffes
-gaffer
+gaffer,noun
  gaffers
-gag
+gag,verb,noun
  gagged gagging gags
-gaga
-gaggle
+gaga,adjective
+gaggle,noun
  gaggles
-gaiety
+gaiety,noun
  gayety
-gain
+gain,verb,noun
  gained gaining gains
-gainer
+gainer,noun
  gainers
-gainful
+gainful,adjective
  gainfully
-gainsay
+gainsay,verb
  gainsaid gainsaying gainsays
-gainsayer
+gainsayer,noun
  gainsayers
-gait
+gait,noun
  gaits
-gaiter
+gaiter,noun
  gaiters
-gal
+gal,noun
  gals
-gala
+gala,noun
  galas
-galactic
-galah
+galactic,adjective
+galah,noun
  galahs
-galaxy
+galaxy,noun
  galaxies
-gale
+gale,noun
  gales
-galena
-gall
+galena,noun
+gall,verb,noun
  galled galling galls
-gallant
+gallant,verb,adjective,noun
  gallanter gallantest gallantly gallants
-gallantry
-gallbladder
+gallantry,noun
+gallbladder,noun
  gallbladders
-galleon
+galleon,noun
  galleons
-galleria
+galleria,noun
  gallerias
-gallery
+gallery,noun
  galleries
-galley
+galley,noun
  galleys
-gallimaufry
+gallimaufry,noun
  gallimaufries
-gallium
-gallivant
+gallium,noun
+gallivant,verb
  gallivanted gallivanting gallivants
-gallon
+gallon,noun
  gallons
-gallop
+gallop,verb,noun
  galloped galloping gallops
-gallows
+gallows,pluralnoun
  gallowses
-gallstone
+gallstone,noun
  gallstones
-galoot
+galoot,noun
  galoots
-galore
-galosh
+galore,adjective
+galosh,noun
  galoshe galoshes
-galumph
+galumph,verb
  galumphed galumphing galumphs
-galvanic
-galvanism
-galvanization
+galvanic,adjective
+galvanism,noun
+galvanization,noun
  galvanisation
-galvanize
+galvanize,verb,noun
  galvanise galvanised galvanises galvanising galvanized galvanizes galvanizing
-galvanometer
+galvanometer,noun
  galvanometers
-gambit
+gambit,noun
  gambits
-gamble
+gamble,verb,noun
  gambled gambles gambling
-gambler
+gambler,noun
  gamblers
-gambol
+gambol,verb,noun
  gamboled gamboling gambolled gambolling gambols
-game
+game,verb,adjective,noun
  gamed gamely gameness gamer -> [gamer] games gamest gaming
-gamecock
+gamecock,noun
  gamecocks
-gamekeeper
+gamekeeper,noun
  gamekeepers
-gamelan
+gamelan,noun
  gamelans
-gameplay
-gamer -> [game]
+gameplay,noun
+gamer,noun
  gamers
-gamesmanship
-gamester
+gamesmanship,noun
+gamester!!!
  gamesters
-gamete
+gamete,noun
  gametes
-gametic
-gamin
+gametic,adjective
+gamin,noun
  gamine gamines gamins
-gamma
+gamma,noun
  gammas
-gammon
-gammy
-gamut
+gammon,verb,noun
+gammy,adjective
+gamut,noun
  gamuts
-gamy
+gamy,adjective
  gamey gamier gamiest gaminess
-gander
+gander,verb,noun,propernoun
  ganders
-gang
+gang,verb,noun
  ganged ganging gangs
-gangbusters
-gangland
-gangling
+gangbusters,noun
+gangland,noun
+gangling,adjective
  ganglier gangliest gangly
-ganglion
+ganglion,noun
  ganglia ganglions
-ganglionic
-gangmaster
+ganglionic,adjective
+gangmaster,noun
  gangmasters
-gangplank
+gangplank,noun
  gangplanks
-gangrene
+gangrene,verb,noun
  gangrened gangrenes gangrening
-gangrenous
-gangsta
+gangrenous,adjective
+gangsta,noun
  gangstas
-gangster
+gangster,noun
  gangsters
-gangway
+gangway,exclamation,noun
  gangways
-ganja
-gannet
+ganja,noun
+gannet,noun
  gannets
-gantry
+gantry,noun
  gantries
-gap
+gap,noun
  gaps
-gape
+gape,verb,noun
  gaped gapes gaping
-gar
+gar,noun
  gars
-garage
+garage,verb,noun
  garaged garages garaging
-garb
+garb,verb,noun
  garbed garbing garbs
-garbage
-garbageman
+garbage,noun
+garbageman,noun
  garbagemen
-garbanzo
+garbanzo,noun
  garbanzos
-garble
+garble,verb,noun
  garbled garbles garbling
-garcon
+garcon,noun
  garcons
-garden
+garden,verb,noun
  gardened gardening gardens
-gardener
+gardener,noun
  gardeners
-gardenia
+gardenia,noun
  gardenias
-garden-variety
-garfish
+garden-variety,adjective
+garfish,noun
  garfishes
-gargantuan
-gargle
+gargantuan,adjective
+gargle,verb,noun
  gargled gargles gargling
-gargoyle
+gargoyle,noun
  gargoyles
-garish
+garish,adjective
  garishly garishness
-garland
+garland,verb,noun
  garlanded garlanding garlands
-garlic
-garlicky
-garment
+garlic,noun
+garlicky,adjective
+garment,noun
  garments
-garner
+garner,verb,noun
  garnered garnering garners
-garnet
+garnet,noun
  garnets
-garnish
+garnish,verb,noun
  garnished garnishes garnishing
-garnishee
+garnishee,verb,noun
  garnisheed garnisheeing garnishees
-garnishment
+garnishment,noun
  garnishments
-garret
+garret,noun
  garrets
-garrison
+garrison,verb,noun
  garrisoned garrisoning garrisons
-garrote
+garrote,verb,noun
  garote garoted garotes garoting garotte garotted garottes garotting garroted garrotes garroting garrotte garrotted garrottes garrotting
-garroter
+garroter!!!
  garotter garotters garroters garrotter garrotters
-garrulity
-garrulous
+garrulity,noun
+garrulous,adjective
  garrulously garrulousness
-garter
+garter,noun
  garters
-gas
+gas,verb,adjective,noun
  gases gassed gasses gassing
-gasbag
+gasbag,noun
  gasbags
-gaseous
-gash
+gaseous,adjective
+gash,verb,noun
  gashed gashes gashing
-gasholder
+gasholder,noun
  gasholders
-gasket
+gasket,noun
  gaskets
-gaslight
+gaslight,verb,noun
  gaslights
-gasman
+gasman,noun
  gasmen
-gasohol
-gasoline
+gasohol,noun
+gasoline,noun
  gasolene
-gasometer
+gasometer,noun
  gasometers
-gasp
+gasp,verb,noun
  gasped gasping gasps
-gassy
+gassy,adjective
  gassier gassiest
-gastric
-gastritis
-gastroenteritis
-gastrointestinal
-gastronome
+gastric,adjective
+gastritis,noun
+gastroenteritis,noun
+gastrointestinal,adjective
+gastronome,noun
  gastronomes
-gastronomic
-gastronomical
+gastronomic,adjective
+gastronomical,adjective
  gastronomically
-gastronomy
-gastropod
+gastronomy,noun
+gastropod,noun
  gastropods
-gastropub
+gastropub,noun
  gastropubs
-gasworks
-gate
+gasworks,pluralnoun
+gate,verb,noun
  gated gates gating
-gateau
+gateau,noun
  gateaus gateaux
-gatecrash
+gatecrash,verb
  gatecrashed gatecrashes gatecrashing
-gatecrasher
+gatecrasher,noun
  gatecrashers
-gatehouse
+gatehouse,noun
  gatehouses
-gatekeeper
+gatekeeper,noun
  gatekeepers
-gatepost
+gatepost,noun
  gateposts
-gateway
+gateway,noun
  gateways
-gather
+gather,verb,noun
  gathered gathering -> [gathering] gathers
-gatherer
+gatherer,noun
  gatherers
-gathering -> [gather]
+gathering,noun
  gatherings
-gator
+gator,noun
  gators
-gauche
+gauche,adjective
  gauchely gaucheness gaucher gauchest
-gaucherie
-gaucho
+gaucherie,noun
+gaucho,noun
  gauchos
-gaudy
+gaudy,adjective,noun
  gaudier gaudiest gaudily gaudiness
-gauge
+gauge,verb,noun
  gage gaged gages gaging gauged gauges gauging
-gaunt
+gaunt,adjective,propernoun
  gaunter gauntest gauntness
-gauntlet
+gauntlet,noun
  gantlet gantlets gauntlets
-gauze
-gauzy
+gauze,noun
+gauzy,adjective
  gauzier gauziest gauziness
-gavel
+gavel,verb,noun
  gavels
-gavotte
+gavotte,noun
  gavottes
-gawk
+gawk,verb,noun
  gawked gawking gawks
-gawky
+gawky,adjective
  gawkier gawkiest gawkily gawkiness
-gawp
+gawp,verb
  gawped gawping gawps
-gay
+gay,adjective,noun
  gaily gayer gayest gayly gayness gays
-gaydar
-gaze
+gaydar,noun
+gaze,verb,noun
  gazed gazes gazing
-gazebo
+gazebo,noun
  gazeboes gazebos
-gazelle
+gazelle,noun
  gazelles
-gazer
+gazer,noun
  gazers
-gazette
+gazette,verb,noun
  gazetted gazettes gazetting
-gazetteer
+gazetteer,noun
  gazetteers
-gazillion
+gazillion,cardinalnumber
  gazillions
-gazpacho
-gazump
+gazpacho,noun
+gazump,verb
  gazumped gazumping gazumps
-gear
+gear,verb,noun
  geared gearing gears
-gearbox
+gearbox,noun
  gearboxes
-gearshift
+gearshift,noun
  gearshifts
-gearstick
+gearstick,noun
  gearsticks
-gearwheel
+gearwheel,noun
  gearwheels
-gecko
+gecko,noun
  geckoes geckos
-geddit
-gee
+geddit,exclamation
+gee,verb,exclamation,noun
  geed geeing gees
-geek
+geek,verb,noun
  geeks
-geeky
+geeky,adjective
  geekier geekiest
-geezer
+geezer,noun
  geezers
-geisha
+geisha,noun
  geishas
-gel
+gel,verb,abbreviation,noun
  gelled gelling gels
-gelatin
+gelatin,noun
  gelatine
-gelatinous
-gelcap
+gelatinous,adjective
+gelcap,noun
  gelcaps
-geld
+geld,verb
  gelded gelding -> [gelding] gelds gelt
-gelding -> [geld]
+gelding,noun
  geldings
-gelid
-gelignite
-gem
+gelid,adjective
+gelignite,noun
+gem,verb,noun
  gems
-gemological
+gemological,adjective
  gemmological
-gemologist
+gemologist,noun
  gemmologist gemmologists gemologists
-gemology
+gemology,noun
  gemmology
-gemstone
+gemstone,noun
  gemstones
-gen
+gen,verb,noun
  genned genning gens
-gendarme
+gendarme,noun
  gendarmes
-gender
+gender,noun
  genders
-gene
+gene,noun
  genes
-genealogical
+genealogical,adjective
  genealogically
-genealogist
+genealogist,noun
  genealogists
-genealogy
+genealogy,noun
  genealogies
-general
+general,adjective,noun
  generally generals
-generalissimo
+generalissimo,noun
  generalissimos
-generalist
+generalist,noun
  generalists
-generality
+generality,noun
  generalities
-generalization
+generalization,noun
  generalisation generalisations generalizations
-generalize
+generalize,verb
  generalise generalised generalises generalising generalized generalizes generalizing
-general-purpose
-generalship
-generate
+general-purpose,adjective
+generalship,noun
+generate,verb
  generated generates generating
-generation
+generation,noun
  generations
-generational
-generative
-generator
+generational,adjective
+generative,adjective
+generator,noun
  generators
-generic
+generic,adjective,noun
  generically generics
-generosity
+generosity,noun
  generosities
-generous
+generous,adjective
  generously generousness
-genesis
+genesis,noun,propernoun
  geneses
-genetic
+genetic,adjective
  genetically genetics
-geneticist
+geneticist,noun
  geneticists
-genial
+genial,adjective
  genially
-geniality
-genie -> [jinn]
+geniality,noun
+genie,noun
  genies -> [jinn] genii -> [genius]
-genital
+genital,adjective,noun
  genitally genitals
-genitalia
-genitive
+genitalia,pluralnoun
+genitive,adjective,noun
  genitives
-genitourinary
-genius
+genitourinary,adjective
+genius,adjective,noun
  genii -> [genie] geniuses
-genocidal
-genocide
+genocidal,adjective
+genocide,noun
  genocides
-genome
+genome,noun
  genomes
-genotype
+genotype,verb,noun
  genotypes
-genre
+genre,noun
  genres
-gent
+gent,noun,propernoun
  gents
-genteel
+genteel,adjective
  genteelly genteelness
-gentian
+gentian,noun
  gentians
-gentile
+gentile,adjective,noun
  gentiles
-gentility
-gentle
+gentility,noun
+gentle,verb,adjective,noun
  gentled gentleness gentler gentles gentlest gentling gently
-gentlefolk
+gentlefolk,pluralnoun
  gentlefolks
-gentleman
+gentleman,noun
  gentlemanly gentlemen
-gentlewoman
+gentlewoman,noun
  gentlewomen
-gentrification
-gentrify
+gentrification,noun
+gentrify,verb
  gentrified gentrifies gentrifying
-gentry
+gentry,noun
  gentries
-genuflect
+genuflect,verb
  genuflected genuflecting genuflects
-genuflection
+genuflection,noun
  genuflections
-genuine
+genuine,adjective
  genuinely genuineness
-genus
+genus,noun
  genera genuses
-geocache!
+geocache,verb,noun
  geocached geocaches geocaching
-geocentric
+geocentric,adjective
  geocentrically
-geochemistry
-geode
+geochemistry,noun
+geode,noun
  geodes
-geodesic
+geodesic,adjective,noun
  geodesics
-geodesy
-geodetic
-geoengineering
-geographer
+geodesy,noun
+geodetic,adjective
+geoengineering,noun
+geographer,noun
  geographers
-geographic
-geographical
+geographic,adjective
+geographical,adjective
  geographically
-geography
+geography,noun
  geographies
-geologic
-geological
+geologic,adjective
+geological,adjective
  geologically
-geologist
+geologist,noun
  geologists
-geology
+geology,noun
  geologies
-geomagnetic
-geomagnetism
-geometric
-geometrical
+geomagnetic,adjective
+geomagnetism,noun
+geometric,adjective,noun
+geometrical,adjective,noun
  geometrically
-geometry
+geometry,noun
  geometries
-geophysical
-geophysicist
+geophysical,adjective
+geophysicist,noun
  geophysicists
-geophysics
-geopolitical
-geopolitics
-georgette
-geostationary
-geosynchronous
-geosyncline
+geophysics,pluralnoun
+geopolitical,adjective
+geopolitics,pluralnoun
+georgette,noun
+geostationary,adjective
+geosynchronous,adjective
+geosyncline,noun
  geosynclines
-geothermal
-geothermic
-geranium
+geothermal,adjective
+geothermic,adjective
+geranium,noun
  geraniums
-gerbil
+gerbil,noun
  gerbils
-geriatric
+geriatric,adjective,noun
  geriatrics
-geriatrician
+geriatrician,noun
  geriatricians
-germ
+germ,noun
  germs
-germane
-germanium
-germicidal
-germicide
+germane,adjective
+germanium,noun
+germicidal,adjective
+germicide,noun
  germicides
-germinal
-germinate
+germinal,adjective,noun
+germinate,verb
  germinated germinates germinating
-germination
-gerontological
-gerontologist
+germination,noun
+gerontological,adjective
+gerontologist,noun
  gerontologists
-gerontology
-gerrymander
+gerontology,noun
+gerrymander,verb,noun
  gerrymandered gerrymandering gerrymanders
-gerund
+gerund,noun
  gerunds
-gestalt
+gestalt,noun
  gestalts
-gestapo
+gestapo,propernoun
  gestapos
-gestate
+gestate,verb
  gestated gestates gestating
-gestation
-gestational
-gesticulate
+gestation,noun
+gestational,adjective
+gesticulate,verb
  gesticulated gesticulates gesticulating
-gesticulation
+gesticulation,noun
  gesticulations
-gestural
-gesture
+gestural,adjective
+gesture,verb,noun
  gestured gestures gesturing
-gesundheit
-get
+gesundheit,exclamation
+get,verb,noun
  gets getting got gotten
-getaway
+getaway,noun
  getaways
-getout
+getout,noun
  getouts
-get-together
+get-together,noun
  get-together
-getup
+getup,noun
  getups
-gewgaw
+gewgaw,noun
  geegaw geegaws gewgaws
-geyser
+geyser,verb,noun
  geysered geysering geysers
-ghastly
+ghastly,adjective
  ghastlier ghastliest ghastliness
-ghat
+ghat,noun
  ghats
-ghee
-gherkin
+ghee,noun
+gherkin,noun
  gherkins
-ghetto
+ghetto,verb,noun
  ghettoes ghettos
-ghettoize
+ghettoize,verb
  ghettoise ghettoised ghettoises ghettoising ghettoized ghettoizes ghettoizing
-ghost
+ghost,verb,noun
  ghosted ghosting ghostlier ghostliest ghostliness ghostly ghosts
-ghostwrite
+ghostwrite,verb
  ghostwrites ghostwriting ghostwritten ghostwrote
-ghostwriter
+ghostwriter,noun
  ghostwriters
-ghoul
+ghoul,noun
  ghoulish ghoulishly ghoulishness ghouls
-giant
+giant,adjective,noun
  giants
-giantess
+giantess,noun
  giantesses
-gibber
+gibber,verb,noun
  gibbered gibbering gibbers
-gibberish
-gibbet
+gibberish,noun
+gibbet,verb,noun
  gibbeted gibbeting gibbets
-gibbon
+gibbon,noun
  gibbons
-gibbous
-gibe
+gibbous,adjective
+gibe,verb,noun
  gibed gibes gibing jibe jibed jibes jibing
-giblet
+giblet!!!
  giblets
-giddy
+giddy,verb,adjective
  giddier giddiest giddily giddiness
-gift
+gift,verb,noun
  gifted gifting gifts
-gig
+gig,verb,noun
  gigged gigging gigs
-gigabyte
+gigabyte,noun
  gigabytes
-gigahertz
-gigantic
+gigahertz,noun
+gigantic,adjective
  gigantically
-giggle
+giggle,verb,noun
  giggled giggles giggling
-giggler
+giggler,noun
  gigglers
-giggly
+giggly,adjective
  gigglier giggliest
-gigolo
+gigolo,noun
  gigolos
-gild
+gild,verb,noun
  gilded gilding gilds gilt -> [gilt]
-gilder
+gilder,noun
  gilders
-gill
+gill,verb,noun
  gills
-gillie
+gillie,noun
  gillies
-gilt -> [gild]
+gilt,adjective,noun
  gilts
-gimbals
-gimcrack
+gimbals,noun
+gimcrack,adjective,noun
  gimcracks
-gimcrackery
-gimlet
+gimcrackery,noun
+gimlet,noun
  gimleted gimleting gimlets
-gimme
+gimme,contraction,noun
  gimmes
-gimmick
+gimmick,noun
  gimmicks
-gimmickry
-gimmicky
-gimp
+gimmickry,noun
+gimmicky,adjective
+gimp,verb,noun
  gimped gimping gimps
-gimpy
+gimpy,adjective
  gimpier gimpiest
-gin
+gin,verb,noun
  ginned ginning gins
-ginger
+ginger,verb,adjective,noun
  gingered gingering gingers
-gingerbread
-gingerly
-gingersnap
+gingerbread,noun
+gingerly,adjective,adverb
+gingersnap,noun
  gingersnaps
-gingery
-gingham
-gingivitis
-ginkgo
+gingery,adjective
+gingham,noun
+gingivitis,noun
+ginkgo,noun
  gingko gingkoes gingkos ginkgoes ginkgos
-ginormous
-ginseng
-giraffe
+ginormous,adjective
+ginseng,noun
+giraffe,noun
  giraffes
-gird
+gird,verb,noun
  girded girding girds girt -> [girt]
-girder
+girder,noun
  girders
-girdle
+girdle,verb,noun
  girdled girdles girdling
-girl
+girl,noun
  girlish girlishly girlishness girls
-girlfriend
+girlfriend,noun
  girlfriends
-girlhood
+girlhood,noun
  girlhoods
-girlie
+girlie,adjective,noun
  girlies girly
-giro
+giro,noun
  giros
-girt -> [gird]
+girt,noun
  girted girting girts
-girth
+girth,verb,noun
  girths
-gist
-git
+gist,noun
+git,noun
  gits
-gite
+gite,noun
  gites
-give
+give,verb,noun
  gave given -> [given] gives giving
-give-and-take
-giveaway
+give-and-take,phrase
+giveaway,adjective,noun
  giveaways
-giveback
+giveback,noun
  givebacks
-given -> [give]
+given,verb,adjective,noun,preposition
  givens
-giver
+giver,noun
  givers
-gizmo
+gizmo,noun
  gismo gismos gizmos
-gizzard
+gizzard,noun
  gizzards
-glace
+glace,adjective
  glaceed glaceing glaces
-glacial
+glacial,adjective,noun
  glacially
-glaciate
+glaciate,adjective
  glaciated glaciates glaciating
-glaciation
+glaciation,noun
  glaciations
-glacier
+glacier,noun
  glaciers
-glad
+glad,verb,adjective,noun
  gladder gladdest gladly gladness glads
-gladden
+gladden,verb
  gladdened gladdening gladdens
-glade
+glade,noun
  glades
-gladiator
+gladiator,noun
  gladiators
-gladiatorial
-gladiola
+gladiatorial,adjective
+gladiola!!!
  gladiolas
-gladiolus
+gladiolus,noun
  gladioli gladioluses
-gladsome
-glam
-glamor
+gladsome,adjective
+glam,verb,adjective,noun
+glamor,noun
  glamour
-glamorization
+glamorization,noun
  glamorisation glamourisation glamourization
-glamorize
+glamorize,verb
  glamorise glamorised glamorises glamorising glamorized glamorizes glamorizing glamourise glamourised glamourises glamourising glamourize glamourized glamourizes glamourizing
-glamorous
+glamorous,adjective
  glamorously glamourous glamourously
-glance
+glance,verb,noun
  glanced glances glancing
-gland
+gland,noun
  glands
-glandular
-glans
+glandular,adjective
+glans,noun
  glandes
-glare
+glare,verb,noun
  glared glares glaring glaringly
-glasnost
-glass
+glasnost,noun
+glass,verb,noun
  glassed glasses glassful glassfuls glassing
-glassblower
+glassblower,noun
  glassblowers
-glassblowing
-glasshouse
+glassblowing,noun
+glasshouse,noun
  glasshouses
-glassware
-glassy
+glassware,noun
+glassy,adjective,noun
  glassier glassiest glassily glassiness
-glaucoma
-glaze
+glaucoma,noun
+glaze,verb,noun
  glazed glazes glazing
-glazier
+glazier,noun
  glaziers
-gleam
+gleam,verb,noun
  gleamed gleaming gleams
-glean
+glean,verb
  gleaned gleaning -> [gleaning] gleans
-gleaner
+gleaner,noun
  gleaners
-gleaning -> [glean]
+gleaning,verb
  gleanings
-glee
+glee,noun
  gleeful gleefully gleefulness
-glen
+glen,noun
  glens
-glib
+glib,adjective
  glibber glibbest glibly glibness
-glide
+glide,verb,noun
  glided glides gliding
-glider
+glider,noun
  gliders
-glimmer
+glimmer,verb,noun
  glimmered glimmering -> [glimmering] glimmers
-glimmering -> [glimmer]
+glimmering,noun
  glimmerings
-glimpse
+glimpse,verb,noun
  glimpsed glimpses glimpsing
-glint
+glint,verb,noun
  glinted glinting glints
-glissando
+glissando,noun
  glissandi glissandos
-glisten
+glisten,verb,noun
  glistened glistening glistens
-glister
+glister,verb,noun
  glistered glistering glisters
-glitch
+glitch,verb,noun
  glitches
-glitter
+glitter,verb,noun
  glittered glittering glitters
-glitterati
-glittery
-glitz
-glitzy
+glitterati,pluralnoun
+glittery,adjective
+glitz,verb,noun
+glitzy,adjective
  glitzier glitziest
-gloaming
+gloaming,noun
  gloamings
-gloat
+gloat,verb,noun
  gloated gloating gloatingly gloats
-glob
+glob,noun
  globs
-global
+global,adjective
  globally
-globalism
-globalist
+globalism,noun
+globalist,adjective,noun
  globalists
-globalization
+globalization,noun
  globalisation
-globalize
+globalize,verb
  globalise globalised globalises globalising globalized globalizes globalizing
-globe
+globe,verb,noun
  globes
-globetrotter
+globetrotter,noun
  globetrotters
-globetrotting
-globular
-globule
+globetrotting,adjective,noun
+globular,adjective,noun
+globule,noun
  globules
-globulin
-glockenspiel
+globulin,noun
+glockenspiel,noun
  glockenspiels
-glom
+glom,verb
  glommed glomming gloms
-gloom
-gloomy
+gloom,verb,noun
+gloomy,adjective
  gloomier gloomiest gloomily gloominess
-gloop
-glop
-gloppy
+gloop,noun
+glop,verb,noun
+gloppy,adjective
  gloppier gloppiest
-glorification
-glorify
+glorification,noun
+glorify,verb
  glorified glorifies glorifying
-glorious
+glorious,adjective
  gloriously
-glory
+glory,verb,noun
  gloried glories glorying
-gloss
+gloss,verb,noun
  glossed glosses glossing
-glossary
+glossary,noun
  glossaries
-glossolalia
-glossy
+glossolalia,noun
+glossy,adjective,noun
  glossier glossies glossiest glossily glossiness
-glottal
-glottis
+glottal,adjective
+glottis,noun
  glottides glottises
-glove
+glove,verb,noun
  gloved gloves gloving
-glow
+glow,verb,noun
  glowed glowing -> [glowing] glows
-glower
+glower,verb,noun
  glowered glowering glowers
-glowing -> [glow]
+glowing,adjective
  glowingly
-glowworm
+glowworm,noun
  glowworms
-glucose
-glue
+glucose,noun
+glue,verb,noun
  glued glueing glues gluing
-gluey
+gluey,adjective
  gluier gluiest
-glum
+glum,adjective
  glumly glummer glummest glumness
-glut
+glut,verb,noun
  gluts glutted glutting
-gluten
-glutenous
-gluteus
+gluten,noun
+glutenous!!!
+gluteus,noun
  glutei
-glutinous
+glutinous,adjective
  glutinously
-glutton
+glutton,noun
  gluttons
-gluttonous
+gluttonous,adjective
  gluttonously
-gluttony
-glycerin
+gluttony,noun
+glycerin,noun
  glycerine
-glycerol
-glycogen
-gnarl
+glycerol,noun
+glycogen,noun
+gnarl,noun
  gnarled gnarling gnarls
-gnarly
-gnash
+gnarly,adjective
+gnash,verb
  gnashed gnashes gnashing
-gnat
+gnat,noun
  gnats
-gnaw
+gnaw,verb
  gnawed gnawing gnawn gnaws
-gneiss
-gnocchi
-gnome
+gneiss,noun
+gnocchi,pluralnoun
+gnome,noun
  gnomes gnomish
-gnomic
-gnu
+gnomic,adjective
+gnu,noun
  gnus
-go
+go,verb,adjective,noun
  goes going -> [going] gone went
-goad
+goad,verb,noun
  goaded goading goads
-go-ahead
+go-ahead,adjective,noun
  go-aheads
-goal
+goal,noun
  goalless goals
-goalie
+goalie,noun
  goalies
-goalkeeper
+goalkeeper,noun
  goalkeepers
-goalkeeping
-goalmouth
+goalkeeping,noun
+goalmouth,noun
  goalmouths
-goalpost
+goalpost,noun
  goalposts
-goalscorer
+goalscorer,noun
  goalscorers
-goaltender
+goaltender,noun
  goaltenders
-goat
+goat,abbreviation,noun
  goats
-goatee
+goatee,noun
  goatees
-goatherd
+goatherd,noun
  goatherds
-goatskin
+goatskin,noun
  goatskins
-gob
+gob,verb,noun
  gobbed gobbing gobs
-gobbet
+gobbet,noun
  gobbets
-gobble
+gobble,verb
  gobbled gobbles gobbling
-gobbledygook
+gobbledygook,noun
  gobbledegook
-gobbler
+gobbler,noun
  gobblers
-go-between
+go-between,noun
  go-betweens
-goblet
+goblet,noun
  goblets
-goblin
+goblin,noun
  goblins
-gobsmacked
-gobstopper
+gobsmacked,adjective
+gobstopper,noun
  gobstoppers
-god
+god,exclamation,noun
  gawd godless godlessly godlessness godlike gods
-godawful
-godchild
+godawful,adjective
+godchild,noun
  godchildren
-goddammit
-goddamn
+goddammit,exclamation,noun
+goddamn,adjective,adverb<spanclass="listSeparator">,</span>noun<spanclass="listSeparator">,</span>
  goddam goddamned
-goddaughter
+goddaughter,noun
  goddaughters
-goddess
+goddess,noun
  goddesses
-godfather
+godfather,noun
  godfathers
-god-fearing
-godforsaken
-godhead
-godhood
-godly
+god-fearing,adjective
+godforsaken,adjective
+godhead,noun
+godhood,noun
+godly,adjective
  godlier godliest godliness
-godmother
+godmother,noun
  godmothers
-godown
+godown,noun
  godowns
-godparent
+godparent,noun
  godparents
-godsend
+godsend,noun
  godsends
-godson
+godson,noun
  godsons
-godspeed
-goer
+godspeed,exclamation
+goer,noun
  goers
-gofer
+gofer,noun
  gofers
-gogga
+gogga,noun
  goggas
-goggle
+goggle,verb,adjective,noun
  goggled goggles goggling
-go-go
-going -> [go]
+go-go,adjective,noun
+going,adjective,noun
  goings
-goings-on
-goiter
+goings-on,pluralnoun
+goiter,noun
  goiters goitre goitres
-gold
+gold,noun
  golds
-goldbrick
+goldbrick,verb,noun
  goldbricked goldbricking goldbricks
-goldbricker
+goldbricker,verb,noun
  goldbrickers
-golden
+golden,adjective
  goldener goldenest
-goldenrod
-goldfield
+goldenrod,noun
+goldfield,noun
  goldfields
-goldfinch
+goldfinch,noun
  goldfinches
-goldfish
+goldfish,noun
  goldfishes
-goldmine
+goldmine!!!
  goldmines
-gold-plated
-goldsmith
+gold-plated,adjective
+goldsmith,noun
  goldsmiths
-golem
+golem,noun
  golems
-golf
+golf,verb,noun
  golfed golfing golfs
-golfer
+golfer,noun
  golfers
-goliath
+goliath,propernoun
  goliaths
-golliwog
+golliwog,noun
  golliwogs
-golly
+golly,exclamation,noun
  gollies
-gonad
+gonad,noun
  gonads
-gonadal
-gondola
+gonadal,adjective
+gondola,noun
  gondolas
-gondolier
+gondolier,noun
  gondoliers
-goner
+goner,noun
  goners
-gong
+gong,verb,noun
  gonged gonging gongs
-gonna
-gonorrhea
+gonna,contraction
+gonorrhea,noun
  gonorrhoea
-gonorrheal
+gonorrheal,adjective
  gonorrhoeal
-gonzo
-goo
-goober
+gonzo,adjective
+goo,noun
+goober,noun
  goobers
-good
+good,adjective,noun,adverb
  best -> [best well] better -> [better well] goodish goodlier goodliest goodly goodness goods
-goodbye
+goodbye,exclamation,noun
  goodby goodbyes goodbys
-goodhearted
-good-looking
-good-natured
+goodhearted,adjective
+good-looking,adjective
+good-natured,adjective
  good-naturedly
-goodnight
-good-sized
-goodwill
-goody
+goodnight,exclamation
+good-sized,adjective
+goodwill,noun
+goody,exclamation,noun
  goodie goodies
-gooey
+gooey,adjective
  gooier gooiest
-goof
+goof,verb,noun
  goofed goofing goofs
-goofball
+goofball,noun
  goofballs
-goofy
+goofy,adjective
  goofier goofiest goofiness
-google!
+google,verb
  googled googles googling
-googly
+googly,adjective,noun
  googlies
-googol
+googol,cardinalnumber
  googols
-gook
+gook,noun
  gooks
-goon
+goon,noun
  goons
-goop
-goose
+goop,noun
+goose,verb,noun
  geese goosed gooses goosing
-gooseberry
+gooseberry,noun
  gooseberries
-goosebumps
-gooseflesh
-goosestep
+goosebumps,pluralnoun
+gooseflesh,noun
+goosestep,verb,noun
  goosestepped goosestepping goosesteps
-gopher
+gopher,noun
  gophers
-gore
+gore,verb,noun
  gored gores goring
-gorge
+gorge,verb,noun
  gorged gorges gorging
-gorgeous
+gorgeous,adjective
  gorgeously gorgeousness
-gorgon
+gorgon,noun
  gorgons
-gorilla
+gorilla,noun
  gorillas
-gormandize
+gormandize,verb,noun
  gormandise gormandised gormandises gormandising gormandized gormandizes gormandizing
-gormandizer
+gormandizer!!!
  gormandiser gormandisers gormandizers
-gormless
-gorp
-gorse
-gory
+gormless,adjective
+gorp,noun
+gorse,noun
+gory,adjective
  gorier goriest gorily goriness
-gosh
-goshawk
+gosh,exclamation
+goshawk,noun
  goshawks
-gosling
+gosling,noun
  goslings
-gospel
+gospel,noun
  gospels
-gossamer
-gossip
+gossamer,noun
+gossip,verb,noun
  gossiped gossiping gossipped gossipping gossips
-gossiper
+gossiper,noun
  gossipers gossipper gossippers
-gossipy
-gotcha
-goth
+gossipy,adjective
+gotcha,exclamation,noun
+goth,noun
  goths
-gothic
-gotta
-gouache
+gothic,adjective,noun
+gotta,contraction
+gouache,noun
  gouaches
-gouge
+gouge,verb,noun
  gouged gouges gouging
-gouger
+gouger,noun
  gougers
-goulash
+goulash,noun
  goulashes
-gourd
+gourd,noun
  gourds
-gourde
+gourde,noun
  gourdes
-gourmand
+gourmand,noun
  gourmands
-gourmet
+gourmet,noun
  gourmets
-gout
-gouty
+gout,noun
+gouty,adjective
  goutier goutiest
-govern
+govern,verb
  governed governing governs
-governable
-governance
-governess
+governable,adjective
+governance,noun
+governess,noun
  governesses
-government
+government,noun
  governments
-governmental
-governor
+governmental,adjective
+governor,noun
  governors
-governorship
+governorship,noun
  governorships
-gown
+gown,verb,noun
  gowned gowning gowns
-grab
+grab,verb,noun
  grabbed grabbing grabs
-grabber
+grabber,noun
  grabbers
-grabby
+grabby,adjective
  grabbier grabbiest
-grace
+grace,verb,noun
  graced graceful gracefully gracefulness graceless gracelessly gracelessness graces gracing
-gracious
+gracious,adjective,exclamation
  graciously graciousness
-grackle
+grackle,noun
  grackles
-grad
+grad,noun
  grads
-gradable
-gradate
+gradable,adjective
+gradate,verb
  gradated gradates gradating
-gradation
+gradation,noun
  gradations
-grade
+grade,verb,noun
  graded grades grading
-grader
+grader,noun
  graders
-gradient
+gradient,noun
  gradients
-gradual
+gradual,adjective,noun
  gradually gradualness
-gradualism
-graduate
+gradualism,noun
+graduate,verb,noun
  graduated graduates graduating
-graduation
+graduation,noun
  graduations
-graffiti
+graffiti,verb,pluralnoun
  graffito
-graft
+graft,verb,noun
  grafted grafting grafts
-grafter
+grafter,noun
  grafters
-graham
-grail
+graham,adjective
+grail,noun
  grails
-grain
+grain,verb,noun
  grained grains
-grainy
+grainy,adjective
  grainier grainiest graininess
-gram
+gram,noun
  gramme grammes grams
-grammar
+grammar,noun
  grammars
-grammarian
+grammarian,noun
  grammarians
-grammatical
+grammatical,adjective
  grammatically
-gramophone
+gramophone,noun
  gramophones
-grampus
+grampus,noun
  grampuses
-gran
+gran,noun
  grans
-granary
+granary,noun
  granaries
-grand
+grand,adjective,noun
  grander grandest grandly grandness grands
-grandam
+grandam,noun
  grandams
-grandaunt
+grandaunt,noun
  grandaunts
-grandchild
+grandchild,noun
  grandchildren
-granddad
+granddad,noun
  grandad grandads granddads
-granddaddy
+granddaddy,noun
  grandaddies grandaddy granddaddies
-granddaughter
+granddaughter,noun
  granddaughters
-grandee
+grandee,noun
  grandees
-grandeur
-grandfather
+grandeur,noun
+grandfather,verb,noun
  grandfathered grandfathering grandfatherly grandfathers
-grandiloquence
-grandiloquent
-grandiose
+grandiloquence,noun
+grandiloquent,adjective
+grandiose,adjective
  grandiosely
-grandiosity
-grandkid
+grandiosity,noun
+grandkid,noun
  grandkids
-grandma
+grandma,noun
  grandmas
-grandmaster
+grandmaster,noun
  grandmasters
-grandmother
+grandmother,noun
  grandmotherly grandmothers
-grandnephew
+grandnephew,noun
  grandnephews
-grandniece
+grandniece,noun
  grandnieces
-grandpa
+grandpa,noun
  grandpas
-grandparent
+grandparent,noun
  grandparents
-grandson
+grandson,noun
  grandsons
-grandstand
+grandstand,verb,noun
  grandstanded grandstanding grandstands
-granduncle
+granduncle,noun
  granduncles
-grange
+grange,noun
  granges
-granite
-granitic
-granny
+granite,noun
+granitic,adjective
+granny,noun
  grannie grannies
-granola
-grant
+granola,noun
+grant,verb,noun
  granted granting grants
-grantee
+grantee,noun
  grantees
-granter
+granter,noun
  granters grantor grantors
-grantsmanship
-granular
-granularity
-granulate
+grantsmanship,noun
+granular,adjective
+granularity,noun
+granulate,verb
  granulated granulates granulating
-granulation
-granule
+granulation,noun
+granule,noun
  granules
-grape
+grape,noun
  grapes
-grapefruit
+grapefruit,noun
  grapefruits
-grapeshot
-grapevine
+grapeshot,noun
+grapevine,noun
  grapevines
-graph
+graph,verb,noun
  graphed graphing graphs
-graphic
+graphic,adjective,noun
  graphics
-graphical
+graphical,adjective
  graphically
-graphite
-graphologist
+graphite,noun
+graphologist,noun
  graphologists
-graphology
-grapnel
+graphology,noun
+grapnel,noun
  grapnels
-grapple
+grapple,verb,noun
  grappled grapples grappling
-grasp
+grasp,verb,noun
  grasped grasping grasps
-graspable
-grass
+graspable,adjective
+grass,verb,noun
  grassed grasses grassing
-grasshopper
+grasshopper,noun
  grasshoppers
-grassland
+grassland,noun
  grasslands
-grassroots
-grassy
+grassroots!!!
+grassy,adjective
  grassier grassiest
-grate
+grate,verb,noun
  grated grates grating -> [grating]
-grateful
+grateful,adjective
  gratefully gratefulness
-grater
+grater,noun
  graters
-gratification
+gratification,noun
  gratifications
-gratify
+gratify,verb
  gratified gratifies gratifying gratifyingly
-gratin
+gratin,noun
  gratins
-grating -> [grate]
+grating,adjective,noun
  gratingly gratings
-gratis
-gratitude
-gratuitous
+gratis,adjective,adverb
+gratitude,noun
+gratuitous,adjective
  gratuitously gratuitousness
-gratuity
+gratuity,noun
  gratuities
-gravamen
+gravamen,noun
  gravamens gravamina
-grave
+grave,noun,verb,adjective,adjective,adverb
  graved gravely graven graveness graver graves gravest graving
-gravedigger
+gravedigger,noun
  gravediggers
-gravel
+gravel,verb,noun
  graveled graveling gravelled gravelling gravels
-gravelly
-graveside
+gravelly,adjective
+graveside,noun
  gravesides
-gravestone
+gravestone,noun
  gravestones
-graveyard
+graveyard,noun
  graveyards
-gravid
-gravimeter
+gravid,adjective
+gravimeter,noun
  gravimeters
-gravitas
-gravitate
+gravitas,noun
+gravitate,verb
  gravitated gravitates gravitating
-gravitation
-gravitational
-gravity
-gravy
+gravitation,noun
+gravitational,adjective
+gravity,noun
+gravy,noun
  gravies
-gray
+gray,adjective,noun
  grayed grayer grayest graying grayish grayness grays grey greyed greyer greyest greying greyish greyness greys
-graybeard
+graybeard,noun
  graybeards greybeard greybeards
-graze
+graze,verb,noun
  grazed grazes grazing
-grazer
+grazer,noun
  grazers
-grease
+grease,verb,noun
  greased greases greasing
-greasepaint
-greaser
+greasepaint,noun
+greaser,noun
  greasers
-greasy
+greasy,adjective
  greasier greasiest greasily greasiness
-great
+great,adjective,noun,adverb
  greater greatest greatly greatness greats
-great-aunt
+great-aunt,noun
  great-aunts
-greatcoat
+greatcoat,noun
  greatcoats
-great-grandchild
+great-grandchild,noun
  great-grandchildren
-great-grandfather
+great-grandfather,noun
  great-grandfathers
-great-grandmother
+great-grandmother,noun
  great-grandmothers
-great-grandson
+great-grandson,noun
  great-grandsons
-greathearted
-great-uncle
+greathearted,adjective
+great-uncle,noun
  great-uncles
-grebe
+grebe,noun
  grebes
-greed
-greedy
+greed,noun
+greedy,adjective
  greedier greediest greedily greediness
-green
+green,verb,adjective,noun
  greened greener greenest greening greenish greenly greenness greens
-greenback
+greenback,noun
  greenbacks
-greenbelt
+greenbelt!!!
  greenbelts
-greenery
-greenfield
-greenfly
+greenery,noun
+greenfield,adjective
+greenfly,noun
  greenflies
-greengage
+greengage,noun
  greengages
-greengrocer
+greengrocer,noun
  greengrocers
-greenhorn
+greenhorn,noun
  greenhorns
-greenhouse
+greenhouse,noun
  greenhouses
-greenlight
+greenlight,verb,noun
  greenlighted greenlighting greenlights
-greenmail
-greenroom
+greenmail,noun
+greenroom,noun
  greenrooms
-greensward
-greenwash
-greenwood
-greet
+greensward,noun
+greenwash,noun
+greenwood,noun
+greet,verb
  greeted greeting -> [greeting] greets
-greeter
+greeter,noun
  greeters
-greeting -> [greet]
+greeting,noun
  greetings
-gregarious
+gregarious,adjective
  gregariously gregariousness
-gremlin
+gremlin,noun
  gremlins
-grenade
+grenade,noun
  grenades
-grenadier
+grenadier,noun
  grenadiers
-grenadine
-greyhound
+grenadine,noun
+greyhound,noun
  greyhounds
-grid
+grid,verb,noun
  grids
-griddle
+griddle,verb,noun
  griddles
-griddlecake
+griddlecake!!!
  griddlecakes
-gridiron
+gridiron,noun
  gridirons
-gridlock
+gridlock,noun
  gridlocked gridlocks
-grief
+grief,noun
  griefs
-grief-stricken
-grievance
+grief-stricken,adjective
+grievance,noun
  grievances
-grieve
+grieve,verb,noun
  grieved grieves grieving
-griever
+griever,noun
  grievers
-grievous
+grievous,adjective
  grievously grievousness
-griffin
+griffin,noun
  griffins griffon griffons gryphon gryphons
-grill
+grill,verb,noun
  grilled grilling -> [grilling] grills
-grille
+grille,noun
  grilles
-grilling -> [grill]
+grilling,verb,noun
  grillings
-grim
+grim,adjective
  grimly grimmer grimmest grimness
-grimace
+grimace,verb,noun
  grimaced grimaces grimacing
-grime
+grime,verb,noun
  grimed grimes griming
-grimy
+grimy,adjective
  grimier grimiest griminess
-grin
+grin,verb,noun
  grinned grinning grins
-grinch
+grinch,noun
  grinches
-grind
+grind,verb,noun
  grinding grinds ground -> [ground]
-grinder
+grinder,noun
  grinders
-grindstone
+grindstone,noun
  grindstones
-gringo
+gringo,noun
  gringos
-grip
+grip,verb,noun
  gripped gripping grips gript
-gripe
+gripe,verb,noun
  griped gripes griping
-griper
+griper,noun
  gripers
-grippe
-gripper
+grippe,noun
+gripper,noun
  grippers
-grisly
+grisly,adjective
  grislier grisliest grisliness grizzlier -> [grizzly] grizzliest -> [grizzly] grizzly -> [grizzly]
-grist
-gristle
-gristly
+grist,noun
+gristle,noun
+gristly,adjective
  gristlier gristliest
-gristmill
+gristmill,noun
  gristmills
-grit
+grit,verb,noun
  grits gritted gritting
-gritter
+gritter,noun
  gritters
-gritty
+gritty,adjective
  grittier grittiest grittiness
-grizzle
+grizzle,verb,adjective,noun
  grizzled grizzles grizzling
-grizzly -> [grisly]
+grizzly,adjective,noun
  grizzlier -> [grisly] grizzlies grizzliest -> [grisly]
-groan
+groan,verb,noun
  groaned groaning groans
-groat
+groat,noun
  groats
-grocer
+grocer,noun
  grocers
-grocery
+grocery,noun
  groceries
-grog
-groggy
+grog,verb,noun
+groggy,adjective
  groggier groggiest groggily grogginess
-groin
+groin,noun
  groins
-grok
+grok,verb
  grokked grokking groks
-grommet
+grommet,noun
  grommets
-groom
+groom,verb,noun
  groomed grooming grooms
-groomer
+groomer,noun
  groomers
-groomsman
+groomsman,noun
  groomsmen
-groove
+groove,verb,noun
  grooved grooves grooving
-groovy
+groovy,adjective
  groovier grooviest
-grope
+grope,verb,noun
  groped gropes groping
-groper
+groper,noun
  gropers
-grosbeak
+grosbeak,noun
  grosbeaks
-grosgrain
-gross
+grosgrain,noun
+gross,verb,adjective,noun,adverb
  grossed grosser grosses grossest grossing grossly grossness
-grotesque
+grotesque,adjective,noun
  grotesquely grotesqueness grotesques
-grotto
+grotto,noun
  grottoes grottos
-grotty
+grotty,adjective
  grottier grottiest
-grouch
+grouch,verb,noun
  grouched grouches grouching
-grouchy
+grouchy,adjective
  grouchier grouchiest grouchily grouchiness
-ground -> [grind]
+ground,verb,adjective,noun
  grounded grounding -> [grounding] groundless groundlessly grounds
-groundbreaking
+groundbreaking,adjective
  groundbreakings
-groundcloth
+groundcloth,noun
  groundcloths
-grounder
+grounder,noun
  grounders
-groundhog
+groundhog,noun
  groundhogs
-grounding -> [ground]
+grounding,noun
  groundings
-groundnut
+groundnut,noun
  groundnuts
-groundsheet
+groundsheet,noun
  groundsheets
-groundskeeper
+groundskeeper,noun
  groundskeepers
-groundsman
+groundsman,noun
  groundsmen
-groundstroke
+groundstroke,noun
  groundstrokes
-groundswell
+groundswell,noun
  groundswells
-groundwater
-groundwork
-group
+groundwater,noun
+groundwork,noun
+group,verb,noun
  grouped grouping -> [grouping] groups
-grouper
+grouper,noun
  groupers
-groupie
+groupie,noun
  groupies
-grouping -> [group]
+grouping,noun
  groupings
-groupware
-grouse
+groupware,noun
+grouse,verb,adjective,noun
  groused grouses grousing
-grouser
+grouser,noun
  grousers
-grout
+grout,verb,noun
  grouted grouting grouts
-grove
+grove,noun
  groves
-grovel
+grovel,verb
  groveled groveling grovelled grovelling grovels
-groveler
+groveler,noun
  grovelers groveller grovellers
-grow
+grow,verb
  grew growing grown grows
-grower
+grower,noun
  growers
-growl
+growl,verb,noun
  growled growling growls
-growler
+growler,noun
  growlers
-grownup
+grownup,adjective,noun
  grownups
-growth
+growth,noun
  growths
-groyne
+groyne,noun
  groynes
-grub
+grub,verb,noun
  grubbed grubbing grubs
-grubber
+grubber,noun
  grubbers
-grubby
+grubby,adjective
  grubbier grubbiest grubbily grubbiness
-grubstake
-grudge
+grubstake,verb,noun
+grudge,verb,noun
  grudged grudges grudging grudgingly
-gruel
-grueling
+gruel,noun
+grueling,adjective
  gruelingly gruelling gruellingly
-gruesome
+gruesome,adjective
  gruesomely gruesomeness gruesomer gruesomest
-gruff
+gruff,adjective
  gruffer gruffest gruffly gruffness
-grumble
+grumble,verb,noun
  grumbled grumbles grumbling -> [grumbling]
-grumbler
+grumbler,noun
  grumblers
-grumbling -> [grumble]
+grumbling,noun
  grumblings
-grump
+grump,verb,noun
  grumps
-grumpy
+grumpy,adjective
  grumpier grumpiest grumpily grumpiness
-grunge
-grungy
+grunge,noun
+grungy,adjective
  grungier grungiest
-grunion
+grunion,noun
  grunions
-grunt
+grunt,verb,noun
  grunted grunting grunts
-guacamole
-guanine
-guano
-guarani
+guacamole,noun
+guanine,noun
+guano,noun
+guarani,adjective,noun
  guaranies guaranis
-guarantee
+guarantee,verb,noun
  guaranteed guaranteeing guarantees guarantied guaranties -> [guaranty] guaranty -> [guaranty] guarantying
-guarantor
+guarantor,noun
  guarantors
-guaranty -> [guarantee]
+guaranty,noun
  guaranties -> [guarantee]
-guard
+guard,verb,noun
  guarded guardedly guarding guards
-guarder
+guarder,verb,noun
  guarders
-guardhouse
+guardhouse,noun
  guardhouses
-guardian
+guardian,noun
  guardians
-guardianship
-guardrail
+guardianship,noun
+guardrail,noun
  guardrails
-guardroom
+guardroom,noun
  guardrooms
-guardsman
+guardsman,noun
  guardsmen
-guava
+guava,noun
  guavas
-gubbins
-gubernatorial
-guerrilla
+gubbins,pluralnoun
+gubernatorial,adjective
+guerrilla,noun
  guerilla guerillas guerrillas
-guess
+guess,verb,noun
  guessed guesses guessing
-guesser
+guesser,noun
  guessers
-guesstimate
+guesstimate,verb,noun
  guesstimated guesstimates guesstimating
-guesswork
-guest
+guesswork,noun
+guest,verb,noun
  guested guesting guests
-guestbook
+guestbook,noun
  guestbooks
-guesthouse
+guesthouse!!!
  guesthouses
-guestroom
+guestroom!!!
  guestrooms
-guff
-guffaw
+guff,noun
+guffaw,verb,noun
  guffawed guffawing guffaws
-guidance
-guide
+guidance,noun
+guide,verb,noun
  guided guides guiding
-guidebook
+guidebook,noun
  guidebooks
-guideline
+guideline,noun
  guidelines
-guidepost
+guidepost,noun
  guideposts
-guider
+guider,noun
  guiders
-guild
+guild,noun
  guilds
-guilder
+guilder,noun
  guilders
-guildhall
+guildhall,noun
  guildhalls
-guile
+guile,noun
  guileful guileless guilelessly guilelessness
-guillemot
+guillemot,noun
  guillemots
-guillotine
+guillotine,verb,noun
  guillotined guillotines guillotining
-guilt
+guilt,verb,noun
  guilted guilting guiltless guilts
-guilty
+guilty,adjective
  guiltier guiltiest guiltily guiltiness
-guinea
+guinea,noun,propernoun
  guineas
-guineafowl
+guineafowl,noun
  guineafowls
-guise
+guise,noun
  guises
-guitar
+guitar,noun
  guitars
-guitarist
+guitarist,noun
  guitarists
-gulag
+gulag,noun
  gulags
-gulch
+gulch,noun
  gulches
-gulden
+gulden,noun
  guldens
-gulf
+gulf,noun
  gulfs
-gull
+gull,verb,noun
  gulled gulling gulls
-gullet
+gullet,noun
  gullets
-gullible
+gullible,adjective
  gullibility
-gully
+gully,verb,noun
  gulley gulleys gullies
-gulp
+gulp,verb,noun
  gulped gulping gulps
-gulper
+gulper,noun
  gulpers
-gum
+gum,verb,abbreviation,noun
  gummed gumming gums
-gumball
+gumball,noun
  gumballs
-gumbo
+gumbo,noun
  gumbos
-gumboil
+gumboil,noun
  gumboils
-gumboot
+gumboot,noun
  gumboots
-gumdrop
+gumdrop,noun
  gumdrops
-gummy
+gummy,adjective,noun
  gummier gummiest
-gumption
-gumshoe
+gumption,noun
+gumshoe,noun
  gumshoed gumshoeing gumshoes
-gun
+gun,verb,noun
  gunned gunning guns
-gunboat
+gunboat,noun
  gunboats
-gundog
+gundog,noun
  gundogs
-gunfight
+gunfight,noun
  gunfights
-gunfighter
+gunfighter,noun
  gunfighters
-gunfire
-gunge
-gung-ho
-gungy
-gunk
-gunky
+gunfire,noun
+gunge,verb,noun
+gung-ho,adjective
+gungy,adjective
+gunk,noun
+gunky,adjective
  gunkier gunkiest
-gunman
+gunman,noun
  gunmen
-gunmetal
-gunner
+gunmetal,noun
+gunner,noun
  gunners
-gunnery
-gunny
-gunnysack
+gunnery,noun
+gunny,noun
+gunnysack,noun
  gunnysacks
-gunpoint
-gunpowder
-gunrunner
+gunpoint,noun
+gunpowder,noun
+gunrunner,noun
  gunrunners
-gunrunning
-gunship
+gunrunning,noun
+gunship,noun
  gunships
-gunshot
+gunshot,noun
  gunshots
-gunslinger
+gunslinger,noun
  gunslingers
-gunsmith
+gunsmith,noun
  gunsmiths
-gunwale
+gunwale,noun
  gunnel gunnels gunwales
-guppy
+guppy,noun
  guppies
-gurdwara
+gurdwara,noun
  gurdwaras
-gurgle
+gurgle,verb,noun
  gurgled gurgles gurgling
-gurney
+gurney,noun
  gurneys
-guru
+guru,noun
  gurus
-gush
+gush,verb,noun
  gushed gushes gushing gushingly
-gusher
+gusher,noun
  gushers
-gushy
+gushy,adjective
  gushier gushiest
-gusset
+gusset,noun
  gusseted gusseting gussets
-gussy
+gussy,verb
  gussied gussies gussying
-gust
+gust,verb,noun
  gusted gusting gusts
-gustatory
-gusto
-gusty
+gustatory,adjective
+gusto,noun
+gusty,adjective
  gustier gustiest gustily
-gut
+gut,verb,noun
  gutless gutlessness guts gutted gutting
-gutsy
+gutsy,adjective
  gutsier gutsiest
-gutter
+gutter,verb,noun
  guttered guttering gutters
-guttersnipe
+guttersnipe,noun
  guttersnipes
-guttural
+guttural,adjective,noun
  gutturals
-gutty
+gutty,adjective,noun
  guttier guttiest
-gut-wrenching
-guv
+gut-wrenching,adjective
+guv,noun
  guvs
-guvnor
+guvnor,noun
  guvnors
-guy
+guy,verb,abbreviation,noun
  guyed guying guys
-guzzle
+guzzle,verb
  guzzled guzzles guzzling
-guzzler
+guzzler,noun
  guzzlers
-gym
+gym,noun
  gyms
-gymkhana
+gymkhana,noun
  gymkhanas
-gymnasium
+gymnasium,noun
  gymnasia gymnasiums
-gymnast
+gymnast,noun
  gymnasts
-gymnastic
+gymnastic,adjective
  gymnastically gymnastics
-gymnosperm
+gymnosperm,noun
  gymnosperms
-gymslip
+gymslip,noun
  gymslips
-gynecologic
+gynecologic,adjective
  gynaecologic
-gynecological
+gynecological,adjective
  gynaecological
-gynecologist
+gynecologist,noun
  gynaecologist gynaecologists gynecologists
-gynecology
+gynecology,noun
  gynaecology
-gyp
+gyp,verb,noun
  gypped gypping gyps
-gypper
+gypper,verb,noun
  gyppers
-gypster
+gypster!!!
  gypsters
-gypsum
-gypsy
+gypsum,noun
+gypsy,noun
  gipsies gipsy gypsies
-gyrate
+gyrate,verb
  gyrated gyrates gyrating
-gyration
+gyration,noun
  gyrations
-gyrator
+gyrator,noun
  gyrators
-gyrfalcon
+gyrfalcon,noun
  gyrfalcons
-gyro
+gyro,noun
  gyros
-gyroscope
+gyroscope,noun
  gyroscopes
-gyroscopic
-gyve
+gyroscopic,adjective
+gyve,noun
  gyved gyves gyving
