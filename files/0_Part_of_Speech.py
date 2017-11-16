@@ -23,6 +23,7 @@ with open(dir_path+"/"+fname+".txt", "r") as f:
     file = f.read().splitlines()
     for i in range(0,len(file)):
         line = file[i]
+        line=re.sub(r' ->(.+?)]', '', line)
         if line[0] is not " " and "," not in line: # If line unmodified and is a single word
             line=line.replace("!","")+pos(line)
             file[i]=line

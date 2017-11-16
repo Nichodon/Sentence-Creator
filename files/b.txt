@@ -84,7 +84,7 @@ background
 backgrounder
  backgrounders
 backhand
- backhanded -> [backhanded] backhanding backhands
+ backhanded backhanding backhands
 backhanded -> [backhand]
  backhandedly
 backhander
