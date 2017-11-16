@@ -1,3577 +1,3577 @@
-baa
+baa,verb,noun
  baaed baaing baas
-baba
+baba,noun
  babas
-babble
+babble,verb,noun
  babbled babbles babbling
-babbler
+babbler,noun
  babblers
-babe
+babe,noun
  babes
-babel
+babel,noun
  babels
-baboon
+baboon,noun
  baboons
-babushka
+babushka,noun
  babushkas
-baby
+baby,adjective,verb,noun
  babied babier babies babiest babying babyish
-babyhood
-babysit
+babyhood,noun
+babysit,verb
  babysat babysits babysitting
-babysitter
+babysitter,noun
  babysitters
-baccalaureate
+baccalaureate,noun
  baccalaureates
-baccarat
-bacchanal
+baccarat,noun
+bacchanal,adjective,noun
  bacchanals
-bacchanalia
+bacchanalia,pluralnoun
  bacchanalias
-bacchanalian
+bacchanalian,adjective
  bacchanalians
-baccy
-bachelor
+baccy,noun
+bachelor,noun
  bachelors
-bachelorette
+bachelorette,noun
  bachelorettes
-bachelorhood
-bacillary
-bacillus
+bachelorhood,noun
+bacillary,adjective
+bacillus,noun
  bacilli
-back
+back,verb,adjective,noun,adverb
  backed backing -> [backing] backless backs
-backache
+backache,noun
  backaches
-backbeat
+backbeat,noun
  backbeats
-backbench
+backbench,adjective
  backbenches
-backbencher
+backbencher,noun
  backbenchers
-backbite
+backbite,verb
  backbit backbites backbiting backbitten
-backbiter
+backbiter,noun
  backbiters
-backboard
+backboard,noun
  backboards
-backbone
+backbone,noun
  backbones
-backbreaking
-back-burner
-backchat
-backcloth
+backbreaking,adjective
+back-burner,verb
+backchat,noun
+backcloth,noun
  backcloths
-backcomb
+backcomb,verb
  backcombed backcombing backcombs
-backcountry
-backdate
+backcountry,noun
+backdate,verb
  backdated backdates backdating
-backdoor
-backdrop
+backdoor!!!
+backdrop,verb,noun
  backdrops
-backer
+backer,noun
  backers
-backfield
+backfield,noun
  backfields
-backfire
+backfire,verb,noun
  backfired backfires backfiring
-backflip
+backflip,noun
  backflips
-backgammon
-background
+backgammon,noun
+background,verb,noun
  backgrounds
-backgrounder
+backgrounder,noun
  backgrounders
-backhand
+backhand,verb,noun
  backhanded backhanding backhands
-backhanded -> [backhand]
+backhanded,adjective,adverb
  backhandedly
-backhander
+backhander,noun
  backhanders
-backhoe
+backhoe,noun
  backhoes
-backing -> [back]
+backing,noun
  backings
-backlash
+backlash,noun
  backlashes
-backlist
+backlist,noun
  backlists
-backlit
-backlog
+backlit,verb,noun
+backlog,noun
  backlogged backlogging backlogs
-backpack
+backpack,verb,noun
  backpacked backpacking backpacks
-backpacker
+backpacker,noun
  backpackers
-backpedal
+backpedal,verb
  backpedaled backpedaling backpedalled backpedalling backpedals
-backrest
+backrest,noun
  backrests
-backroom
+backroom,noun
  backrooms
-backscratching
-backseat
+backscratching,noun
+backseat,noun
  backseats
-backside
+backside,adjective,noun
  backsides
-backslapper
+backslapper,noun
  backslappers
-backslapping
-backslash
+backslapping,adjective,noun
+backslash,noun
  backslashes
-backslide
+backslide,verb
  backslid backslidden backslides backsliding
-backslider
+backslider,noun
  backsliders
-backspace
+backspace,verb,noun
  backspaced backspaces backspacing
-backspin
-backstabber
+backspin,noun
+backstabber,noun
  backstabbers
-backstabbing
-backstage
-backstair
+backstabbing,adjective,noun
+backstage,adjective,noun,adverb
+backstair!!!
  backstairs
-backstop
+backstop,verb,noun
  backstopped backstopping backstops
-backstory
+backstory,noun
  backstories
-backstreet
+backstreet,noun
  backstreets
-backstretch
+backstretch,noun
  backstretches
-backstroke
+backstroke,noun
  backstroked backstrokes backstroking
-backswing
+backswing,noun
  backswings
-backtalk
-back-to-back
-backtrack
+backtalk,noun
+back-to-back,adjective,noun,adverb
+backtrack,verb
  backtracked backtracking backtracks
-backup
+backup,noun
  backups
-backward
+backward,adjective,adverb
  backwardly backwardness backwards
-backwash
-backwater
+backwash,verb,noun
+backwater,noun
  backwaters
-backwoods
-backwoodsman
+backwoods,pluralnoun
+backwoodsman,noun
  backwoodsmen
-backyard
+backyard,noun
  backyards
-bacon
-bacteria
+bacon,noun
+bacteria,noun
  bacterium
-bacterial
-bactericidal
-bactericide
+bacterial,adjective
+bactericidal,adjective
+bactericide,noun
  bactericides
-bacteriologic
-bacteriological
-bacteriologist
+bacteriologic,adjective
+bacteriological,adjective
+bacteriologist,noun
  bacteriologists
-bacteriology
-bad
+bacteriology,noun
+bad,adjective,adverb
  badder baddest badly badness worse worst -> [worst]
-badass
+badass,adjective,noun
  badasses
-baddie
+baddie,noun
  baddies baddy
-badge
+badge,verb,noun
  badges
-badger
+badger,verb,noun
  badgered badgering badgers
-badinage
-badlands
-badman
+badinage,noun
+badlands,pluralnoun
+badman,noun
  badmen
-badminton
-badmouth
+badminton,noun
+badmouth,verb
  badmouthed badmouthing badmouths
-baffle
+baffle,verb,noun
  baffled baffles baffling
-bafflement
-baffler
+bafflement,noun
+baffler,noun
  bafflers
-bag
+bag,verb,noun
  bagful bagfuls bagged bagging bags bagsful
-bagatelle
+bagatelle,noun
  bagatelles
-bagel
+bagel,noun
  bagels
-baggage
-baggie
+baggage,noun
+baggie,noun
  baggies
-baggy
+baggy,adjective,noun
  baggier baggiest baggily bagginess
-bagpipe
+bagpipe,noun
  bagpipes
-bagpiper
+bagpiper,noun
  bagpipers
-baguette
+baguette,noun
  baguettes
-bah
-baht
+bah,exclamation
+baht,noun
  bahts
-bail
+bail,verb,noun
  bailed bailing bails
-bailable
-bailey
+bailable,adjective
+bailey,noun,propernoun
  baileys
-bailiff
+bailiff,noun
  bailiffs
-bailiwick
+bailiwick,noun
  bailiwicks
-bailout
+bailout,noun
  bailouts
-bailsman
+bailsman!!!
  bailsmen
-bairn
+bairn,noun
  bairns
-bait
+bait,verb,noun
  baited baiting baits
-baize
-bake
+baize,noun
+bake,verb,noun
  baked bakes baking
-baker
+baker,noun
  bakers
-bakery
+bakery,noun
  bakeries
-bakeshop
+bakeshop,noun
  bakeshops
-bakkie
+bakkie,noun
  bakkies
-baklava
-baksheesh
-balaclava
+baklava,noun
+baksheesh,noun
+balaclava,noun
  balaclavas
-balalaika
+balalaika,noun
  balalaikas
-balance
+balance,verb,noun
  balanced balances balancing
-balboa
+balboa,noun
  balboas
-balcony
+balcony,noun
  balconies
-bald
+bald,adjective
  balded balder baldest balding baldly baldness balds
-balderdash
-baldfaced
-baldric
+balderdash,noun
+baldfaced,adjective
+baldric,noun
  baldrics
-baldy
+baldy,adjective,noun
  baldies
-bale
+bale,verb,noun,propernoun
  baled bales baling
-baleen
-baleful
+baleen,noun
+baleful,adjective
  balefully balefulness
-baler
+baler,noun
  balers
-balk
+balk,verb,noun
  balked balking balks baulk baulked baulking baulks
-balky
+balky,adjective
  balkier balkiest baulkier baulkiest baulky
-ball
+ball,verb,noun
  balled balling balls -> [balls]
-ballad
+ballad,noun
  ballads
-balladeer
+balladeer,noun
  balladeers
-balladry
-ballast
+balladry,noun
+ballast,verb,noun
  ballasted ballasting ballasts
-ballboy
+ballboy,noun
  ballboys
-ballcock
+ballcock,noun
  ballcocks
-ballerina
+ballerina,noun
  ballerinas
-ballet
+ballet,noun
  ballets
-balletic
-ballgame
+balletic,adjective
+ballgame!!!
  ballgames
-ballgirl
+ballgirl,noun
  ballgirls
-ballgown
+ballgown,noun
  ballgowns
-ballistic
+ballistic,adjective
  ballistics
-balloon
+balloon,verb,noun
  ballooned ballooning balloons
-balloonist
+balloonist,noun
  balloonists
-ballot
+ballot,verb,noun
  balloted balloting ballots
-ballpark
+ballpark,noun
  ballparks
-ballplayer
+ballplayer,noun
  ballplayers
-ballpoint
+ballpoint,noun
  ballpoints
-ballroom
+ballroom,noun
  ballrooms
-balls -> [ball]
+balls,pluralnoun,verb
  ballsed ballses ballsing
-ballsy
+ballsy,adjective
  ballsier ballsiest
-bally
-ballyhoo
+bally,adverb,adjective
+ballyhoo,verb,noun
  ballyhooed ballyhooing ballyhoos
-balm
+balm,noun
  balms
-balmy
+balmy,adjective
  balmier balmiest balminess
-baloney -> [bologna]
+baloney,noun
  boloney -> [bologna]
-balsa
+balsa,noun
  balsas
-balsam
+balsam,noun
  balsams
-balsamic
-balti
+balsamic,adjective,noun
+balti,adjective,noun
  baltis
-baluster
+baluster,noun
  balusters
-balustrade
+balustrade,noun
  balustrades
-bamboo
+bamboo,noun
  bamboos
-bamboozle
+bamboozle,verb
  bamboozled bamboozles bamboozling
-ban
+ban,verb,noun
  bani banned banning bans
-banal
+banal,adjective
  banally
-banality
+banality,noun
  banalities
-banana
+banana,adjective,noun
  bananas
-band
+band,verb,noun
  banded banding bands
-bandage
+bandage,verb,noun
  bandaged bandages bandaging
-band-aid
+band-aid,noun
  band-aids
-bandanna
+bandanna,noun
  bandana bandanas bandannas
-bandbox
+bandbox,noun
  bandboxes
-bandeau
+bandeau,noun
  bandeaux
-bandit
+bandit,noun
  bandits banditti
-banditry
-bandleader
+banditry,noun
+bandleader,noun
  bandleaders
-bandmaster
+bandmaster,noun
  bandmasters
-bandolier
+bandolier,noun
  bandoleer bandoleers bandoliers
-bandsman
+bandsman,noun
  bandsmen
-bandstand
+bandstand,noun
  bandstands
-bandwagon
+bandwagon,noun
  bandwagons
-bandwidth
+bandwidth,noun
  bandwidths
-bandy
+bandy,adjective,verb,noun
  bandied bandier bandies bandiest bandying
-bane
+bane,noun
  banes
-baneful
-bang
+baneful,adjective
+bang,exclamation,verb,noun,adverb
  banged banging bangs
-banger
+banger,noun
  bangers
-bangle
+bangle,noun
  bangles
-banish
+banish,verb
  banished banishes banishing
-banishment
-banister
+banishment,noun
+banister,noun
  banisters bannister bannisters
-banjo
+banjo,noun
  banjoes banjos
-banjoist
+banjoist,noun
  banjoists
-bank
+bank,verb,noun
  banked banking banks
-bankable
-bankbook
+bankable,adjective
+bankbook,noun
  bankbooks
-bankcard
+bankcard,noun
  bankcards
-banker
+banker,noun
  bankers
-banknote
+banknote,noun
  banknotes
-bankroll
+bankroll,verb,noun
  bankrolled bankrolling bankrolls
-bankrupt
+bankrupt,adjective,verb,noun
  bankrupted bankrupting bankrupts
-bankruptcy
+bankruptcy,noun
  bankruptcies
-banner
+banner,adjective,noun
  banners
-bannock
+bannock,noun
  bannocks
-banns
-banquet
+banns,pluralnoun
+banquet,verb,noun
  banqueted banqueting banquets
-banqueter
+banqueter,noun
  banqueters
-banquette
+banquette,noun
  banquettes
-banshee
+banshee,noun
  banshees banshie banshies
-bantam
+bantam,noun
  bantams
-bantamweight
+bantamweight,noun
  bantamweights
-banter
+banter,verb,noun
  bantered bantering banteringly banters
-banyan
+banyan,noun
  banyans
-banzai
+banzai,exclamation,adjective
  banzais
-baobab
+baobab,noun
  baobabs
-bap
+bap,noun
  baps
-baptism
+baptism,noun
  baptisms
-baptismal
-baptistery
+baptismal,adjective
+baptistery,noun
  baptisteries baptistries baptistry
-baptize
+baptize,verb
  baptise baptised baptises baptising baptized baptizes baptizing
-baptizer
+baptizer,verb
  baptiser baptisers baptizers
-bar
+bar,verb,noun,preposition
  barred barring bars
-barb
+barb,noun
  barbed barbing barbs
-barbacoa
-barbarian
+barbacoa,noun
+barbarian,adjective,noun
  barbarians
-barbarianism
+barbarianism,noun
  barbarianisms
-barbaric
+barbaric,adjective
  barbarically
-barbarism
+barbarism,noun
  barbarisms
-barbarity
+barbarity,noun
  barbarities
-barbarize
+barbarize,verb
  barbarise barbarised barbarises barbarising barbarized barbarizes barbarizing
-barbarous
+barbarous,adjective
  barbarously
-barbecue
+barbecue,verb,noun
  barbecued barbecues barbecuing barbeque barbequed barbeques barbequing
-barbel
+barbel,noun
  barbels
-barbell
+barbell,noun
  barbells
-barber
+barber,verb,noun
  barbered barbering barbers
-barberry
+barberry,noun
  barberries
-barbershop
+barbershop,noun
  barbershops
-barbie
+barbie,noun
  barbies
-barbiturate
+barbiturate,noun
  barbiturates
-barbwire
-barcarole
+barbwire,noun
+barcarole,noun
  barcaroles barcarolle barcarolles
-barcode
+barcode,verb,noun
  barcodes
-bard
+bard,verb,noun
  bards
-bardic
-bare
+bardic,adjective
+bare,adjective,verb,adverb,determiner
  bared bareness barer bares barest baring
-bareback
+bareback,adjective,adverb
  barebacked
-bare-bones
-barefaced
+bare-bones,adjective
+barefaced,adjective
  barefacedly
-barefoot
+barefoot,adverb,adjective
  barefooted
-barehanded
-bareheaded
-barelegged
-barely
-barf
+barehanded,adverb,adjective
+bareheaded,adverb,adjective
+barelegged,adverb,adjective
+barely,adverb
+barf,verb,noun
  barfed barfing barfs
-barfly
+barfly,noun
  barflies
-bargain
+bargain,verb,noun
  bargained bargaining bargains
-bargainer
+bargainer,noun
  bargainers
-barge
+barge,verb,noun
  barged barges barging
-bargeman
+bargeman,noun
  bargemen
-barhop
+barhop,verb
  barhopped barhopping barhops
-barista
+barista,noun
  baristas
-baritone
+baritone,noun
  baritones
-barium
-bark
+barium,noun
+bark,verb,noun
  barked barking barks
-barkeep
+barkeep,noun
  barkeeps
-barkeeper
+barkeeper,noun
  barkeepers
-barker
+barker,noun
  barkers
-barley
-barmaid
+barley,noun
+barmaid,noun
  barmaids
-barman
+barman,noun
  barmen
-barmy
+barmy,adjective
  barmier barmiest
-barn
+barn,noun
  barns
-barnacle
+barnacle,noun
  barnacled barnacles
-barnet
+barnet,noun
  barnets
-barney
+barney,noun
  barneys
-barnstorm
+barnstorm,verb
  barnstormed barnstorming barnstorms
-barnstormer
+barnstormer,noun
  barnstormers
-barnyard
+barnyard,noun
  barnyards
-barometer
+barometer,noun
  barometers
-barometric
+barometric,adjective
  barometrically
-baron
+baron,noun
  barons
-baronage
+baronage,noun
  baronages
-baroness
+baroness,noun
  baronesses
-baronet
+baronet,noun
  baronets
-baronetcy
+baronetcy,noun
  baronetcies
-baronial
-barony
+baronial,adjective
+barony,noun
  baronies
-baroque
-barque
+baroque,adjective,noun
+barque,noun
  barques
-barrack
+barrack,verb
  barracked barracking barracks -> [barracks]
-barracks -> [barrack]
-barracuda
+barracks,pluralnoun
+barracuda,noun
  barracudas
-barrage
+barrage,verb,noun
  barraged barrages barraging
-barre
+barre,noun
  barres
-barrel
+barrel,verb,noun
  barreled barreling barrelled barrelling barrels
-barren
+barren,adjective,noun
  barrener barrenest barrenness barrens
-barrette
+barrette,noun
  barrettes
-barricade
+barricade,verb,noun
  barricaded barricades barricading
-barrier
+barrier,noun
  barriers
-barrio
+barrio,noun
  barrios
-barrister
+barrister,noun
  barristers
-barroom
+barroom,noun
  barrooms
-barrow
+barrow,noun
  barrows
-bartender
+bartender,noun
  bartenders
-barter
+barter,verb,noun
  bartered bartering barters
-barterer
+barterer,noun
  barterers
-baryon
+baryon,noun
  baryons
-basal
+basal,adjective
  basally
-basalt
-basaltic
-base
+basalt,noun
+basaltic,adjective
+base,verb,adjective,noun
  based baseless basely baseness baser bases -> [basis] basest basing
-baseball
+baseball,noun
  baseballs
-baseboard
+baseboard,noun
  baseboards
-baseline
+baseline,noun
  baselines
-baseman
+baseman,noun
  basemen
-basement
+basement,noun
  basements
-bash
+bash,verb,noun
  bashed bashes bashing
-bashful
+bashful,adjective
  bashfully bashfulness
-basic
+basic,adjective,noun
  basically basics
-basil
-basilica
+basil,noun
+basilica,noun
  basilicas
-basilisk
+basilisk,noun
  basilisks
-basin
+basin,noun
  basinful basinfuls basins
-basis
+basis,noun
  bases -> [base]
-bask
+bask,verb
  basked basking basks
-basket
+basket,noun
  baskets
-basketball
+basketball,noun
  basketballs
-basketry
-basketwork
-basmati
-basque
+basketry,noun
+basketwork,noun
+basmati,noun
+basque,adjective,noun
  basques
-bass
+bass,noun
  basses
-basset
+basset,noun
  bassets
-bassinet
+bassinet,noun
  bassinets
-bassist
+bassist,noun
  bassists
-basso
+basso,noun
  bassi bassos
-bassoon
+bassoon,noun
  bassoons
-bassoonist
+bassoonist,noun
  bassoonists
-basswood
+basswood,noun
  basswoods
-bast
-bastard
+bast,noun
+bastard,adjective,noun
  bastards
-bastardization
+bastardization,noun
  bastardisation bastardisations bastardizations
-bastardize
+bastardize,verb
  bastardise bastardised bastardises bastardising bastardized bastardizes bastardizing
-bastardy
-baste
+bastardy,noun
+baste,verb
  basted bastes basting
-baster
+baster,noun
  basters
-bastion
+bastion,noun
  bastions
-bat
+bat,verb,noun
  bats batted batting
-batboy
+batboy,noun
  batboys
-batch
+batch,verb,noun
  batched batches batching
-bate
+bate,verb,noun
  bated bates bating
-bath
+bath,verb,noun,propernoun
  bathed -> [bathe] bathing -> [bathe] baths
-bathe
+bathe,verb,noun
  bathed -> [bath] bathes bathing -> [bath]
-bather
+bather,noun
  bathers
-bathetic
-bathhouse
+bathetic,adjective
+bathhouse,noun
  bathhouses
-bathmat
+bathmat!!!
  bathmats
-bathos
-bathrobe
+bathos,noun
+bathrobe,noun
  bathrobes
-bathroom
+bathroom,noun
  bathrooms
-bathtub
+bathtub,noun
  bathtubs
-bathwater
-bathyscaphe
+bathwater,noun
+bathyscaphe,noun
  bathyscaph bathyscaphes bathyscaphs
-bathysphere
+bathysphere,noun
  bathyspheres
-batik
+batik,noun
  batiks
-batiste
-batman
+batiste,noun
+batman,noun,propernoun
  batmen
-baton
+baton,noun
  batons
-batsman
+batsman,noun
  batsmen
-battalion
+battalion,noun
  battalions
-batten
+batten,verb,noun
  battened battening battens
-batter
+batter,verb,noun
  battered battering -> [battering] batters
-batterer
+batterer,noun
  batterers
-battering -> [batter]
+battering,verb,noun
  batterings
-battery
+battery,noun
  batteries
-battle
+battle,verb,noun
  battled battles battling
-battleax
+battleax,noun
  battleaxe battleaxes
-battlecruiser
+battlecruiser,noun
  battlecruisers
-battledore
+battledore,noun
  battledores
-battledress
-battlefield
+battledress,noun
+battlefield,noun
  battlefields
-battlefront
+battlefront,noun
  battlefronts
-battleground
+battleground,noun
  battlegrounds
-battlement
+battlement,noun
  battlements
-battler
+battler,noun
  battlers
-battleship
+battleship,noun
  battleships
-batty
+batty,adjective,noun
  battier battiest
-bauble
+bauble,noun
  baubles
-baud
+baud,noun
  bauds
-bauxite
-bawd
+bauxite,noun
+bawd,noun
  bawds
-bawdy
+bawdy,adjective,noun
  bawdier bawdiest bawdily bawdiness
-bawl
+bawl,verb,noun
  bawled bawling bawls
-bay
+bay,adjective,verb,noun
  bayed baying bays
-bayberry
+bayberry,noun
  bayberries
-bayonet
+bayonet,verb,noun
  bayoneted bayoneting bayonets bayonetted bayonetting
-bayou
+bayou,noun
  bayous
-bazaar
+bazaar,noun
  bazaars
-bazooka
+bazooka,noun
  bazookas
-be
+be,auxiliaryverb,verb,abbreviation
  am are -> [are] art -> [art] been being -> [being] is was wast were wert
-beach
+beach,verb,noun
  beached beaches beaching
-beachball
+beachball,noun
  beachballs
-beachcomber
+beachcomber,noun
  beachcombers
-beachfront
+beachfront,noun
  beachfronts
-beachhead
+beachhead,noun
  beachheads
-beachwear
-beacon
+beachwear,noun
+beacon,noun
  beacons
-bead
+bead,verb,noun
  beaded beading beads
-beadle
+beadle,noun
  beadles
-beady
+beady,adjective
  beadier beadiest
-beagle
+beagle,verb,noun
  beagles
-beak
+beak,noun
  beaked beaks
-beaker
+beaker,noun
  beakers
-beam
+beam,verb,noun
  beamed beaming beams
-bean
+bean,verb,noun
  beaned beaning beans
-beanbag
+beanbag,noun
  beanbags
-beanfeast
+beanfeast,noun
  beanfeasts
-beanie
+beanie,noun
  beanies
-beanpole
+beanpole,noun
  beanpoles
-beansprout
+beansprout!!!
  beansprouts
-beanstalk
+beanstalk,noun
  beanstalks
-bear
+bear,verb,noun
  bearing -> [bearing] bearish bearishly bearishness bearlike bears bore -> [bore] borne
-bearable
+bearable,adjective
  bearably
-beard
+beard,verb,noun
  bearded bearding beardless beards
-bearer
+bearer,noun
  bearers
-bearing -> [bear]
+bearing,noun
  bearings
-bearskin
+bearskin,noun
  bearskins
-beast
+beast,noun
  beastlier beastliest beastliness beastly beasts
-beat
+beat,verb,adjective,noun
  beaten beating -> [beating] beats
-beatable
-beatbox
+beatable,adjective
+beatbox,verb,noun
  beatboxed beatboxes beatboxing
-beater
+beater,noun
  beaters
-beatific
+beatific,adjective
  beatifically
-beatification
+beatification,noun
  beatifications
-beatify
+beatify,verb
  beatified beatifies beatifying
-beating -> [beat]
+beating,noun
  beatings
-beatitude
+beatitude,noun
  beatitudes
-beatnik
+beatnik,noun
  beatniks
-beat-up
-beau
+beat-up,adjective
+beau,noun
  beaus beaux
-beaut
+beaut,adjective,noun
  beauts
-beauteous
+beauteous,adjective
  beauteously
-beautician
+beautician,noun
  beauticians
-beautification
-beautifier
+beautification,noun
+beautifier,noun
  beautifiers
-beautify
+beautify,verb
  beautified beautifies beautifying
-beauty
+beauty,adjective,noun
  beauties beautiful beautifully
-beaver
+beaver,verb,noun
  beavered beavering beavers
-bebop
-becalm
+bebop,noun
+becalm,verb
  becalmed becalming becalms
-because
-beck
+because,conjunction
+beck,noun
  becks
-beckon
+beckon,verb
  beckoned beckoning beckons
-becloud
+becloud,verb
  beclouded beclouding beclouds
-become
+become,verb
  became becomes becoming -> [becoming]
-becoming -> [become]
+becoming,adjective
  becomingly
-becquerel
+becquerel,noun
  becquerels
-bed
+bed,verb,noun,abbreviation
  bedded bedding -> [bedding] beds
-bed-and-breakfast
+bed-and-breakfast,verb,noun
  bed-and-breakfasts
-bedaub
+bedaub,verb
  bedaubed bedaubing bedaubs
-bedazzle
+bedazzle,verb
  bedazzled bedazzles bedazzling
-bedazzlement
-bedbug
+bedazzlement,noun
+bedbug,noun
  bedbugs
-bedchamber
+bedchamber,noun
  bedchambers
-bedclothes
-bedding -> [bed]
-bedeck
+bedclothes,pluralnoun
+bedding,noun
+bedeck,verb
  bedecked bedecking bedecks
-bedevil
+bedevil,verb
  bedeviled bedeviling bedevilled bedevilling bedevils
-bedevilment
-bedfellow
+bedevilment,noun
+bedfellow,noun
  bedfellows
-bedhead
+bedhead,noun
  bedheads
-bedim
+bedim,verb
  bedimmed bedimming bedims
-bedizen
+bedizen,verb
  bedizened bedizening bedizens
-bedlam
+bedlam,noun
  bedlams
-bedlinen
-bedpan
+bedlinen,noun
+bedpan,noun
  bedpans
-bedpost
+bedpost,noun
  bedposts
-bedraggle
+bedraggle,verb
  bedraggled bedraggles bedraggling
-bedridden
-bedrock
+bedridden,adjective
+bedrock,noun
  bedrocks
-bedroll
+bedroll,noun
  bedrolls
-bedroom
+bedroom,noun
  bedrooms
-bedsheet
+bedsheet,noun
  bedsheets
-bedside
+bedside,noun
  bedsides
-bedsit
+bedsit,noun
  bedsits
-bedsitter
+bedsitter,noun
  bedsitters
-bedsore
+bedsore,noun
  bedsores
-bedspread
+bedspread,noun
  bedspreads
-bedstead
+bedstead,noun
  bedsteads
-bedtime
+bedtime,noun
  bedtimes
-bedwetting
-bee
+bedwetting,noun
+bee,noun
  bees
-beebread
-beech
+beebread,noun
+beech,noun
  beeches
-beechnut
+beechnut,noun
  beechnuts
-beef
+beef,verb,noun
  beefed beefing beefs beeves
-beefburger
+beefburger,noun
  beefburgers
-beefcake
+beefcake,noun
  beefcakes
-beefeater
+beefeater,noun
  beefeaters
-beefsteak
+beefsteak,noun
  beefsteaks
-beefy
+beefy,adjective
  beefier beefiest beefiness
-beehive
+beehive,noun
  beehives
-beekeeper
+beekeeper,noun
  beekeepers
-beekeeping
-beeline
+beekeeping,noun
+beeline,noun
  beelines
-beep
+beep,verb,noun
  beeped beeping beeps
-beeper
+beeper,noun
  beepers
-beer
+beer,noun
  beers
-beermat
+beermat,noun
  beermats
-beery
+beery,adjective
  beerier beeriest
-beeswax
-beet
+beeswax,verb,noun
+beet,noun
  beets
-beetle
+beetle,verb,adjective,noun
  beetled beetles beetling
-beetroot
+beetroot,noun
  beetroots
-befall
+befall,verb
  befallen befalling befalls befell
-befit
+befit,verb
  befits befitted befitting befittingly
-befog
+befog,verb
  befogged befogging befogs
-before
-beforehand
-befoul
+before,preposition<spanclass="listSeparator">,</span>conjunction<spanclass="listSeparator">,</span>,adverb
+beforehand,adverb
+befoul,verb
  befouled befouling befouls
-befriend
+befriend,verb
  befriended befriending befriends
-befuddle
+befuddle,verb
  befuddled befuddles befuddling
-befuddlement
-beg
+befuddlement,noun
+beg,verb
  begged begging begs
-beget
+beget,verb
  begat begets begetting begot begotten
-begetter
+begetter,noun
  begetters
-beggar
+beggar,verb,noun
  beggared beggaring beggarly beggars
-beggary
-begin
+beggary,noun
+begin,verb
  began beginning -> [beginning] begins begun
-beginner
+beginner,noun
  beginners
-beginning -> [begin]
+beginning,noun
  beginnings
-begone
-begonia
+begone,exclamation
+begonia,noun
  begonias
-begrime
+begrime,verb
  begrimed begrimes begriming
-begrudge
+begrudge,verb
  begrudged begrudges begrudging begrudgingly
-beguile
+beguile,verb
  beguiled beguiles beguiling beguilingly
-beguilement
-beguiler
+beguilement,noun
+beguiler,noun
  beguilers
-beguine
+beguine,noun
  beguines
-begum
+begum,noun
  begums
-behalf
+behalf,noun
  behalves
-behave
+behave,verb
  behaved behaves behaving
-behavior
+behavior,noun
  behaviors behaviour behaviours
-behavioral
+behavioral,adjective
  behaviorally behavioural behaviourally
-behaviorism
+behaviorism,noun
  behaviourism
-behaviorist
+behaviorist,adjective,noun
  behaviorists behaviourist behaviourists
-behead
+behead,verb
  beheaded beheading beheads
-behemoth
+behemoth,noun
  behemoths
-behest
+behest,noun
  behests
-behind
+behind,noun,preposition,adverb
  behinds
-behindhand
-behold
+behindhand,adjective
+behold,verb
  beheld beholding beholds
-beholden
-beholder
+beholden,adjective
+beholder,noun
  beholders
-behoove
+behoove,verb
  behooved behooves behooving behove behoved behoves behoving
-beige
-being -> [be]
+beige,noun
+being,noun
  beings
-bejewel
+bejewel,verb
  bejeweled bejeweling bejewelled bejewelling bejewels
-belabor
+belabor,verb
  belabored belaboring belabors belabour belaboured belabouring belabours
-belated
+belated,adjective
  belatedly
-belay
+belay,verb,noun
  belayed belaying belays
-belch
+belch,verb,noun
  belched belches belching
-beleaguer
+beleaguer,verb
  beleaguered beleaguering beleaguers
-belfry
+belfry,noun
  belfries
-belie
+belie,verb
  belied belies belying
-belief
+belief,noun
  beliefs
-believable
+believable,adjective
  believably
-believe
+believe,verb
  believed believes believing
-believer
+believer,noun
  believers
-belittle
+belittle,verb
  belittled belittles belittling
-belittlement
-bell
+belittlement,noun
+bell,verb,noun,propernoun
  belled belling bells
-belladonna
-bellboy
+belladonna,noun
+bellboy,noun
  bellboys
-belle
+belle,noun
  belles
-belletrist
+belletrist,noun
  belletrists
-belletristic
-bellhop
+belletristic,adjective
+bellhop,noun
  bellhops
-bellicose
-bellicosity
-belligerence
-belligerency
-belligerent
+bellicose,adjective
+bellicosity,noun
+belligerence,noun
+belligerency,noun
+belligerent,adjective,noun
  belligerently belligerents
-bellman
+bellman,noun
  bellmen
-bellow
+bellow,verb,noun
  bellowed bellowing bellows
-bellwether
+bellwether,noun
  bellwethers
-belly
+belly,verb,noun
  bellied bellies bellyful bellyfuls bellying
-bellyache
+bellyache,verb,noun
  bellyached bellyaches bellyaching
-bellybutton
+bellybutton,noun
  bellybuttons
-bellyflop
+bellyflop,verb,noun
  bellyflops
-belong
+belong,verb
  belonged belonging -> [belonging] belongs
-belonging -> [belong]
+belonging,verb
  belongings
-beloved
+beloved,adjective,noun
  beloveds
-below
-belt
+below,preposition,adverb
+belt,verb,noun
  belted belting belts
-beltway
+beltway,noun
  beltways
-beluga
+beluga,noun
  belugas
-bemire
+bemire,verb
  bemired bemires bemiring
-bemoan
+bemoan,verb
  bemoaned bemoaning bemoans
-bemuse
+bemuse,verb
  bemused bemusedly bemuses bemusing
-bemusement
-bench
+bemusement,noun
+bench,verb,noun
  benched benches benching
-benchmark
+benchmark,verb,noun
  benchmarked benchmarking benchmarks
-bend
+bend,verb,noun
  bending bends bent -> [bent]
-bendable
-bender
+bendable,adjective
+bender,noun
  benders
-bendy
+bendy,adjective
  bendier bendiest
-beneath
+beneath,preposition,adverb
  neath
-benedictine
-benediction
+benedictine,adjective,noun
+benediction,noun
  benedictions
-benedictory
-benefaction
+benedictory,adjective
+benefaction,noun
  benefactions
-benefactor
+benefactor,noun
  benefactors
-benefactress
+benefactress,noun
  benefactresses
-benefice
+benefice,noun
  benefices
-beneficence
-beneficent
+beneficence,noun
+beneficent,adjective
  beneficently
-beneficial
+beneficial,adjective
  beneficially
-beneficiary
+beneficiary,noun
  beneficiaries
-benefit
+benefit,verb,noun
  benefited benefiting benefits benefitted benefitting
-benevolence
+benevolence,noun
  benevolences
-benevolent
+benevolent,adjective
  benevolently
-benighted
+benighted,adjective
  benightedly
-benign
+benign,adjective
  benigner benignest benignly
-benignant
-benignity
-bent -> [bend]
+benignant,adjective
+benignity,noun
+bent,</span></h3><spanclass="transitivity"></span><ulclass="semb"><li><divclass="trg"><p><spanclass="iteration"></span></p><divclass="crossReference">pastandpastparticipleof<ahref="/definition/bend">bend</a></div></div></li></ul></section><divclass="banbox"><divclass="container"></div><divclass="containermpu"></div></div><sectionclass="gramb"><h3class="pspos"><spanclass="pos">adjective,noun
  bents
-bentwood
-benumb
+bentwood,noun
+benumb,verb
  benumbed benumbing benumbs
-benzene
+benzene,noun
  benzine
-bequeath
+bequeath,verb
  bequeathed bequeathing bequeaths
-bequest
+bequest,noun
  bequests
-berate
+berate,verb
  berated berates berating
-bereave
+bereave,verb
  bereaved bereaves bereaving bereft
-bereavement
+bereavement,noun
  bereavements
-beret
+beret,noun
  berets
-berg
+berg,noun
  bergs
-beriberi
-berk
+beriberi,noun
+berk,noun
  berks burk burks
-berkelium
-berm
+berkelium,noun
+berm,noun
  berms
-berry
+berry,verb,noun,propernoun
  berried berries berrying berrylike
-berserk
-berth
+berserk,adjective
+berth,verb,noun
  berthed berthing berths
-beryl
+beryl,noun
  beryls
-beryllium
-beseech
+beryllium,noun
+beseech,verb
  beseeched beseeches beseeching beseechingly besought
-beseecher
+beseecher,noun
  beseechers
-beseem
+beseem,verb
  beseemed beseeming beseems
-beset
+beset,verb
  besets besetting
-beside
-besides
-besiege
+beside,preposition
+besides,preposition,adverb
+besiege,verb
  besieged besieges besieging
-besieger
+besieger,noun
  besiegers
-besmear
+besmear,verb
  besmeared besmearing besmears
-besmirch
+besmirch,verb
  besmirched besmirches besmirching
-besom
+besom,noun
  besoms
-besot
+besot!!!
  besots besotted besotting
-bespangle
+bespangle,verb
  bespangled bespangles bespangling
-bespatter
+bespatter,verb
  bespattered bespattering bespatters
-bespeak
+bespeak,verb
  bespeaking bespeaks bespoke -> [bespoke] bespoken
-bespectacled
-bespoke -> [bespeak]
-best -> [good well]
+bespectacled,adjective
+bespoke,adjective
+best,adjective,verb,noun,adverb
  bested besting bests
-bestial
+bestial,adjective
  bestially
-bestiality
-bestiary
+bestiality,noun
+bestiary,noun
  bestiaries
-bestir
+bestir,verb
  bestirred bestirring bestirs
-bestow
+bestow,verb
  bestowed bestowing bestows
-bestowal
+bestowal,noun
  bestowals
-bestrew
+bestrew,verb
  bestrewed bestrewing bestrewn bestrews
-bestride
+bestride,verb
  bestrid bestridden bestrides bestriding bestrode
-bestseller
+bestseller,noun
  bestsellers
-bestselling
-bet
+bestselling,adjective
+bet,verb,noun
  bets betted betting
-beta
+beta,noun
  betas
-betake
+betake,verb
  betaken betakes betaking betook
-betcha
-betel
-bethink
+betcha,contraction
+betel,noun
+bethink,verb
  bethinking bethinks bethought
-betide
+betide,verb
  betided betides betiding
-betimes
-betoken
+betimes,adverb
+betoken,verb
  betokened betokening betokens
-betray
+betray,verb
  betrayed betraying betrays
-betrayal
+betrayal,noun
  betrayals
-betrayer
+betrayer,noun
  betrayers
-betroth
+betroth,verb
  betrothed betrothing betroths
-betrothal
+betrothal,noun
  betrothals
-better -> [good well]
+better,adjective,verb,noun,adverb
  bettered bettering betters
-betterment
-bettor
+betterment,noun
+bettor,noun
  bettors
-between
-betwixt
+between,preposition,adverb
+betwixt,preposition,adverb
  twixt
-bevel
+bevel,verb,noun
  beveled beveling bevelled bevelling bevels
-beverage
+beverage,noun
  beverages
-bevvy
+bevvy,noun
  bevvies
-bevy
+bevy,noun
  bevies
-bewail
+bewail,verb
  bewailed bewailing bewails
-beware
+beware,verb
  bewared bewares bewaring
-bewhiskered
-bewigged
-bewilder
+bewhiskered,adjective
+bewigged,adjective
+bewilder,verb
  bewildered bewildering bewilderingly bewilders
-bewilderment
-bewitch
+bewilderment,noun
+bewitch,verb
  bewitched bewitches bewitching bewitchingly
-bewitchment
-bey
+bewitchment,noun
+bey,noun
  beys
-beyond
-bezel
+beyond,preposition,adverb,noun
+bezel,noun
  bezels
-bhaji
+bhaji,noun
  bhajis
-bhangra
-bhindi
+bhangra,noun
+bhindi,noun
  bhindis
-bi
+bi,adjective
  bis
-biannual
+biannual,adjective
  biannually
-bias
+bias,verb,noun
  biased biases biasing biassed biassing
-biathlon
+biathlon,noun
  biathlons
-bib
+bib,verb,noun
  bibs
-bible
+bible,noun
  bibles
-biblical
-bibliographer
+biblical,adjective
+bibliographer,noun
  bibliographers
-bibliographic
-bibliographical
+bibliographic,adjective
+bibliographical,adjective
  bibliographically
-bibliography
+bibliography,noun
  bibliographies
-bibliophile
+bibliophile,noun
  bibliophiles
-bibulous
-bicameral
-bicameralism
-bicarb
+bibulous,adjective
+bicameral,adjective
+bicameralism,noun
+bicarb,noun
  bicarbs
-bicarbonate
+bicarbonate,noun
  bicarbonates
-bicentenary
+bicentenary,adjective,noun
  bicentenaries
-bicentennial
+bicentennial,adjective,noun
  bicentennials
-bicep
+bicep,adjective
  biceps bicepses
-bicker
+bicker,verb
  bickered bickering bickers
-bickerer
+bickerer,noun
  bickerers
-bicoastal
-biconcave
-biconvex
-bicuspid
+bicoastal,adjective
+biconcave,adjective
+biconvex,adjective
+bicuspid,adjective,noun
  bicuspids
-bicycle
+bicycle,verb,noun
  bicycled bicycles bicycling
-bicycler
+bicycler,noun
  bicyclers
-bicyclist
+bicyclist,noun
  bicyclists
-bid
+bid,verb,noun
  bade bidden bidding bids
-biddable
-bidder
+biddable,adjective
+bidder,noun
  bidders
-biddy
+biddy,noun
  biddies
-bide
+bide,verb
  bided bides biding
-bidet
+bidet,noun
  bidets
-bidirectional
+bidirectional,adjective
  bidirectionally
-biennial
+biennial,adjective,noun
  biennially biennials
-biennium
+biennium,noun
  biennia bienniums
-bier
+bier,noun
  biers
-biff
+biff,verb,noun
  biffed biffing biffs
-bifocal
+bifocal,adjective,noun
  bifocals
-bifurcate
+bifurcate,verb,adjective
  bifurcated bifurcates bifurcating
-bifurcation
+bifurcation,noun
  bifurcations
-big
+big,adjective,verb,noun
  bigged bigger biggest bigging biggish bigness bigs
-bigamist
+bigamist,noun
  bigamists
-bigamous
-bigamy
-biggie
+bigamous,adjective
+bigamy,noun
+biggie,noun
  biggies
-bighead
+bighead,noun
  bigheaded bigheads
-bighearted
+bighearted,adjective
  bigheartedness
-bighorn
+bighorn,noun
  bighorns
-bight
+bight,noun
  bights
-big-league
-bigmouth
+big-league,adjective,noun
+bigmouth,noun
  bigmouths
-big-name
-bigot
+big-name,noun
+bigot,noun
  bigoted bigots
-bigotry
+bigotry,noun
  bigotries
-big-ticket
-big-time
-bigwig
+big-ticket,adjective
+big-time,noun,adverb
+bigwig,noun
  bigwigs
-bijou
+bijou,adjective,noun
  bijoux
-bike
+bike,verb,noun
  biked bikes biking
-biker
+biker,noun
  bikers
-bikie
+bikie,noun
  bikies
-bikini
+bikini,noun,propernoun
  bikinis
-bilabial
+bilabial,adjective,noun
  bilabials
-bilateral
+bilateral,adjective
  bilaterally
-bilberry
+bilberry,noun
  bilberries
-bile
-bilge
+bile,noun
+bilge,verb,noun
  bilges
-bilharzia
-bilingual
+bilharzia,noun
+bilingual,adjective,noun
  bilingually bilinguals
-bilingualism
-bilious
+bilingualism,noun
+bilious,adjective
  biliousness
-bilk
+bilk,verb
  bilked bilking bilks
-bilker
+bilker,noun
  bilkers
-bill
+bill,verb,noun
  billed billing -> [billing] bills
-billable
-billabong
+billable,adjective
+billabong,noun
  billabongs
-billboard
+billboard,noun
  billboards
-billet
+billet,verb,noun
  billeted billeting billets
-billfold
+billfold,noun
  billfolds
-billhook
+billhook,noun
  billhooks
-billiard
+billiard,noun
  billiards
-billing -> [bill]
+billing,noun
  billings
-billingsgate
-billion
+billingsgate,propernoun
+billion,cardinalnumber
  billions
-billionaire
+billionaire,noun
  billionaires
-billionth
+billionth,ordinalnumber
  billionths
-billow
+billow,verb,noun
  billowed billowing billows
-billowy
-billy
+billowy,adjective
+billy,noun
  billies
-billycan
+billycan,noun
  billycans
-biltong
-bimbo
+biltong,noun
+bimbo,noun
  bimboes bimbos
-bimetallic
+bimetallic,adjective
  bimetallics
-bimetallism
-bimonthly
+bimetallism,noun
+bimonthly,adjective,noun,adverb
  bimonthlies
-bin
+bin,verb,noun
  binned binning bins
-binary
+binary,adjective,noun
  binaries
-bind
+bind,verb,noun
  binding -> [binding] binds bound -> [bound]
-binder
+binder,noun
  binders
-bindery
+bindery,noun
  binderies
-bindi
+bindi,noun
  bindis
-binding -> [bind]
+binding,adjective,noun
  bindings
-bindweed
-binge
+bindweed,noun
+binge,verb,noun
  binged bingeing binges binging
-bingo
-binman
+bingo,exclamation,noun
+binman,noun
  binmen
-binnacle
+binnacle,noun
  binnacles
-binocular
-binoculars
-binomial
+binocular,adjective
+binoculars,pluralnoun
+binomial,adjective,noun
  binomials
-bio
+bio,adjective,noun
  bios
-biochemical
+biochemical,adjective,noun
  biochemically biochemicals
-biochemist
+biochemist,noun
  biochemists
-biochemistry
-biodata
-biodegradable
+biochemistry,noun
+biodata,noun
+biodegradable,adjective
  biodegradability
-biodegrade
+biodegrade,verb
  biodegraded biodegrades biodegrading
-biodiesel
-biodiversity
-bioengineering
-bioethics
-biofeedback
-biofuel
+biodiesel,noun
+biodiversity,noun
+bioengineering,noun
+bioethics,pluralnoun
+biofeedback,noun
+biofuel,noun
  biofuels
-biogas
-biographer
+biogas,noun
+biographer,noun
  biographers
-biographic
-biographical
+biographic,adjective
+biographical,adjective
  biographically
-biography
+biography,noun
  biographies
-biohazard
+biohazard,noun
  biohazards
-biologic
-biological
+biologic,adjective,noun
+biological,adjective,noun
  biologically
-biologist
+biologist,noun
  biologists
-biology
-biomass
-biome
+biology,noun
+biomass,noun
+biome,noun
  biomes
-biomedical
-biometric
-bionic
+biomedical,adjective
+biometric,adjective
+bionic,adjective
  bionically bionics
-biophysical
-biophysicist
+biophysical,adjective
+biophysicist,noun
  biophysicists
-biophysics
-biopic
+biophysics,pluralnoun
+biopic,noun
  biopics
-biopsy
+biopsy,verb,noun
  biopsied biopsies biopsying
-biorhythm
+biorhythm,noun
  biorhythms
-bioscience
+bioscience,noun
  biosciences
-biosecurity
-biosphere
+biosecurity,noun
+biosphere,noun
  biospheres
-biotech
-biotechnological
-biotechnology
-bioterrorism
-biotin
-bipartisan
-bipartisanship
-bipartite
-biped
+biotech,noun
+biotechnological,adjective
+biotechnology,noun
+bioterrorism,noun
+biotin,noun
+bipartisan,adjective
+bipartisanship,noun
+bipartite,adjective
+biped,adjective,noun
  bipeds
-bipedal
-biplane
+bipedal,adjective
+biplane,noun
  biplanes
-bipolar
-bipolarity
-biracial
-birch
+bipolar,adjective
+bipolarity,noun
+biracial,adjective
+birch,verb,noun
  birched birches birching
-bird
+bird,noun
  birded birding birdlike birds
-birdbath
+birdbath,noun
  birdbaths
-birdbrain
+birdbrain,noun
  birdbrained birdbrains
-birdcage
+birdcage,noun
  birdcages
-birder
+birder,noun
  birders
-birdhouse
+birdhouse,noun
  birdhouses
-birdie
+birdie,verb,noun
  birdied birdieing birdies birdying
-birdlime
-birdseed
-birds-eye
-birdsong
-birdwatcher
+birdlime,noun
+birdseed,noun
+birds-eye,noun
+birdsong,noun
+birdwatcher,noun
  birdwatchers
-birdwatching
-biretta
+birdwatching,noun
+biretta,noun
  birettas
-birth
+birth,verb,noun
  birthed birthing births
-birthday
+birthday,noun
  birthdays
-birther
+birther,noun
  birthers
-birthmark
+birthmark,noun
  birthmarks
-birthplace
+birthplace,noun
  birthplaces
-birthrate
+birthrate,noun
  birthrates
-birthright
+birthright,noun
  birthrights
-birthstone
+birthstone,noun
  birthstones
-biscuit
+biscuit,noun
  biscuits
-bisect
+bisect,verb
  bisected bisecting bisects
-bisection
+bisection,noun
  bisections
-bisector
+bisector,noun
  bisectors
-bisexual
+bisexual,adjective,noun
  bisexually bisexuals
-bisexuality
-bishop
+bisexuality,noun
+bishop,noun
  bishops
-bishopric
+bishopric,noun
  bishoprics
-bismuth
-bison
+bismuth,noun
+bison,noun
  bisons
-bisque
+bisque,noun
  bisques
-bistro
+bistro,noun
  bistros
-bit -> [bite]
+bit,verb,noun
  bits
-bitch
+bitch,verb,noun
  bitched bitches bitching
-bitchy
+bitchy,adjective
  bitchier bitchiest bitchily bitchiness
-bitcoin
+bitcoin,noun
  bitcoins
-bite
+bite,verb,noun
  bit -> [bit] bites biting bitingly bitten
-biter
+biter,noun
  biters
-bite-size
+bite-size,adjective
  bite-sized
-bitmap
+bitmap,verb,noun
  bitmapped bitmaps
-bitter
+bitter,adjective,noun
  bitterer bitterest bitterly bitterness bitters
-bittern
+bittern,noun
  bitterns
-bittersweet
+bittersweet,adjective,noun
  bittersweets
-bitty
+bitty,adjective
  bittier bittiest
-bitumen
-bituminous
-bivalent
-bivalve
+bitumen,noun
+bituminous,adjective
+bivalent,adjective,noun
+bivalve,adjective,noun
  bivalves
-bivouac
+bivouac,verb,noun
  bivouacked bivouacking bivouacs
-biweekly
+biweekly,adverb,noun,adjective
  biweeklies
-biyearly
-biz
-bizarre
+biyearly,adjective,adverb
+biz,noun
+bizarre,adjective
  bizarrely bizarreness
-blab
+blab,verb,noun
  blabbed blabbing blabs
-blabber
+blabber,verb,noun
  blabbered blabbering blabbers
-blabbermouth
+blabbermouth,noun
  blabbermouths
-black
+black,adjective,verb,noun
  blacked blacker blackest blacking blackish blackly blackness blacks
-blackamoor
+blackamoor,noun
  blackamoors
-black-and-white
-blackball
+black-and-white,phrase
+blackball,verb
  blackballed blackballing blackballs
-blackberry
+blackberry,verb,noun
  blackberries blackberrying
-blackbird
+blackbird,noun
  blackbirds
-blackboard
+blackboard,noun
  blackboards
-blackcurrant
+blackcurrant,noun
  blackcurrants
-blacken
+blacken,verb
  blackened blackening blackens
-blackfly
+blackfly,noun
  blackflies
-blackguard
+blackguard,verb,noun
  blackguards
-blackhead
+blackhead,noun
  blackheads
-blackjack
+blackjack,noun
  blackjacked blackjacking blackjacks
-blackleg
+blackleg,verb,noun
  blacklegs
-blacklist
+blacklist,verb,noun
  blacklisted blacklisting blacklists
-blackmail
+blackmail,verb,noun
  blackmailed blackmailing blackmails
-blackmailer
+blackmailer,noun
  blackmailers
-blackout
+blackout,noun
  blackouts
-blacksmith
+blacksmith,noun
  blacksmiths
-blacksnake
+blacksnake,noun
  blacksnakes
-blackspot
+blackspot,noun
  blackspots
-blackthorn
+blackthorn,noun
  blackthorns
-black-tie
-blacktop
+black-tie,noun
+blacktop,verb,noun
  blacktopped blacktopping blacktops
-bladder
+bladder,noun
  bladders
-blade
+blade,verb,noun
  bladed blades
-blag
+blag,verb,noun
  blagged blagging blags
-blah
+blah,exclamation,adjective,noun
  blahs
-blamable
+blamable,adjective
  blameable
-blame
+blame,verb,noun
  blamed blameless blamelessly blamelessness blames blaming
-blameworthy
+blameworthy,adjective
  blameworthiness
-blanch
+blanch,verb
  blanched blanches blanching blench -> [blench] blenched -> [blench] blenches -> [blench] blenching -> [blench]
-blancmange
+blancmange,noun
  blancmanges
-bland
+bland,adjective
  blander blandest blandly blandness
-blandish
+blandish,verb
  blandished blandishes blandishing
-blandishment
+blandishment,noun
  blandishments
-blank
+blank,adjective,verb,noun
  blanked blanker blankest blanking blankly blankness blanks
-blanket
+blanket,adjective,verb,noun
  blanketed blanketing blankets
-blare
+blare,verb,noun
  blared blares blaring
-blarney
+blarney,verb,noun
  blarneyed blarneying blarneys
-blase
-blaspheme
+blase,adjective
+blaspheme,verb
  blasphemed blasphemes blaspheming
-blasphemer
+blasphemer,noun
  blasphemers
-blasphemous
+blasphemous,adjective
  blasphemously
-blasphemy
+blasphemy,noun
  blasphemies
-blast
+blast,exclamation,verb,noun
  blasted blasting blasts
-blaster
+blaster,noun
  blasters
-blastoff
+blastoff,noun
  blastoffs
-blatancy
+blatancy,noun
  blatancies
-blatant
+blatant,adjective
  blatantly
-blather
+blather,verb,noun
  blathered blathering blathers blether blethered blethering blethers
-blatherer
+blatherer,noun
  blatherers
-blaze
+blaze,verb,noun
  blazed blazes blazing
-blazer
+blazer,noun
  blazers
-blazon
+blazon,verb,noun
  blazoned blazoning blazons
-bleach
+bleach,verb,noun
  bleached bleaches bleaching
-bleacher
+bleacher,noun
  bleachers
-bleak
+bleak,adjective,noun
  bleaker bleakest bleakly bleakness
-blear
-bleary
+blear,verb,adjective
+bleary,adjective
  blearier bleariest blearily bleariness
-bleary-eyed
-bleat
+bleary-eyed,adjective
+bleat,verb,noun
  bleated bleating bleats
-bleed
+bleed,verb,noun
  bled bleeding bleeds
-bleeder
+bleeder,noun
  bleeders
-bleep
+bleep,verb,noun
  bleeped bleeping bleeps
-bleeper
+bleeper,noun
  bleepers
-blemish
+blemish,verb,noun
  blemished blemishes blemishing
-blench -> [blanch]
+blench,verb
  blenched -> [blanch] blenches -> [blanch] blenching -> [blanch]
-blend
+blend,verb,noun
  blended blending blends blent
-blender
+blender,noun
  blenders
-bless
+bless,verb
  blessed blessedly blessedness blesses blessing -> [blessing] blest
-blessing -> [bless]
+blessing,noun
  blessings
-blight
+blight,verb,noun
  blighted blighting blights
-blighter
+blighter,noun
  blighters
-blimey
-blimp
+blimey,exclamation
+blimp,noun
  blimps
-blimpish
-blind
+blimpish,adjective
+blind,adjective,verb,noun,adverb
  blinded blinder -> [blinder] blindest blinding blindingly blindly blindness blinds
-blinder -> [blind]
+blinder,noun
  blinders
-blindfold
+blindfold,verb,adjective,noun,adverb
  blindfolded blindfolding blindfolds
-blindside
+blindside,verb,noun
  blindsided blindsides blindsiding
-bling
-blini
+bling,adjective,noun
+blini,pluralnoun
  blinis
-blink
+blink,verb,noun
  blinked blinking blinks
-blinker
+blinker,verb,noun
  blinkered blinkering blinkers
-blintz
+blintz,noun
  blintze blintzes
-blip
+blip,verb,noun
  blips
-bliss
+bliss,verb,noun
  blissed blisses blissful blissfully blissfulness blissing
-blister
+blister,verb,noun
  blistered blistering blisteringly blisters
-blistery
-blithe
+blistery!!!
+blithe,adjective
  blithely blitheness blither blithest
-blithering
-blithesome
-blitz
+blithering,adjective
+blithesome,adjective
+blitz,verb,noun
  blitzed blitzes blitzing
-blitzkrieg
+blitzkrieg,noun
  blitzkriegs
-blizzard
+blizzard,noun
  blizzards
-bloat
+bloat,verb,noun
  bloated bloating bloats
-bloater
+bloater,noun
  bloaters
-blob
+blob,verb,noun
  blobbed blobbing blobs
-bloc
+bloc,noun
  blocs
-block
+block,verb,noun
  blocked blocking blocks
-blockade
+blockade,verb,noun
  blockaded blockades blockading
-blockader
+blockader,noun
  blockaders
-blockage
+blockage,noun
  blockages
-blockbuster
+blockbuster,noun
  blockbusters
-blockbusting
-blocker
+blockbusting,adjective,noun
+blocker,noun
  blockers
-blockhead
+blockhead,noun
  blockheads
-blockhouse
+blockhouse,noun
  blockhouses
-blog
+blog,verb,noun
  blogged blogging blogs
-blogger
+blogger,noun
  bloggers
-blogosphere
-bloke
+blogosphere,noun
+bloke,noun
  blokeish blokes blokish
-blond
+blond,adjective,noun
  blonde blonder blondes blondest blondish blondness blonds
-blood
+blood,verb,noun
  blooded blooding bloodless bloodlessly bloodlessness bloods
-bloodbath
+bloodbath,noun
  bloodbaths
-bloodcurdling
-bloodhound
+bloodcurdling,adjective
+bloodhound,noun
  bloodhounds
-bloodletting
-bloodline
+bloodletting,noun
+bloodline,noun
  bloodlines
-bloodlust
-bloodmobile
+bloodlust,noun
+bloodmobile,noun
  bloodmobiles
-blood-red
-bloodshed
-bloodshot
-bloodsport
+blood-red,adjective
+bloodshed,noun
+bloodshot,adjective
+bloodsport,noun
  bloodsports
-bloodstain
+bloodstain,noun
  bloodstained bloodstains
-bloodstock
-bloodstream
+bloodstock,noun
+bloodstream,noun
  bloodstreams
-bloodsucker
+bloodsucker,noun
  bloodsuckers
-bloodsucking
-bloodthirsty
+bloodsucking,adjective
+bloodthirsty,adjective
  bloodthirstier bloodthirstiest bloodthirstily bloodthirstiness
-bloody
+bloody,adjective,verb
  bloodied bloodier bloodies bloodiest bloodily bloodiness bloodying
-bloom
+bloom,verb,noun
  bloomed blooming blooms
-bloomer
+bloomer,noun
  bloomers -> [bloomers]
-bloomers -> [bloomer]
-bloop
+bloomers,pluralnoun
+bloop,verb,noun
  blooped blooping bloops
-blooper
+blooper,noun
  bloopers
-blossom
+blossom,verb,noun
  blossomed blossoming blossoms
-blossomy
-blot
+blossomy,adjective
+blot,verb,noun
  blots blotted blotting
-blotch
+blotch,verb,noun
  blotched blotches blotching
-blotchy
+blotchy,adjective
  blotchier blotchiest
-blotter
+blotter,noun
  blotters
-blotto
-blouse
+blotto,adjective
+blouse,verb,noun
  bloused blouses blousing
-blow
+blow,verb,noun
  blew blowing blown blows
-blow-dry
+blow-dry,verb,noun
  blow-dried blow-dries blow-drying
-blower
+blower,noun
  blowers
-blowfly
+blowfly,noun
  blowflies
-blowgun
+blowgun,noun
  blowguns
-blowhard
+blowhard,noun
  blowhards
-blowhole
+blowhole,noun
  blowholes
-blowlamp
+blowlamp,noun
  blowlamps
-blowout
+blowout,noun
  blowouts
-blowpipe
+blowpipe,noun
  blowpipes
-blowsy
+blowsy,adjective
  blowsier blowsiest blowzier blowziest blowzy
-blowtorch
+blowtorch,noun
  blowtorched blowtorches blowtorching
-blowup
+blowup,adjective,noun
  blowups
-blowy
+blowy,adjective
  blowier blowiest
-blub
+blub,verb
  blubbed blubbing blubs
-blubber
+blubber,adjective,verb,noun
  blubbered blubbering blubbers
-blubbery
-bludgeon
+blubbery,adjective
+bludgeon,verb,noun
  bludgeoned bludgeoning bludgeons
-blue
+blue,adjective,verb,noun
  blued blueing blueish blueness bluer blues -> [blues] bluest bluing bluish
-bluebell
+bluebell,noun
  bluebells
-blueberry
+blueberry,noun
  blueberries
-bluebird
+bluebird,adjective,noun
  bluebirds
-bluebonnet
+bluebonnet,noun
  bluebonnets
-bluebottle
+bluebottle,noun
  bluebottles
-blue-chip
-blue-collar
-bluefish
+blue-chip,adjective
+blue-collar,adjective
+bluefish,noun
  bluefishes
-bluegill
+bluegill,noun
  bluegills
-bluegrass
-bluejacket
+bluegrass,noun
+bluejacket,noun
  bluejackets
-bluejay
+bluejay!!!
  bluejays
-bluejeans
-bluenose
+bluejeans,pluralnoun
+bluenose,noun
  bluenoses
-bluepoint
+bluepoint,noun
  bluepoints
-blueprint
+blueprint,verb,noun
  blueprinted blueprinting blueprints
-blues -> [blue]
-bluestocking
+blues,pluralnoun
+bluestocking,noun
  bluestockings
-bluesy
+bluesy,adjective
  bluesier bluesiest
-bluet
+bluet,noun
  bluets
-bluff
+bluff,verb,adjective,noun
  bluffed bluffer -> [bluffer] bluffest bluffing bluffly bluffness bluffs
-bluffer -> [bluff]
+bluffer,noun
  bluffers
-blunder
+blunder,verb,noun
  blundered blundering blunders
-blunderbuss
+blunderbuss,noun
  blunderbusses
-blunderer
+blunderer,noun
  blunderers
-blunt
+blunt,adjective,verb,noun
  blunted blunter bluntest blunting bluntly bluntness blunts
-blur
+blur,verb,adjective,noun
  blurred blurring blurs
-blurb
+blurb,verb,noun
  blurbs
-blurry
+blurry,adjective
  blurrier blurriest blurriness
-blurt
+blurt,verb
  blurted blurting blurts
-blush
+blush,verb,noun
  blushed blushes blushing
-blusher
+blusher,noun
  blushers
-bluster
+bluster,verb,noun
  blustered blustering blusters
-blusterer
+blusterer,noun
  blusterers
-blusterous
-blustery
+blusterous,adjective
+blustery,adjective
  blusterier blusteriest
-boa
+boa,noun
  boas
-boar
+boar,noun
  boars
-board
+board,verb,noun
  boarded boarding boards
-boarder
+boarder,noun
  boarders
-boardinghouse
+boardinghouse,noun
  boardinghouses
-boardroom
+boardroom,noun
  boardrooms
-boardwalk
+boardwalk,noun
  boardwalks
-boast
+boast,verb,noun
  boasted boastful boastfully boastfulness boasting boasts
-boaster
+boaster,noun
  boasters
-boat
+boat,verb,noun
  boated boating boats
-boater
+boater,noun
  boaters
-boathouse
+boathouse,noun
  boathouses
-boatload
+boatload,noun
  boatloads
-boatman
+boatman,noun
  boatmen
-boatswain
+boatswain,noun
  boatswains bosun bosuns
-boatyard
+boatyard,noun
  boatyards
-bob
+bob,verb,abbreviation,noun
  bobbed bobbing bobs
-bobbin
+bobbin,noun
  bobbins
-bobble
+bobble,verb,noun
  bobbled bobbles bobbling
-bobby
+bobby,noun
  bobbies
-bobbysoxer
+bobbysoxer,noun
  bobbysoxers
-bobcat
+bobcat,noun
  bobcats
-bobolink
+bobolink,noun
  bobolinks
-bobsled
+bobsled,noun
  bobsledded bobsledding bobsleds
-bobsledder
+bobsledder!!!
  bobsledders
-bobsleigh
+bobsleigh,noun
  bobsleighed bobsleighing bobsleighs
-bobtail
+bobtail,noun
  bobtails
-bobwhite
+bobwhite,noun
  bobwhites
-boccie
+boccie,noun
  bocce bocci
-bock
-bod
+bock,noun
+bod,noun,abbreviation
  bods
-bodacious
-bode
+bodacious,adjective
+bode,verb
  boded bodes boding
-bodega
+bodega,noun
  bodegas
-bodice
+bodice,noun
  bodices
-bodkin
+bodkin,noun
  bodkins
-body
+body,verb,noun
  bodied bodies bodily
-bodyboard
+bodyboard,noun
  bodyboards
-bodybuilder
+bodybuilder,noun
  bodybuilders
-bodybuilding
-bodyguard
+bodybuilding,noun
+bodyguard,noun
  bodyguards
-bodysuit
+bodysuit,noun
  bodysuits
-bodywarmer
+bodywarmer!!!
  bodywarmers
-bodywork
-boerewors
-boffin
+bodywork,noun
+boerewors,noun
+boffin,noun
  boffins
-boffo
-bog
+boffo,adjective,noun
+bog,verb,noun
  bogged bogging bogs
-bogan
+bogan,noun
  bogans
-bogey
+bogey,verb,noun
  bogeyed bogeying bogeys bogie bogied bogieing bogies bogy
-bogeyman
+bogeyman,noun
  bogeymen bogyman bogymen boogeyman boogeymen boogieman boogiemen
-boggle
+boggle,verb
  boggled boggles boggling
-boggy
+boggy,adjective
  boggier boggiest
-bogus
-bohemian
+bogus,adjective
+bohemian,adjective,noun
  bohemians
-bohemianism
-boil
+bohemianism,noun
+boil,verb,noun
  boiled boiling boils
-boiler
+boiler,noun
  boilers
-boilermaker
+boilermaker,noun
  boilermakers
-boilerplate
+boilerplate,noun
  boilerplates
-boilersuit
+boilersuit,noun
  boilersuits
-boisterous
+boisterous,adjective
  boisterously boisterousness
-bola
+bola,noun
  bolas
-bold
+bold,adjective,noun
  bolder boldest boldly boldness
-boldface
+boldface,adjective,noun
  boldfaced
-bole
+bole,noun
  boles
-bolero
+bolero,noun
  boleros
-bolivar
+bolivar,noun
  bolivares bolivars
-boll
+boll,noun
  bolls
-bollard
+bollard,noun
  bollards
-bollix
+bollix,verb,noun
  bollixed bollixes bollixing
-bollocking
+bollocking,noun
  bollockings
-bollocks
-bologna
+bollocks,pluralnoun
+bologna,noun,propernoun
  baloney -> [baloney] boloney -> [baloney]
-bolshevik
+bolshevik,adjective,noun
  bolsheviki bolsheviks
-bolshy
+bolshy,adjective,noun
  bolshie
-bolster
+bolster,verb,noun
  bolstered bolstering bolsters
-bolt
+bolt,verb,noun
  bolted bolting bolts
-bolthole
+bolthole,noun
  boltholes
-bolus
+bolus,noun
  boluses
-bomb
+bomb,verb,noun
  bombed bombing -> [bombing] bombs
-bombard
+bombard,verb,noun
  bombarded bombarding bombards
-bombardier
+bombardier,noun
  bombardiers
-bombardment
+bombardment,noun
  bombardments
-bombast
-bombastic
+bombast,noun
+bombastic,adjective
  bombastically
-bomber
+bomber,noun
  bombers
-bombing -> [bomb]
+bombing,noun
  bombings
-bombproof
+bombproof,adjective
  bombproofed bombproofing bombproofs
-bombshell
+bombshell,noun
  bombshells
-bombsite
+bombsite,noun
  bombsites
-bonanza
+bonanza,noun
  bonanzas
-bonbon
+bonbon,noun
  bonbons
-bonce
+bonce,noun
  bonces
-bond
+bond,verb,noun
  bonded bonding bonds
-bondage
-bondholder
+bondage,noun
+bondholder,noun
  bondholders
-bondman
+bondman,noun
  bondmen bondsman -> [bondsman] bondsmen -> [bondsman]
-bondsman -> [bondman]
+bondsman,noun
  bondsmen -> [bondman]
-bondwoman
+bondwoman,noun
  bondwomen
-bone
+bone,verb,noun,propernoun
  boned boneless bones boning
-bonehead
+bonehead,noun
  boneheaded boneheads
-bonemeal
-boner
+bonemeal,noun
+boner,noun
  boners
-boneshaker
+boneshaker,noun
  boneshakers
-boneyard
+boneyard,noun
  boneyards
-bonfire
+bonfire,noun
  bonfires
-bong
+bong,verb,noun
  bonged bonging bongs
-bongo
+bongo,noun
  bongoes bongos
-bonhomie
-bonito
+bonhomie,noun
+bonito,noun
  bonitoes bonitos
-bonk
+bonk,verb,noun
  bonked bonking bonks
-bonkbuster
+bonkbuster,noun
  bonkbusters
-bonkers
-bonnet
+bonkers,adjective
+bonnet,noun
  bonnets
-bonny
+bonny,adjective,noun
  bonnie bonnier bonniest
-bonsai
+bonsai,noun
  bonsais
-bonus
+bonus,noun
  bonuses
-bony
+bony,adjective
  boney boneyer boneyest bonier boniest boniness
-bonzer
-boo
+bonzer,adjective
+boo,exclamation,verb,noun
  booed booing boos
-boob
+boob,verb,noun
  boobed boobing boobs
-booboo
+booboo,noun
  booboos
-booby
+booby,noun
  boobies
-boodle
+boodle,noun
  boodles
-booger
+booger,noun
  boogers
-boogie
+boogie,verb,noun
  boogied boogieing boogies
-boohoo
+boohoo,exclamation,verb
  boohooed boohooing boohoos
-book
+book,verb,noun
  booked booking -> [booking] bookish books
-bookable
-bookbinder
+bookable,adjective
+bookbinder,noun
  bookbinders
-bookbindery
+bookbindery,noun
  bookbinderies
-bookbinding
-bookcase
+bookbinding,noun
+bookcase,noun
  bookcases
-bookend
+bookend,verb,noun
  bookended bookending bookends
-bookie
+bookie,noun
  bookies
-booking -> [book]
+booking,noun
  bookings
-bookkeeper
+bookkeeper,noun
  bookkeepers
-bookkeeping
-booklet
+bookkeeping,noun
+booklet,noun
  booklets
-bookmaker
+bookmaker,noun
  bookmakers
-bookmaking
-bookmark
+bookmaking,noun
+bookmark,verb,noun
  bookmarked bookmarking bookmarks
-bookmobile
+bookmobile,noun
  bookmobiles
-bookplate
+bookplate,noun
  bookplates
-bookseller
+bookseller,noun
  booksellers
-bookshelf
+bookshelf,noun
  bookshelves
-bookshop
+bookshop,noun
  bookshops
-bookstall
+bookstall,noun
  bookstalls
-bookstore
+bookstore,noun
  bookstores
-bookworm
+bookworm,noun
  bookworms
-boom
+boom,verb,noun
  boomed booming booms
-boombox
+boombox,noun
  boomboxes
-boomer
+boomer,noun
  boomers
-boomerang
+boomerang,verb,noun
  boomeranged boomeranging boomerangs
-boomtown
+boomtown,noun
  boomtowns
-boon
+boon,noun
  boons
-boondocks
-boondoggle
+boondocks,pluralnoun
+boondoggle,verb,noun
  boondoggled boondoggles boondoggling
-boondoggler
+boondoggler!!!
  boondogglers
-boonies
-boor
+boonies,pluralnoun
+boor,noun
  boorish boorishly boorishness -> [boorishness] boors
-boorishness -> [boor]
+boorishness,noun
  boorishnesses
-boost
+boost,verb,noun
  boosted boosting boosts
-booster
+booster,noun
  boosters
-boot
+boot,verb,noun
  booted booting bootless boots
-bootblack
+bootblack,noun
  bootblacks
-bootcut
-bootee
+bootcut,adjective
+bootee,noun
  bootees bootie booties -> [booty]
-booth
+booth,noun
  booths
-bootlace
+bootlace,noun
  bootlaces
-bootleg
+bootleg,adjective,verb,noun
  bootlegged bootlegging bootlegs
-bootlegger
+bootlegger,noun
  bootleggers
-bootstrap
+bootstrap,verb,noun
  bootstrapped bootstrapping bootstraps
-booty
+booty,noun
  booties -> [bootee]
-booze
+booze,verb,noun
  boozed boozes boozing
-boozer
+boozer,noun
  boozers
-boozy
+boozy,adjective
  boozier booziest
-bop
+bop,verb,noun
  bopped bopping bops
-borage
-borax
-bordello
+borage,noun
+borax,noun
+bordello,noun
  bordellos
-border
+border,verb,noun
  bordered bordering borders
-borderland
+borderland,noun
  borderlands
-borderline
+borderline,adjective,noun
  borderlines
-bore -> [bear]
+bore,verb,noun
  bored bores boring boringly
-boredom
-borehole
+boredom,noun
+borehole,noun
  boreholes
-borer
+borer,noun
  borers
-born
-born-again
-boron
-borough
+born,adjective
+born-again,adjective,noun
+boron,noun
+borough,noun
  boroughs
-borrow
+borrow,verb,noun
  borrowed borrowing -> [borrowing] borrows
-borrower
+borrower,noun
  borrowers
-borrowing -> [borrow]
+borrowing,noun
  borrowings
-borscht
+borscht,noun
  borsch
-borstal
+borstal,noun
  borstals
-borzoi
+borzoi,noun
  borzois
-bosh
-bosom
+bosh,noun
+bosom,adjective,noun
  bosoms
-bosomy
-boss
+bosomy,adjective
+boss,verb,adjective,noun,abbreviation
  bossed bosses bossing
-bossism
-bossy
+bossism,noun
+bossy,adjective,noun
  bossier bossiest bossily bossiness
-bossyboots
-bot
+bossyboots,noun
+bot,noun
  bots
-botanic
-botanical
+botanic,adjective
+botanical,adjective,noun
  botanically
-botanist
+botanist,noun
  botanists
-botany
-botch
+botany,noun
+botch,verb,noun
  bodge bodged bodges bodging botched botches botching
-botcher
+botcher,noun
  botchers
-both
-bother
+both,predeterminer<spanclass="listSeparator">,</span>determiner<spanclass="listSeparator">,</span>,pronoun,adverb
+bother,exclamation,verb,noun
  bothered bothering bothers
-botheration
-bothersome
-botnet
+botheration,exclamation,noun
+bothersome,adjective
+botnet,noun
  botnets
-botox
-bottle
+botox,noun
+bottle,verb,noun
  bottled bottles bottling
-bottleneck
+bottleneck,noun
  bottlenecks
-bottler
+bottler,noun
  bottlers
-bottom
+bottom,adjective,verb,noun
  bottomed bottoming bottomless bottoms
-bottom-up
-botulism
-boudoir
+bottom-up,adjective
+botulism,noun
+boudoir,noun
  boudoirs
-bouffant
+bouffant,adjective,noun
  bouffants
-bougainvillea
+bougainvillea,noun
  bougainvillaea bougainvillaeas bougainvilleas
-bough
+bough,noun
  boughs
-bouillabaisse
+bouillabaisse,noun
  bouillabaisses
-bouillon
+bouillon,noun
  bouillons
-boulder
+boulder,noun
  boulders bowlder bowlders
-boules
-boulevard
+boules,noun
+boulevard,noun
  boulevards
-bounce
+bounce,verb,noun
  bounced bounces bouncing
-bouncer
+bouncer,noun
  bouncers
-bouncy
+bouncy,adjective
  bouncier bounciest bouncily bounciness
-bound -> [bind]
+bound,verb,adjective,noun
  bounded bounding boundless boundlessly boundlessness bounds
-boundary
+boundary,noun
  boundaries
-bounden
-bounder
+bounden!!!
+bounder,noun
  bounders
-bounteous
+bounteous,adjective
  bounteously bounteousness
-bounty
+bounty,noun,propernoun
  bounties bountiful bountifully bountifulness
-bouquet
+bouquet,noun
  bouquets
-bourbon
+bourbon,noun,propernoun
  bourbons
-bourgeois
-bourgeoisie
-bourse
+bourgeois,adjective,noun
+bourgeoisie,noun
+bourse,noun
  bourses
-bout
+bout,noun
  bouts
-boutique
+boutique,noun
  boutiques
-boutonniere
+boutonniere,noun
  boutonnieres
-bouzouki
+bouzouki,noun
  bouzoukis
-bovine
+bovine,adjective,noun
  bovines
-bovver
-bow
+bovver,noun
+bow,verb,noun
  bowed bowing bows
-bowdlerization
+bowdlerization,noun
  bowdlerisation bowdlerisations bowdlerizations
-bowdlerize
+bowdlerize,verb
  bowdlerise bowdlerised bowdlerises bowdlerising bowdlerized bowdlerizes bowdlerizing
-bowel
+bowel,noun
  bowels
-bower
+bower,verb,noun
  bowers
-bowl
+bowl,verb,noun
  bowled bowlful bowlfuls bowling bowls
-bowleg
+bowleg!!!
  bowlegged bowlegs
-bowler
+bowler,noun
  bowlers
-bowline
+bowline,noun
  bowlines
-bowman
+bowman,noun
  bowmen
-bowsprit
+bowsprit,noun
  bowsprits
-bowstring
+bowstring,verb,noun
  bowstrings
-bowwow
+bowwow,exclamation,noun
  bowwows
-box
+box,verb,noun
  boxed boxes boxing boxlike
-boxcar
+boxcar,noun
  boxcars
-boxer
+boxer,noun
  boxers
-boxroom
+boxroom,noun
  boxrooms
-boxwood
+boxwood,verb,noun
  boxwoods
-boxy
+boxy,adjective
  boxier boxiest
-boy
+boy,exclamation,noun
  boyish boyishly boyishness boys
-boycott
+boycott,verb,noun
  boycotted boycotting boycotts
-boyfriend
+boyfriend,noun
  boyfriends
-boyhood
+boyhood,noun
  boyhoods
-boysenberry
+boysenberry,noun
  boysenberries
-bozo
+bozo,noun
  bozos
-bra
+bra,noun
  bras
-braai
+braai,verb,noun
  braais
-brace
+brace,verb,noun
  braced braces bracing
-bracelet
+bracelet,noun
  bracelets
-bracer
+bracer,noun
  bracers
-bracero
+bracero,noun
  braceros
-bracken
-bracket
+bracken,noun
+bracket,verb,noun
  bracketed bracketing brackets
-brackish
+brackish,adjective
  brackishness
-bract
+bract,noun
  bracts
-brad
+brad,noun
  brads
-bradawl
+bradawl,noun
  bradawls
-brae
+brae,noun
  braes
-brag
+brag,verb,adjective,noun
  bragged bragging brags
-braggadocio
+braggadocio,noun
  braggadocios
-braggart
+braggart,noun
  braggarts
-bragger
+bragger,noun
  braggers
-braid
+braid,verb,noun
  braided braiding braids
-braille
-brain
+braille,verb,noun
+brain,verb,noun
  brained braining brainless brainlessly brains
-brainchild
+brainchild,noun
  brainchildren
-braindead
-brainiac
+braindead,adjective
+brainiac,noun
  brainiacs
-brainpower
-brainstorm
+brainpower,noun
+brainstorm,verb,noun
  brainstormed brainstorming brainstorms
-brainteaser
+brainteaser,noun
  brainteasers
-brainwash
+brainwash,verb
  brainwashed brainwashes brainwashing
-brainwave
+brainwave,noun
  brainwaves
-brainy
+brainy,adjective
  brainier brainiest braininess
-braise
+braise,verb
  braised braises braising
-brake
+brake,verb,noun
  braked brakes braking
-brakeman
+brakeman,noun
  brakemen
-bramble
+bramble,verb,noun
  brambles
-brambly
+brambly,adjective
  bramblier brambliest
-bran
-branch
+bran,noun
+branch,verb,noun
  branched branches branching branchlike
-brand
+brand,verb,noun
  branded branding brands
-brander
+brander,noun
  branders
-brandish
+brandish,verb
  brandished brandishes brandishing
-brand-name
-brand-new
-brandy
+brand-name,noun
+brand-new,adjective
+brandy,noun
  brandied brandies brandying
-brash
+brash,adjective,noun
  brasher brashest brashly brashness
-brass
+brass,noun
  brasses
-brasserie
+brasserie,noun
  brasseries
-brassica
+brassica,noun
  brassicas
-brassiere
+brassiere,noun
  brassieres
-brassy
+brassy,adjective,noun
  brassier brassiest brassily brassiness
-brat
+brat,noun
  brats
-bratty
+bratty,adjective
  brattier brattiest
-bratwurst
+bratwurst,noun
  bratwursts
-bravado
-brave
+bravado,noun
+brave,adjective,verb,noun
  braved bravely braveness braver braves bravest braving
-bravery
-bravo
+bravery,noun
+bravo,exclamation,noun
  bravos
-bravura
+bravura,noun
  bravuras
-brawl
+brawl,verb,noun
  brawled brawling brawls
-brawler
+brawler,noun
  brawlers
-brawn
-brawny
+brawn,noun
+brawny,adjective
  brawnier brawniest brawniness
-bray
+bray,verb,noun
  brayed braying brays
-braze
+braze,verb,noun
  brazed brazes brazing
-brazen
+brazen,adjective,verb
  brazened brazening brazenly brazenness brazens
-brazer
+brazer!!!
  brazers
-brazier
+brazier,noun
  braziers
-breach
+breach,verb,noun
  breached breaches breaching
-bread
+bread,verb,noun
  breaded breading breads
-breadbasket
+breadbasket,noun
  breadbaskets
-breadboard
+breadboard,verb,noun
  breadboards
-breadbox
+breadbox,noun
  breadboxes
-breadcrumb
+breadcrumb,noun
  breadcrumbs
-breadfruit
+breadfruit,noun
  breadfruits
-breadline
+breadline,noun
  breadlines
-breadth
+breadth,noun
  breadths
-breadwinner
+breadwinner,noun
  breadwinners
-break
+break,verb,noun
  breaking breaks broke broken -> [broken]
-breakable
+breakable,pluralnoun,adjective
  breakables
-breakage
+breakage,noun
  breakages
-breakaway
+breakaway,noun
  breakaways
-breakdancing
-breakdown
+breakdancing,noun
+breakdown,noun
  breakdowns
-breaker
+breaker,noun
  breakers
-breakeven
-breakfast
+breakeven,noun
+breakfast,verb,noun
  breakfasted breakfasting breakfasts
-breakfront
+breakfront,noun
  breakfronts
-break-in
+break-in,noun
  break-ins
-breakneck
-breakout
+breakneck,adjective
+breakout,adjective,noun
  breakouts
-breakthrough
+breakthrough,noun
  breakthroughs
-breakup
+breakup,noun
  breakups
-breakwater
+breakwater,noun
  breakwaters
-bream
+bream,verb,noun
  breams
-breast
+breast,verb,noun
  breasted breasting breasts
-breastbone
+breastbone,noun
  breastbones
-breastfeed
+breastfeed,verb
  breastfed breastfeeding breastfeeds
-breastplate
+breastplate,noun
  breastplates
-breaststroke
+breaststroke,noun
  breaststrokes
-breastwork
+breastwork,noun
  breastworks
-breath
+breath,noun
  breathless breathlessly breathlessness breaths
-breathable
-breathalyze
+breathable,adjective
+breathalyze,verb
  breathalyse breathalysed breathalyses breathalysing breathalyzed breathalyzes breathalyzing
-breathalyzer
+breathalyzer,noun
  breathalyser breathalysers breathalyzers
-breathe
+breathe,verb
  breathed breathes breathing
-breather
+breather,noun
  breathers
-breathtaking
+breathtaking,adjective
  breathtakingly
-breathy
+breathy,adjective
  breathier breathiest
-breech
+breech,verb,noun
  breeches -> [breeches]
-breeches -> [breech]
+breeches,pluralnoun
  britches
-breed
+breed,verb,noun
  bred breeding breeds
-breeder
+breeder,noun
  breeders
-breeze
+breeze,verb,noun
  breezed breezes breezing
-breezeway
+breezeway,noun
  breezeways
-breezy
+breezy,adjective
  breezier breeziest breezily breeziness
-breve
+breve,noun
  breves
-brevet
+brevet,verb,noun
  breveted breveting brevets brevetted brevetting
-breviary
+breviary,noun
  breviaries
-brevity
-brew
+brevity,noun
+brew,verb,noun
  brewed brewing brews
-brewer
+brewer,noun
  brewers
-brewery
+brewery,noun
  breweries
-brewpub
+brewpub,noun
  brewpubs
-bribe
+bribe,verb,noun
  bribed bribes bribing
-briber
+briber,noun
  bribers
-bribery
-brick
+bribery,noun
+brick,verb,noun
  bricked bricking bricks
-brickbat
+brickbat,noun
  brickbats
-brickie
+brickie,noun
  brickies
-bricklayer
+bricklayer,noun
  bricklayers
-bricklaying
-brickwork
-brickyard
+bricklaying,noun
+brickwork,noun
+brickyard,noun
  brickyards
-bridal
+bridal,adjective
  bridals
-bride
+bride,noun
  brides
-bridegroom
+bridegroom,noun
  bridegrooms
-bridesmaid
+bridesmaid,noun
  bridesmaids
-bridge
+bridge,verb,noun
  bridged bridges bridging
-bridgeable
-bridgehead
+bridgeable,adjective
+bridgehead,noun
  bridgeheads
-bridgework
-bridle
+bridgework,noun
+bridle,verb,noun
  bridled bridles bridling
-bridleway
+bridleway,noun
  bridleways
-brie
-brief
+brie,noun
+brief,adjective,verb,noun
  briefed briefer briefest briefing -> [briefing] briefly briefness briefs
-briefcase
+briefcase,noun
  briefcases
-briefing -> [brief]
+briefing,noun
  briefings
-brier
+brier,noun
  briar briars briers
-brig
+brig,noun
  brigs
-brigade
+brigade,verb,noun
  brigades
-brigadier
+brigadier,noun
  brigadiers
-brigand
+brigand,noun
  brigands
-brigandage
-brigantine
+brigandage,noun
+brigantine,noun
  brigantines
-bright
+bright,adjective,noun,adverb
  brighter brightest brightly brightness brights
-brighten
+brighten,verb
  brightened brightening brightens
-brightener
+brightener,noun
  brighteners
-bright-eyed
-brill
-brilliance
+bright-eyed,adjective
+brill,adjective,noun
+brilliance,noun
  brilliancy
-brilliant
+brilliant,adjective,noun
  brilliantly brilliants
-brilliantine
-brim
+brilliantine,noun
+brim,verb,noun
  brimless brimmed brimming brims
-brimful
+brimful,adjective
  brimfull
-brimstone
-brindle
+brimstone,noun
+brindle,adjective,noun
  brindled
-brine
-bring
+brine,verb,noun
+bring,verb
  bringing brings brought
-bringer
+bringer,noun
  bringers
-brinjal
+brinjal,noun
  brinjals
-brink
+brink,noun
  brinks
-brinkmanship
+brinkmanship,noun
  brinksmanship
-briny
+briny,adjective,noun
  brinier briniest brininess
-brio
-brioche
+brio,noun
+brioche,noun
  brioches
-briquette
+briquette,noun
  briquet briquets briquettes
-brisk
+brisk,adjective,verb
  brisked brisker briskest brisking briskly briskness brisks
-brisket
+brisket,noun
  briskets
-bristle
+bristle,verb,noun
  bristled bristles bristling
-bristly
+bristly,adjective
  bristlier bristliest
-brittle
+brittle,adjective,noun
  brittleness brittler brittlest
-bro
+bro,noun
  bros
-broach
+broach,verb,noun
  broached broaches broaching
-broad
+broad,adjective,noun
  broader broadest broadly broadness broads
-broadband
-broadcast
+broadband,noun
+broadcast,verb,adjective,noun,adverb
  broadcasted broadcasting broadcasts
-broadcaster
+broadcaster,noun
  broadcasters
-broadcloth
-broaden
+broadcloth,noun
+broaden,verb
  broadened broadening broadens
-broadloom
-broadminded
+broadloom,noun
+broadminded,adjective
  broadmindedness
-broadsheet
+broadsheet,noun
  broadsheets
-broadside
+broadside,verb,noun,adverb
  broadsided broadsides broadsiding
-broadsword
+broadsword,noun
  broadswords
-brocade
+brocade,noun
  brocaded brocades brocading
-broccoli
-brochette
+broccoli,noun
+brochette,noun
  brochettes
-brochure
+brochure,noun
  brochures
-brogan
+brogan,noun
  brogans
-brogue
+brogue,noun
  brogues
-broil
+broil,verb,noun
  broiled broiling broils
-broiler
+broiler,noun
  broilers
-broken -> [break]
+broken,verb,adjective
  brokenly brokenness
-broken-down
-brokenhearted
+broken-down,adjective
+brokenhearted,adjective
  brokenheartedly
-broker
+broker,verb,noun
  brokered brokering brokers
-brokerage
+brokerage,noun
  brokerages
-brolly
+brolly,noun
  brollies
-bromide
+bromide,noun
  bromides
-bromidic
-bromine
-bronc
+bromidic,adjective
+bromine,noun
+bronc,noun
  broncs
-bronchial
-bronchitic
-bronchitis
-bronchus
+bronchial,adjective
+bronchitic,noun,adjective
+bronchitis,noun
+bronchus,noun
  bronchi
-bronco
+bronco,noun
  broncho bronchos broncos
-broncobuster
+broncobuster,noun
  broncobusters
-brontosaur
+brontosaur,noun
  brontosaurs
-brontosaurus
+brontosaurus,noun
  brontosauri brontosauruses
-bronze
+bronze,verb,noun
  bronzed bronzes bronzing
-brooch
+brooch,noun
  brooches
-brood
+brood,verb,adjective,noun
  brooded brooding broodingly broods
-brooder
+brooder,noun
  brooders
-broodmare
+broodmare!!!
  broodmares
-broody
+broody,adjective
  broodier broodiest broodily broodiness
-brook
+brook,verb,noun
  brooked brooking brooks
-brooklet
+brooklet,noun
  brooklets
-broom
+broom,noun
  brooms
-broomstick
+broomstick,noun
  broomsticks
-broth
+broth,noun
  broths
-brothel
+brothel,noun
  brothels
-brother
+brother,exclamation,noun
  brethren brotherliness brotherly brothers
-brotherhood
+brotherhood,noun
  brotherhoods
-brother-in-law
+brother-in-law,noun
  brothers-in-law
-brougham
+brougham,noun
  broughams
-brouhaha
+brouhaha,noun
  brouhahas
-brow
+brow,noun
  brows
-browbeat
+browbeat,verb
  browbeaten browbeating browbeats
-brown
+brown,adjective,verb,noun
  browned browner brownest browning brownish brownness browns
-brownfield
-brownie
+brownfield,adjective
+brownie,noun
  brownies
-brownnose
+brownnose,verb,noun
  brownnosed brownnoses brownnosing
-brownout
+brownout,noun
  brownouts
-brownstone
+brownstone,noun
  brownstones
-browse
+browse,verb,noun
  browsed browses browsing
-browser
+browser,noun
  browsers
-brr
-bruin
+brr,exclamation
+bruin,noun
  bruins
-bruise
+bruise,verb,noun
  bruised bruises bruising
-bruiser
+bruiser,noun
  bruisers
-bruit
+bruit,verb,noun
  bruited bruiting bruits
-brunch
+brunch,noun
  brunched brunches brunching
-brunette
+brunette,adjective,noun
  brunet brunets brunettes
-brunt
-bruschetta
-brush
+brunt,noun
+bruschetta,noun
+brush,verb,noun
  brushed brushes brushing
-brushoff
+brushoff,noun
  brushoffs
-brushstroke
+brushstroke,noun
  brushstrokes
-brushwood
-brushwork
-brusque
+brushwood,noun
+brushwork,noun
+brusque,adjective
  brusk brusker bruskest bruskly bruskness brusquely brusqueness brusquer brusquest
-brutal
+brutal,adjective
  brutally
-brutality
+brutality,noun
  brutalities
-brutalization
+brutalization,noun
  brutalisation
-brutalize
+brutalize,verb
  brutalise brutalised brutalises brutalising brutalized brutalizes brutalizing
-brute
+brute,adjective,noun
  brutes brutish brutishly brutishness
-bub
+bub,noun
  bubs
-bubble
+bubble,verb,noun
  bubbled bubbles bubbling
-bubblegum
-bubbly
+bubblegum,noun
+bubbly,adjective,noun
  bubblier bubbliest
-bubo
+bubo,noun
  buboes
-buccaneer
+buccaneer,noun
  buccaneering buccaneers
-buck
+buck,verb,adjective,noun
  bucked bucking bucks
-buckaroo
+buckaroo,noun
  buckaroos
-buckboard
+buckboard,noun
  buckboards
-bucket
+bucket,verb,noun
  bucketed bucketful bucketfuls bucketing buckets bucketsful
-buckeye
+buckeye,noun
  buckeyes
-buckle
+buckle,verb,noun
  buckled buckles buckling
-buckler
+buckler,noun
  bucklers
-buckram
-bucksaw
+buckram,noun
+bucksaw,noun
  bucksaws
-buckshot
-buckskin
+buckshot,noun
+buckskin,noun
  buckskins
-bucktooth
+bucktooth,noun
  buckteeth bucktoothed
-buckwheat
-buckyball
+buckwheat,noun
+buckyball,noun
  buckyballs
-bucolic
+bucolic,adjective,noun
  bucolically bucolics
-bud
+bud,verb,noun
  budded budding buds
-buddy
+buddy,verb,noun
  buddied buddies buddying
-budge
+budge,verb
  budged budges budging
-budgerigar
+budgerigar,noun
  budgerigars
-budget
+budget,verb,adjective,noun
  budgeted budgeting budgets
-budgetary
-budgie
+budgetary,adjective
+budgie,noun
  budgies
-buff
+buff,verb,adjective,noun
  buffed buffing buffs
-buffalo
+buffalo,verb,noun,propernoun
  buffaloed buffaloes buffaloing buffalos
-buffer
+buffer,verb,noun
  buffered buffering buffers
-buffet
+buffet,verb,noun
  buffeted buffeting -> [buffeting] buffets
-buffeting -> [buffet]
+buffeting,noun
  buffetings
-buffoon
+buffoon,noun
  buffoonish buffoons
-buffoonery
-bug
+buffoonery,noun
+bug,verb,noun
  bugged bugging bugs
-bugaboo
+bugaboo,noun
  bugaboos
-bugbear
+bugbear,noun
  bugbears
-bugger
+bugger,exclamation,verb,noun
  buggered buggering buggers
-buggery
-buggy
+buggery,noun
+buggy,adjective,noun
  buggier buggies buggiest
-bugle
+bugle,verb,noun
  bugled bugles bugling
-bugler
+bugler,noun
  buglers
-build
+build,verb,noun
  building -> [building] builds built
-builder
+builder,noun
  builders
-building -> [build]
+building,noun
  buildings
-buildup
+buildup,noun
  buildups
-built-in
-built-up
-bulb
+built-in,adjective
+built-up,adjective
+bulb,noun
  bulbs
-bulbous
-bulge
+bulbous,adjective
+bulge,verb,noun
  bulged bulges bulging
-bulgur
-bulgy
+bulgur,noun
+bulgy,adjective
  bulgier bulgiest
-bulimarexia
-bulimia
-bulimic
+bulimarexia,noun
+bulimia,noun
+bulimic,adjective,noun
  bulimics
-bulk
+bulk,verb,noun
  bulked bulking bulks
-bulkhead
+bulkhead,noun
  bulkheads
-bulky
+bulky,adjective
  bulkier bulkiest bulkiness
-bull
+bull,verb,noun
  bulled bulling bullish bullishly bullishness bulls
-bulldog
+bulldog,verb,noun
  bulldogged bulldogging bulldogs
-bulldoze
+bulldoze,verb
  bulldozed bulldozes bulldozing
-bulldozer
+bulldozer,noun
  bulldozers
-bulldyke
+bulldyke,noun
  bulldykes
-bullet
+bullet,noun
  bullets
-bulletin
+bulletin,noun
  bulletined bulletining bulletins
-bulletproof
+bulletproof,adjective
  bulletproofed bulletproofing bulletproofs
-bullfight
+bullfight,noun
  bullfighting bullfights
-bullfighter
+bullfighter,noun
  bullfighters
-bullfinch
+bullfinch,noun
  bullfinches
-bullfrog
+bullfrog,noun
  bullfrogs
-bullhead
+bullhead,noun
  bullheaded bullheadedly bullheadedness bullheads
-bullhorn
+bullhorn,noun
  bullhorns
-bullion
-bullock
+bullion,noun
+bullock,verb,noun
  bullocks
-bullpen
+bullpen,noun
  bullpens
-bullring
+bullring,noun
  bullrings
-bullseye
+bullseye,noun
  bullseyes
-bullshit
+bullshit,verb,noun
  bullshits bullshitted bullshitting
-bullshitter
+bullshitter,noun
  bullshitters
-bullwhip
+bullwhip,verb,noun
  bullwhips
-bully
+bully,verb,adjective,noun
  bullied bullies bullying
-bullyboy
+bullyboy,noun
  bullyboys
-bulrush
+bulrush,noun
  bulrushes
-bulwark
+bulwark,noun
  bulwarks
-bum
+bum,verb,adjective,noun
  bummed bummer -> [bummer] bummest bumming bums
-bumbag
+bumbag,noun
  bumbags
-bumble
+bumble,verb
  bumbled bumbles bumbling
-bumblebee
+bumblebee,noun
  bumblebees
-bumbler
+bumbler,noun
  bumblers
-bumf
+bumf,noun
  bumph
-bummer -> [bum]
+bummer,noun
  bummers
-bump
+bump,verb,noun
  bumped bumping bumps
-bumper
+bumper,adjective,noun
  bumpers
-bumpkin
+bumpkin,noun
  bumpkins
-bumptious
+bumptious,adjective
  bumptiously bumptiousness
-bumpy
+bumpy,adjective
  bumpier bumpiest bumpiness
-bun
+bun,noun
  buns
-bunch
+bunch,verb,noun
  bunched bunches bunching
-bunchy
+bunchy,adjective
  bunchier bunchiest
-bunco
+bunco,verb,noun
  buncoed buncoing buncos bunko bunkoed bunkoing bunkos
-bundle
+bundle,verb,noun
  bundled bundles bundling
-bung
+bung,verb,adjective,noun
  bunged bunging bungs
-bungalow
+bungalow,noun
  bungalows
-bungee
+bungee,verb,noun
  bungees
-bunghole
+bunghole,noun
  bungholes
-bungle
+bungle,verb,noun
  bungled bungles bungling
-bungler
+bungler,noun
  bunglers
-bunion
+bunion,noun
  bunions
-bunk
+bunk,verb,noun
  bunked bunking bunks
-bunker
+bunker,verb,noun
  bunkers
-bunkhouse
+bunkhouse,noun
  bunkhouses
-bunkum
+bunkum,noun
  buncombe
-bunny
+bunny,noun
  bunnies
-bunt
+bunt,verb,noun
  bunted bunting -> [bunting] bunts
-bunting -> [bunt]
+bunting,noun
  buntings
-buoy
+buoy,verb,noun
  buoyed buoying buoys
-buoyancy
-buoyant
+buoyancy,noun
+buoyant,adjective
  buoyantly
-bur -> [burr]
+bur,noun,abbreviation
  burr -> [burr] burrs -> [burr] burs -> [burr]
-burble
+burble,verb,noun
  burbled burbles burbling
-burbs
-burden
+burbs,noun
+burden,verb,noun
  burdened burdening burdens
-burdensome
-burdock
-bureau
+burdensome,adjective
+burdock,noun
+bureau,noun
  bureaus bureaux
-bureaucracy
+bureaucracy,noun
  bureaucracies
-bureaucrat
+bureaucrat,noun
  bureaucrats
-bureaucratic
+bureaucratic,adjective
  bureaucratically
-bureaucratization
+bureaucratization,noun
  bureaucratisation
-bureaucratize
+bureaucratize,verb
  bureaucratise bureaucratised bureaucratises bureaucratising bureaucratized bureaucratizes bureaucratizing
-burette
+burette,noun
  buret burets burettes
-burg
+burg,noun
  burgs
-burgeon
+burgeon,verb
  burgeoned burgeoning burgeons
-burger
+burger,noun
  burgers
-burgh
+burgh,noun
  burghs
-burgher
+burgher,noun
  burghers
-burglar
+burglar,noun
  burglars
-burglarize
+burglarize,verb
  burglarise burglarised burglarises burglarising burglarized burglarizes burglarizing
-burglarproof
+burglarproof,adjective
  burglarproofed burglarproofing burglarproofs
-burglary
+burglary,noun
  burglaries
-burgle
+burgle,verb
  burgled burgles burgling
-burgomaster
+burgomaster,noun
  burgomasters
-burgundy
+burgundy,noun,propernoun
  burgundies
-burial
+burial,noun
  burials
-burka
+burka,noun
  burkas burqa burqas
-burl
+burl,noun
  burled burls
-burlap
-burlesque
+burlap,noun
+burlesque,verb,noun
  burlesqued burlesques burlesquing
-burly
+burly,adjective
  burlier burliest burliness
-burn
+burn,verb,noun
  burned burning burns burnt
-burnable
+burnable,adjective
  burnables
-burned-out
+burned-out,adjective
  burnt-out
-burner
+burner,noun
  burners
-burnish
+burnish,verb,noun
  burnished burnishes burnishing
-burnisher
+burnisher,noun
  burnishers
-burnoose
+burnoose,noun
  burnooses burnous burnouses
-burnout
+burnout,noun
  burnouts
-burp
+burp,verb,noun
  burped burping burps
-burr -> [bur]
+burr,verb,noun
  bur -> [bur] burred burring burrs -> [bur] burs -> [bur]
-burrito
+burrito,noun
  burritos
-burro
+burro,noun
  burros
-burrow
+burrow,verb,noun
  burrowed burrowing burrows
-burrower
+burrower,noun
  burrowers
-bursa
+bursa,noun,propernoun
  bursae bursas
-bursar
+bursar,noun
  bursars
-bursary
+bursary,noun
  bursaries
-bursitis
-burst
+bursitis,noun
+burst,verb,noun
  bursted bursting bursts
-bury
+bury,verb
  buried buries burying
-bus
+bus,verb,noun
  bused buses busing bussed -> [buss] busses -> [buss] bussing -> [buss]
-busboy
+busboy,noun
  busboys
-busby
+busby,noun
  busbies
-busgirl
+busgirl,noun
  busgirls
-bush
+bush,verb,noun
  bushed bushes bushing -> [bushing]
-bushbaby
+bushbaby,noun
  bushbabies
-bushel
+bushel,noun
  busheled busheling bushelled bushelling bushels
-bushing -> [bush]
+bushing,noun
  bushings
-bushman
+bushman,noun
  bushmen
-bushmaster
+bushmaster,noun
  bushmasters
-bushranger
+bushranger,noun
  bushrangers
-bushwhack
+bushwhack,verb
  bushwhacked bushwhacking bushwhacks
-bushwhacker
+bushwhacker,noun
  bushwhackers
-bushy
+bushy,adjective,noun
  bushier bushiest bushiness
-business
+business,noun
  businesses businesslike
-businessman
+businessman,noun
  businessmen
-businessperson
+businessperson,noun
  businesspeople businesspersons
-businesswoman
+businesswoman,noun
  businesswomen
-busk
+busk,verb,noun
  busked busking busks
-busker
+busker,noun
  buskers
-buskin
+buskin,noun
  buskins
-busload
+busload,noun
  busloads
-buss
+buss,verb,noun
  bussed -> [bus] busses -> [bus] bussing -> [bus]
-bust
+bust,verb,adjective,noun
  busted busting busts
-buster
+buster,noun
  busters
-bustier -> [busty]
+bustier,noun
  bustiers
-bustle
+bustle,verb,noun
  bustled bustles bustling
-busty
+busty,adjective
  bustier -> [bustier] bustiest
-busy
+busy,adjective,verb,noun
  busied busier busies busiest busily busying busyness
-busybody
+busybody,noun
  busybodies
-busywork
-but
+busywork,noun
+but,conjunction,noun,preposition,adverb
  buts
-butane
-butch
+butane,noun
+butch,adjective,noun
  butches
-butcher
+butcher,verb,noun
  butchered butchering butchers
-butchery
+butchery,noun
  butcheries
-butler
+butler,noun
  butlers
-butt
+butt,verb,noun
  butted butting butts
-butte
+butte,noun
  buttes
-butter
+butter,verb,noun
  buttered buttering butters
-butterball
+butterball,noun
  butterballs
-buttercream
-buttercup
+buttercream,noun
+buttercup,noun
  buttercups
-butterfat
-butterfingers
+butterfat,noun
+butterfingers,noun
  butterfingered
-butterfly
+butterfly,verb,noun
  butterflied butterflies butterflying
-buttermilk
-butternut
+buttermilk,noun
+butternut,noun
  butternuts
-butterscotch
-buttery
+butterscotch,noun
+buttery,adjective,noun
  butterier butteries butteriest
-buttock
+buttock,noun
  buttocks
-button
+button,verb,noun
  buttoned buttoning buttons
-button-down
-buttonhole
+button-down,adjective,noun
+buttonhole,verb,noun
  buttonholed buttonholes buttonholing
-buttonwood
+buttonwood,noun
  buttonwoods
-buttress
+buttress,verb,noun
  buttressed buttresses buttressing
-butty
+butty,noun
  butties
-buxom
-buy
+buxom,adjective
+buy,verb,noun
  bought buying buys
-buyback
+buyback,noun
  buybacks
-buyer
+buyer,noun
  buyers
-buy-in
-buyout
+buy-in,noun
+buyout,noun
  buyouts
-buzz
+buzz,verb,noun
  buzzed buzzes buzzing
-buzzard
+buzzard,noun
  buzzards
-buzzer
+buzzer,noun
  buzzers
-buzzkill
+buzzkill,noun
  buzzkills
-buzzsaw
+buzzsaw,noun
  buzzsaws
-buzzword
+buzzword,noun
  buzzwords
-by
-bye
+by,noun,preposition,adverb
+bye,exclamation,noun
  byes
-bye-bye
+bye-bye,exclamation
  bye-byes
-by-election
+by-election,noun
  by-elections
-bygone
+bygone,adjective,noun
  bygones
-bylaw
+bylaw,noun
  byelaw byelaws bylaws
-byline
+byline,noun
  bylines
-bypass
+bypass,verb,noun
  bypassed bypasses bypassing bypast
-bypath
+bypath,noun
  bypaths
-byplay
-byproduct
+byplay,noun
+byproduct,noun
  byproducts
-byre
+byre,noun
  byres
-byroad
+byroad,noun
  byroads
-bystander
+bystander,noun
  bystanders
-byte
+byte,noun
  bytes
-byway
+byway,noun
  byways
-byword
+byword,noun
  bywords
-byzantine
+byzantine,adjective,noun
