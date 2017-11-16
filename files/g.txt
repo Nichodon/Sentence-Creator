@@ -113,7 +113,7 @@ gambler,noun
 gambol,verb,noun
  gamboled gamboling gambolled gambolling gambols
 game,verb,adjective,noun
- gamed gamely gameness gamer -> [gamer] games gamest gaming
+ gamed gamely gameness gamer games gamest gaming
 gamecock,noun
  gamecocks
 gamekeeper,noun
@@ -288,7 +288,7 @@ gatepost,noun
 gateway,noun
  gateways
 gather,verb,noun
- gathered gathering -> [gathering] gathers
+ gathered gathering gathers
 gatherer,noun
  gatherers
 gathering,noun
@@ -372,7 +372,7 @@ gelatinous,adjective
 gelcap,noun
  gelcaps
 geld,verb
- gelded gelding -> [gelding] gelds gelt
+ gelded gelding gelds gelt
 gelding,noun
  geldings
 gelid,adjective
@@ -439,7 +439,7 @@ genial,adjective
  genially
 geniality,noun
 genie,noun
- genies -> [jinn] genii -> [genius]
+ genies genii
 genital,adjective,noun
  genitally genitals
 genitalia,pluralnoun
@@ -447,7 +447,7 @@ genitive,adjective,noun
  genitives
 genitourinary,adjective
 genius,adjective,noun
- genii -> [genie] geniuses
+ genii geniuses
 genocidal,adjective
 genocide,noun
  genocides
@@ -645,7 +645,7 @@ giggly,adjective
 gigolo,noun
  gigolos
 gild,verb,noun
- gilded gilding gilds gilt -> [gilt]
+ gilded gilding gilds gilt
 gilder,noun
  gilders
 gill,verb,noun
@@ -688,7 +688,7 @@ ginseng,noun
 giraffe,noun
  giraffes
 gird,verb,noun
- girded girding girds girt -> [girt]
+ girded girding girds girt
 girder,noun
  girders
 girdle,verb,noun
@@ -713,7 +713,7 @@ git,noun
 gite,noun
  gites
 give,verb,noun
- gave given -> [given] gives giving
+ gave given gives giving
 give-and-take,phrase
 giveaway,adjective,noun
  giveaways
@@ -788,7 +788,7 @@ glazier,noun
 gleam,verb,noun
  gleamed gleaming gleams
 glean,verb
- gleaned gleaning -> [gleaning] gleans
+ gleaned gleaning gleans
 gleaner,noun
  gleaners
 gleaning,verb
@@ -804,7 +804,7 @@ glide,verb,noun
 glider,noun
  gliders
 glimmer,verb,noun
- glimmered glimmering -> [glimmering] glimmers
+ glimmered glimmering glimmers
 glimmering,noun
  glimmerings
 glimpse,verb,noun
@@ -881,7 +881,7 @@ glottis,noun
 glove,verb,noun
  gloved gloves gloving
 glow,verb,noun
- glowed glowing -> [glowing] glows
+ glowed glowing glows
 glower,verb,noun
  glowered glowering glowers
 glowing,adjective
@@ -929,7 +929,7 @@ gnomic,adjective
 gnu,noun
  gnus
 go,verb,adjective,noun
- goes going -> [going] gone went
+ goes going gone went
 goad,verb,noun
  goaded goading goads
 go-ahead,adjective,noun
@@ -1074,7 +1074,7 @@ goo,noun
 goober,noun
  goobers
 good,adjective,noun,adverb
- best -> [best well] better -> [better well] goodish goodlier goodliest goodly goodness goods
+ best better goodish goodlier goodliest goodly goodness goods
 goodbye,exclamation,noun
  goodby goodbyes goodbys
 goodhearted,adjective
@@ -1348,7 +1348,7 @@ grassroots!
 grassy,adjective
  grassier grassiest
 grate,verb,noun
- grated grates grating -> [grating]
+ grated grates grating
 grateful,adjective
  gratefully gratefulness
 grater,noun
@@ -1457,7 +1457,7 @@ greensward,noun
 greenwash,noun
 greenwood,noun
 greet,verb
- greeted greeting -> [greeting] greets
+ greeted greeting greets
 greeter,noun
  greeters
 greeting,noun
@@ -1497,7 +1497,7 @@ grievous,adjective
 griffin,noun
  griffins griffon griffons gryphon gryphons
 grill,verb,noun
- grilled grilling -> [grilling] grills
+ grilled grilling grills
 grille,noun
  grilles
 grilling,verb,noun
@@ -1515,7 +1515,7 @@ grin,verb,noun
 grinch,noun
  grinches
 grind,verb,noun
- grinding grinds ground -> [ground]
+ grinding grinds ground
 grinder,noun
  grinders
 grindstone,noun
@@ -1532,7 +1532,7 @@ grippe,noun
 gripper,noun
  grippers
 grisly,adjective
- grislier grisliest grisliness grizzlier -> [grizzly] grizzliest -> [grizzly] grizzly -> [grizzly]
+ grislier grisliest grisliness grizzlier grizzliest grizzly
 grist,noun
 gristle,noun
 gristly,adjective
@@ -1548,7 +1548,7 @@ gritty,adjective
 grizzle,verb,adjective,noun
  grizzled grizzles grizzling
 grizzly,adjective,noun
- grizzlier -> [grisly] grizzlies grizzliest -> [grisly]
+ grizzlier grizzlies grizzliest
 groan,verb,noun
  groaned groaning groans
 groat,noun
@@ -1596,7 +1596,7 @@ grouch,verb,noun
 grouchy,adjective
  grouchier grouchiest grouchily grouchiness
 ground,verb,adjective,noun
- grounded grounding -> [grounding] groundless groundlessly grounds
+ grounded grounding groundless groundlessly grounds
 groundbreaking,adjective
  groundbreakings
 groundcloth,noun
@@ -1622,7 +1622,7 @@ groundswell,noun
 groundwater,noun
 groundwork,noun
 group,verb,noun
- grouped grouping -> [grouping] groups
+ grouped grouping groups
 grouper,noun
  groupers
 groupie,noun
@@ -1673,7 +1673,7 @@ gruesome,adjective
 gruff,adjective
  gruffer gruffest gruffly gruffness
 grumble,verb,noun
- grumbled grumbles grumbling -> [grumbling]
+ grumbled grumbles grumbling
 grumbler,noun
  grumblers
 grumbling,noun
@@ -1695,11 +1695,11 @@ guano,noun
 guarani,adjective,noun
  guaranies guaranis
 guarantee,verb,noun
- guaranteed guaranteeing guarantees guarantied guaranties -> [guaranty] guaranty -> [guaranty] guarantying
+ guaranteed guaranteeing guarantees guarantied guaranties guaranty guarantying
 guarantor,noun
  guarantors
 guaranty,noun
- guaranties -> [guarantee]
+ guaranties
 guard,verb,noun
  guarded guardedly guarding guards
 guarder,verb,noun
