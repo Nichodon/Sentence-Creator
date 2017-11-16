@@ -40,7 +40,7 @@ bacillary,adjective
 bacillus,noun
  bacilli
 back,verb,adjective,noun,adverb
- backed backing -> [backing] backless backs
+ backed backing backless backs
 backache,noun
  backaches
 backbeat,noun
@@ -174,7 +174,7 @@ bacteriologist,noun
  bacteriologists
 bacteriology,noun
 bad,adjective,adverb
- badder baddest badly badness worse worst -> [worst]
+ badder baddest badly badness worse worst
 badass,adjective,noun
  badasses
 baddie,noun
@@ -275,7 +275,7 @@ balk,verb,noun
 balky,adjective
  balkier balkiest baulkier baulkiest baulky
 ball,verb,noun
- balled balling balls -> [balls]
+ balled balling balls
 ballad,noun
  ballads
 balladeer,noun
@@ -326,7 +326,7 @@ balm,noun
 balmy,adjective
  balmier balmiest balminess
 baloney,noun
- boloney -> [bologna]
+ boloney
 balsa,noun
  balsas
 balsam,noun
@@ -577,7 +577,7 @@ baroque,adjective,noun
 barque,noun
  barques
 barrack,verb
- barracked barracking barracks -> [barracks]
+ barracked barracking barracks
 barracks,pluralnoun
 barracuda,noun
  barracudas
@@ -616,7 +616,7 @@ basal,adjective
 basalt,noun
 basaltic,adjective
 base,verb,adjective,noun
- based baseless basely baseness baser bases -> [basis] basest basing
+ based baseless basely baseness baser bases basest basing
 baseball,noun
  baseballs
 baseboard,noun
@@ -641,7 +641,7 @@ basilisk,noun
 basin,noun
  basinful basinfuls basins
 basis,noun
- bases -> [base]
+ bases
 bask,verb
  basked basking basks
 basket,noun
@@ -692,9 +692,9 @@ batch,verb,noun
 bate,verb,noun
  bated bates bating
 bath,verb,noun,propernoun
- bathed -> [bathe] bathing -> [bathe] baths
+ bathed bathing baths
 bathe,verb,noun
- bathed -> [bath] bathes bathing -> [bath]
+ bathed bathes bathing
 bather,noun
  bathers
 bathetic,adjective
@@ -728,7 +728,7 @@ battalion,noun
 batten,verb,noun
  battened battening battens
 batter,verb,noun
- battered battering -> [battering] batters
+ battered battering batters
 batterer,noun
  batterers
 battering,verb,noun
@@ -782,7 +782,7 @@ bazaar,noun
 bazooka,noun
  bazookas
 be,auxiliaryverb,verb,abbreviation
- am are -> [are] art -> [art] been being -> [being] is was wast were wert
+ am are art been being is was wast were wert
 beach,verb,noun
  beached beaches beaching
 beachball,noun
@@ -825,7 +825,7 @@ beansprout!
 beanstalk,noun
  beanstalks
 bear,verb,noun
- bearing -> [bearing] bearish bearishly bearishness bearlike bears bore -> [bore] borne
+ bearing bearish bearishly bearishness bearlike bears bore borne
 bearable,adjective
  bearably
 beard,verb,noun
@@ -839,7 +839,7 @@ bearskin,noun
 beast,noun
  beastlier beastliest beastliness beastly beasts
 beat,verb,adjective,noun
- beaten beating -> [beating] beats
+ beaten beating beats
 beatable,adjective
 beatbox,verb,noun
  beatboxed beatboxes beatboxing
@@ -886,13 +886,13 @@ beckon,verb
 becloud,verb
  beclouded beclouding beclouds
 become,verb
- became becomes becoming -> [becoming]
+ became becomes becoming
 becoming,adjective
  becomingly
 becquerel,noun
  becquerels
 bed,verb,noun,abbreviation
- bedded bedding -> [bedding] beds
+ bedded bedding beds
 bed-and-breakfast,verb,noun
  bed-and-breakfasts
 bedaub,verb
@@ -1020,7 +1020,7 @@ beggar,verb,noun
  beggared beggaring beggarly beggars
 beggary,noun
 begin,verb
- began beginning -> [beginning] begins begun
+ began beginning begins begun
 beginner,noun
  beginners
 beginning,noun
@@ -1132,7 +1132,7 @@ bellybutton,noun
 bellyflop,verb,noun
  bellyflops
 belong,verb
- belonged belonging -> [belonging] belongs
+ belonged belonging belongs
 belonging,verb
  belongings
 beloved,adjective,noun
@@ -1156,7 +1156,7 @@ bench,verb,noun
 benchmark,verb,noun
  benchmarked benchmarking benchmarks
 bend,verb,noun
- bending bends bent -> [bent]
+ bending bends bent
 bendable,adjective
 bender,noun
  benders
@@ -1257,7 +1257,7 @@ bespangle,verb
 bespatter,verb
  bespattered bespattering bespatters
 bespeak,verb
- bespeaking bespeaks bespoke -> [bespoke] bespoken
+ bespeaking bespeaks bespoke bespoken
 bespectacled,adjective
 bespoke,adjective
 best,adjective,verb,noun,adverb
