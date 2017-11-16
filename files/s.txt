@@ -1,6729 +1,6729 @@
-sabbath
+sabbath,noun
  sabbaths
-sabbatical
+sabbatical,adjective,noun
  sabbaticals
-saber
+saber,verb,noun
  sabers sabre sabres
-sable
+sable,adjective,noun
  sables
-sabot
+sabot,noun
  sabots
-sabotage
+sabotage,verb,noun
  sabotaged sabotages sabotaging
-saboteur
+saboteur,noun
  saboteurs
-sabra
+sabra,noun
  sabras
-sac
+sac,abbreviation,noun
  sacs
-saccharin
-saccharine
-sacerdotal
-sachem
+saccharin,noun
+saccharine,adjective,noun
+sacerdotal,adjective
+sachem,noun
  sachems
-sachet
+sachet,noun
  sachets
-sack
+sack,verb,noun
  sacked sackful sackfuls sacking -> [sacking] sacks
-sackcloth
-sacker
+sackcloth,noun
+sacker,noun
  sackers
-sacking -> [sack]
+sacking,noun
  sackings
-sacrament
+sacrament,noun
  sacraments
-sacramental
-sacred
+sacramental,adjective,noun
+sacred,adjective
  sacredly sacredness
-sacrifice
+sacrifice,verb,noun
  sacrificed sacrifices sacrificing
-sacrificial
+sacrificial,adjective
  sacrificially
-sacrilege
+sacrilege,noun
  sacrileges
-sacrilegious
+sacrilegious,adjective
  sacrilegiously
-sacristan
+sacristan,noun
  sacristans
-sacristy
+sacristy,noun
  sacristies
-sacroiliac
+sacroiliac,adjective
  sacroiliacs
-sacrosanct
+sacrosanct,adjective
  sacrosanctness
-sacrum
+sacrum,noun
  sacra
-sad
+sad,adjective,abbreviation
  sadder saddest sadly sadness
-sadden
+sadden,verb
  saddened saddening saddens
-saddle
+saddle,verb,noun
  saddled saddles saddling
-saddlebag
+saddlebag,noun
  saddlebags
-saddler
+saddler,noun
  saddlers
-saddlery
+saddlery,noun
  saddleries
-saddo
+saddo,noun
  saddos
-sadhu
+sadhu,noun
  sadhus
-sadism
-sadist
+sadism,noun
+sadist,noun
  sadists
-sadistic
+sadistic,adjective
  sadistically
-sadomasochism
-sadomasochist
+sadomasochism,noun
+sadomasochist,noun
  sadomasochists
-sadomasochistic
-safari
+sadomasochistic,adjective
+safari,noun
  safaried safariing safaris
-safe
+safe,adjective,noun
  safely safeness safer safes safest
-safecracker
+safecracker,noun
  safecrackers
-safeguard
+safeguard,verb,noun
  safeguarded safeguarding safeguards
-safekeeping
-safety
+safekeeping,noun
+safety,noun
  safeties
-safflower
+safflower,noun
  safflowers
-saffron
+saffron,noun
  saffrons
-sag
+sag,verb,noun
  sagged sagging sags
-saga
+saga,noun
  sagas
-sagacious
+sagacious,adjective
  sagaciously
-sagacity
-sage
+sagacity,noun
+sage,adjective,noun
  sagely sager sages sagest
-sagebrush
-saggy
+sagebrush,noun
+saggy,adjective
  saggier saggiest
-sago
-saguaro
+sago,noun
+saguaro,noun
  saguaros
-sahib
+sahib,noun
  sahibs
-sail
+sail,verb,noun
  sailed sailing -> [sailing] sails
-sailboard
+sailboard,noun
  sailboarding sailboards
-sailboarder
+sailboarder,noun
  sailboarders
-sailboat
+sailboat,noun
  sailboats
-sailcloth
-sailfish
+sailcloth,noun
+sailfish,noun
  sailfishes
-sailing -> [sail]
+sailing,noun
  sailings
-sailor
+sailor,noun
  sailors
-sailplane
+sailplane,noun
  sailplanes
-saint
+saint,verb,noun
  sainted saintlier saintliest saintlike saintliness saintly saints
-sainthood
-sake
+sainthood,noun
+sake,noun
  sakes saki sakis
-salaam
+salaam,exclamation,verb,noun
  salaamed salaaming salaams
-salable
+salable,adjective
  saleable
-salacious
+salacious,adjective
  salaciously salaciousness
-salacity
-salad
+salacity,noun
+salad,noun
  salads
-salamander
+salamander,noun
  salamanders
-salami
+salami,noun
  salamis
-salary
+salary,verb,noun
  salaried salaries
-salaryman
+salaryman,noun
  salarymen
-sale
+sale,noun
  sales
-salesclerk
+salesclerk,noun
  salesclerks
-salesforce
+salesforce!!!
  salesforces
-salesgirl
+salesgirl,noun
  salesgirls
-saleslady
+saleslady,noun
  salesladies
-salesman
+salesman,noun
  salesmen
-salesmanship
-salesperson
+salesmanship,noun
+salesperson,noun
  salespeople salespersons
-salesroom
+salesroom,noun
  saleroom salerooms salesrooms
-saleswoman
+saleswoman,noun
  saleswomen
-salience
-salient
+salience,noun
+salient,adjective,noun
  saliently salients
-saline
+saline,adjective,noun
  salines
-salinity
-saliva
-salivary
-salivate
+salinity,noun
+saliva,noun
+salivary,adjective
+salivate,verb
  salivated salivates salivating
-salivation
-sallow
+salivation,noun
+sallow,adjective,noun
  sallower sallowest sallowness
-sally
+sally,verb,noun
  sallied sallies sallying
-salmon
+salmon,noun
  salmons
-salmonella
+salmonella,noun
  salmonellae salmonellas
-salon
+salon,noun
  salons
-saloon
+saloon,noun
  saloons
-salsa
+salsa,noun
  salsas
-salt
+salt,adjective,abbreviation,verb,noun
  salted salter saltest salting salts
-saltbox
+saltbox,noun
  saltboxes
-saltcellar
+saltcellar,noun
  saltcellars
-saltine
+saltine,noun
  saltines
-saltpeter
+saltpeter,noun
  saltpetre
-saltshaker
+saltshaker,noun
  saltshakers
-saltwater
-salty
+saltwater,adjective
+salty,adjective
  saltier saltiest saltiness
-salubrious
-salutary
-salutation
+salubrious,adjective
+salutary,adjective
+salutation,noun
  salutations
-salutatorian
+salutatorian,noun
  salutatorians
-salutatory
-salute
+salutatory,adjective,noun
+salute,verb,noun
  saluted salutes saluting
-salvage
+salvage,verb,noun
  salvaged salvages salvaging
-salvageable
-salvation
-salve
+salvageable,adjective
+salvation,noun
+salve,verb,noun
  salved salves salving
-salver
+salver,noun
  salvers
-salvo
+salvo,noun
  salvoes salvos
-salwar
+salwar,noun
  salwars
-samarium
-samba
+samarium,noun
+samba,verb,noun
  sambaed sambaing sambas
-same
+same,adjective,adverb,pronoun
  sameness
-same-sex
-samey
-samosa
+same-sex,adjective
+samey,adjective
+samosa,noun
  samosas
-samovar
+samovar,noun
  samovars
-sampan
+sampan,noun
  sampans
-sample
+sample,verb,noun
  sampled samples sampling -> [sampling!]
-sampler
+sampler,noun
  samplers
-sampling! -> [sample]
+sampling,noun
  samplings
-samurai
+samurai,noun
  samurais
-sanatorium
+sanatorium,noun
  sanatoria sanatoriums sanitaria sanitarium sanitariums
-sanctification
-sanctify
+sanctification,noun
+sanctify,verb
  sanctified sanctifies sanctifying
-sanctimonious
+sanctimonious,adjective
  sanctimoniously sanctimoniousness
-sanctimony
-sanction
+sanctimony,noun
+sanction,verb,noun
  sanctioned sanctioning sanctions
-sanctity
-sanctuary
+sanctity,noun
+sanctuary,noun
  sanctuaries
-sanctum
+sanctum,noun
  sancta sanctums
-sand
+sand,verb,noun
  sanded sanding sands
-sandal
+sandal,noun
  sandals
-sandalwood
-sandbag
+sandalwood,noun
+sandbag,verb,noun
  sandbagged sandbagging sandbags
-sandbank
+sandbank,noun
  sandbanks
-sandbar
+sandbar,noun
  sandbars
-sandblast
+sandblast,verb,noun
  sandblasted sandblasting sandblasts
-sandblaster
+sandblaster,noun
  sandblasters
-sandbox
+sandbox,noun
  sandboxes
-sandcastle
+sandcastle,noun
  sandcastles
-sander
+sander,noun
  sanders
-sandhog
+sandhog,noun
  sandhogs
-sandlot
+sandlot,noun
  sandlots
-sandlotter
+sandlotter!!!
  sandlotters
-sandman
+sandman,noun
  sandmen
-sandpaper
+sandpaper,verb,noun
  sandpapered sandpapering sandpapers
-sandpiper
+sandpiper,noun
  sandpipers
-sandpit
+sandpit,noun
  sandpits
-sandstone
+sandstone,noun
  sandstones
-sandstorm
+sandstorm,noun
  sandstorms
-sandwich
+sandwich,verb,noun
  sandwiched sandwiches sandwiching
-sandy
+sandy,adjective,noun
  sandier sandiest sandiness
-sane
+sane,adjective
  sanely saneness saner sanest
-sangfroid
-sangria
-sanguinary
-sanguine
+sangfroid,noun
+sangria,noun
+sanguinary,adjective
+sanguine,adjective,noun
  sanguinely
-sanitarian
+sanitarian,noun
  sanitarians
-sanitary
-sanitation
-sanitize
+sanitary,adjective
+sanitation,noun
+sanitize,verb
  sanitise sanitised sanitises sanitising sanitized sanitizes sanitizing
-sanity
-sans
-sap
+sanity,noun
+sans,preposition
+sap,verb,noun
  sapless sapped sapping saps
-sapience
-sapient
-sapling
+sapience,noun
+sapient,adjective,noun
+sapling,noun
  saplings
-sapper
+sapper,noun
  sappers
-sapphic
-sapphire
+sapphic,adjective,pluralnoun
+sapphire,noun
  sapphires
-sappy
+sappy,adjective
  sappier sappiest sappiness
-saprophyte
+saprophyte,noun
  saprophytes
-saprophytic
-sapsucker
+saprophytic,adjective
+sapsucker,noun
  sapsuckers
-sapwood
-saran
-sarcasm
+sapwood,noun
+saran,noun
+sarcasm,noun
  sarcasms
-sarcastic
+sarcastic,adjective
  sarcastically
-sarcoma
+sarcoma,noun
  sarcomas sarcomata
-sarcophagus
+sarcophagus,noun
  sarcophagi sarcophaguses
-sardine
+sardine,verb,noun
  sardines
-sardonic
+sardonic,adjective
  sardonically
-sarge
+sarge,noun
  sarges
-sari
+sari,noun
  saree sarees saris
-sarin
-sarky
+sarin,noun
+sarky,adjective
  sarkier sarkiest
-sarnie
+sarnie,noun
  sarnies
-sarong
+sarong,noun
  sarongs
-sarsaparilla
+sarsaparilla,noun
  sarsaparillas
-sartorial
+sartorial,adjective
  sartorially
-sash
+sash,noun
  sashes
-sashay
+sashay,verb,noun
  sashayed sashaying sashays
-sashimi
-sass
+sashimi,noun
+sass,verb,noun
  sassed sasses sassing
-sassafras
+sassafras,noun
  sassafrases
-sassy
+sassy,adjective
  sassier sassiest
-satanic
-satanical
+satanic,adjective
+satanical,adverb
  satanically
-satanism
-satanist
+satanism,noun
+satanist,adjective,noun
  satanists
-satay
-satchel
+satay,noun
+satchel,noun
  satchels
-sate
+sate,verb
  sated sates sating
-sateen
-satellite
+sateen,noun
+satellite,noun
  satellites
-satiable
-satiate
+satiable,adjective
+satiate,adjective,verb
  satiated satiates satiating
-satiation
-satiety
-satin
-satinwood
+satiation,noun
+satiety,noun
+satin,noun
+satinwood,noun
  satinwoods
-satiny
-satire
+satiny,adjective
+satire,noun
  satires
-satiric
-satirical
+satiric,adjective
+satirical,adjective
  satirically
-satirist
+satirist,noun
  satirists
-satirize
+satirize,verb
  satirise satirised satirises satirising satirized satirizes satirizing
-satisfaction
+satisfaction,noun
  satisfactions
-satisfactory
+satisfactory,adjective
  satisfactorily
-satisfy
+satisfy,verb
  satisfied satisfies satisfying satisfyingly
-satnav
+satnav,noun
  satnavs
-satori
-satrap
+satori,noun
+satrap,noun
  satraps
-satsuma
+satsuma,noun,propernoun
  satsumas
-saturate
+saturate,adjective,verb,noun
  saturated saturates saturating
-saturation
-saturnalia
+saturation,noun
+saturnalia,noun
  saturnalias
-saturnine
-satyr
+saturnine,adjective
+satyr,noun
  satyrs
-satyriasis
-satyric
-sauce
+satyriasis,noun
+satyric,adjective
+sauce,verb,noun
  sauced sauces saucing
-sauceboat
+sauceboat,noun
  sauceboats
-saucepan
+saucepan,noun
  saucepans
-saucer
+saucer,noun
  saucers
-saucy
+saucy,adjective
  saucier sauciest saucily sauciness
-sauerkraut
-sauna
+sauerkraut,noun
+sauna,noun
  saunaed saunaing saunas
-saunter
+saunter,verb,noun
  sauntered sauntering saunters
-saurian
-sauropod
+saurian,adjective,noun
+sauropod,noun
  sauropods
-sausage
+sausage,noun
  sausages
-saute
+saute,adjective,verb,noun
  sauted sauteed sauteing sautes
-sauterne
+sauterne!!!
  sauternes
-savable
+savable,adjective
  saveable
-savage
+savage,adjective,verb,noun
  savaged savagely savageness savager savages savagest savaging
-savagery
+savagery,noun
  savageries
-savanna
+savanna,noun,propernoun
  savannah savannahs savannas
-savant
+savant,noun
  savants
-save
+save,conjunction,preposition,verb,noun
  saved saves saving -> [saving]
-saver
+saver,noun
  savers
-saving -> [save]
+saving,adjective,preposition,noun
  savings
-savior
+savior,noun
  saviors saviour saviours
-savor
+savor,verb,noun
  savored savoring savors savour savoured savouring savours
-savory
+savory,adjective,noun
  savorier savories savoriest savoriness savourier savouries savouriest savouriness savoury
-savoy
+savoy,noun,propernoun
  savoys
-savvy
+savvy,adjective,verb,noun
  savvied savvier savvies savviest savvying
-saw -> [see]
+saw,verb,noun
  sawed sawing sawn saws
-sawbones
+sawbones,noun
  sawboneses
-sawbuck
+sawbuck,noun
  sawbucks
-sawdust
-sawfly
+sawdust,noun
+sawfly,noun
  sawflies
-sawhorse
+sawhorse,noun
  sawhorses
-sawmill
+sawmill,noun
  sawmills
-sawyer
+sawyer,noun
  sawyers
-sax
+sax,noun
  saxes
-saxifrage
+saxifrage,noun
  saxifrages
-saxophone
+saxophone,noun
  saxophones
-saxophonist
+saxophonist,noun
  saxophonists
-say
+say,exclamation,verb,noun
  said saith saying -> [saying] says
-saying -> [say]
+saying,noun
  sayings
-scab
+scab,verb,noun
  scabbed scabbing scabs
-scabbard
+scabbard,noun
  scabbards
-scabby
+scabby,adjective
  scabbier scabbiest scabbiness
-scabies
-scabrous
-scad
+scabies,noun
+scabrous,adjective
+scad,noun
  scads
-scaffold
+scaffold,verb,noun
  scaffolds
-scaffolding
-scalar
+scaffolding,noun
+scalar,adjective,noun
  scalars
-scalawag
+scalawag,noun
  scalawags scallywag scallywags
-scald
+scald,verb,noun
  scalded scalding scalds
-scale
+scale,verb,noun
  scaled scaleless scales scaling
-scalene
-scallion
+scalene,adjective,noun
+scallion,noun
  scallions
-scallop
+scallop,verb,noun
  escallop escalloped escalloping escallops escalop -> [escalope] escaloped escaloping escalops -> [escalope] scalloped scalloping scallops scollop scolloped scolloping scollops
-scalp
+scalp,verb,noun
  scalped scalping scalps
-scalpel
+scalpel,noun
  scalpels
-scalper
+scalper,noun
  scalpers
-scaly
+scaly,adjective
  scalier scaliest scaliness
-scam
+scam,verb,noun
  scammed scamming scams
-scammer
+scammer,noun
  scammers
-scamp
+scamp,verb,noun
  scamps
-scamper
+scamper,verb,noun
  scampered scampering scampers
-scampi
+scampi,noun
  scampies
-scan
+scan,verb,noun
  scanned scanning scans
-scandal
+scandal,noun
  scandals
-scandalize
+scandalize,verb
  scandalise scandalised scandalises scandalising scandalized scandalizes scandalizing
-scandalmonger
+scandalmonger,noun
  scandalmongers
-scandalous
+scandalous,adjective
  scandalously
-scandium
-scanner
+scandium,noun
+scanner,noun
  scanners
-scansion
-scant
+scansion,noun
+scant,adjective,verb
  scanted scanter scantest scanting scantly scantness scants
-scanty
+scanty,adjective,pluralnoun
  scantier scantiest scantily scantiness
-scapegoat
+scapegoat,verb,noun
  scapegoated scapegoating scapegoats
-scapegrace
+scapegrace,noun
  scapegraces
-scapula
+scapula,noun
  scapulae scapulas
-scapular
+scapular,adjective,noun
  scapulars
-scar
+scar,verb,noun
  scarred scarring scars
-scarab
+scarab,noun
  scarabs
-scarce
+scarce,adjective,adverb
  scarcely scarceness scarcer scarcest
-scarcity
+scarcity,noun
  scarcities
-scare
+scare,verb,noun
  scared scareder scaredest scares scaring
-scarecrow
+scarecrow,noun
  scarecrows
-scaremonger
+scaremonger,noun
  scaremongering scaremongers
-scarf
+scarf,verb,noun
  scarfed scarfing scarfs scarves
-scarification
-scarify
+scarification,noun
+scarify,verb
  scarified scarifies scarifying
-scarlatina
-scarlet
-scarp
+scarlatina,noun
+scarlet,adjective,noun
+scarp,verb,noun
  scarped scarping scarps
-scarper
+scarper,verb
  scarpered scarpering scarpers
-scary
+scary,adjective
  scarey scarier scariest scarily scariness
-scat
+scat,verb,noun
  scats scatted scatting
-scathing
+scathing,adjective
  scathingly
-scatological
-scatology
-scatter
+scatological,adjective
+scatology,noun
+scatter,verb,noun
  scattered scattering -> [scattering] scatters
-scatterbrain
+scatterbrain,noun
  scatterbrained scatterbrains
-scattering -> [scatter]
+scattering,noun
  scatterings
-scattershot
-scatty
+scattershot,adjective
+scatty,adjective
  scattier scattiest
-scavenge
+scavenge,verb
  scavenged scavenges scavenging
-scavenger
+scavenger,noun
  scavengers
-scenario
+scenario,noun
  scenarios
-scenarist
+scenarist,noun
  scenarists
-scene
+scene,noun
  scenes
-scenery
-scenic
+scenery,noun
+scenic,adjective
  scenically
-scent
+scent,verb,noun
  scented scenting scentless scents
-scepter
+scepter,noun
  scepters sceptre sceptres
-schadenfreude
-schedule
+schadenfreude,noun
+schedule,verb,noun
  scheduled schedules scheduling
-scheduler
+scheduler,noun
  schedulers
-schema
+schema,noun
  schemas schemata
-schematic
+schematic,adjective,noun
  schematically schematics
-schematize
+schematize,verb
  schematise schematised schematises schematising schematized schematizes schematizing
-scheme
+scheme,verb,noun
  schemed schemes scheming
-schemer
+schemer,noun
  schemers
-scherzo
+scherzo,noun
  scherzi scherzos
-schilling
+schilling,noun
  schillings
-schism
+schism,noun
  schisms
-schismatic
+schismatic,adjective,noun
  schismatics
-schist
-schizo
+schist,noun
+schizo,adjective,noun
  schizos
-schizoid
+schizoid,adjective,noun
  schizoids
-schizophrenia
-schizophrenic
+schizophrenia,noun
+schizophrenic,adjective,noun
  schizophrenics
-schlemiel
+schlemiel,noun
  schlemiels shlemiel shlemiels
-schlep
+schlep,verb,noun
  schlepp schlepped schlepping schlepps schleps shlep shlepp shlepped shlepping shlepps shleps
-schlock
+schlock,noun
  shlock
-schlocky
+schlocky,adjective
  schlockier schlockiest shlocky
-schmaltz
+schmaltz,noun
  schmalz shmaltz
-schmaltzy
+schmaltzy,adjective
  schmaltzier schmaltziest schmalzier schmalziest schmalzy shmaltzier shmaltziest shmaltzy
-schmo
+schmo,noun
  schmoe schmoes schmos
-schmooze
+schmooze,verb,noun
  schmoozed schmoozes schmoozing
-schmoozer
+schmoozer,noun
  schmoozers
-schmuck
+schmuck,noun
  schmucks
-schnapps
+schnapps,noun
  schnaps
-schnauzer
+schnauzer,noun
  schnauzers
-schnitzel
+schnitzel,noun
  schnitzels
-schnook
+schnook,noun
  schnooks
-schnoz
+schnoz,noun
  schnozes schnozzle schnozzles
-scholar
+scholar,noun
  scholarly scholars
-scholarship
+scholarship,noun
  scholarships
-scholastic
+scholastic,adjective,noun
  scholastically
-scholasticism
-school
+scholasticism,noun
+school,adjective,verb,noun
  schooled schooling schools
-schoolbag
+schoolbag!!!
  schoolbags
-schoolbook
+schoolbook,noun
  schoolbooks
-schoolboy
+schoolboy,noun
  schoolboys
-schoolchild
+schoolchild,noun
  schoolchildren
-schooldays
-schoolfellow
+schooldays,pluralnoun
+schoolfellow,noun
  schoolfellows
-schoolfriend
+schoolfriend!!!
  schoolfriends
-schoolgirl
+schoolgirl,noun
  schoolgirls
-schoolhouse
+schoolhouse,noun
  schoolhouses
-schoolkid
+schoolkid,noun
  schoolkids
-schoolmarm
+schoolmarm,noun
  schoolmarmish schoolmarms
-schoolmaster
+schoolmaster,noun
  schoolmasters
-schoolmate
+schoolmate,noun
  schoolmates
-schoolmistress
+schoolmistress,noun
  schoolmistresses
-schoolroom
+schoolroom,noun
  schoolrooms
-schoolteacher
+schoolteacher,noun
  schoolteachers
-schoolwork
-schoolyard
+schoolwork,noun
+schoolyard,noun
  schoolyards
-schooner
+schooner,noun
  schooners
-schuss
+schuss,verb,noun
  schussed schusses schussing
-schussboomer
+schussboomer!!!
  schussboomers
-schwa
+schwa,noun
  schwas shwa shwas
-sciatic
-sciatica
-science
+sciatic,adjective
+sciatica,noun
+science,noun
  sciences
-scientific
+scientific,adjective
  scientifically
-scientist
+scientist,noun
  scientists
-sci-fi
-scimitar
+sci-fi,noun
+scimitar,noun
  scimitars
-scintilla
+scintilla,noun
  scintillas
-scintillate
+scintillate,verb
  scintillated scintillates scintillating
-scintillation
-scion
+scintillation,noun
+scion,noun
  scions
-scissor
+scissor,verb,noun
  scissored scissoring scissors
-sclera
+sclera,noun
  sclerae scleras
-sclerosis
-sclerotic
-scoff
+sclerosis,noun
+sclerotic,adjective,noun
+scoff,verb,noun
  scoffed scoffing scoffs
-scoffer
+scoffer,noun
  scoffers
-scofflaw
+scofflaw,noun
  scofflaws
-scold
+scold,verb,noun
  scolded scolding -> [scolding] scolds
-scolding -> [scold]
+scolding,noun
  scoldings
-scoliosis
-sconce
+scoliosis,noun
+sconce,noun
  sconces
-scone
+scone,noun,propernoun
  scones
-scoop
+scoop,verb,noun
  scooped scoopful scoopfuls scooping scoops
-scoot
+scoot,verb
  scooted scooting scoots
-scooter
+scooter,verb,noun
  scooters
-scope
+scope,verb,noun
  scoped scopes scoping
-scorbutic
-scorch
+scorbutic,adjective
+scorch,verb,noun
  scorched scorches scorching
-scorcher
+scorcher,noun
  scorchers
-score
+score,verb,noun
  scored scoreless scores scoring
-scoreboard
+scoreboard,noun
  scoreboards
-scorecard
+scorecard,noun
  scorecards
-scorekeeper
+scorekeeper,noun
  scorekeepers
-scoreline
+scoreline,noun
  scorelines
-scorer
+scorer,noun
  scorers
-scoresheet
+scoresheet,noun
  scoresheets
-scorn
+scorn,verb,noun
  scorned scornful scornfully scorning scorns
-scorner
+scorner,noun
  scorners
-scorpion
+scorpion,noun
  scorpions
-scotch
+scotch,adjective,verb,noun
  scotched scotches scotching
-scot-free
-scoundrel
+scot-free,adverb
+scoundrel,noun
  scoundrels
-scour
+scour,verb,noun
  scoured scouring scours
-scourer
+scourer,noun
  scourers
-scourge
+scourge,verb,noun
  scourged scourges scourging
-scout
+scout,verb,noun
  scouted scouting scouts
-scouter
+scouter,noun
  scouters
-scoutmaster
+scoutmaster,noun
  scoutmasters
-scow
+scow,noun
  scows
-scowl
+scowl,verb,noun
  scowled scowling scowls
-scrabble
+scrabble,verb,noun
  scrabbled scrabbles scrabbling
-scrabbler
+scrabbler,noun
  scrabblers
-scrag
+scrag,verb,noun
  scrags
-scraggly
+scraggly,adjective
  scragglier scraggliest
-scraggy
+scraggy,adjective
  scraggier scraggiest
-scram
+scram,verb,noun
  scrammed scramming scrams
-scramble
+scramble,verb,noun
  scrambled scrambles scrambling
-scrambler
+scrambler,noun
  scramblers
-scrap
+scrap,verb,noun
  scrapped scrapping scraps
-scrapbook
+scrapbook,noun
  scrapbooks
-scrape
+scrape,verb,noun
  scraped scrapes scraping -> [scraping]
-scraper
+scraper,noun
  scrapers
-scrapheap
+scrapheap,noun
  scrapheaps
-scrapie
-scraping -> [scrape]
+scrapie,noun
+scraping,noun
  scrapings
-scrapper
+scrapper,noun
  scrappers
-scrappy
+scrappy,adjective
  scrappier scrappiest
-scrapyard
+scrapyard,noun
  scrapyards
-scratch
+scratch,adjective,verb,noun
  scratched scratches scratching
-scratchcard
+scratchcard,noun
  scratchcards
-scratchpad
+scratchpad,noun
  scratchpads
-scratchy
+scratchy,adjective
  scratchier scratchiest scratchily scratchiness
-scrawl
+scrawl,verb,noun
  scrawled scrawling scrawls
-scrawly
-scrawny
+scrawly,adjective
+scrawny,adjective
  scrawnier scrawniest scrawniness
-scream
+scream,verb,noun
  screamed screaming screamingly screams
-screamer
+screamer,noun
  screamers
-scree
+scree,noun
  screes
-screech
+screech,verb,noun
  screeched screeches screeching
-screechy
+screechy,adjective
  screechier screechiest
-screed
+screed,verb,noun
  screeds
-screen
+screen,verb,noun
  screened screening -> [screening] screens
-screener
+screener,noun
  screeners
-screening -> [screen]
+screening,noun
  screenings
-screenplay
+screenplay,noun
  screenplays
-screenprinting
-screensaver
+screenprinting,verb,noun
+screensaver,noun
  screensavers
-screenshot
+screenshot,verb,noun
  screenshots
-screenwriter
+screenwriter,noun
  screenwriters
-screenwriting
-screw
+screenwriting,noun
+screw,verb,noun
  screwed screwing screws
-screwball
+screwball,adjective,noun
  screwballs
-screwcap
+screwcap,noun
  screwcaps
-screwdriver
+screwdriver,noun
  screwdrivers
-screwup
+screwup,noun
  screwups
-screwworm
+screwworm,noun
  screwworms
-screwy
+screwy,adjective
  screwier screwiest screwiness
-scribal
-scribble
+scribal,adjective
+scribble,verb,noun
  scribbled scribbles scribbling
-scribbler
+scribbler,noun
  scribblers
-scribe
+scribe,verb,noun
  scribes
-scrim
+scrim,noun
  scrims
-scrimmage
+scrimmage,verb,noun
  scrimmaged scrimmages scrimmaging
-scrimp
+scrimp,verb
  scrimped scrimping scrimps
-scrimshaw
+scrimshaw,verb,noun
  scrimshawed scrimshawing scrimshaws
-scrip
+scrip,noun
  scrips
-script
+script,verb,noun
  scripted scripting scripts
-scriptural
-scripture
+scriptural,adjective
+scripture,noun
  scriptures
-scriptwriter
+scriptwriter,noun
  scriptwriters
-scrivener
+scrivener,noun
  scriveners
-scrod
+scrod,noun
  schrod schrods scrods
-scrofula
-scrofulous
-scroll
+scrofula,noun
+scrofulous,adjective
+scroll,verb,noun
  scrolled scrolling scrolls
-scrooge
+scrooge,adjective
  scrooges
-scrotal
-scrotum
+scrotal,adjective
+scrotum,noun
  scrota scrotums
-scrounge
+scrounge,verb,noun
  scrounged scrounges scrounging
-scrounger
+scrounger,noun
  scroungers
-scroungy
+scroungy!!!
  scroungier scroungiest
-scrub
+scrub,verb,noun
  scrubbed scrubbing scrubs
-scrubber
+scrubber,noun
  scrubbers
-scrubby
+scrubby,adjective
  scrubbier scrubbiest
-scrubland
+scrubland,noun
  scrublands
-scruff
+scruff,verb,noun
  scruffs
-scruffy
+scruffy,adjective
  scruffier scruffiest scruffily scruffiness
-scrum
+scrum,verb,noun
  scrummed scrumming scrums
-scrumhalf
+scrumhalf,noun
  scrumhalves
-scrummage
+scrummage,verb,noun
  scrummages
-scrummy
-scrump
+scrummy,adjective
+scrump,verb
  scrumped scrumping scrumps
-scrumptious
+scrumptious,adjective
  scrumptiously
-scrumpy
-scrunch
+scrumpy,noun
+scrunch,verb,noun
  scrunched scrunches scrunching
-scrunchie
+scrunchie,adjective,noun
  scrunchies scrunchy
-scruple
+scruple,verb,noun
  scrupled scruples scrupling
-scrupulosity
-scrupulous
+scrupulosity,noun
+scrupulous,adjective
  scrupulously scrupulousness
-scrutineer
+scrutineer,noun
  scrutineers
-scrutinize
+scrutinize,verb
  scrutinise scrutinised scrutinises scrutinising scrutinized scrutinizes scrutinizing
-scrutiny
-scuba
+scrutiny,noun
+scuba,noun
  scubaed scubaing scubas
-scud
+scud,verb,noun
  scudded scudding scuds
-scuff
+scuff,verb,noun
  scuffed scuffing scuffs
-scuffle
+scuffle,verb,noun
  scuffled scuffles scuffling
-scull
+scull,verb,noun
  sculled sculling sculls
-sculler
+sculler,noun
  scullers
-scullery
+scullery,noun
  sculleries
-scullion
+scullion,noun
  scullions
-sculpt
+sculpt,verb
  sculpted sculpting sculpts
-sculptor
+sculptor,noun,propernoun
  sculptors
-sculptress
+sculptress,noun
  sculptresses
-sculptural
-sculpture
+sculptural,adjective
+sculpture,verb,noun
  sculptured sculptures sculpturing
-scum
+scum,verb,noun
  scummed scumming scums
-scumbag
+scumbag,noun
  scumbags
-scummy
+scummy,adjective
  scummier scummiest
-scupper
+scupper,verb,noun
  scuppered scuppering scuppers
-scurf
-scurfy
+scurf,noun
+scurfy,adjective
  scurfier scurfiest
-scurrility
-scurrilous
+scurrility,noun
+scurrilous,adjective
  scurrilously scurrilousness
-scurry
+scurry,verb,noun
  scurried scurries scurrying
-scurvy
+scurvy,adjective,noun
  scurvier scurviest scurvily
-scuttle
+scuttle,verb,noun
  scuttled scuttles scuttling
-scuttlebutt
-scuzzy
+scuttlebutt,noun
+scuzzy,adjective
  scuzzier scuzziest
-scythe
+scythe,verb,noun
  scythed scythes scything
-sea
+sea,abbreviation,noun
  seas
-seabed
+seabed,noun
  seabeds
-seabird
+seabird,noun
  seabirds
-seaboard
+seaboard,noun
  seaboards
-seaborne
-seacoast
+seaborne,adjective
+seacoast,noun
  seacoasts
-seadog
+seadog!!!
  seadogs
-seafarer
+seafarer,noun
  seafarers
-seafaring
-seafloor
+seafaring,adjective,noun
+seafloor!!!
  seafloors
-seafood
-seafront
+seafood,noun
+seafront,noun
  seafronts
-seagoing
-seagull
+seagoing,adjective
+seagull,noun
  seagulls
-seahorse
+seahorse,noun
  seahorses
-seal
+seal,verb,noun
  sealed sealing seals
-sealant
+sealant,noun
  sealants
-sealer
+sealer,noun
  sealers
-sealskin
-seam
+sealskin,noun
+seam,verb,noun
  seamed seaming seamless seamlessly seams
-seaman
+seaman,noun
  seamen
-seamanship
-seamstress
+seamanship,noun
+seamstress,noun
  seamstresses
-seamy
+seamy,adjective
  seamier seamiest
-seance
+seance,noun
  seances
-seaplane
+seaplane,noun
  seaplanes
-seaport
+seaport,noun
  seaports
-sear
+sear,adjective,verb
  seared searing searingly sears
-search
+search,verb,noun
  searched searches searching searchingly
-searcher
+searcher,noun
  searchers
-searchlight
+searchlight,noun
  searchlights
-seascape
+seascape,noun
  seascapes
-seashell
+seashell,noun
  seashells
-seashore
+seashore,noun
  seashores
-seasick
+seasick,adjective
  seasickness
-seaside
+seaside,noun
  seasides
-season
+season,verb,noun
  seasoned seasoning -> [seasoning] seasons
-seasonable
+seasonable,adjective
  seasonably
-seasonal
+seasonal,adjective
  seasonally
-seasonality
-seasoning -> [season]
+seasonality,noun
+seasoning,noun
  seasonings
-seat
+seat,verb,noun
  seated seating seats
-seatbelt
+seatbelt,noun
  seatbelts
-seatmate
+seatmate!!!
  seatmates
-seawall
+seawall,noun
  seawalls
-seaward
+seaward,adjective,noun,adverb
  seawards
-seawater
-seaway
+seawater,noun
+seaway,noun
  seaways
-seaweed
+seaweed,noun
  seaweeds
-seaworthy
+seaworthy,adjective
  seaworthier seaworthiest seaworthiness
-sebaceous
-seborrhea
+sebaceous,adjective
+seborrhea,noun
  seborrhoea
-sebum
-sec
+sebum,noun
+sec,abbreviation,adjective,noun
  secs
-secant
+secant,noun
  secants
-secateurs
-secede
+secateurs,pluralnoun
+secede,verb
  seceded secedes seceding
-secession
+secession,noun
  secessions
-secessionist
+secessionist,adjective,noun
  secessionists
-seclude
+seclude,verb
  secluded secludes secluding
-seclusion
-seclusive
-second
+seclusion,noun
+seclusive,adjective
+second,noun,verb,ordinalnumber
  seconded seconding secondly seconds
-secondary
+secondary,adjective,noun
  secondaries secondarily
-second-best
-second-class
-second-degree
-seconder
+second-best,adjective,noun
+second-class,adjective,noun,adverb
+second-degree,adjective
+seconder,noun
  seconders
-second-guess
+second-guess,verb
  second-guessed second-guesses second-guessing
-secondhand
-secondment
+secondhand,noun
+secondment,noun
  secondments
-second-rate
-secrecy
-secret
+second-rate,adjective
+secrecy,noun
+secret,adjective,noun
  secretly secrets
-secretarial
-secretariat
+secretarial,adjective
+secretariat,noun
  secretariats
-secretary
+secretary,noun
  secretaries
-secretary-general
+secretary-general,noun
  secretaries-general
-secretaryship
-secrete
+secretaryship,noun
+secrete,verb
  secreted secretes secreting
-secretion
+secretion,noun
  secretions
-secretive
+secretive,adjective
  secretively secretiveness
-secretory
-sect
+secretory,adjective
+sect,noun
  sects
-sectarian
+sectarian,adjective,noun
  sectarians
-sectarianism
-sectary
+sectarianism,noun
+sectary,noun
  sectaries
-section
+section,verb,noun
  sectioned sectioning sections
-sectional
+sectional,adjective,noun
  sectionals
-sectionalism
-sector
+sectionalism,noun
+sector,noun
  sectors
-secular
-secularism
-secularist
+secular,adjective,noun
+secularism,noun
+secularist,adjective,noun
  secularists
-secularization
+secularization,noun
  secularisation
-secularize
+secularize,verb
  secularise secularised secularises secularising secularized secularizes secularizing
-secure
+secure,adjective,verb
  secured securely securer secures securest securing
-security
+security,noun
  securities
-sedan
+sedan,noun
  sedans
-sedate
+sedate,adjective,verb
  sedated sedately sedateness sedater sedates sedatest sedating
-sedation
-sedative
+sedation,noun
+sedative,adjective,noun
  sedatives
-sedentary
-sedge
+sedentary,adjective
+sedge,noun
  sedges
-sedgy
-sediment
+sedgy,adjective
+sediment,verb,noun
  sediments
-sedimentary
-sedimentation
-sedition
-seditious
-seduce
+sedimentary,adjective
+sedimentation,noun
+sedition,noun
+seditious,adjective
+seduce,verb
  seduced seduces seducing
-seducer
+seducer,noun
  seducers
-seduction
+seduction,noun
  seductions
-seductive
+seductive,adjective
  seductively seductiveness
-seductress
+seductress,noun
  seductresses
-sedulous
+sedulous,adjective
  sedulously
-see
+see,verb,noun
  saw -> [saw] seeing seen sees
-seed
+seed,verb,noun
  seeded seeding seedless seeds
-seedbed
+seedbed,noun
  seedbeds
-seedcase
+seedcase!!!
  seedcases
-seedcorn
-seeder
+seedcorn,noun
+seeder,noun
  seeders
-seedling
+seedling,noun
  seedlings
-seedpod
+seedpod,noun
  seedpods
-seedy
+seedy,adjective
  seedier seediest seediness
-seek
+seek,verb
  seeking seeks sought
-seeker
+seeker,noun
  seekers
-seem
+seem,verb
  seemed seeming seemingly seems
-seemly
+seemly,adjective
  seemlier seemliest seemliness
-seep
+seep,verb,noun
  seeped seeping seeps
-seepage
+seepage,noun
  seepages
-seer
+seer,noun
  seers
-seersucker
-seesaw
+seersucker,noun
+seesaw,verb,noun
  seesawed seesawing seesaws
-seethe
+seethe,verb
  seethed seethes seething
-see-through
-segment
+see-through,adjective
+segment,verb,noun
  segmented segmenting segments
-segmentation
-segregate
+segmentation,noun
+segregate,verb,noun
  segregated segregates segregating
-segregation
-segregationist
+segregation,noun
+segregationist,adjective,noun
  segregationists
-segue
+segue,verb,noun
  segued segueing segues seguing
-seigneur
+seigneur,noun
  seigneurs
-seignior
+seignior,noun
  seigniors
-seigniorial
-seine
+seigniorial,adjective
+seine,verb,noun,propernoun
  seined seines seining
-seiner
+seiner,noun
  seiners
-seismic
+seismic,adjective
  seismically
-seismograph
+seismograph,noun
  seismographs
-seismographer
+seismographer,adjective
  seismographers
-seismographic
-seismography
-seismologic
-seismological
-seismologist
+seismographic,adjective
+seismography!!!
+seismologic,noun
+seismological,adjective
+seismologist,noun
  seismologists
-seismology
-seize
+seismology,noun
+seize,verb
  seized seizes seizing
-seizure
+seizure,noun
  seizures
-seldom
-select
+seldom,adjective,adverb
+select,adjective,verb
  selected selecting selectness selects
-selection
+selection,noun
  selections
-selective
+selective,adjective
  selectively
-selectivity
-selectman
+selectivity,noun
+selectman,noun
  selectmen
-selector
+selector,noun
  selectors
-selenium
-selenographer
+selenium,noun
+selenographer,noun
  selenographers
-selenography
-self
+selenography,noun
+self,adjective,verb,noun
  selfless selflessly selflessness selves
-self-absorbed
-self-addressed
-self-appointed
-self-assessment
+self-absorbed,adjective
+self-addressed,adjective
+self-appointed,adjective
+self-assessment,noun
  self-assessments
-self-assurance
-self-assured
-self-aware
+self-assurance,noun
+self-assured,adjective
+self-aware,adjective
  self-awareness
-self-centered
-self-confidence
-self-confident
-self-conscious
+self-centered,adjective
+self-confidence,noun
+self-confident,adjective
+self-conscious,adjective
  self-consciously self-consciousness
-self-contained
-self-control
-self-criticism
-self-deception
-self-defeating
-self-defense
+self-contained,adjective
+self-control,noun
+self-criticism,noun
+self-deception,noun
+self-defeating,adjective
+self-defense,noun
  self-defence
-self-deprecating
-self-destruct
+self-deprecating,adjective
+self-destruct,adjective,verb
  self-destructed self-destructing self-destructs
-self-destruction
-self-destructive
-self-determination
-self-discipline
-self-discovery
-self-doubt
-self-effacing
-self-employed
-self-employment
-self-esteem
-self-evident
-self-examination
-self-expression
-self-fulfilling
-self-governing
-self-government
-self-help
-selfhood
-selfie!
+self-destruction,noun
+self-destructive,adjective
+self-determination,noun
+self-discipline,noun
+self-discovery,noun
+self-doubt,noun
+self-effacing,adjective
+self-employed,adjective
+self-employment,noun
+self-esteem,noun
+self-evident,adjective
+self-examination,noun
+self-expression,noun
+self-fulfilling,adjective
+self-governing,adjective
+self-government,noun
+self-help,noun
+selfhood,noun
+selfie,noun
  selfies
-self-image
-self-important
-self-imposed
-self-improvement
-self-indulgence
-self-indulgent
-self-inflicted
-self-interest
-self-interested
-selfish
+self-image,noun
+self-important,adjective
+self-imposed,adjective
+self-improvement,noun
+self-indulgence,noun
+self-indulgent,adjective
+self-inflicted,adjective
+self-interest,noun
+self-interested,adjective
+selfish,adjective
  selfishly selfishness
-self-knowledge
-self-made
-self-pity
-self-portrait
+self-knowledge,noun
+self-made,adjective
+self-pity,noun
+self-portrait,noun
  self-portraits
-self-preservation
-self-proclaimed
-self-promotion
-self-regulation
-self-regulatory
-self-reliance
-self-reliant
-self-respect
-self-respecting
-self-restraint
-self-righteous
-self-rule
-self-sacrifice
-selfsame
-self-satisfied
-self-service
-self-serving
-self-styled
-self-sufficiency
-self-sufficient
-self-supporting
-self-sustaining
-self-taught
-self-worth
-sell
+self-preservation,noun
+self-proclaimed,adjective
+self-promotion,noun
+self-regulation,noun
+self-regulatory,adjective
+self-reliance,noun
+self-reliant,adjective
+self-respect,noun
+self-respecting,adjective
+self-restraint,noun
+self-righteous,adjective
+self-rule,noun
+self-sacrifice,noun
+selfsame,adjective
+self-satisfied,adjective
+self-service,adjective,noun
+self-serving,adjective,noun
+self-styled,adjective
+self-sufficiency,noun
+self-sufficient,adjective
+self-supporting,adjective
+self-sustaining,adjective
+self-taught,adjective
+self-worth,noun
+sell,verb,noun
  selling sells sold
-seller
+seller,noun
  sellers
-selloff
+selloff,noun
  selloffs
-sellotape
+sellotape,verb,noun
  sellotaped sellotapes sellotaping
-sellout
+sellout,noun
  sellouts
-seltzer
+seltzer,noun
  seltzers
-selvage
+selvage,noun
  selvages selvedge selvedges
-semantic
+semantic,adjective
  semantically semantics
-semanticist
+semanticist,noun
  semanticists
-semaphore
+semaphore,verb,noun
  semaphored semaphores semaphoring
-semblance
+semblance,noun
  semblances
-semen
-semester
+semen,noun
+semester,noun
  semesters
-semi
+semi,noun
  semis
-semiannual
+semiannual,adjective
  semiannually
-semiarid
-semiautomatic
+semiarid!!!
+semiautomatic,adjective,noun
  semiautomatics
-semibreve
+semibreve,noun
  semibreves
-semicircle
+semicircle,noun
  semicircles
-semicircular
-semicolon
+semicircular,adjective
+semicolon,noun
  semicolons
-semiconducting
-semiconductor
+semiconducting,adjective
+semiconductor,noun
  semiconductors
-semiconscious
-semidarkness
-semidetached
+semiconscious,adjective
+semidarkness,noun
+semidetached,adjective,noun
  semidetacheds
-semifinal
+semifinal,noun
  semifinals
-semifinalist
+semifinalist,noun
  semifinalists
-semigloss
-semimonthly
+semigloss,noun
+semimonthly,adjective
  semimonthlies
-seminal
-seminar
+seminal,adjective
+seminar,noun
  seminars
-seminarian
+seminarian,noun
  seminarians
-seminary
+seminary,noun
  seminaries
-semiofficial
-semiotic
+semiofficial,adjective
+semiotic,adjective
  semiotics
-semipermeable
-semiprecious
-semiprivate
-semipro
+semipermeable,adjective
+semiprecious,adjective
+semiprivate,adjective
+semipro,adjective,noun
  semipros
-semiprofessional
+semiprofessional,adjective,noun
  semiprofessionals
-semiquaver
+semiquaver,noun
  semiquavers
-semiretired
-semiskilled
-semisolid
-semisweet
-semitone
+semiretired,adjective
+semiskilled,adjective
+semisolid,adjective
+semisweet,adjective
+semitone,noun
  semitones
-semitrailer
+semitrailer,noun
  semitrailers
-semitransparent
-semitropical
-semivowel
+semitransparent,adjective
+semitropical,adjective
+semivowel,noun
  semivowels
-semiweekly
+semiweekly,adjective
  semiweeklies
-semiyearly
-semolina
-sempstress
+semiyearly!!!
+semolina,noun
+sempstress,noun
  sempstresses
-semtex
-senate
+semtex,noun
+senate,noun
  senates
-senator
+senator,noun
  senators
-senatorial
-send
+senatorial,adjective
+send,verb,verb,noun
  sending sends sent
-sender
+sender,noun
  senders
-sendoff
+sendoff,noun
  sendoffs
-sendup
+sendup,noun
  sendups
-senescence
-senescent
-senile
-senility
-senior
+senescence,noun
+senescent,adjective
+senile,adjective
+senility,noun
+senior,adjective,noun
  seniors
-seniority
-senna
-senor
+seniority,noun
+senna,noun
+senor,noun
  senors
-senora
+senora,noun
  senoras
-senorita
+senorita,noun
  senoritas
-sensation
+sensation,noun
  sensations
-sensational
+sensational,adjective
  sensationally
-sensationalism
-sensationalist
+sensationalism,noun
+sensationalist,adjective,noun
  sensationalists
-sensationalistic
-sensationalize
+sensationalistic,adjective
+sensationalize,verb
  sensationalise sensationalised sensationalises sensationalising sensationalized sensationalizes sensationalizing
-sense
+sense,verb,noun
  sensed senseless senselessly senselessness senses sensing
-sensibility -> [sensible]
+sensibility,noun
  sensibilities
-sensible
+sensible,adjective
  sensibility -> [sensibility] sensibleness sensibly
-sensitive
+sensitive,adjective,noun
  sensitively sensitiveness sensitives
-sensitivity
+sensitivity,noun
  sensitivities
-sensitization
+sensitization,noun
  sensitisation
-sensitize
+sensitize,verb
  sensitise sensitised sensitises sensitising sensitized sensitizes sensitizing
-sensor
+sensor,noun
  sensors
-sensory
-sensual
+sensory,adjective
+sensual,adjective
  sensually
-sensualist
+sensualist,noun
  sensualists
-sensuality
-sensuous
+sensuality,noun
+sensuous,adjective
  sensuously sensuousness
-sentence
+sentence,verb,noun
  sentenced sentences sentencing
-sententious
+sententious,adjective
  sententiously
-sentience
-sentient
-sentiment
+sentience,noun
+sentient,adjective
+sentiment,noun
  sentiments
-sentimental
+sentimental,adjective
  sentimentally
-sentimentalism
-sentimentalist
+sentimentalism,noun
+sentimentalist,noun
  sentimentalists
-sentimentality
-sentimentalization
+sentimentality,noun
+sentimentalization,noun
  sentimentalisation
-sentimentalize
+sentimentalize,verb
  sentimentalise sentimentalised sentimentalises sentimentalising sentimentalized sentimentalizes sentimentalizing
-sentinel
+sentinel,verb,noun
  sentinels
-sentry
+sentry,noun
  sentries
-sepal
+sepal,noun
  sepals
-separable
+separable,adjective
  separability separably
-separate
+separate,adjective,pluralnoun,verb
  separated separately separateness separates separating
-separation
+separation,noun
  separations
-separatism
-separatist
+separatism,noun
+separatist,adjective,noun
  separatists
-separative
-separator
+separative,adjective
+separator,noun
  separators
-sepia
-sepsis
-septet
+sepia,noun
+sepsis,noun
+septet,noun
  septets septette septettes
-septic
-septicemia
+septic,adjective,noun
+septicemia,noun
  septicaemia
-septicemic
+septicemic,adjective
  septicaemic
-septuagenarian
+septuagenarian,noun
  septuagenarians
-septum
+septum,noun
  septa septums
-sepulcher
+sepulcher,verb,noun
  sepulchered sepulchering sepulchers sepulchre sepulchred sepulchres sepulchring
-sepulchral
-sequel
+sepulchral,adjective
+sequel,noun
  sequels
-sequence
+sequence,verb,noun
  sequenced sequences sequencing
-sequencer
+sequencer,noun
  sequencers
-sequential
+sequential,adjective
  sequentially
-sequester
+sequester,verb,noun
  sequestered sequestering sequesters
-sequestrate
+sequestrate,verb
  sequestrated sequestrates sequestrating
-sequestration
+sequestration,noun
  sequestrations
-sequin
+sequin,noun
  sequined sequinned sequins
-sequoia
+sequoia,noun
  sequoias
-seraglio
+seraglio,noun
  seraglios
-serape
+serape,noun
  sarape sarapes serapes
-seraph
+seraph,noun
  seraphim seraphs
-seraphic
-sere
+seraphic,adjective
+sere,adjective,noun
  serer serest
-serenade
+serenade,verb,noun
  serenaded serenades serenading
-serendipitous
-serendipity
-serene
+serendipitous,adjective
+serendipity,noun
+serene,adjective,noun
  serenely sereneness serener serenest
-serenity
-serf
+serenity,noun
+serf,noun
  serfs
-serfdom
-serge
-sergeant
+serfdom,noun
+serge,noun
+sergeant,noun
  sergeants
-serial
+serial,adjective,noun
  serially serials
-serialization
+serialization,noun
  serialisation serialisations serializations
-serialize
+serialize,verb
  serialise serialised serialises serialising serialized serializes serializing
-series
-serif
+series,noun
+serif,noun
  serifs
-serigraph
+serigraph,noun
  serigraphs
-serious
+serious,adjective
  seriously seriousness
-sermon
+sermon,noun
  sermons
-sermonize
+sermonize,verb
  sermonise sermonised sermonises sermonising sermonized sermonizes sermonizing
-serology
-serotonin
-serous
-serpent
+serology,noun
+serotonin,noun
+serous,adjective
+serpent,noun
  serpents
-serpentine
-serrate
+serpentine,adjective,verb,noun
+serrate,adjective
  serrated
-serration
+serration,noun
  serrations
-serried
-serum
+serried,adjective
+serum,noun
  sera serums
-servant
+servant,noun
  servants
-serve
+serve,verb,noun
  served serves serving -> [serving]
-server
+server,noun
  servers
-servery
+servery,noun
  serveries
-service
+service,verb,noun
  serviced services servicing
-serviceable
+serviceable,adjective
  serviceability
-serviceman
+serviceman,noun
  servicemen
-servicewoman
+servicewoman,noun
  servicewomen
-serviette
+serviette,noun
  serviettes
-servile
-servility
-serving -> [serve]
+servile,adjective
+servility,noun
+serving,noun
  servings
-servitor
+servitor,noun
  servitors
-servitude
-servo
+servitude,noun
+servo,noun
  servos
-servomechanism
+servomechanism,noun
  servomechanisms
-servomotor
+servomotor,noun
  servomotors
-sesame
+sesame,noun
  sesames
-sesquicentennial
+sesquicentennial,adjective,noun
  sesquicentennials
-session
+session,noun
  sessions
-set -> [sett]
+set,adjective,verb,noun
  sets -> [sett] setting -> [setting]
-setback
+setback,noun
  setbacks
-setscrew
+setscrew,noun
  setscrews
-setsquare
+setsquare!!!
  setsquares
-sett
+sett,noun
  set -> [set] sets -> [set] setts
-settee
+settee,noun
  settees
-setter
+setter,noun
  setters
-setting -> [set]
+setting,noun
  settings
-settle
+settle,verb,noun
  settled settles settling
-settlement
+settlement,noun
  settlements
-settler
+settler,noun
  settlers
-setup
+setup,noun
  setups
-seven
+seven,cardinalnumber
  sevens
-seventeen
+seventeen,cardinalnumber
  seventeens
-seventeenth
+seventeenth,ordinalnumber
  seventeenths
-seventh
+seventh,ordinalnumber
  sevenths
-seventieth
+seventieth,ordinalnumber
  seventieths
-seventy
+seventy,cardinalnumber
  seventies
-sever
+sever,verb
  severed severing severs
-several
+several,adjective,pronoun,determiner
  severally
-severance
+severance,noun
  severances
-severe
+severe,adjective
  severely severeness severer severest
-severity
-sew
+severity,noun
+sew,verb
  sewed sewing sewn sews
-sewage
+sewage,noun
  sewerage -> [sewerage]
-sewer
+sewer,noun
  sewers
-sewerage -> [sewage]
-sex
+sewerage,noun
+sex,verb,noun
  sexed sexes sexing sexless
-sexagenarian
+sexagenarian,noun
  sexagenarians
-sexism
-sexist
+sexism,noun
+sexist,adjective,noun
  sexists
-sexologist
+sexologist,noun
  sexologists
-sexology
-sexpot
+sexology,noun
+sexpot,noun
  sexpots
-sextant
+sextant,noun
  sextants
-sextet
+sextet,noun
  sextets sextette sextettes
-sexting
-sexton
+sexting,verb,noun
+sexton,noun
  sextons
-sextuplet
+sextuplet,noun
  sextuplets
-sexual
+sexual,adjective
  sexually
-sexuality
-sexy
+sexuality,noun
+sexy,adjective
  sexier sexiest sexily sexiness
-sh
+sh,exclamation
  shh ssh
-shabby
+shabby,adjective
  shabbier shabbiest shabbily shabbiness
-shack
+shack,verb,noun
  shacked shacking shacks
-shackle
+shackle,verb,noun
  shackled shackles shackling
-shad
+shad,noun
  shads
-shade
+shade,verb,noun
  shaded shades shading -> [shading]
-shading -> [shade]
+shading,noun
  shadings
-shadow
+shadow,verb,noun
  shadowed shadowing shadows
-shadowbox
+shadowbox,verb
  shadowboxed shadowboxes shadowboxing
-shadowy
+shadowy,adjective
  shadowier shadowiest
-shady
+shady,adjective
  shadier shadiest shadily shadiness
-shaft
+shaft,verb,noun
  shafted shafting shafts
-shag
+shag,verb,noun
  shagged shagging shags
-shaggy
+shaggy,adjective
  shaggier shaggiest shagginess
-shah
+shah,noun
  shahs
-shake
+shake,verb,noun
  shaken shakes shaking shook
-shakedown
+shakedown,noun
  shakedowns
-shakeout
+shakeout,noun
  shakeouts
-shaker
+shaker,noun
  shakers
-shakeup
+shakeup,noun
  shakeups
-shaky
+shaky,adjective
  shakier shakiest shakily shakiness
-shale
-shall
+shale,noun
+shall,modalverb
  shalt
-shallot
+shallot,noun
  shallots
-shallow
+shallow,adjective,verb,noun
  shallower shallowest shallowly shallowness shallows
-shalom
-shalwar
+shalom,exclamation
+shalwar,noun
  shalwars
-sham
+sham,adjective,verb,noun
  shammed shamming shams
-shaman
+shaman,noun
  shamans
-shamanic
-shamanism
-shamanistic
-shamble
+shamanic,adjective
+shamanism,noun
+shamanistic,adjective
+shamble,verb,noun
  shambled shambles shambling
-shambolic
-shame
+shambolic,adjective
+shame,exclamation,verb,noun
  shamed shameful shamefully shamefulness shameless shamelessly shamelessness shames shaming
-shamefaced
+shamefaced,adjective
  shamefacedly
-shampoo
+shampoo,verb,noun
  shampooed shampooing shampoos
-shampooer
+shampooer,verb,noun
  shampooers
-shamrock
+shamrock,noun
  shamrocks
-shandy
+shandy,noun
  shandies
-shanghai
+shanghai,verb,noun,propernoun
  shanghaied shanghaiing shanghais
-shank
+shank,verb,noun
  shanks
-shantung
-shanty -> [chantey]
+shantung,noun
+shanty,noun
  shanties -> [chantey]
-shantytown
+shantytown,noun
  shantytowns
-shape
+shape,abbreviation,verb,noun
  shaped shapeless shapelessly shapelessness shapes shaping
-shapely
+shapely,adjective
  shapelier shapeliest shapeliness
-shard
+shard,noun
  shards sherd sherds
-share
+share,verb,noun
  shared shares sharing
-sharecrop
+sharecrop,verb
  sharecropped sharecropping sharecrops
-sharecropper
+sharecropper,noun
  sharecroppers
-shareholder
+shareholder,noun
  shareholders
-shareholding
+shareholding,noun
  shareholdings
-sharer
+sharer,noun
  sharers
-shareware
-sharia
+shareware,noun
+sharia,noun
  shariah!
-shark
+shark,verb,noun
  sharks
-sharkskin
-sharp
+sharkskin,noun
+sharp,adjective,verb,noun,adverb
  sharped sharper -> [sharper] sharpest sharping sharpish sharply sharpness sharps
-sharpen
+sharpen,verb
  sharpened sharpening sharpens
-sharpener
+sharpener,noun
  sharpeners
-sharper -> [sharp]
+sharper,noun
  sharpers
-sharpie
+sharpie,noun
  sharpies sharpy
-sharpshooter
+sharpshooter,noun
  sharpshooters
-sharpshooting
-shatter
+sharpshooting,adjective,noun
+shatter,verb
  shattered shattering shatters
-shatterproof
-shave
+shatterproof,adjective
+shave,verb,noun
  shaved shaven shaves shaving -> [shaving]
-shaver
+shaver,noun
  shavers
-shaving -> [shave]
+shaving,noun
  shavings
-shawl
+shawl,noun
  shawls
-shay
+shay,noun
  shays
-she
+she,noun,pronoun
  her -> [her] hers -> [her] shes
-sheaf
+sheaf,verb,noun
  sheaves -> [sheave]
-shear
+shear,verb,noun
  sheared shearing shears shorn
-shearer
+shearer,noun
  shearers
-sheath -> [sheathe]
+sheath,noun
  sheaths -> [sheathe]
-sheathe
+sheathe,verb
  sheath -> [sheath] sheathed sheathes sheathing -> [sheathing] sheaths -> [sheath]
-sheathing -> [sheathe]
+sheathing,noun
  sheathings
-sheave
+sheave,verb,noun
  sheaved sheaves -> [sheaf] sheaving
-shebang
+shebang,noun
  shebangs
-shebeen
+shebeen,noun
  shebeens
-shed
+shed,verb,noun
  shedding sheds
-shedloads
-sheen
-sheeny
+shedloads,noun
+sheen,verb,noun
+sheeny,adjective,noun
  sheenier sheeniest
-sheep
-sheepdog
+sheep,noun
+sheepdog,noun
  sheepdogs
-sheepfold
+sheepfold,noun
  sheepfolds
-sheepherder
+sheepherder!!!
  sheepherders
-sheepish
+sheepish,adjective
  sheepishly sheepishness
-sheepskin
+sheepskin,noun
  sheepskins
-sheer
+sheer,adjective,verb,noun,adverb
  sheered sheerer sheerest sheering sheerness sheers
-sheet
+sheet,verb,noun
  sheetlike sheets
-sheeting
-sheik
+sheeting,noun
+sheik,noun
  shaikh shaikhs sheikh sheikhs sheiks
-sheikdom
+sheikdom!!!
  shaikhdom shaikhdoms sheikdoms sheikhdom sheikhdoms
-sheila
+sheila,noun
  sheilas
-shekel
+shekel,noun
  shekels
-shelf
+shelf,verb,noun
  shelves -> [shelve]
-shell
+shell,verb,noun
  shelled shelling shells
-shellac
+shellac,verb,noun
  shellack shellacked shellacking -> [shellacking] shellacks shellacs
-shellacking -> [shellac]
+shellacking,verb,noun
  shellackings
-shellfire
-shellfish
+shellfire,noun
+shellfish,noun
  shellfishes
-shell-shocked
-shelter
+shell-shocked,adjective
+shelter,verb,noun
  sheltered sheltering shelters
-shelve
+shelve,verb
  shelved shelves -> [shelf] shelving
-shenanigan
+shenanigan,pluralnoun
  shenanigans
-shepherd
+shepherd,verb,noun
  shepherded shepherding shepherds
-shepherdess
+shepherdess,noun
  shepherdesses
-sherbet
+sherbet,noun
  sherbert sherberts sherbets
-sheriff
+sheriff,noun
  sheriffs
-sherpa
+sherpa,noun
  sherpas
-sherry
+sherry,noun
  sherries
-shiatsu
-shibboleth
+shiatsu,noun
+shibboleth,noun
  shibboleths
-shield
+shield,verb,noun
  shielded shielding shields
-shift
+shift,verb,noun
  shifted shifting shiftless shiftlessly shiftlessness shifts
-shifty
+shifty,adjective
  shiftier shiftiest shiftily shiftiness
-shiitake
+shiitake,noun
  shiitakes
-shill
+shill,verb,noun
  shilled shilling -> [shilling] shills
-shillelagh
+shillelagh,noun
  shillalah shillalahs shillelaghs
-shilling -> [shill]
+shilling,noun
  shillings
-shim
+shim,verb,noun
  shimmed shimming shims
-shimmer
+shimmer,verb,noun
  shimmered shimmering shimmers
-shimmery
-shimmy
+shimmery,adjective
+shimmy,verb,noun
  shimmied shimmies shimmying
-shin
+shin,verb,noun
  shinned shinning shins
-shinbone
+shinbone,noun
  shinbones
-shindig
+shindig,noun
  shindigs
-shine
+shine,verb,noun
  shined shines shining shone
-shiner
+shiner,noun
  shiners
-shingle
+shingle,verb,noun
  shingled shingles shingling
-shinguard
+shinguard!!!
  shinguards
-shinny
+shinny,verb,noun
  shinnied shinnies shinnying
-shinsplints
-shiny
+shinsplints,pluralnoun
+shiny,adjective
  shinier shiniest shininess
-ship
+ship,verb,noun
  shipped shipping ships
-shipboard
+shipboard,noun
  shipboards
-shipbuilder
+shipbuilder,noun
  shipbuilders
-shipbuilding
-shipload
+shipbuilding,noun
+shipload,noun
  shiploads
-shipmate
+shipmate,noun
  shipmates
-shipment
+shipment,noun
  shipments
-shipowner
+shipowner,noun
  shipowners
-shipper
+shipper,noun
  shippers
-shipshape
-shipwreck
+shipshape,adjective
+shipwreck,verb,noun
  shipwrecked shipwrecking shipwrecks
-shipwright
+shipwright,noun
  shipwrights
-shipyard
+shipyard,noun
  shipyards
-shire
+shire,noun
  shires
-shirk
+shirk,verb,noun
  shirked shirking shirks
-shirker
+shirker,noun
  shirkers
-shirr
+shirr,verb
  shirred shirring -> [shirring] shirrs
-shirring -> [shirr]
+shirring,verb
  shirrings
-shirt
+shirt,noun
  shirtless shirts
-shirtfront
+shirtfront,verb,noun
  shirtfronts
-shirting
-shirtsleeve
+shirting,noun
+shirtsleeve,noun
  shirtsleeves
-shirttail
+shirttail,noun
  shirttails
-shirtwaist
+shirtwaist,noun
  shirtwaists
-shirty
-shit
+shirty,adjective
+shit,exclamation,verb,noun
  shat shite shites shits shitted shitting
-shitfaced
-shithead
+shitfaced,adjective
+shithead,noun
  shitheads
-shitless
-shitload
-shitty
+shitless,adjective
+shitload,noun
+shitty,adjective
  shittier shittiest
-shiv
+shiv,noun
  shivs
-shiver
+shiver,verb,noun
  shivered shivering shivers
-shivery
-shoal
+shivery,adjective
+shoal,adjective,verb,noun
  shoaled shoaling shoals
-shoat
+shoat,noun
  shoats
-shock
+shock,verb,noun
  shocked shocking shockingly shocks
-shocker
+shocker,noun
  shockers
-shockproof
-shockwave
+shockproof,adjective
+shockwave,noun
  shockwaves
-shoddy
+shoddy,adjective,noun
  shoddier shoddiest shoddily shoddiness
-shoe
+shoe,verb,noun
  shod shodden shoed shoeing shoes shoon
-shoebox
+shoebox,noun
  shoeboxes
-shoehorn
+shoehorn,verb,noun
  shoehorned shoehorning shoehorns
-shoelace
+shoelace,noun
  shoelaces
-shoemaker
+shoemaker,noun
  shoemakers
-shoeshine
+shoeshine,noun
  shoeshines
-shoestring
+shoestring,adjective,noun
  shoestrings
-shoetree
+shoetree!!!
  shoetrees
-shogun
+shogun,noun
  shoguns
-shogunate
-shoo
+shogunate,noun
+shoo,exclamation,verb
  shooed shooing shoos
-shoot
+shoot,exclamation,verb,noun
  shooting -> [shooting] shoots shot -> [shot]
-shooter
+shooter,noun
  shooters
-shooting -> [shoot]
+shooting,adjective,noun
  shootings
-shootout
+shootout,noun
  shootouts
-shop
+shop,verb,noun
  shoppe shopped shoppes shopping shops
-shopaholic
+shopaholic,noun
  shopaholics
-shopfitter
+shopfitter,noun
  shopfitters
-shopfitting
-shopfloor
-shopfront
+shopfitting,noun
+shopfloor,noun
+shopfront,noun
  shopfronts
-shopkeeper
+shopkeeper,noun
  shopkeepers
-shoplift
+shoplift,verb
  shoplifted shoplifting shoplifts
-shoplifter
+shoplifter,noun
  shoplifters
-shopper
+shopper,noun
  shoppers
-shoptalk
-shopworn
-shore
+shoptalk,noun
+shopworn,adjective
+shore,verb,noun
  shored shores shoring
-shorebird
+shorebird,noun
  shorebirds
-shoreline
+shoreline,noun
  shorelines
-short
+short,adjective,verb,noun,adverb
  shorted shorter shortest shorting shortish shortness shorts
-shortage
+shortage,noun
  shortages
-shortbread
-shortcake
+shortbread,noun
+shortcake,noun
  shortcakes
-shortchange
+shortchange,verb
  shortchanged shortchanges shortchanging
-short-circuit
+short-circuit,verb,noun
  short-circuited short-circuiting short-circuits
-shortcoming
+shortcoming,noun
  shortcomings
-shortcrust
-shortcut
+shortcrust,noun
+shortcut,noun
  shortcuts
-shorten
+shorten,verb
  shortened shortening -> [shortening] shortens
-shortening -> [shorten]
+shortening,noun
  shortenings
-shortfall
+shortfall,noun
  shortfalls
-shorthair
+shorthair,noun
  shorthairs
-shorthand
-shorthanded
-shorthorn
+shorthand,noun
+shorthanded,adjective
+shorthorn,noun
  shorthorns
-shortlist
+shortlist,verb,noun
  shortlisted shortlisting shortlists
-short-lived
-shortly
-short-range
-shortsighted
+short-lived,adjective
+shortly,adverb
+short-range,adjective
+shortsighted,adjective
  shortsightedly shortsightedness
-shortstop
+shortstop,noun
  shortstops
-short-term
-shortwave
+short-term,adjective
+shortwave,noun
  shortwaves
-shorty
+shorty,noun
  shortie shorties
-shot -> [shoot]
+shot,adjective,verb,noun
  shots
-shotgun
+shotgun,adjective,verb,noun
  shotgunned shotgunning shotguns
-should
+should,modalverb
  shouldst
-shoulder
+shoulder,verb,noun
  shouldered shouldering shoulders
-shoulder-length
-shout
+shoulder-length,adjective
+shout,verb,noun
  shouted shouting shouts
-shouter
+shouter,noun
  shouters
-shoutout
+shoutout,noun
  shoutouts
-shouty
-shove
+shouty,adjective
+shove,verb,noun
  shoved shoves shoving
-shovel
+shovel,verb,noun
  shoveled shovelful shovelfuls shoveling shovelled shovelling shovels shovelsful
-show
+show,verb,noun
  shew shewed shewing shewn shews showed showing -> [showing] shown shows
-showbiz
-showboat
+showbiz,noun
+showboat,verb,noun
  showboated showboating showboats
-showcase
+showcase,verb,noun
  showcased showcases showcasing
-showdown
+showdown,noun
  showdowns
-shower
+shower,verb,noun
  showered showering showers
-showerhead
+showerhead,noun
  showerheads
-showerproof
-showery
-showgirl
+showerproof,adjective,verb
+showery,adjective
+showgirl,noun
  showgirls
-showground
+showground,noun
  showgrounds
-showing -> [show]
+showing,noun
  showings
-showjumper
+showjumper,noun
  showjumpers
-showjumping
-showman
+showjumping,noun
+showman,noun
  showmen
-showmanship
-showoff
+showmanship,noun
+showoff,noun
  showoffs
-showpiece
+showpiece,noun
  showpieces
-showplace
+showplace,noun
  showplaces
-showroom
+showroom,noun
  showrooms
-showstopper
+showstopper,noun
  showstoppers
-showstopping
-showtime
-showy
+showstopping,adjective
+showtime,noun
+showy,adjective
  showier showiest showily showiness
-shrapnel
-shred
+shrapnel,noun
+shred,verb,noun
  shredded shredding shreds
-shredder
+shredder,noun
  shredders
-shrew
+shrew,noun
  shrewish shrews
-shrewd
+shrewd,adjective
  shrewder shrewdest shrewdly shrewdness
-shriek
+shriek,verb,noun
  shrieked shrieking shrieks
-shrift
-shrike
+shrift,noun
+shrike,noun
  shrikes
-shrill
+shrill,adjective,verb,noun
  shrilled shriller shrillest shrilling shrillness shrills shrilly
-shrimp
+shrimp,verb,noun
  shrimped shrimping shrimps
-shrimper
+shrimper,noun
  shrimpers
-shrine
+shrine,verb,noun
  shrines
-shrink
+shrink,verb,noun
  shrank shrinking shrinks shrunk shrunken
-shrinkable
-shrinkage
-shrive
+shrinkable,adjective
+shrinkage,noun
+shrive,verb
  shrived shriven shrives shriving shrove
-shrivel
+shrivel,verb
  shriveled shriveling shrivelled shrivelling shrivels
-shroud
+shroud,verb,noun
  shrouded shrouding shrouds
-shrub
+shrub,noun
  shrubs
-shrubbery
+shrubbery,noun
  shrubberies
-shrubby
+shrubby,adjective
  shrubbier shrubbiest
-shrug
+shrug,verb,noun
  shrugged shrugging shrugs
-shtick
+shtick,noun
  schtick schticks shticks
-shuck
+shuck,exclamation,verb,noun
  shucked shucking shucks -> [shucks]
-shucks -> [shuck]
-shudder
+shucks,exclamation,verb,noun
+shudder,verb,noun
  shuddered shuddering shudders
-shuffle
+shuffle,verb,noun
  shuffled shuffles shuffling
-shuffleboard
+shuffleboard,noun
  shuffleboards
-shuffler
+shuffler,noun
  shufflers
-shun
+shun,verb
  shunned shunning shuns
-shunt
+shunt,verb,noun
  shunted shunting shunts
-shush
+shush,exclamation,verb,noun
  shushed shushes shushing
-shut
+shut,verb
  shuts shutting
-shutdown
+shutdown,noun
  shutdowns
-shuteye
-shutoff
+shuteye,noun
+shutoff,noun
  shutoffs
-shutout
+shutout,noun
  shutouts
-shutter
+shutter,verb,noun
  shuttered shuttering shutters
-shutterbug
+shutterbug,noun
  shutterbugs
-shuttle
+shuttle,verb,noun
  shuttled shuttles shuttling
-shuttlecock
+shuttlecock,noun
  shuttlecocked shuttlecocking shuttlecocks
-shy
+shy,adjective,verb,noun
  shied shier shies shiest shyer shyest shying shyly shyness
-shyster
+shyster,noun
  shysters
-sibilant
+sibilant,adjective,noun
  sibilants
-sibling
+sibling,noun
  siblings
-sibyl
+sibyl,noun
  sibyls
-sibylline
-sic
+sibylline,adjective
+sic,verb,adverb
  sicced siccing sicked -> [sick] sicking -> [sick] sics
-sick
+sick,adjective,verb,noun
  sicked -> [sic] sicker sickest sicking -> [sic] sickish sicklier sickliest sickly sickness -> [sickness] sicks
-sickbay
+sickbay,noun
  sickbays
-sickbed
+sickbed,noun
  sickbeds
-sicken
+sicken,verb
  sickened sickening sickeningly sickens
-sickie
+sickie,noun
  sickies sicko sickos
-sickle
+sickle,noun
  sickles
-sickness -> [sick]
+sickness,noun
  sicknesses
-sickout
+sickout,noun
  sickouts
-sickroom
+sickroom,noun
  sickrooms
-side
+side,verb,noun
  sided sides siding -> [siding]
-sidearm
+sidearm,adjective,verb,noun
  sidearms
-sidebar
+sidebar,noun
  sidebars
-sideboard
+sideboard,noun
  sideboards
-sideburns
-side-by-side
-sidecar
+sideburns,noun
+side-by-side,phrase
+sidecar,noun
  sidecars
-sidekick
+sidekick,noun
  sidekicks
-sidelight
+sidelight,noun
  sidelights
-sideline
+sideline,verb,noun
  sidelined sidelines sidelining
-sidelong
-sideman
+sidelong,adjective,adverb
+sideman,noun
  sidemen
-sidepiece
+sidepiece!!!
  sidepieces
-sidereal
-sidesaddle
+sidereal,adjective
+sidesaddle,noun,adverb
  sidesaddles
-sideshow
+sideshow,noun
  sideshows
-sidesplitting
-sidestep
+sidesplitting,adjective
+sidestep,verb,noun
  sidestepped sidestepping sidesteps
-sidestroke
+sidestroke,noun
  sidestroked sidestrokes sidestroking
-sideswipe
+sideswipe,verb,noun
  sideswiped sideswipes sideswiping
-sidetrack
+sidetrack,verb,noun
  sidetracked sidetracking sidetracks
-sidewalk
+sidewalk,noun
  sidewalks
-sidewall
+sidewall,noun
  sidewalls
-sideways
+sideways,adjective,adverb
  sidewise
-sidewinder
+sidewinder,noun
  sidewinders
-siding -> [side]
+siding,noun
  sidings
-sidle
+sidle,verb,noun
  sidled sidles sidling
-siege
+siege,noun
  sieges
-sienna
-sierra
+sienna,noun
+sierra,noun
  sierras
-siesta
+siesta,noun
  siestas
-sieve
+sieve,verb,noun
  sieved sieves sieving
-sift
+sift,verb,noun
  sifted sifting sifts
-sifter
+sifter,noun
  sifters
-sigh
+sigh,verb,noun
  sighed sighing sighs
-sight
+sight,verb,noun
  sighted sighting -> [sighting] sightless sights
-sighting -> [sight]
+sighting,noun
  sightings
-sightly
+sightly,adjective
  sightlier sightliest
-sightread
+sightread,verb
  sightreading sightreads
-sightseeing
-sightseer
+sightseeing,noun
+sightseer,noun
  sightseers
-sigma
+sigma,noun
  sigmas
-sign
+sign,verb,noun
  signed signing -> [signing] signs
-signage
-signal
+signage,noun
+signal,adjective,verb,noun
  signaled signaling signalled signalling signally signals
-signaler
+signaler,noun
  signalers signaller signallers
-signalization
+signalization,noun
  signalisation
-signalize
+signalize,verb
  signalise signalised signalises signalising signalized signalizes signalizing
-signalman
+signalman,noun
  signalmen
-signatory
+signatory,noun
  signatories
-signature
+signature,noun
  signatures
-signboard
+signboard,noun
  signboards
-signer
+signer,noun
  signers
-signet
+signet,noun
  signets
-significance
-significant
+significance,noun
+significant,adjective
  significantly
-signification
+signification,noun
  significations
-signify
+signify,verb
  signified signifies signifying
-signing -> [sign]
+signing,noun
  signings
-signor
+signor,noun
  signori signors
-signora
+signora,noun
  signoras signore
-signorina
+signorina,noun
  signorinas signorine
-signpost
+signpost,verb,noun
  signposted signposting signposts
-silage
-silence
+silage,verb,noun
+silence,verb,noun
  silenced silences silencing
-silencer
+silencer,noun
  silencers
-silent
+silent,adjective
  silenter silentest silently silents
-silhouette
+silhouette,verb,noun
  silhouetted silhouettes silhouetting
-silica
-silicate
+silica,noun
+silicate,noun
  silicates
-siliceous
+siliceous,adjective
  silicious
-silicon
-silicone
-silicosis
-silk
+silicon,noun
+silicone,verb,noun
+silicosis,noun
+silk,noun
  silks
-silken
-silkscreen
+silken,adjective
+silkscreen,verb,noun
  silkscreened silkscreening silkscreens
-silkworm
+silkworm,noun
  silkworms
-silky
+silky,adjective
  silkier silkiest silkily silkiness
-sill
+sill,noun
  sills
-silly
+silly,adjective,noun
  sillier sillies silliest silliness
-silo
+silo,verb,noun
  silos
-silt
+silt,verb,noun
  silted silting silts
-silty
+silty,adjective
  siltier siltiest
-silver
+silver,verb,noun
  silvered silvering silvers
-silverfish
+silverfish,noun
  silverfishes
-silversmith
+silversmith,noun
  silversmiths
-silverware
-silvery
-sim!
+silverware,noun
+silvery,adjective
+sim,noun
  sims
-simian
+simian,adjective,noun
  simians
-similar
+similar,adjective,noun
  similarly
-similarity
+similarity,noun
  similarities
-simile
+simile,noun
  similes
-similitude
-simmer
+similitude,noun
+simmer,verb,noun
  simmered simmering simmers
-simonize
+simonize,verb
  simonise simonised simonises simonising simonized simonizes simonizing
-simony
-simpatico
-simper
+simony,noun
+simpatico,adjective
+simper,verb,noun
  simpered simpering simperingly simpers
-simple
+simple,adjective,exclamation,noun
  simpleness simpler simplest simply
-simpleminded
-simpleton
+simpleminded,adjective
+simpleton,noun
  simpletons
-simplicity
+simplicity,noun
  simplicities
-simplification
+simplification,noun
  simplifications
-simplify
+simplify,verb
  simplified simplifies simplifying
-simplistic
+simplistic,adjective
  simplistically
-simulacrum
+simulacrum,noun
  simulacra simulacrums
-simulate
+simulate,verb
  simulated simulates simulating
-simulation
+simulation,noun
  simulations
-simulator
+simulator,noun
  simulators
-simulcast
+simulcast,verb,noun
  simulcasted simulcasting simulcasts
-simultaneity
-simultaneous
+simultaneity,noun
+simultaneous,adjective
  simultaneously
-sin
+sin,abbreviation,verb,noun
  sinful sinfully sinfulness sinless sinned sinning sins
-since
-sincere
+since,conjunction,adverb<spanclass="listSeparator">,</span>preposition<spanclass="listSeparator">,</span>
+sincere,adjective
  sincerely sincerer sincerest
-sincerity
-sine
+sincerity,noun
+sine,noun
  sines
-sinecure
+sinecure,noun
  sinecures
-sinew
+sinew,verb,noun
  sinews
-sinewy
-sing
+sinewy,adjective
+sing,verb,noun
  sang singing sings sung
-singable
-singalong
+singable,adjective
+singalong,noun
  singalongs
-singe
+singe,verb,noun
  singed singeing singes
-singer
+singer,noun
  singers
-singer-songwriter
+singer-songwriter,noun
  singer-songwriters
-single
+single,adjective,verb,noun
  singled singleness singles singling singly
-single-handed
+single-handed,adjective,adverb
  single-handedly
-single-minded
-singlet
+single-minded,adjective
+singlet,noun
  singlets
-singleton
+singleton,noun
  singletons
-singletree
+singletree,noun
  singletrees
-singsong
+singsong,adjective,verb,noun
  singsongs
-singular
+singular,adjective,noun
  singularly singulars
-singularity
+singularity,noun
  singularities
-sinister
-sink
+sinister,adjective
+sink,verb,noun
  sank sinking sinks sunk sunken
-sinkable
-sinker
+sinkable,adjective
+sinker,noun
  sinkers
-sinkhole
+sinkhole,noun
  sinkholes
-sinner
+sinner,noun
  sinners
-sinology
-sinuosity
-sinuous
+sinology,noun
+sinuosity,noun
+sinuous,adjective
  sinuously
-sinus
+sinus,noun
  sinuses
-sinusitis
-sip
+sinusitis,noun
+sip,verb,noun
  sipped sipping sips
-siphon
+siphon,verb,noun
  siphoned siphoning siphons syphon syphoned syphoning syphons
-sipper
+sipper,noun
  sippers
-sir
+sir,noun
  sirs
-sire
+sire,verb,noun
  sired sires siring
-siren
+siren,noun
  sirens
-sirloin
+sirloin,noun
  sirloins
-sirocco
+sirocco,noun
  siroccos
-sirrah
-sirree
+sirrah,noun
+sirree,exclamation
  siree
-sis
+sis,exclamation,abbreviation,noun
  sises
-sisal
-sissified
-sissy
+sisal,noun
+sissified,adjective
+sissy,adjective,noun
  cissier cissies cissiest cissy sissier sissies sissiest
-sister
+sister,noun
  sisterliness sisterly sisters
-sisterhood
+sisterhood,noun
  sisterhoods
-sister-in-law
+sister-in-law,noun
  sisters-in-law
-sit
+sit,verb,noun
  sat sits sitting -> [sitting]
-sitar
+sitar,noun
  sitars
-sitarist
+sitarist,noun
  sitarists
-sitcom
+sitcom,noun
  sitcoms
-sit-down
+sit-down,adjective,noun
  sit-downs
-site
+site,verb,noun
  sited sites siting
-sit-in
+sit-in,noun
  sit-ins
-sitter
+sitter,noun
  sitters
-sitting -> [sit]
+sitting,adjective,noun
  sittings
-situate
+situate,adjective,verb
  situated situates situating
-situation
+situation,noun
  situations
-situp
+situp,noun
  situps
-six
+six,cardinalnumber
  sixes
-sixfold
-six-pack
+sixfold,adjective,adverb
+six-pack,noun
  six-packs
-sixpence
+sixpence,noun
  sixpences
-sixshooter
+sixshooter,noun
  sixshooters
-sixteen
+sixteen,cardinalnumber
  sixteens
-sixteenth
+sixteenth,ordinalnumber
  sixteenths
-sixth
+sixth,ordinalnumber
  sixths
-sixtieth
+sixtieth,ordinalnumber
  sixtieths
-sixty
+sixty,cardinalnumber
  sixties
-sizable
+sizable,adjective
  sizeable
-size
+size,adjective,verb,noun
  sized sizes sizing
-sizzle
+sizzle,verb,noun
  sizzled sizzles sizzling
-sizzler
+sizzler,noun
  sizzlers
-ska
-skank
+ska,noun
+skank,verb,noun
  skanks
-skanky
-skate
+skanky,adjective
+skate,verb,noun
  skated skates skating
-skateboard
+skateboard,verb,noun
  skateboarded skateboarding skateboards
-skateboarder
+skateboarder,noun
  skateboarders
-skatepark
+skatepark,noun
  skateparks
-skater
+skater,noun
  skaters
-skedaddle
+skedaddle,verb
  skedaddled skedaddles skedaddling
-skeet
-skeeter
+skeet,noun
+skeeter,noun
  skeeters
-skein
+skein,noun
  skeins
-skeletal
-skeleton
+skeletal,adjective
+skeleton,noun
  skeletons
-skeptic
+skeptic,adjective,noun
  sceptic sceptics skeptics
-skeptical
+skeptical,adjective
  sceptical sceptically skeptically
-skepticism
+skepticism,noun
  scepticism
-sketch
+sketch,verb,noun
  sketched sketches sketching
-sketchbook
+sketchbook,noun
  sketchbooks
-sketcher
+sketcher,noun
  sketchers
-sketchpad
+sketchpad!!!
  sketchpads
-sketchy
+sketchy,adjective
  sketchier sketchiest sketchily sketchiness
-skew
+skew,adjective,verb,noun
  skewed skewing skews
-skewbald
+skewbald,adjective,noun
  skewbalds
-skewer
+skewer,verb,noun
  skewered skewering skewers
-ski
+ski,verb,noun
  skied -> [sky] skiing skis
-skibob
+skibob,verb,noun
  skibobs
-skid
+skid,verb,noun
  skidded skidding skids
-skidpan
+skidpan,noun
  skidpans
-skier
+skier,noun
  skiers
-skiff
+skiff,noun
  skiffs
-skiffle
-skill
+skiffle,noun
+skill,verb,noun
  skilful skilfully skilfulness skilled skillful skillfully skillfulness skills
-skillet
+skillet,noun
  skillets
-skim
+skim,verb,noun
  skimmed skimming skims
-skimmer
+skimmer,noun
  skimmers
-skimp
+skimp,verb,noun
  skimped skimping skimps
-skimpy
+skimpy,adjective
  skimpier skimpiest skimpily skimpiness
-skin
+skin,verb,noun
  skinless skinned skinning skins
-skincare
-skinflick
+skincare,noun
+skinflick,noun
  skinflicks
-skinflint
+skinflint,noun
  skinflints
-skinful
-skinhead
+skinful,noun
+skinhead,noun
  skinheads
-skinny
+skinny,adjective,noun
  skinnier skinniest skinniness
-skint
-skintight
-skip
+skint,adjective
+skintight,adjective
+skip,verb,noun
  skipped skipping skips
-skipper
+skipper,verb,noun
  skippered skippering skippers
-skirmish
+skirmish,verb,noun
  skirmished skirmishes skirmishing
-skirmisher
+skirmisher,noun
  skirmishers
-skirt
+skirt,verb,noun
  skirted skirting -> [skirting] skirts
-skirting -> [skirt]
+skirting,noun
  skirtings
-skit
+skit,noun
  skits
-skitter
+skitter,verb
  skittered skittering skitters
-skittish
+skittish,adjective
  skittishly skittishness
-skittle
+skittle,verb,noun
  skittles
-skive
+skive,verb,noun
  skived skives skiving
-skiver
+skiver,noun
  skivers
-skivvy
+skivvy,verb,noun
  skivvied skivvies skivvying
-skoal
+skoal,exclamation
  skoals
-skua
+skua,noun
  skuas
-skulduggery
+skulduggery,noun
  skullduggery
-skulk
+skulk,verb,noun
  skulked skulking skulks
-skulker
+skulker,noun
  skulkers
-skull
+skull,verb,noun
  skulls
-skullcap
+skullcap,noun
  skullcaps
-skunk
+skunk,verb,noun
  skunked skunking skunks
-skunkworks
-sky
+skunkworks,pluralnoun
+sky,verb,noun
  skied -> [ski] skies skyed skying
-skybox
+skybox,noun
  skyboxes
-skycap
+skycap,noun
  skycaps
-skydive
+skydive,verb
  skydived skydives skydiving skydove
-skydiver
+skydiver,noun
  skydivers
-sky-high
-skyjack
+sky-high,adjective,adverb
+skyjack,verb,noun
  skyjacked skyjacking -> [skyjacking] skyjacks
-skyjacker
+skyjacker,noun
  skyjackers
-skyjacking -> [skyjack]
+skyjacking,verb,noun
  skyjackings
-skylark
+skylark,verb,noun
  skylarked skylarking skylarks
-skylight
+skylight,noun
  skylights
-skyline
+skyline,noun
  skylines
-skyrocket
+skyrocket,verb,noun
  skyrocketed skyrocketing skyrockets
-skyscraper
+skyscraper,noun
  skyscrapers
-skyward
+skyward,adjective,adverb
  skywards
-skywriter
+skywriter,noun
  skywriters
-skywriting
-slab
+skywriting,noun
+slab,verb,noun
  slabbed slabbing slabs
-slack
+slack,adjective,verb,noun
  slacked slacker -> [slacker] slackest slacking slackly slackness slacks -> [slacks]
-slacken
+slacken,verb
  slackened slackening slackens
-slacker -> [slack]
+slacker,noun
  slackers
-slacks -> [slack]
-slag
+slacks,adjective,verb,noun
+slag,verb,noun
  slagged slagging slags
-slagheap
+slagheap,noun
  slagheaps
-slake
+slake,verb
  slaked slakes slaking
-slalom
+slalom,verb,noun
  slalomed slaloming slaloms
-slam
+slam,verb,noun
  slammed slamming slams
-slammer
+slammer,noun
  slammers
-slander
+slander,verb,noun
  slandered slandering slanders
-slanderer
+slanderer,noun
  slanderers
-slanderous
-slang
-slangy
+slanderous,adjective
+slang,verb,noun
+slangy,adjective
  slangier slangiest
-slant
+slant,adjective,verb,noun
  slanted slanting slantingly slants
-slantwise
-slap
+slantwise,adjective,adverb
+slap,adjective,verb,noun,adverb
  slapped slapping slaps
-slapdash
-slaphappy
+slapdash,adjective,adverb
+slaphappy,adjective
  slaphappier slaphappiest
-slaphead
+slaphead,noun
  slapheads
-slapper
+slapper,noun
  slappers
-slapstick
-slash
+slapstick,noun
+slash,conjunction,verb,noun
  slashed slashes slashing
-slasher
+slasher,noun
  slashers
-slat
+slat,noun
  slats slatted
-slate
+slate,verb,noun
  slated slates slating
-slather
+slather,verb,noun
  slathered slathering slathers
-slattern
+slattern,noun
  slatternly slatterns
-slaughter
+slaughter,verb,noun
  slaughtered slaughtering slaughters
-slaughterer
+slaughterer,noun
  slaughterers
-slaughterhouse
+slaughterhouse,noun
  slaughterhouses
-slave
+slave,verb,noun
  slaved slaves slaving
-slaveholder
+slaveholder,noun
  slaveholders
-slaver
+slaver,verb,noun
  slavered slavering slavers
-slavery
-slavish
+slavery,noun
+slavish,adjective
  slavishly slavishness
-slaw
-slay
+slaw,noun
+slay,verb,noun
  slain slayed slaying -> [slaying] slays slew -> [slew slough slue]
-slayer
+slayer,noun
  slayers
-slaying -> [slay]
+slaying,noun
  slayings
-sleaze
+sleaze,verb,noun
  sleazes
-sleazebag
+sleazebag,noun
  sleazebags
-sleazeball
+sleazeball,noun
  sleazeballs
-sleazy
+sleazy,adjective
  sleazier sleaziest sleazily sleaziness
-sled
+sled,verb,noun
  sledded sledding sleds
-sledder
+sledder,noun
  sledders
-sledge
+sledge,verb,noun
  sledged sledges sledging
-sledgehammer
+sledgehammer,verb,noun
  sledgehammered sledgehammering sledgehammers
-sleek
+sleek,adjective,verb
  sleeked sleeker sleekest sleeking sleekly sleekness sleeks
-sleep
+sleep,verb,noun
  sleeping sleepless sleeplessly sleeplessness sleeps slept
-sleeper
+sleeper,noun
  sleepers
-sleepover
+sleepover,noun
  sleepovers
-sleepwalk
+sleepwalk,verb,noun
  sleepwalked sleepwalking sleepwalks
-sleepwalker
+sleepwalker,noun
  sleepwalkers
-sleepwear
-sleepy
+sleepwear,noun
+sleepy,adjective
  sleepier sleepiest sleepily sleepiness
-sleepyhead
+sleepyhead,noun
  sleepyheads
-sleet
+sleet,verb,noun
  sleeted sleeting sleets
-sleety
+sleety,adjective
  sleetier sleetiest
-sleeve
+sleeve,noun
  sleeved sleeveless sleeves
-sleigh
+sleigh,verb,noun
  sleighed sleighing sleighs
-sleight
+sleight,noun
  sleights
-slender
+slender,adjective
  slenderer slenderest slenderness
-slenderize
+slenderize,verb
  slenderise slenderised slenderises slenderising slenderized slenderizes slenderizing
-sleuth
+sleuth,verb,noun
  sleuthing sleuths
-slew -> [slay slough slue]
+slew,verb,noun
  slews -> [slough slue]
-slice
+slice,verb,noun
  sliced slices slicing
-slicer
+slicer,noun
  slicers
-slick
+slick,adjective,verb,noun
  slicked slicker -> [slicker] slickest slicking slickly slickness slicks
-slicker -> [slick]
+slicker,noun
  slickers
-slide
+slide,verb,noun
  slid slides sliding
-slider
+slider,noun
  sliders
-slideshow
+slideshow,noun
  slideshows
-slight
+slight,adjective,verb,noun
  slighted slighter slightest slighting slightly slightness slights
-slim
+slim,adjective,verb,noun
  slimmed slimmer -> [slimmer] slimmest slimming slimness slims
-slime
-slimeball
+slime,verb,noun
+slimeball,noun
  slimeballs
-slimline
-slimmer -> [slim]
+slimline,adjective
+slimmer,noun
  slimmers
-slimy
+slimy,adjective
  slimier slimiest sliminess
-sling
+sling,verb,noun
  slinging slings slung
-slingback
+slingback,noun
  slingbacks
-slingshot
+slingshot,verb,noun
  slingshots
-slink
+slink,verb,noun
  slinked slinking slinks slunk
-slinky
+slinky,adjective
  slinkier slinkiest
-slip
+slip,verb,noun
  slipped slipping slips
-slipcase
+slipcase,noun
  slipcases
-slipcover
+slipcover,noun
  slipcovers
-slipknot
+slipknot!!!
  slipknots
-slippage
+slippage,noun
  slippages
-slipper
+slipper,verb,noun
  slippers
-slippery
+slippery,adjective
  slipperier slipperiest slipperiness
-slippy
+slippy,adjective
  slippier slippiest
-slipshod
-slipstream
+slipshod,adjective
+slipstream,verb,noun
  slipstreams
-slipup
+slipup,noun
  slipups
-slipway
+slipway,noun
  slipways
-slit
+slit,verb,noun
  slits slitting
-slither
+slither,verb,noun
  slithered slithering slithers
-slithery
-sliver
+slithery,adjective
+sliver,verb,noun
  slivered slivering slivers
-slob
+slob,verb,noun
  slobbed slobbing slobs
-slobber
+slobber,verb,noun
  slobbered slobbering slobbers
-slobbery
-sloe
+slobbery,adjective
+sloe,noun
  sloes
-slog
+slog,verb,noun
  slogged slogging slogs
-slogan
+slogan,noun
  slogans
-sloganeering
-sloop
+sloganeering,verb,noun
+sloop,noun
  sloops
-slop
+slop,verb,noun
  slopped slopping slops
-slope
+slope,verb,noun
  sloped slopes sloping
-sloppy
+sloppy,adjective
  sloppier sloppiest sloppily sloppiness
-slosh
+slosh,verb,noun
  sloshed sloshes sloshing
-slot
+slot,verb,noun
  slots slotted slotting
-sloth
+sloth,noun
  slothful slothfully slothfulness sloths
-slouch
+slouch,verb,noun
  slouched slouches slouching
-sloucher
+sloucher,verb,noun
  slouchers
-slouchy
+slouchy,adjective
  slouchier slouchiest
-slough
+slough,verb,noun,propernoun
  slew -> [slay slew slue] slews -> [slew slue] sloughed sloughing sloughs slue -> [slue] slues -> [slue]
-sloven
+sloven,noun
  slovenlier slovenliest slovenliness slovenly slovens
-slow
+slow,adjective,verb,adverb
  slowed slower slowest slowing slowly slowness slows
-slowcoach
+slowcoach,noun
  slowcoaches
-slowdown
+slowdown,noun
  slowdowns
-slow-motion
-slowpoke
+slow-motion,noun
+slowpoke,noun
  slowpokes
-slowworm
+slowworm,noun
  slowworms
-sludge
-sludgy
+sludge,noun
+sludgy,adjective
  sludgier sludgiest
-slue -> [slough]
+slue,verb,noun
  slew -> [slay slew slough] slewed slewing slews -> [slew slough] slued slues -> [slough] sluing
-slug
+slug,verb,noun
  slugged slugging slugs
-slugfest
+slugfest,noun
  slugfests
-sluggard
+sluggard,noun
  sluggards
-slugger
+slugger,noun
  sluggers
-sluggish
+sluggish,adjective
  sluggishly sluggishness
-sluice
+sluice,verb,noun
  sluiced sluices sluicing
-slum
+slum,verb,noun
  slummed slumming slums
-slumber
+slumber,verb,noun
  slumbered slumbering slumbers
-slumberous
+slumberous,adjective
  slumbrous
-slumdog!
+slumdog!!!
  slumdogs
-slumlord
+slumlord,noun
  slumlords
-slummy
+slummy,adjective
  slummier slummiest
-slump
+slump,verb,noun
  slumped slumping slumps
-slur
+slur,verb,noun
  slurred slurring slurs
-slurp
+slurp,verb,noun
  slurped slurping slurps
-slurry
+slurry,noun
  slurries
-slush
+slush,verb,noun
  slushes
-slushy
+slushy,adjective
  slushier slushiest slushiness
-slut
+slut,noun
  sluts sluttish
-slutty
+slutty,adjective
  sluttier sluttiest
-sly
+sly,adjective
  slier sliest slily slyer slyest slyly slyness
-smack
+smack,verb,noun,adverb
  smacked smacking smacks
-smacker
+smacker,noun
  smackers
-small
+small,adjective,pluralnoun,adverb
  smaller smallest smallish smallness smalls
-smallholder
+smallholder,noun
  smallholders
-smallholding
+smallholding,noun
  smallholdings
-smallpox
-small-scale
-small-time
-small-town
-smarmy
+smallpox,noun
+small-scale,adjective
+small-time,adjective
+small-town,adjective
+smarmy,adjective
  smarmier smarmiest
-smart
+smart,adjective,verb,noun
  smarted smarter smartest smarting smartly smartness smarts
-smarten
+smarten,verb
  smartened smartening smartens
-smartphone
+smartphone,noun
  smartphones
-smartwatch!
+smartwatch,noun
  smartwatches
-smarty
+smarty,noun
  smarties
-smartypants
-smash
+smartypants,noun
+smash,verb,noun,adverb
  smashed smashes smashing
-smasher
+smasher,noun
  smashers
-smashup
+smashup,noun
  smashups
-smattering
+smattering,noun
  smatterings
-smear
+smear,verb,noun
  smeared smearing smears
-smeary
+smeary,adjective
  smearier smeariest
-smell
+smell,verb,noun
  smelled smelling smells smelt -> [smelt]
-smelly
+smelly,adjective
  smellier smelliest smelliness
-smelt -> [smell]
+smelt,verb,noun
  smelted smelting smelts
-smelter
+smelter,noun
  smelters
-smidgen
+smidgen,noun
  smidgens smidgeon smidgeons smidgin smidgins
-smilax
-smile
+smilax,noun
+smile,verb,noun
  smiled smiles smiling smilingly
-smiley
+smiley,adjective,noun
  smileys smilies
-smirch
+smirch,verb,noun
  smirched smirches smirching
-smirk
+smirk,verb,noun
  smirked smirking smirks
-smite
+smite,verb,noun
  smit smites smiting smitten smote
-smith
+smith,verb,noun
  smiths
-smithereens
-smithy
+smithereens,pluralnoun
+smithy,noun
  smithies
-smock
+smock,verb,noun
  smocked smocking smocks
-smog
+smog,noun
  smogs
-smoggy
+smoggy,adjective
  smoggier smoggiest
-smoke
+smoke,verb,noun
  smoked smokeless smokes smoking
-smoke-free
-smokehouse
+smoke-free,adjective
+smokehouse,noun
  smokehouses
-smoker
+smoker,noun
  smokers
-smokescreen
+smokescreen,noun
  smokescreens
-smokestack
+smokestack,noun
  smokestacks
-smoky
+smoky,adjective
  smokey smokier smokiest smokiness
-smolder
+smolder,verb,noun
  smoldered smoldering smolders smoulder smouldered smouldering smoulders
-smooch
+smooch,verb,noun
  smooched smooches smooching
-smoochy
-smooth
+smoochy,adjective
+smooth,adjective,verb,adverb
  smoothed smoother smoothes smoothest smoothing smoothly smoothness smooths
-smoothie
+smoothie,noun
  smoothies smoothy
-smorgasbord
+smorgasbord,noun
  smorgasbords
-smother
+smother,verb,noun
  smothered smothering smothers
-smudge
+smudge,verb,noun
  smudged smudges smudging
-smudgy
+smudgy,adjective
  smudgier smudgiest
-smug
+smug,adjective
  smugger smuggest smugly smugness
-smuggle
+smuggle,verb
  smuggled smuggles smuggling
-smuggler
+smuggler,noun
  smugglers
-smut
+smut,verb,noun
  smuts
-smutty
+smutty,adjective
  smuttier smuttiest smuttiness
-snack
+snack,verb,noun
  snacked snacking snacks
-snaffle
+snaffle,verb,noun
  snaffled snaffles snaffling
-snafu
+snafu,adjective,verb,noun
  snafus
-snag
+snag,verb,noun
  snagged snagging snags
-snail
+snail,noun
  snails
-snake
+snake,verb,noun
  snaked snakelike snakes snaking
-snakebite
+snakebite,noun
  snakebites
-snakeskin
-snaky
+snakeskin,noun
+snaky,adjective
  snakier snakiest
-snap
+snap,adjective,verb,noun
  snapped snapping snappish snappishly snappishness snaps
-snapdragon
+snapdragon,noun
  snapdragons
-snapper
+snapper,noun
  snappers
-snappy
+snappy,adjective
  snappier snappiest snappily snappiness
-snapshot
+snapshot,noun
  snapshots
-snare
+snare,verb,noun
  snared snares snaring
-snarf
+snarf,verb
  snarfed snarfing snarfs
-snarky!
+snarky,adjective
  snarkier snarkiest
-snarl
+snarl,verb,noun
  snarled snarling snarlingly snarls
-snarly
+snarly,adjective
  snarlier snarliest
-snatch
+snatch,verb,noun
  snatched snatches snatching
-snatcher
+snatcher,noun
  snatchers
-snazzy
+snazzy,adjective
  snazzier snazziest snazzily
-sneak
+sneak,adjective,verb,noun
  sneaked sneaking sneakingly sneaks snuck
-sneaker
+sneaker,noun
  sneakers
-sneaky
+sneaky,adjective
  sneakier sneakiest sneakily sneakiness
-sneer
+sneer,verb,noun
  sneered sneering sneeringly sneers
-sneeze
+sneeze,verb,noun
  sneezed sneezes sneezing
-snick
+snick,verb,noun
  snicked snicking snicks
-snicker
+snicker,verb,noun
  snickered snickering snickers snigger sniggered sniggering sniggers
-snide
+snide,adjective,noun
  snidely snider snidest
-sniff
+sniff,verb,noun
  sniffed sniffing sniffs
-sniffer
+sniffer,noun
  sniffers
-sniffle
+sniffle,verb,noun
  sniffled sniffles sniffling
-sniffy
+sniffy,adjective
  sniffier sniffiest
-snifter
+snifter,noun
  snifters
-snip
+snip,verb,noun
  snipped snipping snips
-snipe
+snipe,verb,noun
  sniped snipes sniping
-sniper
+sniper,noun
  snipers
-snippet
+snippet,noun
  snippets
-snippy
+snippy,adjective
  snippier snippiest
-snit
+snit,noun
  snits
-snitch
+snitch,verb,noun
  snitched snitches snitching
-snivel
+snivel,verb,noun
  sniveled sniveling snivelled snivelling snivels
-sniveler
+sniveler,noun
  snivelers sniveller snivellers
-snob
+snob,noun
  snobbish snobbishly snobbishness snobs
-snobbery
-snobby
+snobbery,noun
+snobby,adjective
  snobbier snobbiest
-snog
+snog,verb,noun
  snogged snogging snogs
-snood
+snood,noun
  snoods
-snooker
+snooker,verb,noun
  snookered snookering snookers
-snoop
+snoop,verb,noun
  snooped snooping snoops
-snooper
+snooper,noun
  snoopers
-snoopy
+snoopy,adjective
  snoopier snoopiest
-snoot
+snoot,adjective,noun
  snoots
-snooty
+snooty,adjective
  snootier snootiest snootily snootiness
-snooze
+snooze,verb,noun
  snoozed snoozes snoozing
-snore
+snore,verb,noun
  snored snores snoring
-snorer
+snorer,noun
  snorers
-snorkel
+snorkel,verb,noun
  snorkeled snorkeling snorkelled snorkelling snorkels
-snorkeler
+snorkeler,noun
  snorkelers snorkeller snorkellers
-snort
+snort,verb,noun
  snorted snorting snorts
-snorter
+snorter,noun
  snorters
-snot
+snot,noun
  snots
-snotty
+snotty,adjective
  snottier snottiest snottily snottiness
-snout
+snout,noun
  snouts
-snow
+snow,verb,noun
  snowed snowing snows
-snowball
+snowball,verb,noun
  snowballed snowballing snowballs
-snowbank
+snowbank!!!
  snowbanks
-snowbird
+snowbird,noun
  snowbirds
-snowblower
+snowblower,noun
  snowblowers
-snowboard
+snowboard,verb,noun
  snowboarded snowboarding snowboards
-snowboarder
+snowboarder,noun
  snowboarders
-snowbound
-snowcapped
-snowdrift
+snowbound,adjective
+snowcapped,adjective
+snowdrift,noun
  snowdrifts
-snowdrop
+snowdrop,noun
  snowdrops
-snowfall
+snowfall,noun
  snowfalls
-snowfield
+snowfield,noun
  snowfields
-snowflake
+snowflake,noun
  snowflakes
-snowline
-snowman
+snowline!!!
+snowman,noun
  snowmen
-snowmobile
+snowmobile,verb,noun
  snowmobiled snowmobiles snowmobiling
-snowplow
+snowplow,verb,noun
  snowplough snowploughed snowploughing snowploughs snowplowed snowplowing snowplows
-snowshoe
+snowshoe,verb,noun
  snowshoed snowshoeing snowshoes
-snowstorm
+snowstorm,noun
  snowstorms
-snowsuit
+snowsuit,noun
  snowsuits
-snowy
+snowy,adjective
  snowier snowiest snowiness
-snub
+snub,adjective,verb,noun
  snubbed snubbing snubs
-snuff
+snuff,verb,noun
  snuffed snuffing snuffs
-snuffbox
+snuffbox,noun
  snuffboxes
-snuffer
+snuffer,noun
  snuffers
-snuffle
+snuffle,verb,noun
  snuffled snuffles snuffling
-snuffly
-snug
+snuffly,adjective
+snug,adjective,verb,noun
  snugged snugger snuggest snugging snugly snugness snugs
-snuggle
+snuggle,verb
  snuggled snuggles snuggling
-so -> [sol]
-soak
+so,conjunction,noun,adverb
+soak,verb,noun
  soaked soaking -> [soaking] soaks
-soaking -> [soak]
+soaking,adjective,noun
  soakings
-soap
+soap,verb,noun
  soaped soaping soaps
-soapbox
+soapbox,noun
  soapboxes
-soapflakes
-soapstone
-soapsuds
-soapy
+soapflakes!!!
+soapstone,noun
+soapsuds,pluralnoun
+soapy,adjective,noun
  soapier soapiest soapiness
-soar
+soar,verb
  soared soaring soars
-sob
+sob,verb,noun
  sobbed sobbing sobbingly sobs
-sober
+sober,adjective,verb
  sobered soberer soberest sobering soberly soberness sobers
-sobriety
-sobriquet
+sobriety,noun
+sobriquet,noun
  sobriquets
-so-called
-soccer
-sociable
+so-called,adjective
+soccer,noun
+sociable,adjective,noun
  sociability sociables sociably
-social
+social,adjective,noun
  socially socials
-socialism
-socialist
+socialism,noun
+socialist,adjective,noun
  socialists
-socialistic
-socialite
+socialistic,adjective
+socialite,noun
  socialites
-socialization
+socialization,noun
  socialisation
-socialize
+socialize,verb
  socialise socialised socialises socialising socialized socializes socializing
-societal
-society
+societal,adjective
+society,noun
  societies
-sociocultural
-socioeconomic
+sociocultural,adjective
+socioeconomic,adjective
  socioeconomically
-sociolect
+sociolect,noun
  sociolects
-sociological
+sociological,adjective
  sociologically
-sociologist
+sociologist,noun
  sociologists
-sociology
-sociopath
+sociology,noun
+sociopath,noun
  sociopaths
-sociopathic
-sociopolitical
-sock
+sociopathic,adjective
+sociopolitical,adjective
+sock,verb,noun
  socked socking socks sox
-socket
+socket,verb,noun
  sockets
-sockeye
+sockeye,noun
  sockeyes
-sod
+sod,verb,noun
  sodded sodding sods
-soda
+soda,noun
  sodas
-sodden
+sodden,adjective,verb
  soddenly
-sodium
-sodomite
+sodium,noun
+sodomite,noun
  sodomites
-sodomize
+sodomize,verb
  sodomise sodomised sodomises sodomising sodomized sodomizes sodomizing
-sodomy
-soever
-sofa
+sodomy,noun
+soever,adverb
+sofa,noun
  sofas
-sofabed
+sofabed,noun
  sofabeds
-soft
+soft,adjective,adverb
  softer softest softly softness
-softback
+softback,adjective,noun
  softbacks
-softball
+softball,noun
  softballs
-softbound
-softcore
-softcover
-soften
+softbound!!!
+softcore,adjective
+softcover,adjective,noun
+soften,verb
  softened softening softens
-softener
+softener,noun
  softeners
-softhearted
-soft-spoken
-software
-softwood
+softhearted,adjective
+soft-spoken,adjective
+software,noun
+softwood,noun
  softwoods
-softy
+softy,noun
  softie softies
-soggy
+soggy,adjective
  soggier soggiest soggily sogginess
-soigne
+soigne,adjective
  soignee
-soil
+soil,verb,noun
  soiled soiling soils
-soiree
+soiree,noun
  soirees
-sojourn
+sojourn,verb,noun
  sojourned sojourning sojourns
-sojourner
+sojourner,noun
  sojourners
-sol
+sol,noun,propernoun
  so -> [so] soh sohs sols sos
-solace
+solace,verb,noun
  solaced solaces solacing
-solar
-solarium
+solar,adjective,noun
+solarium,noun
  solaria solariums
-solder
+solder,verb,noun
  soldered soldering solders
-solderer
+solderer,noun
  solderers
-soldier
+soldier,verb,noun
  soldiered soldiering soldierly soldiers
-soldiery
-sole
+soldiery,noun
+sole,adjective,verb,noun,propernoun
  soled solely soles soling
-solecism
+solecism,noun
  solecisms
-solemn
+solemn,adjective
  solemner solemness solemnest solemnly solemnness
-solemnify
+solemnify!!!
  solemnified solemnifies solemnifying
-solemnity
+solemnity,noun
  solemnities
-solemnization
+solemnization,noun
  solemnisation
-solemnize
+solemnize,verb
  solemnise solemnised solemnises solemnising solemnized solemnizes solemnizing
-solenoid
+solenoid,noun
  solenoids
-solicit
+solicit,verb
  solicited soliciting solicits
-solicitation
+solicitation,noun
  solicitations
-solicitor
+solicitor,noun
  solicitors
-solicitous
+solicitous,adjective
  solicitously solicitousness
-solicitude
-solid
+solicitude,noun
+solid,adjective,noun
  solider solidest solidly solidness solids
-solidarity
-solidification
-solidify
+solidarity,noun
+solidification,noun
+solidify,verb
  solidified solidifies solidifying
-solidity
-solid-state
-solidus
+solidity,noun
+solid-state,adjective,noun
+solidus,noun
  solidi
-soliloquize
+soliloquize,verb
  soliloquise soliloquised soliloquises soliloquising soliloquized soliloquizes soliloquizing
-soliloquy
+soliloquy,noun
  soliloquies
-solipsism
-solipsistic
-solitaire
+solipsism,noun
+solipsistic,adjective
+solitaire,noun
  solitaires
-solitary
+solitary,adjective,noun
  solitaries solitariness
-solitude
-solo
+solitude,noun
+solo,verb,adjective,noun,adverb
  soli soloed soloing solos
-soloist
+soloist,noun
  soloists
-solstice
+solstice,noun
  solstices
-soluble
+soluble,adjective
  solubility solubles
-solute
+solute,noun
  solutes
-solution
+solution,noun
  solutions
-solvable
-solve
+solvable,adjective
+solve,verb
  solved solves solving
-solvency
-solvent
+solvency,noun
+solvent,adjective,noun
  solvents
-solver
+solver,noun
  solvers
-somatic
-somber
+somatic,adjective
+somber,adjective
  somberer somberest somberly somberness sombre sombrely sombreness sombrer sombrest
-sombrero
+sombrero,noun
  sombreros
-some
-somebody
+some,adverb,determiner,pronoun
+somebody,pronoun
  somebodies
-someday
-somehow
-someone
-someplace
-somersault
+someday,adverb
+somehow,adverb
+someone,pronoun
+someplace,pronoun,adverb
+somersault,verb,noun
  somersaulted somersaulting somersaults somerset somersets somersetted somersetting
-something
-sometime
-sometimes
-someway
+something,adverb,pronoun
+sometime,adjective,adverb
+sometimes,adverb
+someway,adverb
  someways
-somewhat
+somewhat,adverb
  summat
-somewhere
-somnambulism
-somnambulist
+somewhere,pronoun,adverb
+somnambulism,noun
+somnambulist,noun
  somnambulists
-somnolence
-somnolent
-son
+somnolence,noun
+somnolent,adjective
+son,noun
  sons
-sonar
+sonar,noun
  sonars
-sonata
+sonata,noun
  sonatas
-sonatina
+sonatina,noun
  sonatinas
-song
+song,noun,propernoun
  songs
-songbird
+songbird,noun
  songbirds
-songbook
+songbook,noun
  songbooks
-songfest
+songfest,noun
  songfests
-songster
+songster,noun
  songsters
-songstress
+songstress,noun
  songstresses
-songwriter
+songwriter,noun
  songwriters
-songwriting
-sonic
-son-in-law
+songwriting,noun
+sonic,adjective
+son-in-law,noun
  sons-in-law
-sonnet
+sonnet,verb,noun
  sonnets
-sonny
+sonny,noun
  sonnies
-sonofabitch
+sonofabitch,noun
  sonsofbitches
-sonogram
+sonogram,noun
  sonograms
-sonority
+sonority,noun
  sonorities
-sonorous
+sonorous,adjective
  sonorously sonorousness
-soon
+soon,adverb
  sooner soonest
-soot
-sooth
-soothe
+soot,verb,noun
+sooth,noun
+soothe,verb
  soothed soothes soothing soothingly
-soother
+soother,noun
  soothers
-soothsayer
+soothsayer,noun
  soothsayers
-soothsaying
-sooty
+soothsaying,noun
+sooty,adjective
  sootier sootiest
-sop
+sop,verb,noun
  sopped sopping sops
-sophism
-sophist
+sophism,noun
+sophist,noun
  sophists
-sophistic
-sophistical
-sophisticate
+sophistic,adjective
+sophistical,adjective
+sophisticate,adjective,verb,noun
  sophisticated sophisticates sophisticating
-sophistication
-sophistry
+sophistication,noun
+sophistry,noun
  sophistries
-sophomore
+sophomore,noun
  sophomores
-sophomoric
-soporific
+sophomoric,adjective
+soporific,adjective,noun
  soporifically soporifics
-soppy
+soppy,adjective
  soppier soppiest
-soprano
+soprano,noun
  sopranos
-sorbet
+sorbet,noun
  sorbets
-sorcerer
+sorcerer,noun
  sorcerers
-sorceress
+sorceress,noun
  sorceresses
-sorcery
-sordid
+sorcery,noun
+sordid,adjective
  sordidly sordidness
-sore
+sore,adjective,noun,adverb
  sorely soreness sorer sores sorest
-sorehead
+sorehead,noun
  soreheads
-sorghum
-sorority
+sorghum,noun
+sorority,noun
  sororities
-sorrel
+sorrel,noun
  sorrels
-sorrow
+sorrow,verb,noun
  sorrowed sorrowful sorrowfully sorrowfulness sorrowing sorrows
-sorry
+sorry,adjective
  sorrier sorriest sorrily sorriness
-sort
+sort,verb,noun
  sorted sorting sorts
-sorta
-sorter
+sorta,contraction
+sorter,noun
  sorters
-sortie
+sortie,verb,noun
  sortied sortieing sorties
-so-so
-sot
+so-so,adjective
+sot,verb,noun
  sots sottish
-sou
+sou,noun
  sous
-soubriquet
+soubriquet,noun
  soubriquets
-souffle
+souffle,noun
  souffles
-sough
+sough,verb,noun
  soughed soughing soughs
-sought-after
-souk
+sought-after,adjective
+souk,noun
  souks
-soul
+soul,noun
  soulful soulfully soulfulness soulless soullessly soullessness souls
-soulmate
+soulmate,noun
  soulmates
-soul-searching
-sound
+soul-searching,adjective,noun
+sound,adjective,verb,noun,adverb
  sounded sounder -> [sounder] soundest sounding -> [sounding] soundless soundlessly soundly soundness sounds
-soundbite
+soundbite,noun
  soundbites
-soundboard
+soundboard,noun
  soundboards
-soundcard
+soundcard,noun
  soundcards
-soundcheck
+soundcheck,noun
  soundchecks
-sounder -> [sound]
+sounder,noun
  sounders
-sounding -> [sound]
+sounding,adjective,noun
  soundings
-soundproof
+soundproof,adjective,verb
  soundproofed soundproofing soundproofs
-soundtrack
+soundtrack,verb,noun
  soundtracks
-soundwave
+soundwave,noun
  soundwaves
-soup
+soup,verb,noun
  souped souping soups
-soupcon
+soupcon,noun
  soupcons
-soupspoon
+soupspoon,noun
  soupspoons
-soupy
+soupy,adjective
  soupier soupiest
-sour
+sour,adjective,verb,noun
  soured sourer sourest souring sourish sourly sourness sours
-source
+source,verb,noun
  sourced sources sourcing
-sourdough
+sourdough,noun
  sourdoughs
-sourpuss
+sourpuss,noun
  sourpusses
-sousaphone
+sousaphone,noun
  sousaphones
-souse
+souse,verb,noun
  soused souses sousing
-south
-southbound
-southeast
-southeaster
+south,adjective,verb,noun,adverb
+southbound,adjective
+southeast,adjective,noun,adverb
+southeaster,noun
  southeasters
-southeasterly
-southeastern
-southeastward
+southeasterly,adjective,noun,adverb
+southeastern,adjective
+southeastward,adjective,adverb
  southeastwards
-southerly
+southerly,adjective,noun,adverb
  southerlies
-southern
+southern,adjective
  southernmost southerns
-southerner
+southerner,noun
  southerners
-southpaw
+southpaw,noun
  southpaws
-southward
+southward,adjective,noun,adverb
  southwards
-southwest
-southwester
+southwest,adjective,noun,adverb
+southwester,noun
  southwesters
-southwesterly
-southwestern
-southwestward
+southwesterly,adjective,noun,adverb
+southwestern,adjective
+southwestward,adjective,adverb
  southwestwards
-souvenir
+souvenir,verb,noun
  souvenirs
-sovereign
+sovereign,adjective,noun
  sovereigns
-sovereignty
-soviet
+sovereignty,noun
+soviet,adjective,noun
  soviets
-sow
+sow,verb,noun
  sowed sowing sown sows
-sower
+sower,noun
  sowers
-soy
+soy,noun
  soya
-soybean
+soybean,noun
  soybeans
-sozzled
-spa
+sozzled,adjective
+spa,noun,propernoun
  spas
-space
+space,verb,noun
  spaced spaces spacing
-spacecraft
+spacecraft,noun
  spacecrafts
-spaceflight
+spaceflight,noun
  spaceflights
-spaceman
+spaceman,noun
  spacemen
-spaceport
+spaceport,noun
  spaceports
-spacer
+spacer,noun
  spacers
-spaceship
+spaceship,noun
  spaceships
-spacesuit
+spacesuit,noun
  spacesuits
-space-time
-spacewalk
+space-time,noun
+spacewalk,verb,noun
  spacewalked spacewalking spacewalks
-spacewoman
+spacewoman,noun
  spacewomen
-spacious
+spacious,adjective
  spaciously spaciousness
-spacy
+spacy,adjective
  spacey spacier spaciest spaciness
-spade
+spade,verb,noun
  spaded spadeful spadefuls spades spading
-spadework
-spadix
+spadework,noun
+spadix,noun
  spadices spadixes
-spaghetti
-spam
+spaghetti,noun
+spam,verb,noun
  spammed spamming spams
-spammer
+spammer,noun
  spammers
-span
+span,adjective,verb,noun
  spanned spanning spans
-spandex
-spangle
+spandex,noun
+spangle,verb,noun
  spangled spangles spangling
-spangly
-spaniel
+spangly,adjective
+spaniel,noun
  spaniels
-spank
+spank,verb,noun
  spanked spanking -> [spanking] spanks
-spanking -> [spank]
+spanking,adjective,noun
  spankings
-spanner
+spanner,noun
  spanners
-spar
+spar,verb,noun
  sparred sparring spars
-spare
+spare,adjective,verb,noun
  spared sparely spareness sparer spares sparest sparing sparingly
-spareribs
-spark
+spareribs,pluralnoun
+spark,verb,noun
  sparked sparking sparks
-sparkle
+sparkle,verb,noun
  sparkled sparkles sparkling
-sparkler
+sparkler,noun
  sparklers
-sparkly
-sparky
+sparkly,adjective
+sparky,adjective,noun
  sparkier sparkiest
-sparrow
+sparrow,noun
  sparrows
-sparrowhawk
+sparrowhawk,noun
  sparrowhawks
-sparse
+sparse,adjective
  sparsely sparseness sparser sparsest
-sparsity
-spartan
-spasm
+sparsity,noun
+spartan,adjective,noun
+spasm,verb,noun
  spasms
-spasmodic
+spasmodic,adjective
  spasmodically
-spastic
+spastic,adjective,noun
  spastics
-spat -> [spit]
+spat,verb,noun
  spats spatted spatting
-spate
+spate,noun
  spates
-spathe
+spathe,noun
  spathes
-spatial
+spatial,adjective
  spatially
-spatter
+spatter,verb,noun
  spattered spattering spatters
-spatula
+spatula,noun
  spatulas
-spavin
+spavin,noun
  spavined
-spawn
+spawn,verb,noun
  spawned spawning spawns
-spay
+spay,verb
  spayed spaying spays
-spaza
+spaza,noun
  spazas
-speak
+speak,verb
  spake speaking speaks spoke -> [spoke] spoken
-speakeasy
+speakeasy,noun
  speakeasies
-speaker
+speaker,noun
  speakers
-speakerphone
+speakerphone,noun
  speakerphones
-spear
+spear,verb,noun
  speared spearing spears
-spearfish
+spearfish,verb,noun
  spearfished spearfishes spearfishing
-spearhead
+spearhead,verb,noun
  spearheaded spearheading spearheads
-spearmint
-spec
+spearmint,noun
+spec,verb,noun
  specced speccing specked -> [speck] specking -> [speck] specs
-special
+special,adjective,noun
  specially specials
-specialism
+specialism,noun
  specialisms
-specialist
+specialist,adjective,noun
  specialists
-specialization
+specialization,noun
  specialisation specialisations specializations
-specialize
+specialize,verb
  specialise specialised specialises specialising specialized specializes specializing
-specialty
+specialty,noun
  specialities speciality specialties
-specie
-species
-specific
+specie,noun
+species,noun
+specific,adjective,noun
  specifically specifics
-specification
+specification,noun
  specifications
-specificity
-specify
+specificity,noun
+specify,verb
  specified specifies specifying
-specimen
+specimen,noun
  specimens
-specious
+specious,adjective
  speciously speciousness
-speck
+speck,verb,noun
  specked -> [spec] specking -> [spec] specks
-speckle
+speckle,verb,noun
  speckled speckles speckling
-spectacle
+spectacle,noun
  spectacles
-spectacular
+spectacular,adjective,noun
  spectacularly spectaculars
-spectate
+spectate,verb
  spectated spectates spectating
-spectator
+spectator,noun
  spectators
-specter
+specter,noun
  specters spectre spectres
-spectral
-spectrometer
+spectral,adjective
+spectrometer,noun
  spectrometers
-spectroscope
+spectroscope,noun
  spectroscopes
-spectroscopic
-spectroscopy
-spectrum
+spectroscopic,adjective
+spectroscopy,noun
+spectrum,noun
  spectra spectrums
-speculate
+speculate,verb
  speculated speculates speculating
-speculation
+speculation,noun
  speculations
-speculative
+speculative,adjective
  speculatively
-speculator
+speculator,noun
  speculators
-speculum
+speculum,noun
  speculums
-speech
+speech,noun
  speeches speechless speechlessly speechlessness
-speechify
+speechify,verb
  speechified speechifies speechifying
-speechwriter
+speechwriter,noun
  speechwriters
-speed
+speed,verb,noun
  sped speeded speeding speeds
-speedboat
+speedboat,noun
  speedboats
-speeder
+speeder,noun
  speeders
-speedometer
+speedometer,noun
  speedometers
-speedster
+speedster,noun
  speedsters
-speedup
+speedup,noun
  speedups
-speedway
+speedway,noun
  speedways
-speedwell
-speedy
+speedwell,noun
+speedy,adjective
  speedier speediest speedily speediness
-speleological
-speleologist
+speleological,adjective
+speleologist,noun
  speleologists
-speleology
-spell
+speleology,noun
+spell,verb,noun
  spelled spelling -> [spelling] spells spelt
-spellbind
+spellbind,verb
  spellbinding spellbinds spellbound
-spellbinder
+spellbinder,noun
  spellbinders
-spellcheck
+spellcheck,verb,noun
  spellchecked spellchecking spellchecks
-spellchecker
+spellchecker,noun
  spellcheckers
-spelldown
+spelldown!!!
  spelldowns
-speller
+speller,noun
  spellers
-spelling -> [spell]
+spelling,noun
  spellings
-spelunker
+spelunker,noun
  spelunkers
-spelunking
-spend
+spelunking,noun
+spend,verb,noun
  spending spends spent
-spendable
-spender
+spendable,adjective
+spender,noun
  spenders
-spendthrift
+spendthrift,noun
  spendthrifts
-sperm
+sperm,noun
  sperms
-spermatozoon
+spermatozoon,noun
  spermatozoa
-spermicidal
-spermicide
+spermicidal,adjective
+spermicide,noun
  spermicides
-spew
+spew,verb,noun
  spewed spewing spews
-spewer
+spewer,noun
  spewers
-sphagnum
+sphagnum,noun
  sphagnums
-sphere
+sphere,verb,noun
  spheres
-spherical
+spherical,adjective
  spherically
-spheroid
+spheroid,noun
  spheroids
-spheroidal
-sphincter
+spheroidal,adjective
+sphincter,noun
  sphincters
-sphinx
+sphinx,noun
  sphinges sphinxes
-spic
+spic,noun
  spics spik spiks
-spice
+spice,verb,noun
  spiced spices spicing
-spicule
+spicule,noun
  spicules
-spicy
+spicy,adjective
  spicier spiciest spicily spiciness
-spider
+spider,verb,noun
  spiders
-spiderweb
+spiderweb,verb,noun
  spiderwebs
-spidery
-spiel
+spidery,adjective
+spiel,verb,noun
  spieled spieling spiels
-spiff
+spiff,verb
  spiffed spiffing spiffs
-spiffy
+spiffy,adjective
  spiffier spiffiest
-spigot
+spigot,noun
  spigots
-spike
+spike,verb,noun
  spiked spikes spiking
-spiky
+spiky,adjective
  spikier spikiest spikiness
-spill
+spill,verb,noun
  spilled spilling spills spilt
-spillage
+spillage,noun
  spillages
-spillover
+spillover,noun
  spillovers
-spillway
+spillway,noun
  spillways
-spin
+spin,verb,noun
  spinning spins spun
-spinach
-spinal
+spinach,noun
+spinal,adjective
  spinally spinals
-spindle
+spindle,noun
  spindled spindles spindling
-spindly
+spindly,adjective
  spindlier spindliest
-spine
+spine,noun
  spineless spinelessly spinelessness spines
-spinet
+spinet,noun
  spinets
-spinnaker
+spinnaker,noun
  spinnakers
-spinner
+spinner,noun
  spinners
-spinneret
+spinneret,noun
  spinnerets
-spinney
+spinney,noun
  spinneys
-spinoff
+spinoff,noun
  spinoffs
-spinster
+spinster,noun
  spinsterish spinsters
-spinsterhood
-spiny
+spinsterhood,noun
+spiny,adjective
  spinier spiniest
-spiracle
+spiracle,noun
  spiracles
-spiral
+spiral,adjective,verb,noun
  spiraled spiraling spiralled spiralling spirally spirals
-spire
+spire,noun
  spires
-spirea
+spirea,noun
  spiraea spiraeas spireas
-spirit
+spirit,verb,noun
  spirited spiritedly spiriting spiritless spirits
-spiritual
+spiritual,adjective,noun
  spiritually spirituals
-spiritualism
-spiritualist
+spiritualism,noun
+spiritualist,adjective,noun
  spiritualists
-spiritualistic
-spirituality
-spirituous
-spirochete
+spiritualistic,adjective
+spirituality,noun
+spirituous,adjective
+spirochete,noun
  spirochetes
-spiry
-spit
+spiry,adjective
+spit,verb,noun
  spat -> [spat] spits spitted spitting
-spitball
+spitball,verb,noun
  spitballs
-spite
+spite,verb,noun
  spited spiteful spitefuller spitefullest spitefully spitefulness spites spiting
-spitfire
+spitfire,noun,propernoun
  spitfires
-spittle
-spittoon
+spittle,noun
+spittoon,noun
  spittoons
-spiv
+spiv,noun
  spivs
-splash
+splash,verb,noun
  splashed splashes splashing splosh sploshed sploshes sploshing
-splashdown
+splashdown,noun
  splashdowns
-splashy
+splashy,adjective
  splashier splashiest splashily splashiness
-splat
+splat,verb,noun,adverb
  splats splatted splatting
-splatter
+splatter,verb,noun
  splattered splattering splatters
-splay
+splay,adjective,verb,noun
  splayed splaying splays
-splayfoot
+splayfoot,noun
  splayfeet splayfooted
-spleen
+spleen,noun
  spleens
-splendid
+splendid,adjective
  splendider splendidest splendidly
-splendiferous
-splendor
+splendiferous,adjective
+splendor,noun
  splendors splendour splendours
-splendorous
-splenetic
-splice
+splendorous,adjective
+splenetic,adjective
+splice,verb,noun
  spliced splices splicing
-splicer
+splicer,noun
  splicers
-spliff
+spliff,noun
  spliffs
-splint
+splint,verb,noun
  splinted splinting splints
-splinter
+splinter,verb,noun
  splintered splintering splinters
-splintery
-split
+splintery,adjective
+split,verb,noun,propernoun
  splits splitting -> [splitting]
-split-second
-splitting -> [split]
+split-second,adjective,noun
+splitting,verb,noun,propernoun
  splittings
-splotch
+splotch,verb,noun
  splodge splodged splodges splodging splotched splotches splotching
-splotchy
+splotchy,adjective
  splodgier splodgiest splodgy splotchier splotchiest
-splurge
+splurge,verb,noun
  splurged splurges splurging
-splutter
+splutter,verb,noun
  spluttered spluttering splutters
-spoil
+spoil,verb,noun
  spoiled spoiling spoils spoilt
-spoilage
-spoiler
+spoilage,noun
+spoiler,noun
  spoilers
-spoilsport
+spoilsport,noun
  spoilsports
-spoke -> [speak]
+spoke,noun
  spokes
-spokesman
+spokesman,noun
  spokesmen
-spokesperson
+spokesperson,noun
  spokespeople spokespersons
-spokeswoman
+spokeswoman,noun
  spokeswomen
-spoliation
-sponge
+spoliation,noun
+sponge,verb,noun
  sponged sponges sponging
-spongebag
+spongebag!!!
  spongebags
-spongecake
+spongecake!!!
  spongecakes
-sponger
+sponger,noun
  spongers
-spongy
+spongy,adjective
  spongier spongiest sponginess
-sponsor
+sponsor,verb,noun
  sponsored sponsoring sponsors
-sponsorship
-spontaneity
-spontaneous
+sponsorship,noun
+spontaneity,noun
+spontaneous,adjective
  spontaneously
-spoof
+spoof,verb,noun
  spoofed spoofing spoofs
-spook
+spook,verb,noun
  spooked spooking spooks
-spooky
+spooky,adjective
  spookier spookiest spookiness
-spool
+spool,verb,noun
  spooled spooling spools
-spoon
+spoon,verb,noun
  spooned spoonful spoonfuls spooning spoons spoonsful
-spoonbill
+spoonbill,noun
  spoonbills
-spoonerism
+spoonerism,noun
  spoonerisms
-spoor
+spoor,verb,noun
  spoored spooring spoors
-sporadic
+sporadic,adjective
  sporadically
-spore
+spore,noun
  spored spores sporing
-sporran
+sporran,noun
  sporrans
-sport
+sport,verb,noun
  sported sporting -> [sporting] sports
-sporting -> [sport]
+sporting,adjective
  sportingly
-sportive
+sportive,adjective,noun
  sportively
-sportscast
+sportscast,noun
  sportscasts
-sportscaster
+sportscaster,noun
  sportscasters
-sportsman
+sportsman,noun
  sportsmanlike sportsmen
-sportsmanship
-sportsperson
+sportsmanship,noun
+sportsperson,noun
  sportspeople sportspersons
-sportswear
-sportswoman
+sportswear,noun
+sportswoman,noun
  sportswomen
-sportswriter
+sportswriter,noun
  sportswriters
-sporty
+sporty,adjective
  sportier sportiest sportiness
-spot
+spot,verb,noun
  spotless spotlessly spotlessness spots spotted spotting
-spotlight
+spotlight,verb,noun
  spotlighted spotlighting spotlights spotlit
-spotter
+spotter,noun
  spotters
-spotty
+spotty,adjective
  spottier spottiest spottily spottiness
-spousal
+spousal,adjective,pluralnoun
  spousals
-spouse
+spouse,noun
  spouses
-spout
+spout,verb,noun
  spouted spouting spouts
-sprain
+sprain,verb,noun
  sprained spraining sprains
-sprat
+sprat,verb,noun
  sprats
-sprawl
+sprawl,verb,noun
  sprawled sprawling sprawls
-spray
+spray,verb,noun
  sprayed spraying sprays
-sprayer
+sprayer,noun
  sprayers
-spray-painted
-spread
+spray-painted,verb,noun
+spread,verb,noun
  spreading spreads
-spreadable
-spreadeagled
-spreader
+spreadable,adjective
+spreadeagled,adjective,verb,noun
+spreader,noun
  spreaders
-spreadsheet
+spreadsheet,verb,noun
  spreadsheets
-spree
+spree,verb,noun
  sprees
-sprig
+sprig,verb,noun
  sprigged sprigs
-sprightly
+sprightly,adjective
  sprightlier sprightliest sprightliness
-spring
+spring,verb,noun
  sprang springing springlike springs sprung
-springboard
+springboard,noun
  springboards
-springbok
+springbok,noun
  springboks
-springtime
-springy
+springtime,noun
+springy,adjective
  springier springiest springily springiness
-sprinkle
+sprinkle,verb,noun
  sprinkled sprinkles sprinkling -> [sprinkling]
-sprinkler
+sprinkler,noun
  sprinklers
-sprinkling -> [sprinkle]
+sprinkling,noun
  sprinklings
-sprint
+sprint,verb,noun
  sprinted sprinting sprints
-sprinter
+sprinter,noun
  sprinters
-sprite
+sprite,noun
  sprites
-spritz
+spritz,verb,noun
  spritzed spritzes spritzing
-spritzer
+spritzer,noun
  spritzers
-sprocket
+sprocket,noun
  sprockets
-sprog
+sprog,verb,noun
  sprogs
-sprout
+sprout,verb,noun
  sprouted sprouting sprouts
-spruce
+spruce,adjective,verb,noun
  spruced sprucely spruceness sprucer spruces sprucest sprucing
-spry
+spry,adjective
  sprier spriest spryer spryest spryly spryness
-spud
+spud,verb,noun
  spuds
-spume
+spume,verb,noun
  spumed spumes spuming
-spumoni
+spumoni,noun
  spumone
-spumy
+spumy,adjective
  spumier spumiest
-spunk
+spunk,noun
  spunks
-spunky
+spunky,adjective
  spunkier spunkiest
-spur
+spur,verb,noun
  spurred spurring spurs
-spurge
-spurious
+spurge,noun
+spurious,adjective
  spuriously spuriousness
-spurn
+spurn,verb,noun
  spurned spurning spurns
-spurt
+spurt,verb,noun
  spurted spurting spurts
-sputnik
+sputnik,noun
  sputniks
-sputter
+sputter,verb,noun
  sputtered sputtering sputters
-sputum
-spy
+sputum,noun
+spy,verb,noun
  spied spies spying
-spyglass
+spyglass,noun
  spyglasses
-spyhole
+spyhole,noun
  spyholes
-spymaster
+spymaster,noun
  spymasters
-spyware
-squab
+spyware,noun
+squab,adjective,noun
  squabs
-squabble
+squabble,verb,noun
  squabbled squabbles squabbling
-squabbler
+squabbler,noun
  squabblers
-squad
+squad,noun
  squads
-squaddie
+squaddie,noun
  squaddies
-squadron
+squadron,noun
  squadrons
-squalid
+squalid,adjective
  squalider squalidest squalidly squalidness
-squall
+squall,verb,noun
  squalled squalling squalls
-squally
+squally,adjective
  squallier squalliest
-squalor
-squamous
-squander
+squalor,noun
+squamous,adjective
+squander,verb
  squandered squandering squanders
-square
+square,adjective,verb,noun,adverb
  squared squarely squareness squarer squares squarest squaring squarish
-squash
+squash,verb,noun
  squashed squashes squashing
-squashy
+squashy,adjective
  squashier squashiest
-squat
+squat,adjective,verb,noun
  squatness squats squatted squatter -> [squatter] squattest squatting
-squatter -> [squat]
+squatter,noun
  squatters
-squaw
+squaw,noun
  squaws
-squawk
+squawk,verb,noun
  squawked squawking squawks
-squawker
+squawker,noun
  squawkers
-squeak
+squeak,verb,noun
  squeaked squeaking squeaks
-squeaker
+squeaker,noun
  squeakers
-squeaky
+squeaky,adjective
  squeakier squeakiest squeakily squeakiness
-squeal
+squeal,verb,noun
  squealed squealing squeals
-squealer
+squealer,noun
  squealers
-squeamish
+squeamish,adjective
  squeamishly squeamishness
-squeegee
+squeegee,verb,noun
  squeegeed squeegeeing squeegees
-squeezable
-squeeze
+squeezable,adjective
+squeeze,verb,noun
  squeezed squeezes squeezing
-squeezebox
+squeezebox,noun
  squeezeboxes
-squeezer
+squeezer,noun
  squeezers
-squelch
+squelch,verb,noun
  squelched squelches squelching
-squelchy
+squelchy,adjective
  squelchier squelchiest
-squib
+squib,verb,noun
  squibs
-squid
+squid,verb,noun
  squids
-squidgy
-squiffy
-squiggle
+squidgy,adjective
+squiffy,adjective
+squiggle,verb,noun
  squiggled squiggles squiggling
-squiggly
+squiggly,adjective
  squigglier squiggliest
-squint
+squint,adjective,verb,noun
  squinted squinter squintest squinting squints
-squire
+squire,verb,noun
  squired squires squiring
-squirm
+squirm,verb,noun
  squirmed squirming squirms
-squirmy
+squirmy,adjective
  squirmier squirmiest
-squirrel
+squirrel,verb,noun
  squirreled squirreling squirrelled squirrelling squirrels
-squirt
+squirt,verb,noun
  squirted squirting squirts
-squish
+squish,verb,noun
  squished squishes squishing
-squishy
+squishy,adjective
  squishier squishiest
-sriracha!
-stab
+sriracha,noun
+stab,verb,noun
  stabbed stabbing -> [stabbing] stabs
-stabber
+stabber,noun
  stabbers
-stabbing -> [stab]
+stabbing,adjective,noun
  stabbings
-stability
-stabilization
+stability,noun
+stabilization,noun
  stabilisation
-stabilize
+stabilize,verb
  stabilise stabilised stabilises stabilising stabilized stabilizes stabilizing
-stabilizer
+stabilizer,noun
  stabiliser stabilisers stabilizers
-stable
+stable,adjective,verb,noun
  stabled stabler stables stablest stabling stably
-stableboy
+stableboy,noun
  stableboys
-stableman
+stableman,noun
  stablemen
-stablemate
+stablemate,noun
  stablemates
-staccato
+staccato,adjective,noun,adverb
  staccati staccatos
-stack
+stack,verb,noun
  stacked stacking stacks
-stadium
+stadium,noun
  stadia stadiums
-staff
+staff,verb,noun
  staffed staffing staffs staves -> [stave]
-staffer
+staffer,noun
  staffers
-stag
+stag,verb,noun,adverb
  stags
-stage
+stage,verb,noun
  staged stages staging -> [staging]
-stagecoach
+stagecoach,noun
  stagecoaches
-stagecraft
-stagehand
+stagecraft,noun
+stagehand,noun
  stagehands
-stagestruck
-stagflation
-stagger
+stagestruck,adjective
+stagflation,noun
+stagger,verb,noun
  staggered staggering -> [staggering] staggers
-staggering -> [stagger]
+staggering,verb,noun
  staggeringly
-staging -> [stage]
+staging,noun
  stagings
-stagnancy
-stagnant
+stagnancy,noun
+stagnant,adjective
  stagnantly
-stagnate
+stagnate,verb
  stagnated stagnates stagnating
-stagnation
-stagy
+stagnation,noun
+stagy,adjective
  stagey stagier stagiest
-staid -> [stay]
+staid,adjective
  staider staidest staidly staidness
-stain
+stain,verb,noun
  stained staining stainless stains
-stair
+stair,noun
  stairs
-staircase
+staircase,noun
  staircases
-stairlift
+stairlift,noun
  stairlifts
-stairway
+stairway,noun
  stairways
-stairwell
+stairwell,noun
  stairwells
-stake
+stake,verb,noun
  staked stakes staking
-stakeholder
+stakeholder,noun
  stakeholders
-stakeout
+stakeout,noun
  stakeouts
-stalactite
+stalactite,noun
  stalactites
-stalagmite
+stalagmite,noun
  stalagmites
-stale
+stale,adjective,verb
  staled staleness staler stales stalest staling
-stalemate
+stalemate,verb,noun
  stalemated stalemates stalemating
-stalk
+stalk,verb,noun
  stalked stalking -> [stalking] stalks
-stalker
+stalker,noun
  stalkers
-stalking -> [stalk]
+stalking,verb,noun
  stalkings
-stall
+stall,verb,noun
  stalled stalling stalls
-stallholder
+stallholder,noun
  stallholders
-stallion
+stallion,noun
  stallions
-stalwart
+stalwart,adjective,noun
  stalwartly stalwarts
-stamen
+stamen,noun
  stamens stamina -> [stamina]
-stamina -> [stamen]
-stammer
+stamina,noun
+stammer,verb,noun
  stammered stammering stammeringly stammers
-stammerer
+stammerer,noun
  stammerers
-stamp
+stamp,verb,noun
  stamped stamping stamps
-stampede
+stampede,verb,noun
  stampeded stampedes stampeding
-stamper
+stamper,noun
  stampers
-stance
+stance,noun
  stances
-stanch -> [staunch]
+stanch,adjective,verb
  stanched stanches stanching staunch -> [staunch] staunched staunches staunching
-stanchion
+stanchion,noun
  stanchions
-stand
+stand,verb,noun
  standing -> [standing] stands stood
-standalone
-standard
+standalone,adjective
+standard,adjective,noun
  standards
-standardization
+standardization,noun
  standardisation
-standardize
+standardize,verb
  standardise standardised standardises standardising standardized standardizes standardizing
-standby
+standby,noun
  standbys
-standee
+standee,noun
  standees
-stander
+stander,noun
  standers
-standing -> [stand]
+standing,adjective,noun
  standings
-standoff
+standoff,noun
  standoffs
-standoffish
-standout
+standoffish,adjective
+standout,adjective,noun
  standouts
-standpipe
+standpipe,noun
  standpipes
-standpoint
+standpoint,noun
  standpoints
-standstill
+standstill,noun
  standstills
-standup
+standup,adjective,noun
  standups
-stanza
+stanza,noun
  stanzas
-staph
-staphylococcal
-staphylococcus
+staph,noun
+staphylococcal,adjective
+staphylococcus,noun
  staphylococci
-staple
+staple,adjective,verb,noun
  stapled staples stapling
-stapler
+stapler,noun
  staplers
-star
+star,verb,noun
  starless starred starring stars
-starboard
-starburst
+starboard,verb,noun
+starburst,noun
  starbursts
-starch
+starch,verb,noun
  starched starches starching
-starchy
+starchy,adjective
  starchier starchiest starchily starchiness
-stardom
-stardust
-stare
+stardom,noun
+stardust,noun
+stare,verb,noun
  stared stares staring
-starer
+starer,noun
  starers
-starfish
+starfish,noun
  starfishes
-starfruit
+starfruit!!!
  starfruits
-stargaze
+stargaze,verb
  stargazed stargazes stargazing
-stargazer
+stargazer,noun
  stargazers
-stark
+stark,adjective
  starker starkest starkly starkness
-starkers
-starlet
+starkers,adjective
+starlet,noun
  starlets
-starlight
-starling
+starlight,noun
+starling,noun
  starlings
-starlit
-starry
+starlit,adjective
+starry,adjective
  starrier starriest
-starship
+starship,noun
  starships
-starstruck
-star-studded
-start
+starstruck,adjective
+star-studded,adjective
+start,abbreviation,verb,noun
  started starting starts
-starter
+starter,noun
  starters
-startle
+startle,verb
  startled startles startling startlingly
-startup!
+startup,noun
  startups
-starvation
-starve
+starvation,noun
+starve,verb
  starved starves starving
-starveling
+starveling,adjective,noun
  starvelings
-stash
+stash,verb,noun
  stashed stashes stashing
-stasis
-stat
+stasis,noun
+stat,abbreviation,adverb
  stats
-state
+state,verb,noun
  stated stateless statelessness states stating
-statecraft
-statehood
-statehouse
+statecraft,noun
+statehood,noun
+statehouse!!!
  statehouses
-statelet
+statelet,noun
  statelets
-stately
+stately,adjective
  statelier stateliest stateliness
-statement
+statement,verb,noun
  statemented statementing statements
-state-of-the-art
-stateroom
+state-of-the-art,phrase
+stateroom,noun
  staterooms
-stateside
-statesman
+stateside,adjective,adverb
+statesman,noun
  statesmanlike statesmen
-statesmanship
-stateswoman
+statesmanship,noun
+stateswoman,noun
  stateswomen
-statewide
-static
+statewide,adjective,adverb
+static,adjective,noun
  statically statics
-statin
+statin,noun
  statins
-station
+station,verb,noun
  stationed stationing stations
-stationary
-stationer
+stationary,adjective
+stationer,noun
  stationers
-stationery
-stationmaster
+stationery,noun
+stationmaster,noun
  stationmasters
-statistic
+statistic,adjective,noun
  statistics
-statistical
+statistical,adjective
  statistically
-statistician
+statistician,noun
  statisticians
-statuary
-statue
+statuary,noun
+statue,noun
  statues
-statuesque
-statuette
+statuesque,adjective
+statuette,noun
  statuettes
-stature
+stature,noun
  statures
-status
+status,noun
  statuses
-statute
+statute,noun
  statutes
-statutory
+statutory,adjective
  statutorily
-staunch -> [stanch]
+staunch,adjective,verb
  stanch -> [stanch] stancher stanchest stanchly stanchness stauncher staunchest staunchly staunchness
-stave
+stave,verb,noun
  staved staves -> [staff] staving stove -> [stove]
-stay
+stay,verb,noun
  staid -> [staid] stayed staying stays
-stay-at-home
-staycation
+stay-at-home,adjective,noun
+staycation,noun
  staycations
-stayer
+stayer,noun
  stayers
-stead
+stead,noun
  steads
-steadfast
+steadfast,adjective
  steadfastly steadfastness
-steady
+steady,adjective,exclamation,verb,noun
  steadied steadier steadies steadiest steadily steadiness steadying
-steak
+steak,noun
  steaks
-steakhouse
+steakhouse,noun
  steakhouses
-steal
+steal,verb,noun
  stealing steals stole -> [stole] stolen
-stealth
-stealthy
+stealth,noun
+stealthy,adjective
  stealthier stealthiest stealthily stealthiness
-steam
+steam,verb,noun
  steamed steaming steams
-steamboat
+steamboat,noun
  steamboats
-steamer
+steamer,noun
  steamers
-steamfitter
+steamfitter!!!
  steamfitters
-steamfitting
-steamroll
+steamfitting!!!
+steamroll,verb
  steamrolled steamrolling steamrolls
-steamroller
+steamroller,verb,noun
  steamrollered steamrollering steamrollers
-steamship
+steamship,noun
  steamships
-steamy
+steamy,adjective
  steamier steamiest steaminess
-steed
+steed,noun
  steeds
-steel
+steel,verb,noun
  steeled steeling steels
-steelmaker
+steelmaker!!!
  steelmakers
-steelworker
+steelworker,noun
  steelworkers
-steelworks
-steely
+steelworks,pluralnoun
+steely,adjective
  steelier steeliest steeliness
-steelyard
+steelyard,noun
  steelyards
-steep
+steep,adjective,verb,noun
  steeped steeper steepest steeping steeply steepness steeps
-steepen
+steepen,verb
  steepened steepening steepens
-steeple
+steeple,verb,noun
  steeples
-steeplechase
+steeplechase,noun
  steeplechases
-steeplejack
+steeplejack,noun
  steeplejacks
-steer
+steer,verb,noun
  steered steering steers
-steerable
-steerage
-steersman
+steerable,adjective
+steerage,noun
+steersman,noun
  steersmen
-stegosaurus
+stegosaurus,noun
  stegosauri stegosauruses
-stein
+stein,noun
  steins
-stellar
-stem
+stellar,adjective
+stem,abbreviation,verb,noun
  stemless stemmed stemming stems
-stemware
-stench
+stemware,noun
+stench,noun
  stenches
-stencil
+stencil,verb,noun
  stenciled stenciling stencilled stencilling stencils
-steno
+steno,noun
  stenos
-stenographer
+stenographer,noun
  stenographers
-stenographic
-stenography
-stent!
+stenographic,adjective
+stenography,noun
+stent,verb,noun
  stents
-stentorian
-step
+stentorian,adjective
+step,verb,noun
  stepped stepping steps
-stepbrother
+stepbrother,noun
  stepbrothers
-step-by-step
-stepchild
+step-by-step,phrase
+stepchild,noun
  stepchildren
-stepdad
+stepdad,noun
  stepdads
-stepdaughter
+stepdaughter,noun
  stepdaughters
-stepfather
+stepfather,noun
  stepfathers
-stepladder
+stepladder,noun
  stepladders
-stepmom
+stepmom,noun
  stepmoms stepmum stepmums
-stepmother
+stepmother,noun
  stepmothers
-stepparent
+stepparent,noun
  stepparents
-steppe
+steppe,noun
  steppes
-stepped-up
-stepper
+stepped-up,adjective
+stepper,noun
  steppers
-steppingstone
+steppingstone,noun
  steppingstones
-stepsister
+stepsister,noun
  stepsisters
-stepson
+stepson,noun
  stepsons
-stereo
+stereo,adjective,noun
  stereos
-stereophonic
-stereoscope
+stereophonic,adjective
+stereoscope,noun
  stereoscopes
-stereoscopic
-stereotype
+stereoscopic,adjective
+stereotype,verb,noun
  stereotyped stereotypes stereotyping
-stereotypical
+stereotypical,adjective
  stereotypically
-sterile
-sterility
-sterilization
+sterile,adjective
+sterility,noun
+sterilization,noun
  sterilisation sterilisations sterilizations
-sterilize
+sterilize,verb
  sterilise sterilised sterilises sterilising sterilized sterilizes sterilizing
-sterilizer
+sterilizer,noun
  steriliser sterilisers sterilizers
-sterling
-stern
+sterling,adjective,noun
+stern,adjective,noun
  sterner sternest sternly sternness sterns
-sternum
+sternum,noun
  sterna sternums
-steroid
+steroid,noun
  steroids
-steroidal
-stertorous
-stet
+steroidal,adjective
+stertorous,adjective
+stet,verb,noun
  stets stetted stetting
-stethoscope
+stethoscope,noun
  stethoscopes
-stetson
+stetson,noun
  stetsons
-stevedore
+stevedore,noun
  stevedores
-stew
+stew,verb,noun
  stewed stewing stews
-steward
+steward,verb,noun
  stewarded stewarding stewards
-stewardess
+stewardess,noun
  stewardesses
-stewardship
-stick
+stewardship,noun
+stick,verb,noun
  sticking sticks stuck
-stickball
-sticker
+stickball,noun
+sticker,noun
  stickers
-stickleback
+stickleback,noun
  sticklebacks
-stickler
+stickler,noun
  sticklers
-stickpin
+stickpin,noun
  stickpins
-stickup
+stickup,noun
  stickups
-sticky
+sticky,adjective,noun
  stickier stickies stickiest stickily stickiness
-stiff
+stiff,adjective,verb,noun
  stiffed stiffer stiffest stiffing stiffly stiffness stiffs
-stiffen
+stiffen,verb
  stiffened stiffening stiffens
-stiffener
+stiffener,noun
  stiffeners
-stifle
+stifle,verb,noun
  stifled stifles stifling stiflingly
-stigma
+stigma,noun
  stigmas stigmata
-stigmatic
-stigmatization
+stigmatic,adjective,noun
+stigmatization,noun
  stigmatisation
-stigmatize
+stigmatize,verb
  stigmatise stigmatised stigmatises stigmatising stigmatized stigmatizes stigmatizing
-stile
+stile,noun
  stiles
-stiletto
+stiletto,noun
  stilettoes stilettos
-still
+still,adjective,verb,noun,adverb
  stilled stiller stillest stilling stillness stills
-stillbirth
+stillbirth,noun
  stillbirths
-stillborn
-stilt
+stillborn,adjective
+stilt,noun
  stilts
-stilted
+stilted,adjective
  stiltedly
-stimulant
+stimulant,adjective,noun
  stimulants
-stimulate
+stimulate,verb
  stimulated stimulates stimulating
-stimulation
-stimulative
-stimulus
+stimulation,noun
+stimulative,adjective
+stimulus,noun
  stimuli
-sting
+sting,verb,noun
  stinging stings stung
-stinger
+stinger,noun
  stingers
-stingray
+stingray,noun
  stingrays
-stingy
+stingy,adjective
  stingier stingiest stingily stinginess
-stink
+stink,adjective,verb,noun
  stank stinking stinks stunk
-stinkbug
+stinkbug,noun
  stinkbugs
-stinker
+stinker,noun
  stinkers
-stinky
+stinky,adjective
  stinkier stinkiest
-stint
+stint,verb,noun
  stinted stinting stints
-stipend
+stipend,noun
  stipends
-stipendiary
+stipendiary,adjective,noun
  stipendiaries
-stipple
+stipple,verb,noun
  stippled stipples stippling
-stipulate
+stipulate,adjective,verb
  stipulated stipulates stipulating
-stipulation
+stipulation,noun
  stipulations
-stir
+stir,verb,noun
  stirred stirring -> [stirring] stirs
-stir-fry
+stir-fry,verb,noun
  stir-fried stir-fries stir-frying
-stirrer
+stirrer,noun
  stirrers
-stirring -> [stir]
+stirring,adjective,noun
  stirringly stirrings
-stirrup
+stirrup,noun
  stirrups
-stitch
+stitch,verb,noun
  stitched stitches stitching
-stitchery
-stoat
+stitchery,noun
+stoat,noun
  stoats
-stock
+stock,adjective,verb,noun
  stocked stocking -> [stocking] stocks
-stockade
+stockade,verb,noun
  stockaded stockades stockading
-stockbreeder
+stockbreeder,noun
  stockbreeders
-stockbroker
+stockbroker,noun
  stockbrokers
-stockbroking
-stockholder
+stockbroking,noun
+stockholder,noun
  stockholders
-stockinette
+stockinette,noun
  stockinet
-stocking -> [stock]
+stocking,noun
  stockings
-stockist
+stockist,noun
  stockists
-stockman
+stockman,noun
  stockmen
-stockpile
+stockpile,verb,noun
  stockpiled stockpiles stockpiling
-stockpot
+stockpot,noun
  stockpots
-stockroom
+stockroom,noun
  stockrooms
-stocktaking
-stocky
+stocktaking,noun
+stocky,adjective
  stockier stockiest stockily stockiness
-stockyard
+stockyard,noun
  stockyards
-stodge
-stodgy
+stodge,noun
+stodgy,adjective
  stodgier stodgiest stodgily stodginess
-stoep
+stoep,noun
  stoeps
-stogy
+stogy,noun
  stogie stogies
-stoic
+stoic,adjective,noun
  stoics
-stoical
+stoical,adjective
  stoically
-stoicism
-stoke
+stoicism,noun
+stoke,verb
  stoked stokes stoking
-stoker
+stoker,noun
  stokers
-stole -> [steal]
+stole,noun
  stoles
-stolid
+stolid,adjective
  stolider stolidest stolidly stolidness
-stolidity
-stolon
+stolidity,noun
+stolon,noun
  stolons
-stomach
+stomach,verb,noun
  stomached stomaching stomachs
-stomachache
+stomachache,noun
  stomachaches
-stomacher
+stomacher,noun
  stomachers
-stomp
+stomp,verb,noun
  stomped stomping stomps
-stone
+stone,verb,noun
  stoned -> [stoned] stones stoning
-stoned -> [stone]
-stoneground
-stonemason
+stoned,adjective
+stoneground,adjective
+stonemason,noun
  stonemasons
-stoner
+stoner,noun
  stoners
-stonewall
+stonewall,verb,noun
  stonewalled stonewalling stonewalls
-stoneware
-stonewashed
-stonework
-stonker
+stoneware,noun
+stonewashed,adjective
+stonework,noun
+stonker,noun
  stonkers
-stonkered
-stonking
-stony
+stonkered,adjective
+stonking,adjective
+stony,adjective
  stoney stonier stoniest stonily stoniness
-stooge
+stooge,verb,noun
  stooges
-stool
+stool,verb,noun
  stools
-stoop
+stoop,verb,noun
  stooped stooping stoops
-stop
+stop,verb,noun
  stopped stopping stops
-stopcock
+stopcock,noun
  stopcocks
-stopgap
+stopgap,noun
  stopgaps
-stoplight
+stoplight,noun
  stoplights
-stopover
+stopover,noun
  stopovers
-stoppage
+stoppage,noun
  stoppages
-stopper
+stopper,verb,noun
  stoppered stoppering stoppers
-stopple
+stopple,verb,noun
  stoppled stopples stoppling
-stopwatch
+stopwatch,noun
  stopwatches
-storage
-store
+storage,noun
+store,verb,noun
  stored stores storing
-store-bought
-storecard
+store-bought,adjective
+storecard,noun
  storecards
-storefront
+storefront,noun
  storefronts
-storehouse
+storehouse,noun
  storehouses
-storekeeper
+storekeeper,noun
  storekeepers
-storeroom
+storeroom,noun
  storerooms
-storewide
-stork
+storewide!!!
+stork,noun
  storks
-storm
+storm,verb,noun
  stormed storming storms
-stormcloud
+stormcloud,noun
  stormclouds
-stormtrooper
+stormtrooper,noun
  stormtroopers
-stormy
+stormy,adjective
  stormier stormiest stormily storminess
-story
+story,noun
  storey storeyed storeys storied stories
-storyboard
+storyboard,noun
  storyboarded storyboarding storyboards
-storybook
+storybook,noun
  storybooks
-storyline
+storyline,noun
  storylines
-storyteller
+storyteller,noun
  storytellers
-storytelling
-stoup
+storytelling,adjective,noun
+stoup,noun
  stoups
-stout
+stout,adjective,noun
  stouter stoutest stoutly stoutness stouts
-stouthearted
-stove -> [stave]
+stouthearted,adjective
+stove,verb,noun
  stoves
-stovepipe
+stovepipe,verb,noun
  stovepipes
-stovetop
+stovetop,adjective,noun
  stovetops
-stow
+stow,verb
  stowed stowing stows
-stowage
-stowaway
+stowage,noun
+stowaway,noun
  stowaways
-straddle
+straddle,verb,noun
  straddled straddles straddling
-straddler
+straddler,noun
  straddlers
-strafe
+strafe,verb,noun
  strafed strafes strafing
-straggle
+straggle,verb,noun
  straggled straggles straggling
-straggler
+straggler,noun
  stragglers
-straggly
+straggly,adjective
  stragglier straggliest
-straight
+straight,adjective,noun,adverb
  straighter straightest straightly straightness straights
-straightaway
+straightaway,adjective,noun,adverb
  straightaways straightway
-straightedge
+straightedge,adjective,noun
  straightedges
-straighten
+straighten,verb
  straightened straightening straightens
-straightener
+straightener,noun
  straighteners
-straightforward
+straightforward,adjective
  straightforwardly straightforwardness straightforwards
-strain
+strain,verb,noun
  strained straining strains
-strainer
+strainer,noun
  strainers
-strait
+strait,adjective,noun
  straits
-straiten
+straiten,verb
  straitened straitening straitens
-straitjacket
+straitjacket,verb,noun
  straightjacket straightjacketed straightjacketing straightjackets straitjacketed straitjacketing straitjackets
-straitlaced
-strand
+straitlaced,adjective
+strand,verb,noun
  stranded stranding strands
-strange
+strange,adjective
  strangely strangeness stranger -> [stranger] strangest
-stranger -> [strange]
+stranger,noun
  strangers
-strangle
+strangle,verb
  strangled strangles strangling
-stranglehold
+stranglehold,noun
  strangleholds
-strangler
+strangler,noun
  stranglers
-strangulate
+strangulate,verb
  strangulated strangulates strangulating
-strangulation
-strap
+strangulation,noun
+strap,verb,noun
  strapless -> [strapless] strapped strapping straps
-strapless -> [strap]
+strapless,adjective
  straplesses
-strappy
-stratagem
+strappy,adjective
+stratagem,noun
  stratagems
-strategic
+strategic,adjective
  strategics
-strategical
+strategical,adjective
  strategically
-strategist
+strategist,noun
  strategists
-strategy
+strategy,noun
  strategies
-stratification
+stratification,noun
  stratifications
-stratify
+stratify,verb
  stratified stratifies stratifying
-stratosphere
+stratosphere,noun
  stratospheres
-stratospheric
-stratum
+stratospheric,adjective
+stratum,noun
  strata stratums
-stratus
+stratus,noun
  strati
-straw
+straw,noun
  straws
-strawberry
+strawberry,noun
  strawberries
-stray
+stray,adjective,verb,noun
  strayed straying strays
-streak
+streak,verb,noun
  streaked streaking streaks
-streaker
+streaker,noun
  streakers
-streaky
+streaky,adjective
  streakier streakiest
-stream
+stream,verb,noun
  streamed streaming streams
-streamer
+streamer,noun
  streamers
-streamline
+streamline,adjective,verb,noun
  streamlined streamlines streamlining
-street
+street,noun
  streets
-streetcar
+streetcar,noun
  streetcars
-streetlamp
+streetlamp,noun
  streetlamps
-streetlight
+streetlight,noun
  streetlights
-streetwalker
+streetwalker,noun
  streetwalkers
-streetwise
-strength
+streetwise,adjective
+strength,noun
  strengths
-strengthen
+strengthen,verb
  strengthened strengthening strengthens
-strengthener
+strengthener,noun
  strengtheners
-strenuous
+strenuous,adjective
  strenuously strenuousness
-strep
+strep,noun
  streps
-streptococcal
-streptococcus
+streptococcal,adjective
+streptococcus,noun
  streptococci
-streptomycin
-stress
+streptomycin,noun
+stress,verb,noun
  stressed stresses stressful stressing
-stretch
+stretch,verb,noun
  stretched stretches stretching
-stretchable
-stretcher
+stretchable,adjective
+stretcher,verb,noun
  stretchered stretchering stretchers
-stretchmarks
-stretchy
+stretchmarks!!!
+stretchy,adjective
  stretchier stretchiest
-strew
+strew,verb
  strewed strewing strewn strews
-strewth
-stria
+strewth,exclamation
+stria,noun
  striae
-striated
-striation
+striated,adjective
+striation,noun
  striations
-strict
+strict,adjective
  stricter strictest strictly strictness
-stricture
+stricture,noun
  strictures
-stride
+stride,verb,noun
  stridden strides striding strode
-stridency
-strident
+stridency,noun
+strident,adjective
  stridently
-strife
-strike
+strife,noun
+strike,verb,noun
  stricken strikes striking -> [striking] struck
-strikebound
-strikebreaker
+strikebound!!!
+strikebreaker,noun
  strikebreakers
-strikebreaking
-strikeout
+strikebreaking,verb
+strikeout,adjective,noun
  strikeouts
-striker
+striker,noun
  strikers
-striking -> [strike]
+striking,adjective,noun
  strikingly
-string
+string,verb,noun
  stringed stringing strings strung
-stringency
-stringent
+stringency,noun
+stringent,adjective
  stringently
-stringer
+stringer,noun
  stringers
-stringy
+stringy,adjective
  stringier stringiest stringiness
-strip
+strip,verb,noun
  stripped stripping strips stript
-stripe
+stripe,verb,noun
  striped stripes striping
-stripling
+stripling,noun
  striplings
-stripper
+stripper,noun
  strippers
-striptease
+striptease,noun
  stripteased stripteases stripteasing
-stripteaser
+stripteaser,noun
  stripteasers
-stripy
+stripy,adjective
  stripey stripier stripiest
-strive
+strive,verb
  strived striven strives striving strove
-strobe
+strobe,verb,noun
  strobes
-stroboscope
+stroboscope,noun
  stroboscopes
-stroboscopic
-stroke
+stroboscopic,adjective
+stroke,verb,noun
  stroked strokes stroking
-stroll
+stroll,verb,noun
  strolled strolling strolls
-stroller
+stroller,noun
  strollers
-strong
+strong,adjective
  stronger strongest strongly
-strongbox
+strongbox,noun
  strongboxes
-stronghold
+stronghold,noun
  strongholds
-strongman
+strongman,noun
  strongmen
-strongroom
+strongroom,noun
  strongrooms
-strong-willed
-strontium
-strop
+strong-willed,adjective
+strontium,noun
+strop,verb,noun
  stropped stropping strops
-strophe
+strophe,noun
  strophes
-strophic
-stroppy
+strophic,adjective
+stroppy,adjective
  stroppier stroppiest stroppily stroppiness
-structural
+structural,adjective
  structurally
-structuralism
-structuralist
+structuralism,noun
+structuralist,adjective,noun
  structuralists
-structure
+structure,verb,noun
  structured structures structuring
-strudel
+strudel,noun
  strudels
-struggle
+struggle,verb,noun
  struggled struggles struggling
-strum
+strum,verb,noun
  strummed strumming strums
-strumpet
+strumpet,noun
  strumpets
-strut
+strut,verb,noun
  struts strutted strutting
-strychnine
-stub
+strychnine,noun
+stub,verb,noun
  stubbed stubbing stubs
-stubble
-stubbly
+stubble,noun
+stubbly,adjective
  stubblier stubbliest
-stubborn
+stubborn,adjective
  stubborner stubbornest stubbornly stubbornness
-stubby
+stubby,adjective,noun
  stubbier stubbiest
-stucco
+stucco,verb,noun
  stuccoed stuccoes stuccoing stuccos
-stud
+stud,verb,noun
  studded studding studs
-studbook
+studbook,noun
  studbooks
-student
+student,noun
  students
-studio
+studio,noun
  studios
-studious
+studious,adjective
  studiously studiousness
-study
+study,verb,noun
  studied studiedly studies studying
-stuff
+stuff,verb,noun
  stuffed stuffing -> [stuffing] stuffs
-stuffing -> [stuff]
+stuffing,noun
  stuffings
-stuffy
+stuffy,adjective
  stuffier stuffiest stuffily stuffiness
-stultification
-stultify
+stultification,noun
+stultify,verb
  stultified stultifies stultifying stultifyingly
-stumble
+stumble,verb,noun
  stumbled stumbles stumbling
-stumbler
+stumbler,noun
  stumblers
-stump
+stump,verb,noun
  stumped stumping stumps
-stumpy
+stumpy,adjective
  stumpier stumpiest
-stun
+stun,verb
  stunned stunning stunningly stuns
-stunner
+stunner,noun
  stunners
-stunt
+stunt,verb,noun
  stunted stunting stunts
-stuntman
+stuntman,noun
  stuntmen
-stuntwoman
+stuntwoman,noun
  stuntwomen
-stupefaction
-stupefy
+stupefaction,noun
+stupefy,verb
  stupefied stupefies stupefying stupefyingly
-stupendous
+stupendous,adjective
  stupendously
-stupid
+stupid,adjective,noun
  stupider stupidest stupidly stupids
-stupidity
+stupidity,noun
  stupidities
-stupor
+stupor,noun
  stupors
-sturdy
+sturdy,adjective,noun
  sturdier sturdiest sturdily sturdiness
-sturgeon
+sturgeon,noun
  sturgeons
-stutter
+stutter,verb,noun
  stuttered stuttering stutters
-stutterer
+stutterer,noun
  stutterers
-sty
+sty,verb,noun
  sties stye styes
-style
+style,verb,noun
  styled styles styling stylish stylishly stylishness
-stylist
+stylist,noun
  stylists
-stylistic
+stylistic,adjective
  stylistically stylistics
-stylize
+stylize,verb
  stylise stylised stylises stylising stylized stylizes stylizing
-stylus
+stylus,noun
  styli styluses
-stymie
+stymie,verb
  stymied stymieing stymies stymy stymying
-styptic
+styptic,adjective,noun
  styptics
-suasion
-suave
+suasion,noun
+suave,adjective
  suavely suaveness suaver suavest
-suavity
-sub
+suavity,noun
+sub,verb,noun
  subbed subbing subs
-subaltern
+subaltern,adjective,noun
  subalterns
-subaqua
-subarctic
-subarea
+subaqua,adjective,noun
+subarctic,adjective
+subarea!!!
  subareas
-subatomic
-subbasement
+subatomic,adjective
+subbasement,noun
  subbasements
-subbranch
+subbranch,noun
  subbranches
-subcategory
+subcategory,noun
  subcategories
-subcommittee
+subcommittee,noun
  subcommittees
-subcompact
+subcompact,noun
  subcompacts
-subconscious
+subconscious,adjective,noun
  subconsciously subconsciousness
-subcontinent
+subcontinent,noun
  subcontinents
-subcontinental
-subcontract
+subcontinental,adjective
+subcontract,verb,noun
  subcontracted subcontracting subcontracts
-subcontractor
+subcontractor,noun
  subcontractors
-subculture
+subculture,noun
  subcultures
-subcutaneous
+subcutaneous,adjective
  subcutaneously
-subdivide
+subdivide,verb
  subdivided subdivides subdividing
-subdivision
+subdivision,noun
  subdivisions
-subdue
+subdue,verb
  subdued subdues subduing
-subedit
+subedit,verb
  subedited subediting subedits
-subeditor
+subeditor,noun
  subeditors
-subfamily
+subfamily,noun
  subfamilies
-subfreezing
-subgroup
+subfreezing,adjective
+subgroup,noun
  subgroups
-subhead
+subhead,noun
  subheads
-subheading
+subheading,noun
  subheadings
-subhuman
+subhuman,adjective,noun
  subhumans
-subject
+subject,adjective,verb,noun,adverb
  subjected subjecting subjects
-subjection
-subjective
+subjection,noun
+subjective,adjective,noun
  subjectively
-subjectivity
-subjoin
+subjectivity,noun
+subjoin,verb
  subjoined subjoining subjoins
-subjugate
+subjugate,verb
  subjugated subjugates subjugating
-subjugation
-subjunctive
+subjugation,noun
+subjunctive,adjective,noun
  subjunctives
-sublease
+sublease,verb,noun
  subleased subleases subleasing
-sublet
+sublet,verb,noun
  sublets subletting
-sublieutenant
+sublieutenant,noun
  sublieutenants
-sublimate
+sublimate,verb,noun
  sublimated sublimates sublimating
-sublimation
-sublime
+sublimation,noun
+sublime,adjective,verb
  sublimed sublimely sublimer sublimes sublimest subliming
-subliminal
+subliminal,adjective
  subliminally
-sublimity
-submarginal
-submarine
+sublimity,noun
+submarginal,adjective
+submarine,adjective,noun
  submarines
-submariner
+submariner,noun
  submariners
-submerge
+submerge,verb
  submerged submerges submerging
-submergence
-submerse
+submergence,noun
+submerse,adjective,verb
  submersed submerses submersing
-submersible
+submersible,adjective,noun
  submersibles
-submersion
-submicroscopic
-submission
+submersion,noun
+submicroscopic,adjective
+submission,noun
  submissions
-submissive
+submissive,adjective
  submissively submissiveness
-submit
+submit,verb
  submits submitted submitting
-subnormal
-suboptimal
-suborbital
-suborder
+subnormal,adjective
+suboptimal,adjective
+suborbital,adjective
+suborder,noun
  suborders
-subordinate
+subordinate,adjective,verb,noun
  subordinated subordinates subordinating
-subordination
-suborn
+subordination,noun
+suborn,verb
  suborned suborning suborns
-subornation
-subpar
-subplot
+subornation,noun
+subpar,adjective
+subplot,noun
  subplots
-subpoena
+subpoena,verb,noun
  subpena subpenaed subpenaing subpenas subpoenaed subpoenaing subpoenas
-subprime
-subprofessional
+subprime,adjective
+subprofessional!!!
  subprofessionals
-subroutine
+subroutine,noun
  subroutines
-subscribe
+subscribe,verb
  subscribed subscribes subscribing
-subscriber
+subscriber,noun
  subscribers
-subscript
+subscript,adjective,noun
  subscripts
-subscription
+subscription,noun
  subscriptions
-subsection
+subsection,noun
  subsections
-subsequent
+subsequent,adjective
  subsequently
-subservience
-subservient
+subservience,noun
+subservient,adjective
  subserviently
-subset
+subset,noun
  subsets
-subside
+subside,verb
  subsided subsides subsiding
-subsidence
-subsidiarity
-subsidiary
+subsidence,noun
+subsidiarity,noun
+subsidiary,adjective,noun
  subsidiaries
-subsidization
+subsidization,noun
  subsidisation
-subsidize
+subsidize,verb
  subsidise subsidised subsidises subsidising subsidized subsidizes subsidizing
-subsidizer
+subsidizer,noun
  subsidiser subsidisers subsidizers
-subsidy
+subsidy,noun
  subsidies
-subsist
+subsist,verb
  subsisted subsisting subsists
-subsistence
-subsoil
-subsonic
-subspecies
-substance
+subsistence,noun
+subsoil,verb,noun
+subsonic,adjective
+subspecies,noun
+substance,noun
  substances
-substandard
-substantial
+substandard,adjective
+substantial,adjective
  substantially
-substantiate
+substantiate,verb
  substantiated substantiates substantiating
-substantiation
+substantiation,noun
  substantiations
-substantive
+substantive,adjective,noun
  substantively substantives
-substation
+substation,noun
  substations
-substitute
+substitute,verb,noun
  substituted substitutes substituting
-substitution
+substitution,noun
  substitutions
-substrate
+substrate,noun
  substrates
-substratum
+substratum,noun
  substrata substratums
-substructure
+substructure,noun
  substructures
-subsume
+subsume,verb
  subsumed subsumes subsuming
-subsurface
-subsystem
+subsurface,noun
+subsystem,noun
  subsystems
-subteen
+subteen,adjective,noun
  subteens
-subtenancy
-subtenant
+subtenancy,noun
+subtenant,noun
  subtenants
-subtend
+subtend,verb
  subtended subtending subtends
-subterfuge
+subterfuge,noun
  subterfuges
-subterranean
-subtext
+subterranean,adjective
+subtext,noun
  subtexts
-subtitle
+subtitle,verb,noun
  subtitled subtitles subtitling
-subtle
+subtle,adjective
  subtler subtlest subtly
-subtlety
+subtlety,noun
  subtleties
-subtopic
+subtopic,noun
  subtopics
-subtotal
+subtotal,adjective,verb,noun
  subtotaled subtotaling subtotalled subtotalling subtotals
-subtract
+subtract,verb
  subtracted subtracting subtracts
-subtraction
+subtraction,noun
  subtractions
-subtrahend
+subtrahend,noun
  subtrahends
-subtropic
+subtropic,adjective
  subtropics
-subtropical
-suburb
+subtropical,adjective
+suburb,noun
  suburbs
-suburban
+suburban,adjective
  suburbans
-suburbanite
+suburbanite,noun
  suburbanites
-suburbia
-subvention
+suburbia,noun
+subvention,noun
  subventions
-subversion
-subversive
+subversion,noun
+subversive,adjective,noun
  subversively subversiveness subversives
-subvert
+subvert,verb
  subverted subverting subverts
-subway
+subway,noun
  subways
-subzero
-succeed
+subzero,adjective
+succeed,verb
  succeeded succeeding succeeds
-success
+success,noun
  successes successful successfully
-succession
+succession,noun
  successions
-successive
+successive,adjective
  successively
-successor
+successor,noun
  successors
-succinct
+succinct,adjective
  succincter succinctest succinctly succinctness
-succor
+succor,verb,noun
  succored succoring succors succour succoured succouring succours
-succotash
-succubus
+succotash,noun
+succubus,noun
  succubi
-succulence
+succulence,noun
  succulency
-succulent
+succulent,adjective,noun
  succulents
-succumb
+succumb,verb
  succumbed succumbing succumbs
-such
-suchlike
-suck
+such,pronoun<spanclass="listSeparator">,</span>determiner<spanclass="listSeparator">,</span>,predeterminer
+suchlike,determiner,pronoun
+suck,exclamation,verb,noun
  sucked sucking sucks
-sucker
+sucker,verb,noun
  suckered suckering suckers
-suckle
+suckle,verb
  suckled suckles suckling -> [suckling]
-suckling -> [suckle]
+suckling,noun
  sucklings
-sucky
-sucrose
-suction
+sucky,adjective
+sucrose,noun
+suction,verb,noun
  suctioned suctioning suctions
-sudden
+sudden,adjective,adverb
  suddenly suddenness
-sudoku
+sudoku,noun
  sudokus
-suds
-sudsy
+suds,pluralnoun,verb
+sudsy,adjective
  sudsier sudsiest
-sue
+sue,verb
  sued sues suing
-suede
-suet
-suety
-suffer
+suede,noun
+suet,noun
+suety,adjective
+suffer,verb
  suffered suffering -> [suffering] suffers
-sufferance
-sufferer
+sufferance,noun
+sufferer,noun
  sufferers
-suffering -> [suffer]
+suffering,noun
  sufferings
-suffice
+suffice,verb
  sufficed suffices sufficing
-sufficiency
-sufficient
+sufficiency,noun
+sufficient,adjective,determiner
  sufficiently
-suffix
+suffix,verb,noun
  suffixed suffixes suffixing
-suffixation
-suffocate
+suffixation,noun
+suffocate,verb
  suffocated suffocates suffocating
-suffocation
-suffragan
+suffocation,noun
+suffragan,noun
  suffragans
-suffrage
-suffragette
+suffrage,noun
+suffragette,noun
  suffragettes
-suffragist
+suffragist,noun
  suffragists
-suffuse
+suffuse,verb
  suffused suffuses suffusing
-suffusion
-sugar
+suffusion,noun
+sugar,verb,noun
  sugared sugaring sugarless sugars
-sugarcane
-sugarcoat
+sugarcane,noun
+sugarcoat,verb
  sugarcoated sugarcoating sugarcoats
-sugarplum
+sugarplum,noun
  sugarplums
-sugary
+sugary,adjective
  sugarier sugariest
-suggest
+suggest,verb
  suggested suggesting suggests
-suggestible
+suggestible,adjective
  suggestibility
-suggestion
+suggestion,noun
  suggestions
-suggestive
+suggestive,adjective
  suggestively suggestiveness
-suicidal
-suicide
+suicidal,adjective
+suicide,verb,noun
  suicides
-suit
+suit,verb,noun
  suited suiting suits
-suitable
+suitable,adjective
  suitability suitableness suitably
-suitcase
+suitcase,noun
  suitcases
-suite
+suite,noun
  suites
-suitor
+suitor,noun
  suitors
-sukiyaki
-sulfa
+sukiyaki,noun
+sulfa,combiningform
  sulpha
-sulfate
+sulfate,noun
  sulfates sulphate sulphates
-sulfide
+sulfide,noun
  sulfides sulphide sulphides
-sulfur
+sulfur,verb,noun
  sulfured sulfuring sulfurs sulphur sulphured sulphuring sulphurs
-sulfuric
+sulfuric,adjective
  sulphuric
-sulfurous
+sulfurous,adjective
  sulphurous
-sulk
+sulk,verb,noun
  sulked sulking sulks
-sulky
+sulky,adjective,noun
  sulkier sulkies sulkiest sulkily sulkiness
-sullen
+sullen,adjective,noun
  sullener sullenest sullenly sullenness
-sully
+sully,verb
  sullied sullies sullying
-sultan
+sultan,noun
  sultans
-sultana
+sultana,noun
  sultanas
-sultanate
+sultanate,noun
  sultanates
-sultry
+sultry,adjective
  sultrier sultriest sultrily sultriness
-sum
+sum,verb,noun
  summed summing sums
-sumac
+sumac,noun
  sumach
-summarize
+summarize,verb
  summarise summarised summarises summarising summarized summarizes summarizing
-summary
+summary,adjective,noun
  summaries summarily
-summation
+summation,noun
  summations
-summer
+summer,verb,noun
  summered summering summers
-summerhouse
+summerhouse,noun
  summerhouses
-summertime
-summery
-summit
+summertime,noun
+summery,adjective
+summit,verb,noun
  summits
-summitry
-summon
+summitry!!!
+summon,verb
  summoned summoning summons -> [summons]
-summoner
+summoner,noun
  summoners
-summons -> [summon]
+summons,verb,noun
  summonsed summonses summonsing
-sumo
-sump
+sumo,noun
+sump,noun
  sumps
-sumptuous
+sumptuous,adjective
  sumptuously sumptuousness
-sun
+sun,verb,noun
  sunless sunned sunning suns
-sunbaked
-sunbath
+sunbaked,adjective
+sunbath,noun
  sunbaths
-sunbathe
+sunbathe,verb
  sunbathed sunbathes sunbathing
-sunbather
+sunbather,noun
  sunbathers
-sunbeam
+sunbeam,noun
  sunbeams
-sunbed
+sunbed,noun
  sunbeds
-sunbelt
+sunbelt,noun
  sunbelts
-sunblock
+sunblock,noun
  sunblocks
-sunbonnet
+sunbonnet,noun
  sunbonnets
-sunburn
+sunburn,verb,noun
  sunburned sunburning sunburns sunburnt
-sunburst
+sunburst,noun
  sunbursts
-suncream
+suncream,noun
  suncreams
-sundae
+sundae,noun
  sundaes
-sundeck
+sundeck!!!
  sundecks
-sunder
+sunder,verb
  sundered sundering sunders
-sundial
+sundial,noun
  sundials
-sundown
+sundown,noun
  sundowns
-sundrenched
-sundress
+sundrenched,adjective
+sundress,noun
  sundresses
-sun-dried
-sundry
+sun-dried,verb
+sundry,adjective,noun
  sundries
-sunfish
+sunfish,noun
  sunfishes
-sunflower
+sunflower,noun
  sunflowers
-sunglasses
-sunhat
+sunglasses,pluralnoun
+sunhat,noun
  sunhats
-sunlamp
+sunlamp,noun
  sunlamps
-sunlight
-sunlit
-sunlounger
+sunlight,noun
+sunlit,adjective
+sunlounger,noun
  sunloungers
-sunnies
-sunny
+sunnies,pluralnoun
+sunny,adjective
  sunnier sunniest sunniness
-sunrise
+sunrise,noun
  sunrises
-sunroof
+sunroof,noun
  sunroofs
-sunroom
+sunroom,noun
  sunrooms
-sunscreen
+sunscreen,noun
  sunscreens
-sunset
+sunset,noun
  sunsets
-sunshade
+sunshade,noun
  sunshades
-sunshine
-sunshiny
-sunspot
+sunshine,noun
+sunshiny,adjective
+sunspot,noun
  sunspots
-sunstroke
-suntan
+sunstroke,noun
+suntan,verb,noun
  suntanned suntanning suntans
-suntrap
+suntrap,noun
  suntraps
-sunup
-sup
+sunup,noun
+sup,exclamation,verb,noun
  supped supping sups
-super
+super,adjective,noun,adverb
  supers
-superabundance
+superabundance,noun
  superabundances
-superabundant
-superannuate
+superabundant,adjective
+superannuate,verb
  superannuated superannuates superannuating
-superannuation
-superb
+superannuation,noun
+superb,adjective
  superber superbest superbly
-superbug
+superbug,noun
  superbugs
-supercargo
+supercargo,noun
  supercargoes supercargos
-supercharge
+supercharge,verb
  supercharged supercharges supercharging
-supercharger
+supercharger,noun
  superchargers
-supercilious
+supercilious,adjective
  superciliously superciliousness
-supercity
+supercity!!!
  supercities
-supercomputer
+supercomputer,noun
  supercomputers
-superconducting
-superconductive
-superconductivity
-superconductor
+superconducting,adjective
+superconductive,adjective
+superconductivity,noun
+superconductor,noun
  superconductors
-superego
+superego,noun
  superegos
-supererogation
-supererogatory
-superficial
+supererogation,noun
+supererogatory,adjective
+superficial,adjective
  superficially
-superficiality
-superfine
-superfluity
-superfluous
+superficiality,noun
+superfine,adjective
+superfluity,noun
+superfluous,adjective
  superfluously superfluousness
-superfood
+superfood,noun
  superfoods
-superglue
-supergrass
+superglue,verb,noun
+supergrass,noun
  supergrasses
-supergroup
+supergroup,noun
  supergroups
-superhero
+superhero,noun
  superheroes
-superhighway
+superhighway,noun
  superhighways
-superhuman
-superimpose
+superhuman,adjective
+superimpose,verb
  superimposed superimposes superimposing
-superimposition
-superintend
+superimposition,noun
+superintend,verb
  superintended superintending superintends
-superintendence
+superintendence,noun
  superintendency
-superintendent
+superintendent,noun
  superintendents
-superior
+superior,adjective,noun
  superiors
-superiority
-superlative
+superiority,noun
+superlative,adjective,noun
  superlatively superlatives
-superman
+superman,noun
  supermen
-supermarket
+supermarket,noun
  supermarkets
-supermodel
+supermodel,noun
  supermodels
-supermom
+supermom,noun
  supermoms
-supernal
-supernatural
+supernal,adjective
+supernatural,adjective,noun
  supernaturally
-supernova
+supernova,noun
  supernovae supernovas
-supernumerary
+supernumerary,adjective,noun
  supernumeraries
-superpose
+superpose,verb
  superposed superposes superposing
-superposition
-superpower
+superposition,noun
+superpower,noun
  superpowers
-supersaturate
+supersaturate,verb
  supersaturated supersaturates supersaturating
-supersaturation
-superscribe
+supersaturation,noun
+superscribe,verb
  superscribed superscribes superscribing
-superscript
+superscript,adjective,noun
  superscripts
-superscription
-supersede
+superscription,noun
+supersede,verb
  superseded supersedes superseding
-supersize
+supersize,adjective,verb
  supersized supersizes supersizing
-supersonic
-superstar
+supersonic,adjective
+superstar,noun
  superstars
-superstardom
-superstate
+superstardom,noun
+superstate,noun
  superstates
-superstition
+superstition,noun
  superstitions
-superstitious
+superstitious,adjective
  superstitiously
-superstore
+superstore,noun
  superstores
-superstructure
+superstructure,noun
  superstructures
-supertanker
+supertanker,noun
  supertankers
-supervene
+supervene,verb
  supervened supervenes supervening
-supervention
-supervillain
+supervention,noun
+supervillain,noun
  supervillains
-supervise
+supervise,verb
  supervised supervises supervising
-supervision
-supervisor
+supervision,noun
+supervisor,noun
  supervisors
-supervisory
-superwoman
+supervisory,adjective
+superwoman,noun
  superwomen
-supine
+supine,adjective,noun
  supinely
-supper
+supper,noun
  suppers
-suppertime
-supplant
+suppertime!!!
+supplant,verb
  supplanted supplanting supplants
-supple
+supple,adjective,verb
  suppleness suppler supplest supply -> [supply]
-supplement
+supplement,verb,noun
  supplemented supplementing supplements
-supplemental
-supplementary
-supplementation
-suppliant
+supplemental,adjective
+supplementary,adjective,noun
+supplementation,noun
+suppliant,adjective,noun
  suppliants
-supplicant
+supplicant,adjective,noun
  supplicants
-supplicate
+supplicate,verb
  supplicated supplicates supplicating
-supplication
+supplication,noun
  supplications
-supplier
+supplier,noun
  suppliers
-supply -> [supple]
+supply,verb,noun,adverb
  supplied supplies supplying
-supply-side
-support
+supply-side,adjective
+support,verb,noun
  supported supporting supports
-supportable
-supporter
+supportable,adjective
+supporter,noun
  supporters
-supportive
-suppose
+supportive,adjective
+suppose,verb
  supposed -> [supposed] supposes supposing
-supposed -> [suppose]
+supposed,adjective
  supposedly
-supposition
+supposition,noun
  suppositions
-suppository
+suppository,noun
  suppositories
-suppress
+suppress,verb
  suppressed suppresses suppressing
-suppressant
+suppressant,noun
  suppressants
-suppressible
-suppression
-suppressor
+suppressible,adjective
+suppression,noun
+suppressor,noun
  suppressors
-suppurate
+suppurate,verb
  suppurated suppurates suppurating
-suppuration
-supra
-supranational
-supremacist
+suppuration,noun
+supra,adverb
+supranational,adjective
+supremacist,adjective,noun
  supremacists
-supremacy
-supreme
+supremacy,noun
+supreme,adjective,noun
  supremely
-supremo
+supremo,noun
  supremos
-surcease
+surcease,verb,noun
  surceased surceases surceasing
-surcharge
+surcharge,verb,noun
  surcharged surcharges surcharging
-surcingle
+surcingle,noun
  surcingles
-sure
+sure,adjective,adverb
  surely sureness surer surest
-surefire
-surefooted
-surety
+surefire,adjective
+surefooted,adjective
+surety,noun
  sureties
-surf
+surf,verb,noun
  surfed surfing surfs
-surface
+surface,adjective,verb,noun
  surfaced surfaces surfacing
-surface-to-air
-surfboard
+surface-to-air,adjective
+surfboard,noun
  surfboarded surfboarding surfboards
-surfeit
+surfeit,verb,noun
  surfeited surfeiting surfeits
-surfer
+surfer,noun
  surfers
-surge
+surge,verb,noun
  surged surges surging
-surgeon
+surgeon,noun
  surgeons
-surgery
+surgery,noun
  surgeries
-surgical
+surgical,adjective
  surgically
-surly
+surly,adjective
  surlier surliest surliness
-surmise
+surmise,verb,noun
  surmised surmises surmising
-surmount
+surmount,verb
  surmounted surmounting surmounts
-surmountable
-surname
+surmountable,adjective
+surname,verb,noun
  surnames
-surpass
+surpass,verb
  surpassed surpasses surpassing
-surplice
+surplice,noun
  surplices
-surplus
+surplus,adjective,noun
  surplused surpluses surplusing surplussed surplussing
-surprise
+surprise,verb,noun
  surprised surprises surprising surprisingly
-surreal
-surrealism
-surrealist
+surreal,adjective
+surrealism,noun
+surrealist,adjective,noun
  surrealists
-surrealistic
+surrealistic,adjective
  surrealistically
-surrender
+surrender,verb,noun
  surrendered surrendering surrenders
-surreptitious
+surreptitious,adjective
  surreptitiously surreptitiousness
-surrey
+surrey,noun,propernoun
  surreys
-surrogacy
-surrogate
+surrogacy,noun
+surrogate,adjective,noun
  surrogates
-surround
+surround,verb,noun
  surrounded surrounding -> [surrounding] surrounds
-surrounding -> [surround]
+surrounding,adjective
  surroundings
-surtax
+surtax,noun
  surtaxed surtaxes surtaxing
-surtitle
+surtitle,verb,noun
  surtitles
-surveillance
-survey
+surveillance,noun
+survey,verb,noun
  surveyed surveying surveys
-surveyor
+surveyor,noun,propernoun
  surveyors
-survivable
-survival
+survivable,adjective
+survival,noun
  survivals
-survivalist
+survivalist,adjective,noun
  survivalists
-survive
+survive,verb
  survived survives surviving
-survivor
+survivor,noun
  survivors
-susceptibility -> [susceptible]
+susceptibility,noun
  susceptibilities
-susceptible
+susceptible,adjective
  susceptibility -> [susceptibility]
-sushi
-suspect
+sushi,noun
+suspect,adjective,verb,noun
  suspected suspecting suspects
-suspend
+suspend,verb
  suspended suspending suspends
-suspender
+suspender,pluralnoun
  suspenders
-suspense
+suspense,noun
  suspenseful
-suspension
+suspension,noun
  suspensions
-suspicion
+suspicion,noun
  suspicions
-suspicious
+suspicious,adjective
  suspiciously
-suss
+suss,adjective,verb,noun
  sussed susses sussing
-sustain
+sustain,verb,noun
  sustained sustaining sustains
-sustainable
+sustainable,adjective
  sustainability
-sustenance
-sutler
+sustenance,noun
+sutler,noun
  sutlers
-suttee
-suture
+suttee,noun,propernoun
+suture,verb,noun
  sutured sutures suturing
-suzerain
+suzerain,noun
  suzerains
-suzerainty
-svelte
+suzerainty,noun
+svelte,adjective
  svelter sveltest
-swab
+swab,verb,noun
  swabbed swabbing swabs swob swobbed swobbing swobs
-swaddle
+swaddle,verb
  swaddled swaddles swaddling
-swag
+swag,verb,noun
  swagged swagging swags
-swagger
+swagger,adjective,verb,noun
  swaggered swaggering swaggers
-swain
+swain,noun
  swains
-swallow
+swallow,verb,noun
  swallowed swallowing swallows
-swallowtail
+swallowtail,noun
  swallowtails
-swami
+swami,noun
  swamis
-swamp
+swamp,verb,noun
  swamped swamping swamps
-swampland
+swampland,noun
  swamplands
-swampy
+swampy,adjective
  swampier swampiest
-swan
+swan,verb,noun
  swanned swanning swans
-swank
+swank,adjective,verb,noun
  swanked swanker swankest swanking swanks
-swanky
+swanky,adjective
  swankier swankiest swankily swankiness
-swansdown
-swansong
+swansdown,noun
+swansong,noun
  swansongs
-swap
+swap,verb,noun
  swapped swapping swaps swop swopped swopping swops
-sward
+sward,noun
  swards
-swarm
+swarm,verb,noun
  swarmed swarming swarms
-swarthy
+swarthy,adjective
  swarthier swarthiest
-swash
+swash,adjective,verb,noun
  swashed swashes swashing
-swashbuckler
+swashbuckler,noun
  swashbucklers
-swashbuckling
-swastika
+swashbuckling,verb
+swastika,noun
  swastikas
-swat
+swat,verb,noun
  swats swatted swatting swot swots swotted swotting
-swatch
+swatch,verb,noun
  swatches
-swath -> [swathe]
+swath,verb,noun
  swathe -> [swathe] swathes -> [swathe] swaths -> [swathe]
-swathe -> [swath]
+swathe,verb,noun
  swath -> [swath] swathed swathes -> [swath] swathing swaths -> [swath]
-swatter
+swatter,noun
  swatters
-sway
+sway,verb,noun
  swayed swaying sways
-swayback
+swayback,noun
  swaybacked
-swear
+swear,verb
  swearing swears swore sworn
-swearer
+swearer,noun
  swearers
-swearword
+swearword,noun
  swearwords
-sweat
+sweat,verb,noun
  sweated sweating sweats
-sweatband
+sweatband,noun
  sweatbands
-sweater
+sweater,noun
  sweaters
-sweatpants
-sweatshirt
+sweatpants,pluralnoun
+sweatshirt,noun
  sweatshirts
-sweatshop
+sweatshop,noun
  sweatshops
-sweatsuit
+sweatsuit,noun
  sweatsuits
-sweaty
+sweaty,adjective
  sweatier sweatiest
-swede
+swede,noun
  swedes
-sweep
+sweep,verb,noun
  sweeping -> [sweeping] sweeps swept
-sweeper
+sweeper,noun
  sweepers
-sweeping -> [sweep]
+sweeping,adjective,noun
  sweepingly sweepings
-sweepstake
+sweepstake,noun
  sweepstakes
-sweet
+sweet,adjective,noun
  sweeter sweetest sweetish sweetly sweetness sweets
-sweetbread
+sweetbread,noun
  sweetbreads
-sweetbriar
+sweetbriar,noun
  sweetbriars sweetbrier sweetbriers
-sweetcorn
-sweeten
+sweetcorn,noun
+sweeten,verb
  sweetened sweetening sweetens
-sweetener
+sweetener,noun
  sweeteners
-sweetheart
+sweetheart,noun
  sweethearts
-sweetie
+sweetie,noun
  sweeties
-sweetmeat
+sweetmeat,noun
  sweetmeats
-sweetpea
+sweetpea,noun
  sweetpeas
-swell
+swell,adjective,verb,noun,adverb
  swelled sweller swellest swelling -> [swelling] swells swollen
-swellhead
+swellhead!!!
  swellheaded swellheads
-swelling -> [swell]
+swelling,noun
  swellings
-swelter
+swelter,verb,noun
  sweltered sweltering swelters
-sweptback
-swerve
+sweptback,adjective
+swerve,verb,noun
  swerved swerves swerving
-swift
+swift,adjective,noun,adverb
  swifter swiftest swiftly swiftness swifts
-swig
+swig,verb,noun
  swigged swigging swigs
-swill
+swill,verb,noun
  swilled swilling swills
-swim
+swim,verb,noun
  swam swimming swims swum
-swimmer
+swimmer,noun
  swimmers
-swimmingly
-swimsuit
+swimmingly,adverb
+swimsuit,noun
  swimsuits
-swimwear
-swindle
+swimwear,noun
+swindle,verb,noun
  swindled swindles swindling
-swindler
+swindler,noun
  swindlers
-swine
+swine,noun
  swines swinish
-swineherd
+swineherd,noun
  swineherds
-swing
+swing,verb,noun
  swinging swings swung
-swingeing
-swinger
+swingeing,adjective
+swinger,noun
  swingers
-swipe
+swipe,verb,noun
  swiped swipes swiping
-swipecard
+swipecard,noun
  swipecards
-swirl
+swirl,verb,noun
  swirled swirling swirls
-swirly
+swirly,adjective
  swirlier swirliest
-swish
+swish,adjective,verb,noun
  swished swisher swishes swishest swishing
-switch
+switch,verb,noun
  switched switches switching
-switchback
+switchback,noun
  switchbacks
-switchblade
+switchblade,noun
  switchblades
-switchboard
+switchboard,noun
  switchboards
-switcher
+switcher,noun
  switchers
-switcheroo
+switcheroo,noun
  switcheroos
-swivel
+swivel,verb,noun
  swiveled swiveling swivelled swivelling swivels
-swizz
+swizz,noun
  swiz
-swoon
+swoon,verb,noun
  swooned swooning swoons
-swoop
+swoop,verb,noun
  swooped swooping swoops
-swoosh
+swoosh,verb,noun
  swooshed swooshes swooshing
-sword
+sword,noun
  swords
-swordfish
+swordfish,noun
  swordfishes
-swordplay
-swordsman
+swordplay,noun
+swordsman,noun
  swordsmen
-swordsmanship
-sybarite
+swordsmanship,noun
+sybarite,noun
  sybarites
-sybaritic
-sycamore
+sybaritic,adjective
+sycamore,noun
  sycamores
-sycophancy
-sycophant
+sycophancy,noun
+sycophant,noun
  sycophants
-sycophantic
-syllabic
-syllabicate
+sycophantic,adjective
+syllabic,adjective,noun
+syllabicate!!!
  syllabicated syllabicates syllabicating
-syllabication
-syllabification
-syllabify
+syllabication,noun
+syllabification,noun
+syllabify,verb
  syllabified syllabifies syllabifying
-syllable
+syllable,verb,noun
  syllables
-syllabub
+syllabub,noun
  syllabubs
-syllabus
+syllabus,noun
  syllabi syllabuses
-syllogism
+syllogism,noun
  syllogisms
-syllogistic
-sylph
+syllogistic,adjective
+sylph,noun
  sylphlike sylphs
-sylphic
-sylvan
+sylphic,noun
+sylvan,adjective
  silvan
-symbiosis
+symbiosis,noun
  symbioses
-symbiotic
+symbiotic,adjective
  symbiotically
-symbol
+symbol,verb,noun
  symbols
-symbolic
-symbolical
+symbolic,adjective
+symbolical,adjective
  symbolically
-symbolism
-symbolization
+symbolism,noun
+symbolization,noun
  symbolisation
-symbolize
+symbolize,verb
  symbolise symbolised symbolises symbolising symbolized symbolizes symbolizing
-symmetric
-symmetrical
+symmetric,adjective
+symmetrical,adjective
  symmetrically
-symmetry
-sympathetic
+symmetry,noun
+sympathetic,adjective
  sympathetically
-sympathize
+sympathize,verb
  sympathise sympathised sympathises sympathising sympathized sympathizes sympathizing
-sympathizer
+sympathizer,noun
  sympathiser sympathisers sympathizers
-sympathy
+sympathy,noun
  sympathies
-symphonic
-symphony
+symphonic,adjective
+symphony,noun
  symphonies
-symposium
+symposium,noun
  symposia symposiums
-symptom
+symptom,noun
  symptoms
-symptomatic
+symptomatic,adjective
  symptomatically
-synagogal
-synagogue
+synagogal,adjective
+synagogue,noun
  synagog synagogs synagogues
-synapse
+synapse,noun
  synapses
-synaptic
-sync
+synaptic,adjective
+sync,verb,noun
  synced synch synched synching synchs syncing syncs
-synchronicity
-synchronization
+synchronicity,noun
+synchronization,noun
  synchronisation synchronisations synchronizations
-synchronize
+synchronize,verb
  synchronise synchronised synchronises synchronising synchronized synchronizes synchronizing
-synchronous
-syncopate
+synchronous,adjective
+syncopate,verb
  syncopated syncopates syncopating
-syncopation
-syncope
-syndicalism
-syndicalist
+syncopation,noun
+syncope,noun
+syndicalism,noun
+syndicalist,adjective,noun
  syndicalists
-syndicate
+syndicate,verb,noun
  syndicated syndicates syndicating
-syndication
-syndrome
+syndication,noun
+syndrome,noun
  syndromes
-synergism
-synergistic
-synergy
+synergism,noun
+synergistic,adjective
+synergy,noun
  synergies
-synfuel
+synfuel,noun
  synfuels
-synod
+synod,noun
  synods
-synonym
+synonym,noun
  synonyms
-synonymous
-synonymy
-synopsis
+synonymous,adjective
+synonymy,noun
+synopsis,noun
  synopses
-synoptic
-syntactic
-syntactical
+synoptic,adjective,noun
+syntactic,adjective
+syntactical,adjective
  syntactically
-syntax
-synth
+syntax,noun
+synth,noun
  synths
-synthesis
+synthesis,noun
  syntheses
-synthesize
+synthesize,verb
  synthesise synthesised synthesises synthesising synthesized synthesizes synthesizing
-synthesizer
+synthesizer,noun
  synthesiser synthesisers synthesizers
-synthetic
+synthetic,adjective,noun
  synthetically synthetics
-syphilis
-syphilitic
+syphilis,noun
+syphilitic,adjective,noun
  syphilitics
-syringe
+syringe,verb,noun
  syringed syringes syringing
-syrup
+syrup,noun
  sirup sirups syrups
-syrupy
+syrupy,adjective
  sirupy
-system
+system,noun
  systems
-systematic
-systematical
+systematic,adjective
+systematical,pluralnoun
  systematically
-systematization
+systematization,noun
  systematisation
-systematize
+systematize,verb
  systematise systematised systematises systematising systematized systematizes systematizing
-systemic
+systemic,adjective
  systemically systemics
-systole
+systole,noun
  systoles
-systolic
+systolic,adjective

@@ -1,103 +1,103 @@
-zany
+zany,adjective,noun
  zanier zanies zaniest zaniness
-zap
+zap,verb,noun
  zapped zapping zaps
-zapper
+zapper,noun
  zappers
-zappy
+zappy,adjective
  zappier zappiest
-zeal
-zealot
+zeal,noun
+zealot,noun
  zealots
-zealotry
-zealous
+zealotry,noun
+zealous,adjective
  zealously zealousness
-zebra
+zebra,noun
  zebras
-zebu
+zebu,noun
  zebus
-zed
+zed,noun
  zeds
-zeitgeist
+zeitgeist,noun
  zeitgeists
-zenith
+zenith,noun
  zeniths
-zephyr
+zephyr,noun
  zephyrs
-zeppelin
+zeppelin,noun
  zeppelins
-zero
+zero,cardinalnumber,verb
  zeroed zeroes zeroing zeros
-zero-sum
-zest
+zero-sum,adjective
+zest,verb,noun
  zestful zestfully zestfulness zests
-zesty
+zesty,adjective
  zestier zestiest
-zeta
+zeta,noun
  zetas
-zigzag
+zigzag,adjective,verb,noun,adverb
  zigzagged zigzagging zigzags
-zilch
-zillion
+zilch,determiner,pronoun
+zillion,cardinalnumber
  zillions
-zinc
+zinc,verb,noun
  zinced zincing zincked zincking zincs
-zine
+zine,noun
  zines
-zinfandel
-zing
+zinfandel,noun
+zing,verb,noun
  zinged zinging zings
-zinger
+zinger,noun
  zingers
-zingy
+zingy,adjective
  zingier zingiest
-zinnia
+zinnia,noun
  zinnias
-zip
+zip,verb,noun,pronoun
  zipped zipping zips
-zipper
+zipper,verb,noun
  zippered zippering zippers
-zippy
+zippy,adjective
  zippier zippiest
-zircon
+zircon,noun
  zircons
-zirconium
-zit
+zirconium,noun
+zit,noun
  zits
-zither
+zither,noun
  zithers
-zloty
+zloty,noun
  zlotys
-zodiac
+zodiac,noun
  zodiacs
-zodiacal
-zombie
+zodiacal,adjective
+zombie,noun
  zombi zombies zombis
-zonal
+zonal,adjective
  zonally
-zone
+zone,verb,noun
  zoned zones zoning
-zonked
-zoo
+zonked,adjective
+zoo,noun
  zoos
-zookeeper
+zookeeper,noun
  zookeepers
-zoological
+zoological,adjective
  zoologically
-zoologist
+zoologist,noun
  zoologists
-zoology
-zoom
+zoology,noun
+zoom,exclamation,verb,noun
  zoomed zooming zooms
-zoophyte
+zoophyte,noun
  zoophytes
-zoophytic
-zounds
-zucchini
+zoophytic,adjective
+zounds,exclamation
+zucchini,noun
  zucchinis
-zwieback
-zydeco
-zygote
+zwieback,noun
+zydeco,noun
+zygote,noun
  zygotes
-zygotic
-zymurgy
+zygotic,adjective
+zymurgy,noun
