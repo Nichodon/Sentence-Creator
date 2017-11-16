@@ -811,7 +811,7 @@ delete
 deleterious
 deletion
  deletions
-deleverage!
+deleverage
  deleveraged deleverages deleveraging
 delft
 delftware

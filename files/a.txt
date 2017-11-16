@@ -8,13 +8,13 @@ abacus,noun
 abaft,adverb
 abalone,noun
  abalones
-abandon,verb_object
+abandon,verb
  abandoned abandoning abandons
 abandonment,noun
-abase,verb_subject
+abase,verb
  abased abases abasing
 abasement,noun
-abash,verb_object
+abash,verb
  abashed abashedly abashes abashing
 abashment,noun
 abate,verb
@@ -24,110 +24,110 @@ abattoir,noun
  abattoirs
 abbess,noun
  abbesses
-abbey
+abbey,noun
  abbeys
-abbot
+abbot,noun
  abbots
-abbreviate
+abbreviate,verb
  abbreviated abbreviates abbreviating
-abbreviation
+abbreviation,noun
  abbreviations
-abdicate
+abdicate,verb
  abdicated abdicates abdicating
-abdication
+abdication,noun
  abdications
-abdomen
+abdomen,noun
  abdomens
-abdominal
+abdominal,adjective,noun
  abdominals
-abduct
+abduct,verb
  abducted abducting abducts
-abductee!
+abductee,noun
  abductees
-abduction
+abduction,noun
  abductions
-abductor
+abductor,noun
  abductors
-abeam
-abed
-aberrant
-aberration
+abeam,adverb
+abed,adverb
+aberrant,adjective
+aberration,noun
  aberrations
-aberrational
-abet
+aberrational,adjective
+abet,verb
  abets abetted abetting
-abettor
+abettor,noun
  abetter abetters abettors
-abeyance
-abhor
+abeyance,noun
+abhor,verb
  abhorred abhorring abhors
-abhorrence
-abhorrent
+abhorrence,noun
+abhorrent,adjective
  abhorrently
-abidance
-abide
- abided abides abiding abidingly abode -> [abode]
-ability
+abidance,noun
+abide,verb
+ abided abides abiding abidingly abode
+ability,noun
  abilities
-abject
+abject,adjective
  abjectly abjectness
-abjection
-abjuration
+abjection,noun
+abjuration,noun
  abjurations
-abjuratory
-abjure
+abjuratory,adjective
+abjure,verb
  abjured abjures abjuring
-abjurer
+abjurer,noun
  abjurers
-ablate
+ablate,verb
  ablated ablates ablating
-ablation
+ablation,noun
  ablations
-ablative
+ablative,adjective
  ablatives
-ablaze
-able
+ablaze,adjective
+able,adjective
  abler ablest ably
-able-bodied
-abloom
-ablution
+able-bodied,adjective
+abloom,adjective
+ablution,noun
  ablutions
-abnegate
+abnegate,verb
  abnegated abnegates abnegating
-abnegation
-abnormal
+abnegation,noun
+abnormal,adjective
  abnormally
-abnormality
+abnormality,noun
  abnormalities
-aboard
-abode -> [abide]
+aboard,adverb,preposition
+abode,noun
  abodes
-abolish
+abolish,verb
  abolished abolishes abolishing
-abolition
-abolitionism
-abolitionist
+abolition,noun
+abolitionism,noun
+abolitionist,noun
  abolitionists
-abominable
+abominable,adjective
  abominably
-abominate
+abominate,verb
  abominated abominates abominating
-abomination
+abomination,noun
  abominations
-aboriginal
+aboriginal,adjective,noun
  aboriginals
-aborigine
+aborigine,noun
  aborigines
-aborning
-abort
+aborning,adverb,adjective
+abort,verb
  aborted aborting aborts
-abortion
+abortion,noun
  abortions
-abortionist
+abortionist!!!!!!!!!!!
  abortionists
 abortive
  abortively
-abound
+abound!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
  abounded abounding abounds
 about
 about-face
@@ -205,8 +205,8 @@ abstention
 abstinence
 abstinent
 abstract
- abstracted -> [abstracted] abstracting abstractly abstractness abstracts
-abstracted -> [abstract]
+ abstracted abstracting abstractly abstractness abstracts
+abstracted
  abstractedly abstractedness
 abstraction
  abstractions
@@ -315,10 +315,10 @@ accomplish
 accomplishment
  accomplishments
 accord
- accorded according -> [according] accords
+ accorded according accords
 accordance
 accordant
-according -> [accord]
+according
  accordingly
 accordion
  accordions
@@ -1066,7 +1066,7 @@ aim
  aimed aiming aimless aimlessly aimlessness aims
 aioli
 air
- aired airing -> [airing] airless airlessness airs
+ aired airing airless airlessness airs
 airbag
  airbags
 airbase
@@ -1101,7 +1101,7 @@ airgun
  airguns
 airhead
  airheads
-airing -> [air]
+airing
  airings
 airletter
  airletters
@@ -1176,9 +1176,9 @@ albino
  albinos
 album
  albums
-albumen -> [albumin]
+albumen
 albumin
- albumen -> [albumen]
+ albumen
 albuminous
 alchemist
  alchemists
@@ -1670,7 +1670,7 @@ anal
 analgesia
 analgesic
  analgesics
-analog -> [analogue]
+analog
 analogical
  analogically
 analogize
@@ -1678,13 +1678,13 @@ analogize
 analogous
  analogously analogousness
 analogue
- analog -> [analog] analogs analogues
+ analog analogs analogues
 analogy
  analogies
 analysand
  analysands
 analysis
- analyses -> [analyze]
+ analyses
 analyst
  analysts
 analytic
@@ -1693,7 +1693,7 @@ analytical
 analyzable
  analysable
 analyze
- analyse analysed analyses -> [analysis] analysing analyzed analyzes analyzing
+ analyse analysed analyses analysing analyzed analyzes analyzing
 analyzer
  analyser analysers analyzers
 anapest
@@ -2474,7 +2474,7 @@ arcade
 arcana
 arcane
 arch
- arched archer -> [archer] arches archest arching archly archness
+ arched archer arches archest arching archly archness
 archaeological
  archaeologically archeological archeologically
 archaeologist
@@ -2506,7 +2506,7 @@ archduke
  archdukes
 archenemy
  archenemies
-archer -> [arch]
+archer
  archers
 archery
 archetypal
@@ -2545,7 +2545,7 @@ ardor
  ardors ardour ardours
 arduous
  arduously arduousness
-are -> [be]
+are
  ares
 area
  areas
@@ -2682,15 +2682,15 @@ arrowhead
 arrowroot
 arroyo
  arroyos
-arse -> [ass]
- arsed arses -> [ass] arsing
+arse
+ arsed arses arsing
 arsenal
  arsenals
 arsenic
 arson
 arsonist
  arsonists
-art -> [be]
+art
  artful artfully artfulness artless artlessly artlessness arts
 arterial
 arteriole
@@ -2845,7 +2845,7 @@ aspire
 aspirin
  aspirins
 ass
- arse -> [arse] arses -> [arse] asses
+ arse arses asses
 assail
  assailed assailing assails
 assailable
@@ -2943,8 +2943,8 @@ assumptive
 assurance
  assurances
 assure
- assured -> [assured] assuredly assures assuring
-assured -> [assure]
+ assured assuredly assures assuring
+assured
  assureds
 astatine
 aster
@@ -3069,10 +3069,10 @@ atrophy
 atropine
 attaboy
 attach
- attached attaches -> [attache] attaching
+ attached attaches attaching
 attachable
 attache
- attaches -> [attach]
+ attaches
 attachment
  attachments
 attack
@@ -3189,7 +3189,7 @@ auditory
 auger
  augers
 aught
- aughts ought -> [ought]
+ aughts ought
 augment
  augmented augmenting augments
 augmentation
@@ -3390,8 +3390,8 @@ await
 awake
  awaked awakes awaking awoke awoken
 awaken
- awakened awakening -> [awakening] awakens
-awakening -> [awaken]
+ awakened awakening awakens
+awakening
  awakenings
 award
  awarded awarding awards
@@ -3422,7 +3422,7 @@ awning
 awol
 awry
 ax
- axe axed axes -> [axis] axing
+ axe axed axes axing
 axial
  axially
 axiom
@@ -3430,7 +3430,7 @@ axiom
 axiomatic
  axiomatically
 axis
- axes -> [ax]
+ axes
 axle
  axles
 axletree

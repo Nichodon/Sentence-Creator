@@ -456,7 +456,7 @@ bar
  barred barring bars
 barb
  barbed barbing barbs
-barbacoa!
+barbacoa
 barbarian
  barbarians
 barbarianism
@@ -1644,7 +1644,7 @@ birth
  birthed birthing births
 birthday
  birthdays
-birther!
+birther
  birthers
 birthmark
  birthmarks
@@ -1684,7 +1684,7 @@ bitch
  bitched bitches bitching
 bitchy
  bitchier bitchiest bitchily bitchiness
-bitcoin!
+bitcoin
  bitcoins
 bite
  bit -> [bit] bites biting bitingly bitten
@@ -3125,7 +3125,7 @@ buckskin
 bucktooth
  buckteeth bucktoothed
 buckwheat
-buckyball!
+buckyball
  buckyballs
 bucolic
  bucolically bucolics
@@ -3536,7 +3536,7 @@ buzzard
  buzzards
 buzzer
  buzzers
-buzzkill!
+buzzkill
  buzzkills
 buzzsaw
  buzzsaws
