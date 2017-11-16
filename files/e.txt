@@ -1,2372 +1,2372 @@
-each
-eager
+each,adverb,pronoun,determiner
+eager,adjective
  eagerer eagerest eagerly eagerness
-eagle
+eagle,noun,verb
  eagles
-eaglet
+eaglet,noun
  eaglets
-ear
+ear,noun
  eared earful earfuls ears
-earache
+earache,noun
  earaches
-earbashing
-earbud
+earbashing,noun
+earbud,noun
  earbuds
-eardrum
+eardrum,noun
  eardrums
-earl
+earl,noun
  earls
-earldom
+earldom,noun
  earldoms
-earlobe
+earlobe,noun
  earlobes
-early
+early,adverb,noun,adjective
  earlier earliest earliness
-earmark
+earmark,noun,verb
  earmarked earmarking earmarks
-earmuff
+earmuff,pluralnoun
  earmuffs
-earn
+earn,verb
  earned earning -> [earning] earns
-earner
+earner,noun
  earners
-earnest
+earnest,noun,adjective
  earnestly earnestness earnests
-earning -> [earn]
+earning,verb
  earnings
-earphone
+earphone,noun
  earphones
-earpiece
+earpiece,noun
  earpieces
-earplug
+earplug,noun
  earplugs
-earring
+earring,noun
  earrings
-earshot
-earsplitting
-earth
+earshot,noun
+earsplitting,adjective
+earth,noun,verb
  earthed earthing earthlier earthliest earthly earths
-earthbound
-earthen
-earthenware
-earthling
+earthbound,adjective
+earthen,adjective
+earthenware,noun
+earthling,noun
  earthlings
-earthmover
+earthmover,noun
  earthmovers
-earthquake
+earthquake,noun
  earthquakes
-earthshaking
-earthshattering
-earthward
+earthshaking,adjective
+earthshattering,adjective
+earthward,adverb,adjective
  earthwards
-earthwork
+earthwork,noun
  earthworks
-earthworm
+earthworm,noun
  earthworms
-earthy
+earthy,adjective
  earthier earthiest earthiness
-earwax
-earwig
+earwax,noun
+earwig,noun,verb
  earwigs
-earworm
+earworm,noun
  earworms
-ease
+ease,noun,verb
  eased eases easing
-easel
+easel,noun
  easels
-easement
+easement,noun
  easements
-east
-eastbound
-easterly
+east,noun,adverb,adjective
+eastbound,adjective
+easterly,noun,adverb,adjective
  easterlies
-eastern
+eastern,adjective
  easternmost
-easterner
+easterner,noun
  easterners
-eastward
+eastward,adverb,noun,adjective
  eastwards
-easy
+easy,exclamation,adverb,adjective
  easier easiest easily easiness
-easygoing
-eat
+easygoing,adjective
+eat,noun,abbreviation,verb
  ate eaten eating eats
-eatable
+eatable,noun,adjective
  eatables
-eater
+eater,noun
  eaters
-eatery
+eatery,noun
  eateries
-eave
+eave!
  eaves
-eavesdrop
+eavesdrop,verb
  eavesdropped eavesdropping eavesdrops
-eavesdropper
+eavesdropper,noun
  eavesdroppers
-ebb
+ebb,noun,verb
  ebbed ebbing ebbs
-ebony
+ebony,noun
  ebonies
-e-book
+e-book,noun
  e-books
-ebullience
-ebullient
+ebullience,noun
+ebullient,adjective
  ebulliently
-ebullition
-eccentric
+ebullition,noun
+eccentric,noun,adjective
  eccentrically eccentrics
-eccentricity
+eccentricity,noun
  eccentricities
-ecclesiastic
+ecclesiastic,noun,adjective
  ecclesiastics
-ecclesiastical
+ecclesiastical,adjective
  ecclesiastically
-echelon
+echelon,noun,verb
  echelons
-echidna
+echidna,noun
  echidnas
-echinacea
-echinoderm
+echinacea,noun
+echinoderm,noun
  echinoderms
-echo
+echo,noun,propernoun,verb
  echoed echoes echoing echos
-echoic
-echolocation
-eclair
+echoic,adjective
+echolocation,noun
+eclair,noun
  eclairs
-eclat
-eclectic
+eclat,noun
+eclectic,noun,adjective
  eclectically eclectics
-eclecticism
-eclipse
+eclecticism,noun
+eclipse,noun,verb
  eclipsed eclipses eclipsing
-ecliptic
-eclogue
+ecliptic,noun,adjective
+eclogue,noun
  eclogues
-ecocide
-eco-friendly
-ecologic
-ecological
+ecocide,noun
+eco-friendly,adjective
+ecologic,adjective
+ecological,adjective
  ecologically
-ecologist
+ecologist,noun
  ecologists
-ecology
-e-commerce
-economic
+ecology,noun
+e-commerce,noun
+economic,adjective
  economics
-economical
+economical,adjective
  economically
-economist
+economist,noun
  economists
-economize
+economize,verb
  economise economised economises economising economized economizes economizing
-economizer
+economizer,noun
  economiser economisers economizers
-economy
+economy,noun
  economies
-ecosystem
+ecosystem,noun
  ecosystems
-ecotourism
-ecotourist
+ecotourism,noun
+ecotourist,noun
  ecotourists
-ecru
-ecstasy
+ecru,noun
+ecstasy,noun
  ecstasies
-ecstatic
+ecstatic,noun,adjective
  ecstatically
-ectopic
-ectoplasm
-ecu
+ectopic,noun,adjective
+ectoplasm,noun
+ecu,noun
  ecus
-ecumenical
+ecumenical,adjective
  ecumenically
-ecumenism
+ecumenism,noun
  ecumenicism
-eczema
-ed
-edamame!
-eddy
+eczema,noun
+ed,abbreviation
+edamame,noun
+eddy,noun,verb
  eddied eddies eddying
-edelweiss
-edema
+edelweiss,noun
+edema,noun
  oedema
-edge
+edge,noun,verb
  edged edges edging -> [edging]
-edger
+edger,noun
  edgers
-edgewise
+edgewise,adverb,adjective
  edgeways
-edging -> [edge]
+edging,noun
  edgings
-edgy
+edgy,adjective
  edgier edgiest edgily edginess
-edible
+edible,noun,adjective
  edibility edibleness edibles
-edict
+edict,noun
  edicts
-edification
-edifice
+edification,noun
+edifice,noun
  edifices
-edifier
+edifier,noun
  edifiers
-edify
+edify,verb
  edified edifies edifying
-edit
+edit,noun,verb
  edited editing edits
-edition
+edition,noun
  editions
-editor
+editor,noun
  editors
-editorial
+editorial,noun,adjective
  editorially editorials
-editorialize
+editorialize,verb
  editorialise editorialised editorialises editorialising editorialized editorializes editorializing
-editorship
-educable
+editorship,noun
+educable,adjective
  educability
-educate
+educate,verb
  educated educates educating
-education
+education,noun
  educations
-educational
+educational,adjective
  educationally
-educationalist
+educationalist,noun
  educationalists
-educationist
+educationist,noun
  educationists
-educative
-educator
+educative,adjective
+educator,noun
  educators
-educe
+educe,verb
  educed educes educing
-edutainment
-eek
-eel
+edutainment,noun
+eek,exclamation
+eel,noun
  eels
-eerie
+eerie,adjective
  eerier eeriest eerily eeriness eery
-eff
+eff,noun,verb
  effed effing effs
-efface
+efface,verb
  effaced effaces effacing
-effacement
-effect
+effacement,noun
+effect,noun,verb
  effected effecting effects
-effective
+effective,noun,adjective
  effectively effectiveness
-effectual
+effectual,adjective
  effectually
-effectuate
+effectuate,verb
  effectuated effectuates effectuating
-effeminacy
-effeminate
+effeminacy,noun
+effeminate,adjective
  effeminately
-effendi
+effendi,noun
  effendis
-efferent
-effervesce
+efferent,noun,adjective
+effervesce,verb
  effervesced effervesces effervescing
-effervescence
-effervescent
+effervescence,noun
+effervescent,adjective
  effervescently
-effete
+effete,adjective
  effetely effeteness
-efficacious
+efficacious,adjective
  efficaciously
-efficacy
-efficiency
+efficacy,noun
+efficiency,noun
  efficiencies
-efficient
+efficient,adjective
  efficiently
-effigy
+effigy,noun
  effigies
-efflorescence
-efflorescent
-effluence
-effluent
+efflorescence,noun
+efflorescent,adjective
+effluence,noun
+effluent,noun
  effluents
-effluvium
+effluvium,noun
  effluvia effluviums
-effort
+effort,noun
  effortless effortlessly effortlessness efforts
-effrontery
-effulgence
-effulgent
-effuse
+effrontery,noun
+effulgence,noun
+effulgent,adjective
+effuse,verb
  effused effuses effusing
-effusion
+effusion,noun
  effusions
-effusive
+effusive,adjective
  effusively effusiveness
-egad
-egalitarian
+egad,exclamation
+egalitarian,noun,adjective
  egalitarians
-egalitarianism
-egg
+egalitarianism,noun
+egg,noun,verb
  egged egging eggs
-eggbeater
+eggbeater,noun
  eggbeaters
-eggcup
+eggcup,noun
  eggcups
-egghead
+egghead,noun
  eggheads
-eggnog
+eggnog,noun
  eggnogs
-eggplant
+eggplant,noun
  eggplants
-eggshell
+eggshell,noun
  eggshells
-eglantine
+eglantine,noun
  eglantines
-ego
+ego,noun
  egos
-egocentric
+egocentric,noun,adjective
  egocentrically egocentrics
-egocentricity
-egoism -> [egotism]
-egoist -> [egotist]
+egocentricity,noun
+egoism,noun
+egoist,noun
  egoists -> [egotist]
-egoistic -> [egotistic]
-egoistical -> [egotistical]
+egoistic,adjective
+egoistical,adjective
  egoistically -> [egotistical]
-egomania
-egomaniac
+egomania,noun
+egomaniac,noun
  egomaniacs
-egotism
+egotism,noun
  egoism -> [egoism]
-egotist
+egotist,noun
  egoist -> [egoist] egoists -> [egoist] egotists
-egotistic
+egotistic,adjective
  egoistic -> [egoistic]
-egotistical
+egotistical,adjective
  egoistical -> [egoistical] egoistically -> [egoistical] egotistically
-egregious
+egregious,adjective
  egregiously egregiousness
-egress
+egress,noun,verb
  egresses
-egret
+egret,noun
  egrets
-eh
-eider
+eh,exclamation
+eider,noun
  eiders
-eiderdown
+eiderdown,noun
  eiderdowns
-eight
+eight,cardinalnumber
  eights
-eighteen
+eighteen,cardinalnumber
  eighteens
-eighteenth
+eighteenth,ordinalnumber
  eighteenths
-eighth
+eighth,ordinalnumber
  eighths
-eightieth
+eightieth,ordinalnumber
  eightieths
-eighty
+eighty,cardinalnumber
  eighties
-einsteinium
-eisteddfod
+einsteinium,noun
+eisteddfod,noun
  eisteddfods
-either
-ejaculate
+either,adverb,pronoun,conjunction,determiner
+ejaculate,noun,verb
  ejaculated ejaculates ejaculating
-ejaculation
+ejaculation,noun
  ejaculations
-ejaculatory
-eject
+ejaculatory,adjective
+eject,verb
  ejected ejecting ejects
-ejection
+ejection,noun
  ejections
-ejector
+ejector,noun
  ejectors
-eke
+eke,adverb,verb
  eked ekes eking
-elaborate
+elaborate,adjective,verb
  elaborated elaborately elaborateness elaborates elaborating
-elaboration
+elaboration,noun
  elaborations
-elan
-eland
+elan,noun
+eland,noun
  elands
-elapse
+elapse,verb
  elapsed elapses elapsing
-elastic
+elastic,noun,adjective
  elastically elastics
-elasticated
-elasticity
-elasticize
+elasticated,adjective
+elasticity,noun
+elasticize,verb
  elasticise elasticised elasticises elasticising elasticized elasticizes elasticizing
-elate
+elate,adjective,verb
  elated elatedly elates elating
-elation
-elbow
+elation,noun
+elbow,noun,verb
  elbowed elbowing elbows
-elbowroom
-elder -> [old]
+elbowroom,noun
+elder,noun,adjective
  elderly elders
-elderberry
+elderberry,noun
  elderberries
-eldercare
-elect
+eldercare,noun
+elect,adjective,verb
  elected electing elects
-electable
-election
+electable,adjective
+election,noun
  elections
-electioneer
+electioneer,noun,verb
  electioneered electioneering electioneers
-elective
+elective,noun,adjective
  electives
-elector
+elector,noun
  electors
-electoral
+electoral,adjective
  electorally
-electorate
+electorate,noun
  electorates
-electric
+electric,noun,adjective
  electrics
-electrical
+electrical,noun,adjective
  electrically
-electrician
+electrician,noun
  electricians
-electricity
-electrification
-electrifier
+electricity,noun
+electrification,noun
+electrifier,noun
  electrifiers
-electrify
+electrify,verb
  electrified electrifies electrifying
-electrocardiogram
+electrocardiogram,noun
  electrocardiograms
-electrocardiograph
+electrocardiograph,noun
  electrocardiographs
-electrocardiography
-electrocute
+electrocardiography,noun
+electrocute,verb
  electrocuted electrocutes electrocuting
-electrocution
+electrocution,noun
  electrocutions
-electrode
+electrode,noun
  electrodes
-electroencephalogram
+electroencephalogram,noun
  electroencephalograms
-electroencephalograph
+electroencephalograph,noun
  electroencephalographs
-electroencephalographic
-electroencephalography
-electrologist
+electroencephalographic,adjective
+electroencephalography,noun
+electrologist,noun
  electrologists
-electrolysis
-electrolyte
+electrolysis,noun
+electrolyte,noun
  electrolytes
-electrolytic
-electromagnet
+electrolytic,adjective
+electromagnet,noun
  electromagnets
-electromagnetic
+electromagnetic,adjective
  electromagnetically
-electromagnetism
-electromotive
-electron
+electromagnetism,noun
+electromotive,adjective
+electron,noun
  electrons
-electronic
+electronic,adjective
  electronically electronics
-electronica
-electroplate
+electronica,noun
+electroplate,noun,verb
  electroplated electroplates electroplating
-electroscope
+electroscope,noun
  electroscopes
-electroscopic
-electroshock
-electrostatics
-electrotype
+electroscopic,adjective
+electroshock,adjective
+electrostatics,pluralnoun
+electrotype,noun,verb
  electrotypes
-eleemosynary
-elegance
-elegant
+eleemosynary,adjective
+elegance,noun
+elegant,adjective
  elegantly
-elegiac
+elegiac,adjective,pluralnoun
  elegiacs
-elegiacal
-elegy
+elegiacal,adjective
+elegy,noun
  elegies
-element
+element,noun
  elements
-elemental
+elemental,noun,adjective
  elementally
-elementary
-elephant
+elementary,adjective
+elephant,noun
  elephants
-elephantiasis
-elephantine
-elevate
+elephantiasis,noun
+elephantine,adjective
+elevate,verb
  elevated elevates elevating
-elevation
+elevation,noun
  elevations
-elevator
+elevator,noun
  elevators
-eleven
+eleven,cardinalnumber
  elevens
-elevenses
-eleventh
+elevenses,pluralnoun
+eleventh,ordinalnumber
  elevenths
-elf
+elf,noun,abbreviation
  elfish elves
-elfin
-elicit
+elfin,noun,adjective
+elicit,verb
  elicited eliciting elicits
-elicitation
-elide
+elicitation,noun
+elide,verb
  elided elides eliding
-eligible
+eligible,adjective
  eligibility
-eliminate
+eliminate,verb
  eliminated eliminates eliminating
-elimination
+elimination,noun
  eliminations
-eliminator
+eliminator,noun
  eliminators
-elision
+elision,noun
  elisions
-elite
+elite,noun
  elites
-elitism
-elitist
+elitism,noun
+elitist,noun,adjective
  elitists
-elixir
+elixir,noun
  elixirs
-elk
+elk,noun
  elks
-ell
+ell,noun
  ells
-ellipse
+ellipse,noun
  ellipses -> [ellipsis]
-ellipsis
+ellipsis,noun
  ellipses -> [ellipse]
-ellipsoid
+ellipsoid,noun
  ellipsoids
-ellipsoidal
-elliptic
-elliptical
+ellipsoidal,adjective
+elliptic,adjective
+elliptical,adjective
  elliptically
-elm
+elm,noun
  elms
-elocution
-elocutionary
-elocutionist
+elocution,noun
+elocutionary,adjective
+elocutionist,noun
  elocutionists
-elodea
+elodea,noun
  elodeas
-elongate
+elongate,adjective,verb
  elongated elongates elongating
-elongation
+elongation,noun
  elongations
-elope
+elope,verb
  eloped elopes eloping
-elopement
+elopement,noun
  elopements
-eloquence
-eloquent
+eloquence,noun
+eloquent,adjective
  eloquently
-else
-elsewhere
-elucidate
+else,adverb
+elsewhere,adverb,pronoun
+elucidate,verb
  elucidated elucidates elucidating
-elucidation
+elucidation,noun
  elucidations
-elude
+elude,verb
  eluded eludes eluding
-elusive
+elusive,adjective
  elusively elusiveness
-elver
+elver,noun
  elvers
-em
+em,noun
  ems
-emaciate
+emaciate,noun
  emaciated emaciates emaciating
-emaciation
-email
+emaciation,noun
+email,noun,verb
  emailed emailing emails
-emanate
+emanate,verb
  emanated emanates emanating
-emanation
+emanation,noun
  emanations
-emancipate
+emancipate,verb
  emancipated emancipates emancipating
-emancipation
-emancipator
+emancipation,noun
+emancipator,noun
  emancipators
-emasculate
+emasculate,verb
  emasculated emasculates emasculating
-emasculation
-embalm
+emasculation,noun
+embalm,verb
  embalmed embalming embalms
-embalmer
+embalmer,noun
  embalmers
-embank
+embank,verb
  embanked embanking embanks
-embankment
+embankment,noun
  embankments
-embargo
+embargo,noun,verb
  embargoed embargoes embargoing
-embark
+embark,verb
  embarked embarking embarks
-embarkation
+embarkation,noun
  embarkations
-embarrass
+embarrass,verb
  embarrassed embarrasses embarrassing embarrassingly
-embarrassment
+embarrassment,noun
  embarrassments
-embassy
+embassy,noun
  embassies
-embattled
-embed
+embattled,adjective
+embed,noun,verb
  embedded embedding embeds imbed imbedded imbedding imbeds
-embellish
+embellish,verb
  embellished embellishes embellishing
-embellishment
+embellishment,noun
  embellishments
-ember
+ember,noun
  embers
-embezzle
+embezzle,verb
  embezzled embezzles embezzling
-embezzlement
-embezzler
+embezzlement,noun
+embezzler,noun
  embezzlers
-embitter
+embitter,verb
  embittered embittering embitters
-embitterment
-emblazon
+embitterment,noun
+emblazon,verb
  emblazoned emblazoning emblazons
-emblazonment
-emblem
+emblazonment,noun
+emblem,noun
  emblems
-emblematic
+emblematic,adjective
  emblematically
-embodiment
+embodiment,noun
  embodiments
-embody
+embody,verb
  embodied embodies embodying
-embolden
+embolden,verb
  emboldened emboldening emboldens
-embolism
+embolism,noun
  embolisms
-emboss
+emboss,verb
  embossed embosses embossing
-embosser
+embosser,noun
  embossers
-embouchure
-embower
+embouchure,noun
+embower,verb
  embowered embowering embowers
-embrace
+embrace,noun,verb
  embraced embraces embracing
-embraceable
-embrasure
+embraceable,adjective
+embrasure,noun
  embrasures
-embrocation
+embrocation,noun
  embrocations
-embroider
+embroider,verb
  embroidered embroidering embroiders
-embroiderer
+embroiderer,noun
  embroiderers
-embroidery
+embroidery,noun
  embroideries
-embroil
+embroil,verb
  embroiled embroiling embroils
-embroilment
-embryo
+embroilment,noun
+embryo,noun
  embryos
-embryological
-embryologist
+embryological,adjective
+embryologist,noun
  embryologists
-embryology
-embryonic
-emcee
+embryology,noun
+embryonic,adjective
+emcee,noun,verb
  emceed emceeing emcees
-emend
+emend,verb
  emended emending emends
-emendation
+emendation,noun
  emendations
-emerald
+emerald,noun,adjective
  emeralds
-emerge
+emerge,verb
  emerged emerges emerging
-emergence
-emergency
+emergence,noun
+emergency,noun
  emergencies
-emergent
-emerita
-emeritus
-emery
-emetic
+emergent,noun,adjective
+emerita,adjective
+emeritus,adjective
+emery,noun
+emetic,noun,adjective
  emetics
-emigrant
+emigrant,noun
  emigrants
-emigrate
+emigrate,verb
  emigrated emigrates emigrating
-emigration
+emigration,noun
  emigrations
-emigre
+emigre,noun
  emigres
-eminence
+eminence,noun
  eminences
-eminent
+eminent,adjective
  eminently
-emir
+emir,noun
  amir amirs emirs
-emirate
+emirate,noun
  amirate amirates emirates
-emissary
+emissary,noun
  emissaries
-emission
+emission,noun
  emissions
-emit
+emit,verb
  emits emitted emitting
-emitter
+emitter,noun
  emitters
-emo!
+emo,noun,adjective
  emos
-emoji!
+emoji,noun
  emojis
-emollient
+emollient,noun,adjective
  emollients
-emolument
+emolument,noun
  emoluments
-emote
+emote,verb
  emoted emotes emoting
-emoticon
+emoticon,noun
  emoticons
-emotion
+emotion,noun
  emotionless emotions
-emotional
+emotional,adjective
  emotionally
-emotionalism
-emotionalize
+emotionalism,noun
+emotionalize,verb
  emotionalise emotionalised emotionalises emotionalising emotionalized emotionalizes emotionalizing
-emotive
+emotive,adjective
  emotively
-empanada
+empanada,noun
  empanadas
-empathetic
-empathize
+empathetic,adjective
+empathize,verb
  empathise empathised empathises empathising empathized empathizes empathizing
-empathy
-emperor
+empathy,noun
+emperor,noun
  emperors
-emphasis
+emphasis,noun
  emphases
-emphasize
+emphasize,verb
  emphasise emphasised emphasises emphasising emphasized emphasizes emphasizing
-emphatic
+emphatic,noun,adjective
  emphatically
-emphysema
-empire
+emphysema,noun
+empire,noun,adjective
  empires
-empiric
-empirical
+empiric,noun,adjective
+empirical,adjective
  empirically
-empiricism
-empiricist
+empiricism,noun
+empiricist,noun,adjective
  empiricists
-emplacement
+emplacement,noun
  emplacements
-employ
+employ,noun,verb
  employed employing employs
-employable
-employee
+employable,adjective
+employee,noun
  employe employees employes
-employer
+employer,noun
  employers
-employment
+employment,noun
  employments
-emporium
+emporium,noun
  emporia emporiums
-empower
+empower,verb
  empowered empowering empowers
-empowerment
-empress
+empowerment,noun
+empress,noun
  empresses
-empty
+empty,noun,adjective,verb
  emptied emptier empties emptiest emptily emptiness emptying
-empty-handed
-empyrean
-emu
+empty-handed,adjective
+empyrean,noun,adjective
+emu,noun,abbreviation
  emus
-emulate
+emulate,verb
  emulated emulates emulating
-emulation
+emulation,noun
  emulations
-emulative
-emulator
+emulative,adjective
+emulator,noun
  emulators
-emulsification
-emulsifier
+emulsification,noun
+emulsifier,noun
  emulsifiers
-emulsify
+emulsify,verb
  emulsified emulsifies emulsifying
-emulsion
+emulsion,noun,verb
  emulsions
-en
+en,noun
  ens
-enable
+enable,verb
  enabled enables enabling
-enabler
+enabler,noun
  enablers
-enact
+enact,verb
  enacted enacting enacts
-enactment
+enactment,noun
  enactments
-enamel
+enamel,noun,verb
  enameled enameling enamelled enamelling enamels
-enameler
+enameler,noun
  enamelers enameller enamellers
-enamelware
-enamor
+enamelware,noun
+enamor,verb
  enamored enamoring enamors enamour enamoured enamouring enamours
-encamp
+encamp,verb
  encamped encamping encamps
-encampment
+encampment,noun
  encampments
-encapsulate
+encapsulate,verb
  encapsulated encapsulates encapsulating
-encapsulation
+encapsulation,noun
  encapsulations
-encase
+encase,verb
  encased encases encasing
-encasement
-encephalitic
-encephalitis
-enchain
+encasement,noun
+encephalitic,adjective
+encephalitis,noun
+enchain,verb
  enchained enchaining enchains
-enchant
+enchant,verb
  enchanted enchanting enchantingly enchants
-enchanter
+enchanter,noun
  enchanters
-enchantment
+enchantment,noun
  enchantments
-enchantress
+enchantress,noun
  enchantresses
-enchilada
+enchilada,noun
  enchiladas
-encipher
+encipher,verb
  enciphered enciphering enciphers
-encircle
+encircle,verb
  encircled encircles encircling
-encirclement
-enclave
+encirclement,noun
+enclave,noun
  enclaves
-enclose
+enclose,verb
  enclosed encloses enclosing inclose inclosed incloses inclosing
-enclosure
+enclosure,noun
  enclosures inclosure inclosures
-encode
+encode,verb
  encoded encodes encoding
-encoder
+encoder,noun
  encoders
-encomium
+encomium,noun
  encomia encomiums
-encompass
+encompass,verb
  encompassed encompasses encompassing
-encore
+encore,exclamation,noun,verb
  encored encores encoring
-encounter
+encounter,noun,verb
  encountered encountering encounters
-encourage
+encourage,verb
  encouraged encourages encouraging encouragingly
-encouragement
+encouragement,noun
  encouragements
-encroach
+encroach,verb
  encroached encroaches encroaching
-encroachment
+encroachment,noun
  encroachments
-encrust
+encrust,verb
  encrusted encrusting encrusts incrust incrusted incrusting incrusts
-encrustation
+encrustation,noun
  encrustations incrustation incrustations
-encrypt
+encrypt,verb
  encrypted encrypting encrypts
-encryption
-encumber
+encryption,noun
+encumber,verb
  encumbered encumbering encumbers incumber incumbered incumbering incumbers
-encumbrance
+encumbrance,noun
  encumbrances incumbrance incumbrances
-encyclical
+encyclical,noun
  encyclicals
-encyclopedia
+encyclopedia,noun
  cyclopaedia cyclopaedias cyclopedia cyclopedias encyclopaedia encyclopaedias encyclopedias
-encyclopedic
+encyclopedic,adjective
  encyclopaedic
-encyst
+encyst,verb
  encysted encysting encysts
-encystment
-end
+encystment,noun
+end,noun,verb
  ended ending -> [ending] endless endlessly endlessness endmost ends
-endanger
+endanger,verb
  endangered endangering endangers
-endangerment
-endear
+endangerment,noun
+endear,verb
  endeared endearing endearingly endears
-endearment
+endearment,noun
  endearments
-endeavor
+endeavor,noun,verb
  endeavored endeavoring endeavors endeavour endeavoured endeavouring endeavours
-endemic
+endemic,noun,adjective
  endemically endemics
-endgame
+endgame,noun
  endgames
-ending -> [end]
+ending,noun
  endings
-endive
+endive,noun
  endives
-endnote
+endnote,noun
  endnotes
-endocrine
+endocrine,adjective
  endocrines
-endocrinologist
+endocrinologist,noun
  endocrinologists
-endocrinology
-endogenous
+endocrinology,noun
+endogenous,adjective
  endogenously
-endorphin
+endorphin,noun
  endorphins
-endorse
+endorse,verb
  endorsed endorses endorsing indorse indorsed indorses indorsing
-endorsement
+endorsement,noun
  endorsements indorsement indorsements
-endorser
+endorser,noun
  endorsers indorser indorsers
-endoscope
+endoscope,noun
  endoscopes
-endoscopic
-endoscopy
+endoscopic,adjective
+endoscopy,noun
  endoscopies
-endoskeleton
+endoskeleton,noun
  endoskeletons
-endosperm
-endothermic
-endow
+endosperm,noun
+endothermic,adjective
+endow,verb
  endowed endowing endows
-endowment
+endowment,noun
  endowments
-endpoint
+endpoint,noun
  endpoints
-endue
+endue,verb
  endued endues enduing indue indued indues induing
-endurable
-endurance
-endure
+endurable,adjective
+endurance,noun,adjective
+endure,verb
  endured endures enduring enduringly
-endways
+endways,adverb
  endwise
-enema
+enema,noun
  enemas enemata
-enemy
+enemy,noun
  enemies
-energetic
+energetic,adjective
  energetically
-energize
+energize,verb
  energise energised energises energising energized energizes energizing
-energizer
+energizer,noun
  energiser energisers energizers
-energy
+energy,noun
  energies
-enervate
+enervate,adjective,verb
  enervated enervates enervating
-enervation
-enfeeble
+enervation,noun
+enfeeble,verb
  enfeebled enfeebles enfeebling
-enfeeblement
-enfilade
+enfeeblement,noun
+enfilade,noun,verb
  enfiladed enfilades enfilading
-enfold
+enfold,verb
  enfolded enfolding enfolds infold infolded infolding infolds
-enforce
+enforce,verb
  enforced enforces enforcing
-enforceable
-enforcement
-enforcer
+enforceable,adjective
+enforcement,noun
+enforcer,noun
  enforcers
-enfranchise
+enfranchise,verb
  enfranchised enfranchises enfranchising
-enfranchisement
-engage
+enfranchisement,noun
+engage,adjective,verb
  engaged engages engaging engagingly
-engagement
+engagement,noun
  engagements
-engender
+engender,verb
  engendered engendering engenders
-engine
+engine,noun
  engines
-engineer
+engineer,noun,verb
  engineered engineering engineers
-engorge
+engorge,verb
  engorged engorges engorging
-engorgement
-engram
+engorgement,noun
+engram,noun
  engrams
-engrave
+engrave,verb
  engraved engraves engraving -> [engraving]
-engraver
+engraver,noun
  engravers
-engraving -> [engrave]
+engraving,noun
  engravings
-engross
+engross,verb
  engrossed engrosses engrossing
-engrossment
-engulf
+engrossment,noun
+engulf,verb
  engulfed engulfing engulfs
-engulfment
-enhance
+engulfment,noun
+enhance,verb
  enhanced enhances enhancing
-enhancement
+enhancement,noun
  enhancements
-enhancer
+enhancer,noun
  enhancers
-enigma
+enigma,noun
  enigmas
-enigmatic
+enigmatic,adjective
  enigmatically
-enjambment
+enjambment,noun
  enjambement enjambements enjambments
-enjoin
+enjoin,verb
  enjoined enjoining enjoins
-enjoy
+enjoy,verb
  enjoyed enjoying enjoys
-enjoyable
+enjoyable,adjective
  enjoyably
-enjoyment
+enjoyment,noun
  enjoyments
-enlarge
+enlarge,verb
  enlarged enlarges enlarging
-enlargeable
-enlargement
+enlargeable,noun
+enlargement,noun
  enlargements
-enlarger
+enlarger,noun
  enlargers
-enlighten
+enlighten,verb
  enlightened enlightening enlightens
-enlightenment
-enlist
+enlightenment,noun
+enlist,verb
  enlisted enlisting enlists
-enlistee
+enlistee,noun
  enlistees
-enlistment
+enlistment,noun
  enlistments
-enliven
+enliven,verb
  enlivened enlivening enlivens
-enlivenment
-enmesh
+enlivenment,noun
+enmesh,verb
  enmeshed enmeshes enmeshing
-enmeshment
-enmity
+enmeshment,noun
+enmity,noun
  enmities
-ennoble
+ennoble,verb
  ennobled ennobles ennobling
-ennoblement
-ennui
-enormity
+ennoblement,noun
+ennui,noun
+enormity,noun
  enormities
-enormous
+enormous,adjective
  enormously enormousness
-enough
-enplane
+enough,adverb,determiner,pronoun
+enplane,verb
  enplaned enplanes enplaning
-enrage
+enrage,verb
  enraged enrages enraging
-enrapture
+enrapture,verb
  enraptured enraptures enrapturing
-enrich
+enrich,verb
  enriched enriches enriching
-enrichment
-enroll
+enrichment,noun
+enroll,verb
  enrol enrolled enrolling enrolls enrols
-enrollment
+enrollment,noun
  enrollments enrolment enrolments
-enroute
-ensconce
+enroute,adverb
+ensconce,verb
  ensconced ensconces ensconcing
-ensemble
+ensemble,noun
  ensembles
-enshrine
+enshrine,verb
  enshrined enshrines enshrining
-enshrinement
-enshroud
+enshrinement,noun
+enshroud,verb
  enshrouded enshrouding enshrouds
-ensign
+ensign,noun
  ensigns
-ensilage
-enslave
+ensilage,noun,verb
+enslave,verb
  enslaved enslaves enslaving
-enslavement
-ensnare
+enslavement,noun
+ensnare,verb
  ensnared ensnares ensnaring
-ensnarement
-ensue
+ensnarement,noun
+ensue,verb
  ensued ensues ensuing
-ensure
+ensure,verb
  ensured ensures ensuring
-ensurer
+ensurer,verb
  ensurers
-entail
+entail,noun,verb
  entailed entailing entails
-entailment
-entangle
+entailment,noun
+entangle,verb
  entangled entangles entangling
-entanglement
+entanglement,noun
  entanglements
-entente
+entente,noun
  ententes
-enter
+enter,noun,verb
  entered entering enters
-enteritis
-enterprise
+enteritis,noun
+enterprise,noun
  enterprises
-enterprising
+enterprising,adjective
  enterprisingly
-entertain
+entertain,verb
  entertained entertaining entertainingly entertains
-entertainer
+entertainer,noun
  entertainers
-entertainment
+entertainment,noun
  entertainments
-enthrall
+enthrall,verb
  enthral enthralled enthralling enthralls enthrals
-enthrallment
+enthrallment,noun
  enthralment
-enthrone
+enthrone,verb
  enthroned enthrones enthroning
-enthronement
+enthronement,noun
  enthronements
-enthuse
+enthuse,verb
  enthused enthuses enthusing
-enthusiasm
+enthusiasm,noun
  enthusiasms
-enthusiast
+enthusiast,noun
  enthusiasts
-enthusiastic
+enthusiastic,adjective
  enthusiastically
-entice
+entice,verb
  enticed entices enticing enticingly
-enticement
+enticement,noun
  enticements
-entire
+entire,noun,adjective
  entirely
-entirety
-entitle
+entirety,noun
+entitle,verb
  entitled entitles entitling
-entitlement
+entitlement,noun
  entitlements
-entity
+entity,noun
  entities
-entomb
+entomb,verb
  entombed entombing entombs
-entombment
-entomological
-entomologist
+entombment,noun
+entomological,adjective
+entomologist,noun
  entomologists
-entomology
-entourage
+entomology,noun
+entourage,noun
  entourages
-entrails
-entrance
+entrails,pluralnoun
+entrance,noun,verb
  entranced entrances entrancing entrancingly
-entrancement
-entrant
+entrancement,noun
+entrant,noun
  entrants
-entrap
+entrap,verb
  entrapped entrapping entraps
-entrapment
-entreat
+entrapment,noun
+entreat,verb
  entreated entreating entreatingly entreats
-entreaty
+entreaty,noun
  entreaties
-entree
+entree,noun
  entrees
-entrench
+entrench,verb
  entrenched entrenches entrenching intrench intrenched intrenches intrenching
-entrenchment
+entrenchment,noun
  entrenchments intrenchment intrenchments
-entrepreneur
+entrepreneur,noun
  entrepreneurs
-entrepreneurial
-entrepreneurship
-entropy
-entrust
+entrepreneurial,adjective
+entrepreneurship,noun
+entropy,noun
+entrust,verb
  entrusted entrusting entrusts intrust intrusted intrusting intrusts
-entry
+entry,noun
  entries
-entry-level
-entryphone
+entry-level,adjective
+entryphone,noun
  entryphones
-entryway
+entryway,noun
  entryways
-entwine
+entwine,verb
  entwined entwines entwining
-enumerable
-enumerate
+enumerable,adjective
+enumerate,verb
  enumerated enumerates enumerating
-enumeration
+enumeration,noun
  enumerations
-enumerator
+enumerator,noun
  enumerators
-enunciate
+enunciate,verb
  enunciated enunciates enunciating
-enunciation
+enunciation,noun
  enunciations
-enuresis
-envelop
+enuresis,noun
+envelop,verb
  enveloped enveloping envelops
-envelope
+envelope,noun
  envelopes
-enveloper
+enveloper,noun
  envelopers
-envelopment
-envenom
+envelopment,noun
+envenom,verb
  envenomed envenoming envenoms
-enviable
+enviable,adjective
  enviably
-envious
+envious,adjective
  enviously enviousness
-environment
+environment,noun
  environments
-environmental
+environmental,adjective
  environmentally
-environmentalism
-environmentalist
+environmentalism,noun
+environmentalist,noun
  environmentalists
-environs
-envisage
+environs,pluralnoun
+envisage,verb
  envisaged envisages envisaging
-envision
+envision,verb
  envisioned envisioning envisions
-envoy
+envoy,noun
  envoys
-envy
+envy,noun,verb
  envied envies envying envyingly
-enzymatic
-enzyme
+enzymatic,adjective
+enzyme,noun
  enzymes
-eolian
+eolian,adjective
  aeolian
-eon
+eon,noun
  aeon aeons eons
-epaulet
+epaulet,noun
  epaulets epaulette epaulettes
-epee
+epee,noun
  epees
-ephedrine
-ephemera
-ephemeral
+ephedrine,noun
+ephemera,pluralnoun
+ephemeral,noun,adjective
  ephemerally
-epic
+epic,noun,adjective
  epics
-epicenter
+epicenter,noun
  epicenters epicentre epicentres
-epicure
+epicure,noun
  epicures
-epicurean
+epicurean,noun,adjective
  epicureans
-epidemic
+epidemic,noun,adjective
  epidemically epidemics
-epidemiological
-epidemiologist
+epidemiological,adjective
+epidemiologist,noun
  epidemiologists
-epidemiology
-epidermal
-epidermic
-epidermis
+epidemiology,noun
+epidermal,adjective
+epidermic,adjective
+epidermis,noun
  epidermises
-epidural
+epidural,noun,adjective
  epidurals
-epiglottis
+epiglottis,noun
  epiglottides epiglottises
-epigram
+epigram,noun
  epigrams
-epigrammatic
-epigraph
+epigrammatic,adjective
+epigraph,noun
  epigraphs
-epigraphy
-epilepsy
-epileptic
+epigraphy,noun
+epilepsy,noun
+epileptic,noun,adjective
  epileptics
-epilogue
+epilogue,noun
  epilog epilogs epilogues
-epinephrine
+epinephrine,noun
  epinephrin
-epiphany
+epiphany,noun
  epiphanies
-episcopacy
-episcopal
-episcopate
-episode
+episcopacy,noun
+episcopal,adjective
+episcopate,noun
+episode,noun
  episodes
-episodic
+episodic,adjective
  episodically
-epistle
+epistle,noun
  epistles
-epistolary
-epitaph
+epistolary,adjective
+epitaph,noun
  epitaphs
-epithelial
-epithelium
-epithet
+epithelial,adjective
+epithelium,noun
+epithet,noun
  epithets
-epitome
+epitome,noun
  epitomes
-epitomize
+epitomize,verb
  epitomise epitomised epitomises epitomising epitomized epitomizes epitomizing
-epoch
+epoch,noun
  epochs
-epochal
-eponymous
-epoxy
+epochal,adjective
+eponymous,adjective
+epoxy,noun,adjective,verb
  epoxied epoxies epoxyed epoxying
-epsilon
+epsilon,noun
  epsilons
-equable
+equable,adjective
  equability equably
-equal
+equal,noun,adjective,verb
  equaled equaling equalled equalling equally equals
-equality
-equalization
+equality,noun
+equalization,noun
  equalisation
-equalize
+equalize,verb
  equalise equalised equalises equalising equalized equalizes equalizing
-equalizer
+equalizer,noun
  equaliser equalisers equalizers
-equanimity
-equatable
-equate
+equanimity,noun
+equatable,adjective
+equate,verb
  equated equates equating
-equation
+equation,noun
  equations
-equator
+equator,noun
  equators
-equatorial
-equerry
+equatorial,adjective
+equerry,noun
  equerries
-equestrian
+equestrian,noun,adjective
  equestrians equestrienne equestriennes
-equestrianism
-equidistant
+equestrianism,noun
+equidistant,adjective
  equidistantly
-equilateral
+equilateral,adjective
  equilaterals
-equilibrium
+equilibrium,noun
  equilibria equilibriums
-equine
+equine,noun,adjective
  equines
-equinoctial
-equinox
+equinoctial,noun,adjective
+equinox,noun
  equinoxes
-equip
+equip,verb
  equipped equipping equips
-equipage
+equipage,noun
  equipages
-equipment
-equipoise
-equitable
+equipment,noun
+equipoise,noun,verb
+equitable,adjective
  equitably
-equitation
-equity
+equitation,noun
+equity,noun
  equities
-equivalence
+equivalence,noun
  equivalences equivalencies equivalency
-equivalent
+equivalent,noun,adjective
  equivalently equivalents
-equivocal
+equivocal,adjective
  equivocally equivocalness
-equivocate
+equivocate,verb
  equivocated equivocates equivocating
-equivocation
+equivocation,noun
  equivocations
-equivocator
+equivocator,noun
  equivocators
-era
+era,noun
  eras
-eradicable
-eradicate
+eradicable,adjective
+eradicate,verb
  eradicated eradicates eradicating
-eradication
-eradicator
+eradication,noun
+eradicator,noun
  eradicators
-erasable
-erase
+erasable,adjective
+erase,verb
  erased erases erasing
-eraser
+eraser,noun
  erasers
-erasure
+erasure,noun
  erasures
-erbium
-ere
-erect
+erbium,noun
+ere,conjunction,preposition
+erect,adjective,verb
  erected erecting erectly erectness erects
-erectile
-erection
+erectile,adjective
+erection,noun
  erections
-erector
+erector,noun
  erectors
-erelong
-eremite
+erelong,adverb
+eremite,noun
  eremites
-erg
+erg,noun
  ergs
-ergative
-ergo
-ergonomic
+ergative,noun,adjective
+ergo,adverb
+ergonomic,adjective
  ergonomically ergonomics
-ergosterol
-ergot
-ermine
+ergosterol,noun
+ergot,noun
+ermine,noun
  ermines
-erode
+erode,verb
  eroded erodes eroding
-erodible
-erogenous
-erosion
-erosive
-erotic
+erodible,adjective
+erogenous,adjective
+erosion,noun
+erosive,adjective
+erotic,adjective
  erotically
-erotica
-eroticism
-err
+erotica,noun
+eroticism,noun
+err,verb
  erred erring errs
-errand
+errand,noun
  errands
-errant
-erratic
+errant,adjective
+erratic,noun,adjective
  erratically
-erratum
+erratum,noun
  errata erratas
-erroneous
+erroneous,adjective
  erroneously
-error
+error,noun
  errors
-ersatz
+ersatz,adjective
  ersatzes
-erst
-erstwhile
-eruct
+erst,adverb
+erstwhile,adverb,adjective
+eruct,verb
  eructed eructing eructs
-eructation
+eructation,noun
  eructations
-erudite
+erudite,adjective
  eruditely
-erudition
-erupt
+erudition,noun
+erupt,verb
  erupted erupting erupts
-eruption
+eruption,noun
  eruptions
-eruptive
-erysipelas
-erythrocyte
+eruptive,adjective
+erysipelas,noun
+erythrocyte,noun
  erythrocytes
-escalate
+escalate,verb
  escalated escalates escalating
-escalation
+escalation,noun
  escalations
-escalator
+escalator,noun
  escalators
-escalope
+escalope,noun
  escalop -> [scallop] escalopes escalops -> [scallop]
-escapade
+escapade,noun
  escapades
-escape
+escape,noun,verb
  escaped escapes escaping
-escapee
+escapee,noun
  escapees
-escapement
+escapement,noun
  escapements
-escapism
-escapist
+escapism,noun
+escapist,noun,adjective
  escapists
-escapologist
+escapologist,noun
  escapologists
-escapology
-escargot
+escapology,noun
+escargot,noun
  escargots
-escarole
+escarole,noun
  escaroles
-escarpment
+escarpment,noun
  escarpments
-eschew
+eschew,verb
  eschewed eschewing eschews
-escort
+escort,noun,verb
  escorted escorting escorts
-escritoire
+escritoire,noun
  escritoires
-escrow
+escrow,noun,verb
  escrows
-escudo
+escudo,noun
  escudos
-escutcheon
+escutcheon,noun
  escutcheons scutcheon scutcheons
-esophageal
+esophageal,adjective
  oesophageal
-esophagus
+esophagus,noun
  esophagi esophaguses oesophagi oesophagus oesophaguses
-esoteric
+esoteric,adjective
  esoterically
-espadrille
+espadrille,noun
  espadrilles
-espalier
+espalier,noun,verb
  espaliered espaliering espaliers
-especially
+especially,adverb
  especial
-espionage
-esplanade
+espionage,noun
+esplanade,noun
  esplanades
-espousal
-espouse
+espousal,noun
+espouse,verb
  espoused espouses espousing
-espresso
+espresso,noun
  espressos
-esprit
-espy
+esprit,noun
+espy,verb
  espied espies espying
-esquire
+esquire,noun
  esquires
-essay
+essay,noun,verb
  essayed essaying essays
-essayer
+essayer,noun,verb
  essayers
-essayist
+essayist,noun
  essayists
-essence
+essence,noun
  essences
-essential
+essential,noun,adjective
  essentially essentials
-establish
+establish,verb
  established establishes establishing
-establishment
+establishment,noun
  establishments
-estate
+estate,noun
  estates
-esteem
+esteem,noun,verb
  esteemed esteeming esteems
-ester
+ester,noun
  esters
-estimable
-estimate
+estimable,adjective
+estimate,noun,verb
  estimated estimates estimating
-estimation
+estimation,noun
  estimations
-estimator
+estimator,noun
  estimators
-estrange
+estrange,verb
  estranged estranges estranging
-estrangement
+estrangement,noun
  estrangements
-estrogen
+estrogen,noun
  oestrogen
-estrous
+estrous,adjective
  oestrous
-estrus
+estrus,noun
  estruses oestrus oestruses
-estuary
+estuary,noun
  estuaries
-eta
+eta,noun,abbreviation,propernoun
  etas
-etailer
+etailer,noun
  etailers
-etailing
-etch
+etailing,noun
+etch,noun,verb
  etched etches etching -> [etching]
-etcher
+etcher,noun
  etchers
-etching -> [etch]
+etching,noun
  etchings
-eternal
+eternal,adjective
  eternally eternalness
-eternity
+eternity,noun
  eternities
-ethane
-ethanol
-ethene
-ether
-ethereal
+ethane,noun
+ethanol,noun
+ethene,noun
+ether,noun
+ethereal,adjective
  ethereally
-ethic
+ethic,noun,adjective
  ethics
-ethical
+ethical,adjective
  ethically
-ethnic
+ethnic,noun,adjective
  ethnically ethnics
-ethnicity
-ethnocentric
-ethnocentrism
-ethnographer
+ethnicity,noun
+ethnocentric,adjective
+ethnocentrism,noun
+ethnographer,noun
  ethnographers
-ethnographic
+ethnographic,adjective
  ethnographically
-ethnography
-ethnological
+ethnography,noun
+ethnological,adjective
  ethnologically
-ethnologist
+ethnologist,noun
  ethnologists
-ethnology
-ethological
-ethologist
+ethnology,noun
+ethological,adjective
+ethologist,noun
  ethologists
-ethology
-ethos
-ethyl
-ethylene
-etiolated
-etiologic
+ethology,noun
+ethos,noun
+ethyl,noun
+ethylene,noun
+etiolated,adjective
+etiologic,adjective
  aetiologic
-etiological
+etiological,adjective
  aetiological
-etiology
+etiology,noun
  aetiologies aetiology etiologies
-etiquette
-etude
+etiquette,noun
+etude,noun
  etudes
-etymological
+etymological,adjective
  etymologically
-etymologist
+etymologist,noun
  etymologists
-etymology
+etymology,noun
  etymologies
-eucalyptus
+eucalyptus,noun
  eucalypti eucalyptuses
-eucharistic
-euchre
+eucharistic,adjective
+euchre,noun,verb
  euchred euchres euchring
-euclidean
-eugenic
+euclidean,adjective
+eugenic,adjective
  eugenically eugenics
-eugenicist
+eugenicist,adjective,noun
  eugenicists
-eulogist
+eulogist,noun
  eulogists
-eulogistic
-eulogize
+eulogistic,adjective
+eulogize,verb
  eulogise eulogised eulogises eulogising eulogized eulogizes eulogizing
-eulogizer
+eulogizer,verb
  eulogiser eulogisers eulogizers
-eulogy
+eulogy,noun
  eulogies
-eunuch
+eunuch,noun
  eunuchs
-euphemism
+euphemism,noun
  euphemisms
-euphemistic
+euphemistic,adjective
  euphemistically
-euphonious
+euphonious,adjective
  euphoniously
-euphonium
+euphonium,noun
  euphoniums
-euphony
-euphoria
-euphoric
+euphony,noun
+euphoria,noun
+euphoric,adjective
  euphorically
-eureka
-euro
+eureka,exclamation,noun
+euro,noun,adjective
  euros
-euroland
-europium
-eurozone
-euthanasia
-euthanize
+euroland,noun
+europium,noun
+eurozone,noun
+euthanasia,noun
+euthanize,verb
  euthanise euthanised euthanises euthanising euthanized euthanizes euthanizing
-euthenics
-evacuate
+euthenics!
+evacuate,verb
  evacuated evacuates evacuating
-evacuation
+evacuation,noun
  evacuations
-evacuee
+evacuee,noun
  evacuees
-evade
+evade,verb
  evaded evades evading
-evader
+evader,noun
  evaders
-evaluate
+evaluate,verb
  evaluated evaluates evaluating
-evaluation
+evaluation,noun
  evaluations
-evaluative
-evanescence
-evanescent
-evangelic
-evangelical
+evaluative,adjective
+evanescence,noun
+evanescent,adjective
+evangelic,adjective
+evangelical,noun,adjective
  evangelically evangelicals
-evangelicalism
-evangelism
-evangelist
+evangelicalism,noun
+evangelism,noun
+evangelist,noun
  evangelists
-evangelistic
-evangelize
+evangelistic,adjective
+evangelize,verb
  evangelise evangelised evangelises evangelising evangelized evangelizes evangelizing
-evaporate
+evaporate,verb
  evaporated evaporates evaporating
-evaporation
-evaporator
+evaporation,noun
+evaporator,noun
  evaporators
-evasion
+evasion,noun
  evasions
-evasive
+evasive,adjective
  evasively evasiveness
-eve
+eve,noun,propernoun
  eves
-even
+even,noun,adverb,adjective,verb
  evened evener evenest evening -> [evening] evenly evenness evens
-evenhanded
+evenhanded,adjective
  evenhandedly
-evening -> [even]
+evening,exclamation,noun,adverb
  evenings
-evensong
-event
+evensong,noun
+event,noun
  eventful eventfully eventfulness events
-eventide
-eventual
+eventide,noun
+eventual,adjective
  eventually
-eventuality
+eventuality,noun
  eventualities
-eventuate
+eventuate,verb
  eventuated eventuates eventuating
-ever
-everglade
+ever,adverb
+everglade,noun
  everglades
-evergreen
+evergreen,noun,adjective
  evergreens
-everlasting
+everlasting,noun,adjective
  everlastingly everlastings
-evermore
-every
-everybody
-everyday
-everyone
-everyplace
-everything
-everywhere
-evict
+evermore,adverb
+every,determiner
+everybody,pronoun
+everyday,adverb,adjective
+everyone,pronoun
+everyplace,adverb
+everything,pronoun
+everywhere,adverb,noun
+evict,verb
  evicted evicting evicts
-eviction
+eviction,noun
  evictions
-evidence
+evidence,noun,verb
  evidenced evidences evidencing
-evident
+evident,adjective
  evidently
-evil
+evil,noun,adjective
  eviler evilest eviller evillest evilly evilness evils
-evildoer
+evildoer,noun
  evildoers
-evildoing
-evince
+evildoing,noun
+evince,verb
  evinced evinces evincing
-eviscerate
+eviscerate,verb
  eviscerated eviscerates eviscerating
-evisceration
-evocation
+evisceration,noun
+evocation,noun
  evocations
-evocative
+evocative,adjective
  evocatively
-evoke
+evoke,verb
  evoked evokes evoking
-evolution
-evolutionary
-evolutionist
+evolution,noun
+evolutionary,adjective
+evolutionist,noun,adjective
  evolutionists
-evolve
+evolve,verb
  evolved evolves evolving
-ew
+ew,exclamation
  eww
-ewe
+ewe,noun,adjective
  ewes
-ewer
+ewer,noun
  ewers
-ex
+ex,noun,preposition
  exes
-exacerbate
+exacerbate,verb
  exacerbated exacerbates exacerbating
-exacerbation
-exact
+exacerbation,noun
+exact,adjective,verb
  exacted exacter exactest exacting exactingly exactly exactness exacts
-exaction
-exactitude
-exaggerate
+exaction,noun
+exactitude,noun
+exaggerate,verb
  exaggerated exaggeratedly exaggerates exaggerating
-exaggeration
+exaggeration,noun
  exaggerations
-exaggerator
+exaggerator,noun
  exaggerators
-exalt
+exalt,verb
  exalted exalting exalts
-exaltation
-exam
+exaltation,noun
+exam,noun
  exams
-examination
+examination,noun
  examinations
-examine
+examine,verb
  examined examines examining
-examiner
+examiner,noun
  examiners
-example
+example,noun,verb
  exampled examples exampling
-exasperate
+exasperate,verb
  exasperated exasperatedly exasperates exasperating exasperatingly
-exasperation
-excavate
+exasperation,noun
+excavate,verb
  excavated excavates excavating
-excavation
+excavation,noun
  excavations
-excavator
+excavator,noun
  excavators
-exceed
+exceed,verb
  exceeded exceeding exceedingly exceeds
-excel
+excel,verb
  excelled excelling excels
-excellence
-excellency
+excellence,noun
+excellency,noun
  excellencies
-excellent
+excellent,exclamation,adjective
  excellently
-excelsior
-except
+excelsior,noun
+except,preposition,conjunction,verb
  excepted excepting excepts
-exception
+exception,noun
  exceptions
-exceptionable
-exceptional
+exceptionable,adjective
+exceptional,noun,adjective
  exceptionally
-excerpt
+excerpt,noun,verb
  excerpted excerpting excerpts
-excess
+excess,noun,adjective
  excesses
-excessive
+excessive,adjective
  excessively
-exchange
+exchange,noun,verb
  exchanged exchanges exchanging
-exchangeable
-exchequer
+exchangeable,adjective
+exchequer,noun
  exchequers
-excise
+excise,noun,verb
  excised excises excising
-excision
+excision,noun
  excisions
-excitable
+excitable,adjective
  excitability excitably
-excitation
-excite
+excitation,noun
+excite,verb
  excited excitedly excites exciting excitingly
-excitement
+excitement,noun
  excitements
-exciter
+exciter,noun
  exciters
-exclaim
+exclaim,verb
  exclaimed exclaiming exclaims
-exclamation
+exclamation,noun
  exclamations
-exclamatory
-exclude
+exclamatory,adjective
+exclude,verb
  excluded excludes excluding
-exclusion
+exclusion,noun
  exclusions
-exclusionary
-exclusive
+exclusionary,adjective
+exclusive,noun,adjective
  exclusively exclusiveness exclusives
-exclusivity
-excommunicate
+exclusivity,noun
+excommunicate,noun,adjective,verb
  excommunicated excommunicates excommunicating
-excommunication
+excommunication,noun
  excommunications
-excoriate
+excoriate,verb
  excoriated excoriates excoriating
-excoriation
+excoriation,noun
  excoriations
-excrement
-excremental
-excrescence
+excrement,noun
+excremental,adjective
+excrescence,noun
  excrescences
-excrescent
-excreta
-excrete
+excrescent,adjective
+excreta,noun
+excrete,verb
  excreted excretes excreting
-excretion
+excretion,noun
  excretions
-excretory
-excruciating
+excretory,adjective
+excruciating,adjective
  excruciatingly
-exculpate
+exculpate,verb
  exculpated exculpates exculpating
-exculpation
-exculpatory
-excursion
+exculpation,noun
+exculpatory,adjective
+excursion,noun
  excursions
-excursionist
+excursionist,noun
  excursionists
-excursive
+excursive,adjective
  excursively excursiveness
-excusable
+excusable,adjective
  excusably
-excuse
+excuse,noun,verb
  excused excuses excusing
-exec
+exec,noun
  execs
-execrable
+execrable,adjective
  execrably
-execrate
+execrate,verb
  execrated execrates execrating
-execration
-execute
+execration,noun
+execute,verb
  executed executes executing
-execution
+execution,noun
  executions
-executioner
+executioner,noun
  executioners
-executive
+executive,noun,adjective
  executives
-executor
+executor,noun
  executors
-executrix
+executrix,noun
  executrices executrixes
-exegesis
+exegesis,noun
  exegeses
-exegetic
-exegetical
-exemplar
+exegetic,adjective
+exegetical,adjective
+exemplar,noun
  exemplars
-exemplary
-exemplification
+exemplary,adjective
+exemplification,noun
  exemplifications
-exemplify
+exemplify,verb
  exemplified exemplifies exemplifying
-exempt
+exempt,noun,adjective,verb
  exempted exempting exempts
-exemption
+exemption,noun
  exemptions
-exercise
+exercise,noun,verb
  exercised exercises exercising
-exerciser
+exerciser,noun
  exercisers
-exert
+exert,verb
  exerted exerting exerts
-exertion
+exertion,noun
  exertions
-exeunt
-exfoliate
+exeunt,verb
+exfoliate,verb
  exfoliated exfoliates exfoliating
-exfoliation
-exhalation
+exfoliation,noun
+exhalation,noun
  exhalations
-exhale
+exhale,verb
  exhaled exhales exhaling
-exhaust
+exhaust,noun,verb
  exhausted exhausting exhausts
-exhaustible
-exhaustion
-exhaustive
+exhaustible,adjective
+exhaustion,noun
+exhaustive,adjective
  exhaustively exhaustiveness
-exhibit
+exhibit,noun,verb
  exhibited exhibiting exhibits
-exhibition
+exhibition,noun
  exhibitions
-exhibitionism
-exhibitionist
+exhibitionism,noun
+exhibitionist,noun,adjective
  exhibitionists
-exhibitor
+exhibitor,noun
  exhibitors
-exhilarate
+exhilarate,verb
  exhilarated exhilarates exhilarating
-exhilaration
-exhort
+exhilaration,noun
+exhort,verb
  exhorted exhorting exhorts
-exhortation
+exhortation,noun
  exhortations
-exhumation
+exhumation,noun
  exhumations
-exhume
+exhume,verb
  exhumed exhumes exhuming
-exigency
+exigency,noun
  exigence exigences exigencies
-exigent
-exiguity
-exiguous
-exile
+exigent,adjective
+exiguity,noun
+exiguous,adjective
+exile,noun,verb
  exiled exiles exiling
-exist
+exist,verb
  existed existing exists
-existence
+existence,noun
  existences
-existent
-existential
+existent,adjective
+existential,adjective
  existentially
-existentialism
-existentialist
+existentialism,noun
+existentialist,noun,adjective
  existentialists
-exit
+exit,noun,verb
  exited exiting exits
-exobiology
-exodus
+exobiology,noun
+exodus,noun,propernoun
  exoduses
-exogenous
-exonerate
+exogenous,adjective
+exonerate,verb
  exonerated exonerates exonerating
-exoneration
-exoplanet!
+exoneration,noun
+exoplanet,noun
  exoplanets
-exorbitance
-exorbitant
+exorbitance,noun
+exorbitant,adjective
  exorbitantly
-exorcise
+exorcise,verb
  exorcised exorcises exorcising exorcize exorcized exorcizes exorcizing
-exorcism
+exorcism,noun
  exorcisms
-exorcist
+exorcist,noun
  exorcists
-exoskeleton
+exoskeleton,noun
  exoskeletons
-exosphere
+exosphere,noun
  exospheres
-exothermic
-exotic
+exothermic,adjective
+exotic,noun,adjective
  exotically exotics
-exotica
-exoticism
-expand
+exotica,pluralnoun
+exoticism,noun
+expand,verb
  expanded expanding expands
-expandable
-expanse
+expandable,adjective
+expanse,noun
  expanses
-expansible
-expansion
+expansible,adjective
+expansion,noun
  expansions
-expansionary
-expansionism
-expansionist
+expansionary,adjective
+expansionism,noun
+expansionist,noun,adjective
  expansionists
-expansive
+expansive,adjective
  expansively expansiveness
-expat
+expat,adjective,noun
  expats
-expatiate
+expatiate,verb
  expatiated expatiates expatiating
-expatiation
-expatriate
+expatiation,noun
+expatriate,noun,adjective,verb
  expatriated expatriates expatriating
-expatriation
-expect
+expatriation,noun
+expect,verb
  expected expecting expects
-expectancy
-expectant
+expectancy,noun
+expectant,noun,adjective
  expectantly
-expectation
+expectation,noun
  expectations
-expectorant
+expectorant,noun
  expectorants
-expectorate
+expectorate,verb
  expectorated expectorates expectorating
-expectoration
-expediency
+expectoration,noun
+expediency,noun
  expedience expediences expediencies
-expedient
+expedient,noun,adjective
  expediently expedients
-expedite
+expedite,verb
  expedited expedites expediting
-expediter
+expediter,noun
  expediters expeditor expeditors
-expedition
+expedition,noun
  expeditions
-expeditionary
-expeditious
+expeditionary,adjective
+expeditious,adjective
  expeditiously expeditiousness
-expel
+expel,verb
  expelled expelling expels
-expend
+expend,verb
  expended expending expends
-expendable
+expendable,adjective
  expendables
-expenditure
+expenditure,noun
  expenditures
-expense
+expense,noun,verb
  expenses
-expensive
+expensive,adjective
  expensively expensiveness
-experience
+experience,noun,verb
  experienced experiences experiencing
-experiential
-experiment
+experiential,adjective
+experiment,noun,verb
  experimented experimenting experiments
-experimental
+experimental,adjective
  experimentally
-experimentation
-experimenter
+experimentation,noun
+experimenter,noun
  experimenters
-expert
+expert,noun,adjective
  expertly expertness experts
-expertise
-expiate
+expertise,noun
+expiate,verb
  expiated expiates expiating
-expiation
-expiatory
-expiration
-expire
+expiation,noun
+expiatory,adjective
+expiration,noun
+expire,verb
  expired expires expiring
-expiry
-explain
+expiry,noun
+explain,verb
  explained explaining explains
-explainable
-explanation
+explainable,adjective
+explanation,noun
  explanations
-explanatory
-expletive
+explanatory,adjective
+expletive,noun,adjective
  expletives
-explicable
-explicate
+explicable,adjective
+explicate,verb
  explicated explicates explicating
-explication
+explication,noun
  explications
-explicit
+explicit,noun,adjective
  explicitly explicitness
-explode
+explode,verb
  exploded explodes exploding
-exploit
+exploit,noun,verb
  exploited exploiting exploits
-exploitable
-exploitation
-exploitative
-exploiter
+exploitable,adjective
+exploitation,noun
+exploitative,adjective
+exploiter,noun
  exploiters
-exploration
+exploration,noun
  explorations
-exploratory
-explore
+exploratory,adjective
+explore,verb
  explored explores exploring
-explorer
+explorer,noun
  explorers
-explosion
+explosion,noun
  explosions
-explosive
+explosive,noun,adjective
  explosively explosiveness explosives
-expo
+expo,noun
  expos
-exponent
+exponent,noun
  exponents
-exponential
+exponential,adjective
  exponentially
-export
+export,noun,verb
  exported exporting exports
-exportable
-exportation
-exporter
+exportable,adjective
+exportation,noun
+exporter,noun
  exporters
-expose
+expose,noun,verb
  exposed exposes exposing
-exposition
+exposition,noun
  expositions
-expositor
+expositor,noun
  expositors
-expository
-expostulate
+expository,adjective
+expostulate,verb
  expostulated expostulates expostulating
-expostulation
+expostulation,noun
  expostulations
-exposure
+exposure,noun
  exposures
-expound
+expound,verb
  expounded expounding expounds
-expounder
+expounder,noun
  expounders
-express
+express,adverb,noun,adjective,verb
  expressed expresses expressing expressly
-expressible
-expression
+expressible,adjective
+expression,noun
  expressionless expressionlessly expressions
-expressionism
-expressionist
+expressionism,noun
+expressionist,noun,adjective
  expressionists
-expressionistic
-expressive
+expressionistic,adjective
+expressive,adjective
  expressively expressiveness
-expressway
+expressway,noun
  expressways
-expropriate
+expropriate,verb
  expropriated expropriates expropriating
-expropriation
+expropriation,noun
  expropriations
-expropriator
+expropriator,noun
  expropriators
-expulsion
+expulsion,noun
  expulsions
-expunge
+expunge,verb
  expunged expunges expunging
-expurgate
+expurgate,verb
  expurgated expurgates expurgating
-expurgation
+expurgation,noun
  expurgations
-exquisite
+exquisite,noun,adjective
  exquisitely exquisiteness
-extant
-extemporaneous
+extant,adjective
+extemporaneous,adjective
  extemporaneously extemporaneousness
-extempore
-extemporization
+extempore,adjective,adverb
+extemporization,noun
  extemporisation
-extemporize
+extemporize,verb
  extemporise extemporised extemporises extemporising extemporized extemporizes extemporizing
-extend
+extend,verb
  extended extending extends
-extender
+extender,noun
  extenders
-extendible
+extendible,adjective
  extendable extensible
-extension
+extension,noun
  extensions
-extensive
+extensive,adjective
  extensively extensiveness
-extent
+extent,noun
  extents
-extenuate
+extenuate,verb
  extenuated extenuates extenuating
-extenuation
-exterior
+extenuation,noun
+exterior,noun,adjective
  exteriors
-exterminate
+exterminate,verb
  exterminated exterminates exterminating
-extermination
+extermination,noun
  exterminations
-exterminator
+exterminator,noun
  exterminators
-external
+external,noun,adjective
  externally externals
-externalization
+externalization,noun
  externalisation externalisations externalizations
-externalize
+externalize,verb
  externalise externalised externalises externalising externalized externalizes externalizing
-extinct
+extinct,adjective
  extincted extincting extincts
-extinction
+extinction,noun
  extinctions
-extinguish
+extinguish,verb
  extinguished extinguishes extinguishing
-extinguishable
-extinguisher
+extinguishable,adjective
+extinguisher,noun
  extinguishers
-extirpate
+extirpate,verb
  extirpated extirpates extirpating
-extirpation
-extol
+extirpation,noun
+extol,verb
  extoll extolled extolling extolls extols
-extort
+extort,verb
  extorted extorting extorts
-extortion
-extortionate
+extortion,noun
+extortionate,adjective
  extortionately
-extortioner
+extortioner,noun
  extortioners
-extortionist
+extortionist,noun
  extortionists
-extra
+extra,adverb,noun,adjective
  extras
-extract
+extract,noun,verb
  extracted extracting extracts
-extraction
+extraction,noun
  extractions
-extractor
+extractor,noun
  extractors
-extracurricular
-extraditable
-extradite
+extracurricular,adjective
+extraditable,adjective
+extradite,verb
  extradited extradites extraditing
-extradition
+extradition,noun
  extraditions
-extrajudicial
-extralegal
-extramarital
-extramural
-extraneous
+extrajudicial,adjective
+extralegal,adjective
+extramarital,adjective
+extramural,adjective
+extraneous,adjective
  extraneously
-extranet
+extranet,noun
  extranets
-extraordinaire
-extraordinary
+extraordinaire,adjective
+extraordinary,noun,adjective
  extraordinarily
-extrapolate
+extrapolate,verb
  extrapolated extrapolates extrapolating
-extrapolation
+extrapolation,noun
  extrapolations
-extrasensory
-extraterrestrial
+extrasensory,noun
+extraterrestrial,noun,adjective
  extraterrestrials
-extraterritorial
-extraterritoriality
-extravagance
+extraterritorial,adjective
+extraterritoriality,noun
+extravagance,noun
  extravagances
-extravagant
+extravagant,adjective
  extravagantly
-extravaganza
+extravaganza,noun
  extravaganzas
-extravehicular
-extreme
+extravehicular,adjective
+extreme,noun,adjective
  extremely extremeness extremer extremes extremest
-extremism
-extremist
+extremism,noun
+extremist,noun
  extremists
-extremity
+extremity,noun
  extremities
-extricable
-extricate
+extricable,adjective
+extricate,verb
  extricated extricates extricating
-extrication
-extrinsic
+extrication,noun
+extrinsic,adjective
  extrinsically
-extroversion
+extroversion,noun
  extraversion
-extrovert
+extrovert,noun,adjective
  extravert extraverted extraverts extroverted extroverts
-extrude
+extrude,verb
  extruded extrudes extruding
-extrusion
+extrusion,noun
  extrusions
-extrusive
-exuberance
-exuberant
+extrusive,adjective
+exuberance,noun
+exuberant,adjective
  exuberantly
-exudation
-exude
+exudation,noun
+exude,verb
  exuded exudes exuding
-exult
+exult,verb
  exulted exulting exults
-exultant
+exultant,adjective
  exultantly
-exultation
-exurb
+exultation,noun
+exurb,noun
  exurbs
-exurban
-exurbanite
+exurban,adjective
+exurbanite,noun
  exurbanites
-exurbia
-eye
+exurbia,noun
+eye,noun,verb
  eyed eyeful eyefuls eyeing eyeless eyes eying
-eyeball
+eyeball,noun,verb
  eyeballed eyeballing eyeballs
-eyebrow
+eyebrow,noun
  eyebrows
-eye-catching
-eyedropper
+eye-catching,adjective
+eyedropper,noun
  eyedroppers
-eyeglass
+eyeglass,noun
  eyeglasses
-eyelash
+eyelash,noun
  eyelashes
-eyelet
+eyelet,noun,verb
  eyelets
-eyelid
+eyelid,noun
  eyelids
-eyeliner
+eyeliner,noun
  eyeliners
-eyeopener
+eyeopener,noun
  eyeopeners
-eyeopening
-eyepatch
+eyeopening,adjective
+eyepatch,noun
  eyepatches
-eyepiece
+eyepiece,noun
  eyepieces
-eyeshadow
+eyeshadow,noun
  eyeshadows
-eyesight
-eyesore
+eyesight,noun
+eyesore,noun
  eyesores
-eyestrain
-eyetooth
+eyestrain,noun
+eyetooth,noun
  eyeteeth
-eyewash
-eyewear
-eyewitness
+eyewash,noun
+eyewear,noun
+eyewitness,noun
  eyewitnesses
