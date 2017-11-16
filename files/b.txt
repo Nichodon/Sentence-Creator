@@ -40,7 +40,7 @@ bacillary,adjective
 bacillus,noun
  bacilli
 back,verb,adjective,noun,adverb
- backed backing -> [backing] backless backs
+ backed backing backless backs
 backache,noun
  backaches
 backbeat,noun
@@ -67,7 +67,7 @@ backcomb,verb
 backcountry,noun
 backdate,verb
  backdated backdates backdating
-backdoor!!!
+backdoor!
 backdrop,verb,noun
  backdrops
 backer,noun
@@ -131,7 +131,7 @@ backstabber,noun
  backstabbers
 backstabbing,adjective,noun
 backstage,adjective,noun,adverb
-backstair!!!
+backstair!
  backstairs
 backstop,verb,noun
  backstopped backstopping backstops
@@ -174,7 +174,7 @@ bacteriologist,noun
  bacteriologists
 bacteriology,noun
 bad,adjective,adverb
- badder baddest badly badness worse worst -> [worst]
+ badder baddest badly badness worse worst
 badass,adjective,noun
  badasses
 baddie,noun
@@ -226,7 +226,7 @@ bailiwick,noun
  bailiwicks
 bailout,noun
  bailouts
-bailsman!!!
+bailsman!
  bailsmen
 bairn,noun
  bairns
@@ -275,7 +275,7 @@ balk,verb,noun
 balky,adjective
  balkier balkiest baulkier baulkiest baulky
 ball,verb,noun
- balled balling balls -> [balls]
+ balled balling balls
 ballad,noun
  ballads
 balladeer,noun
@@ -292,7 +292,7 @@ ballerina,noun
 ballet,noun
  ballets
 balletic,adjective
-ballgame!!!
+ballgame!
  ballgames
 ballgirl,noun
  ballgirls
@@ -326,7 +326,7 @@ balm,noun
 balmy,adjective
  balmier balmiest balminess
 baloney,noun
- boloney -> [bologna]
+ boloney
 balsa,noun
  balsas
 balsam,noun
@@ -577,7 +577,7 @@ baroque,adjective,noun
 barque,noun
  barques
 barrack,verb
- barracked barracking barracks -> [barracks]
+ barracked barracking barracks
 barracks,pluralnoun
 barracuda,noun
  barracudas
@@ -616,7 +616,7 @@ basal,adjective
 basalt,noun
 basaltic,adjective
 base,verb,adjective,noun
- based baseless basely baseness baser bases -> [basis] basest basing
+ based baseless basely baseness baser bases basest basing
 baseball,noun
  baseballs
 baseboard,noun
@@ -641,7 +641,7 @@ basilisk,noun
 basin,noun
  basinful basinfuls basins
 basis,noun
- bases -> [base]
+ bases
 bask,verb
  basked basking basks
 basket,noun
@@ -692,15 +692,15 @@ batch,verb,noun
 bate,verb,noun
  bated bates bating
 bath,verb,noun,propernoun
- bathed -> [bathe] bathing -> [bathe] baths
+ bathed bathing baths
 bathe,verb,noun
- bathed -> [bath] bathes bathing -> [bath]
+ bathed bathes bathing
 bather,noun
  bathers
 bathetic,adjective
 bathhouse,noun
  bathhouses
-bathmat!!!
+bathmat!
  bathmats
 bathos,noun
 bathrobe,noun
@@ -728,7 +728,7 @@ battalion,noun
 batten,verb,noun
  battened battening battens
 batter,verb,noun
- battered battering -> [battering] batters
+ battered battering batters
 batterer,noun
  batterers
 battering,verb,noun
@@ -782,7 +782,7 @@ bazaar,noun
 bazooka,noun
  bazookas
 be,auxiliaryverb,verb,abbreviation
- am are -> [are] art -> [art] been being -> [being] is was wast were wert
+ am are art been being is was wast were wert
 beach,verb,noun
  beached beaches beaching
 beachball,noun
@@ -820,12 +820,12 @@ beanie,noun
  beanies
 beanpole,noun
  beanpoles
-beansprout!!!
+beansprout!
  beansprouts
 beanstalk,noun
  beanstalks
 bear,verb,noun
- bearing -> [bearing] bearish bearishly bearishness bearlike bears bore -> [bore] borne
+ bearing bearish bearishly bearishness bearlike bears bore borne
 bearable,adjective
  bearably
 beard,verb,noun
@@ -839,7 +839,7 @@ bearskin,noun
 beast,noun
  beastlier beastliest beastliness beastly beasts
 beat,verb,adjective,noun
- beaten beating -> [beating] beats
+ beaten beating beats
 beatable,adjective
 beatbox,verb,noun
  beatboxed beatboxes beatboxing
@@ -886,13 +886,13 @@ beckon,verb
 becloud,verb
  beclouded beclouding beclouds
 become,verb
- became becomes becoming -> [becoming]
+ became becomes becoming
 becoming,adjective
  becomingly
 becquerel,noun
  becquerels
 bed,verb,noun,abbreviation
- bedded bedding -> [bedding] beds
+ bedded bedding beds
 bed-and-breakfast,verb,noun
  bed-and-breakfasts
 bedaub,verb
@@ -1001,7 +1001,7 @@ befit,verb
  befits befitted befitting befittingly
 befog,verb
  befogged befogging befogs
-before,preposition<spanclass="listSeparator">,</span>conjunction<spanclass="listSeparator">,</span>,adverb
+before,preposition,conjunction,adverb
 beforehand,adverb
 befoul,verb
  befouled befouling befouls
@@ -1020,7 +1020,7 @@ beggar,verb,noun
  beggared beggaring beggarly beggars
 beggary,noun
 begin,verb
- began beginning -> [beginning] begins begun
+ began beginning begins begun
 beginner,noun
  beginners
 beginning,noun
@@ -1132,7 +1132,7 @@ bellybutton,noun
 bellyflop,verb,noun
  bellyflops
 belong,verb
- belonged belonging -> [belonging] belongs
+ belonged belonging belongs
 belonging,verb
  belongings
 beloved,adjective,noun
@@ -1156,7 +1156,7 @@ bench,verb,noun
 benchmark,verb,noun
  benchmarked benchmarking benchmarks
 bend,verb,noun
- bending bends bent -> [bent]
+ bending bends bent
 bendable,adjective
 bender,noun
  benders
@@ -1195,7 +1195,7 @@ benign,adjective
  benigner benignest benignly
 benignant,adjective
 benignity,noun
-bent,</span></h3><spanclass="transitivity"></span><ulclass="semb"><li><divclass="trg"><p><spanclass="iteration"></span></p><divclass="crossReference">pastandpastparticipleof<ahref="/definition/bend">bend</a></div></div></li></ul></section><divclass="banbox"><divclass="container"></div><divclass="containermpu"></div></div><sectionclass="gramb"><h3class="pspos"><spanclass="pos">adjective,noun
+bent,adjective,noun
  bents
 bentwood,noun
 benumb,verb
@@ -1250,14 +1250,14 @@ besmirch,verb
  besmirched besmirches besmirching
 besom,noun
  besoms
-besot!!!
+besot!
  besots besotted besotting
 bespangle,verb
  bespangled bespangles bespangling
 bespatter,verb
  bespattered bespattering bespatters
 bespeak,verb
- bespeaking bespeaks bespoke -> [bespoke] bespoken
+ bespeaking bespeaks bespoke bespoken
 bespectacled,adjective
 bespoke,adjective
 best,adjective,verb,noun,adverb
@@ -1478,7 +1478,7 @@ bilk,verb
 bilker,noun
  bilkers
 bill,verb,noun
- billed billing -> [billing] bills
+ billed billing bills
 billable,adjective
 billabong,noun
  billabongs
@@ -1521,7 +1521,7 @@ bin,verb,noun
 binary,adjective,noun
  binaries
 bind,verb,noun
- binding -> [binding] binds bound -> [bound]
+ binding binds bound
 binder,noun
  binders
 bindery,noun
@@ -1687,7 +1687,7 @@ bitchy,adjective
 bitcoin,noun
  bitcoins
 bite,verb,noun
- bit -> [bit] bites biting bitingly bitten
+ bit bites biting bitingly bitten
 biter,noun
  biters
 bite-size,adjective
@@ -1782,7 +1782,7 @@ blame,verb,noun
 blameworthy,adjective
  blameworthiness
 blanch,verb
- blanched blanches blanching blench -> [blench] blenched -> [blench] blenches -> [blench] blenching -> [blench]
+ blanched blanches blanching blench blenched blenches blenching
 blancmange,noun
  blancmanges
 bland,adjective
@@ -1851,13 +1851,13 @@ bleeper,noun
 blemish,verb,noun
  blemished blemishes blemishing
 blench,verb
- blenched -> [blanch] blenches -> [blanch] blenching -> [blanch]
+ blenched blenches blenching
 blend,verb,noun
  blended blending blends blent
 blender,noun
  blenders
 bless,verb
- blessed blessedly blessedness blesses blessing -> [blessing] blest
+ blessed blessedly blessedness blesses blessing blest
 blessing,noun
  blessings
 blight,verb,noun
@@ -1869,7 +1869,7 @@ blimp,noun
  blimps
 blimpish,adjective
 blind,adjective,verb,noun,adverb
- blinded blinder -> [blinder] blindest blinding blindingly blindly blindness blinds
+ blinded blinder blindest blinding blindingly blindly blindness blinds
 blinder,noun
  blinders
 blindfold,verb,adjective,noun,adverb
@@ -1891,7 +1891,7 @@ bliss,verb,noun
  blissed blisses blissful blissfully blissfulness blissing
 blister,verb,noun
  blistered blistering blisteringly blisters
-blistery!!!
+blistery!
 blithe,adjective
  blithely blitheness blither blithest
 blithering,adjective
@@ -1969,7 +1969,7 @@ bloody,adjective,verb
 bloom,verb,noun
  bloomed blooming blooms
 bloomer,noun
- bloomers -> [bloomers]
+ bloomers
 bloomers,pluralnoun
 bloop,verb,noun
  blooped blooping bloops
@@ -2025,7 +2025,7 @@ blubbery,adjective
 bludgeon,verb,noun
  bludgeoned bludgeoning bludgeons
 blue,adjective,verb,noun
- blued blueing blueish blueness bluer blues -> [blues] bluest bluing bluish
+ blued blueing blueish blueness bluer blues bluest bluing bluish
 bluebell,noun
  bluebells
 blueberry,noun
@@ -2045,7 +2045,7 @@ bluegill,noun
 bluegrass,noun
 bluejacket,noun
  bluejackets
-bluejay!!!
+bluejay!
  bluejays
 bluejeans,pluralnoun
 bluenose,noun
@@ -2062,7 +2062,7 @@ bluesy,adjective
 bluet,noun
  bluets
 bluff,verb,adjective,noun
- bluffed bluffer -> [bluffer] bluffest bluffing bluffly bluffness bluffs
+ bluffed bluffer bluffest bluffing bluffly bluffness bluffs
 bluffer,noun
  bluffers
 blunder,verb,noun
@@ -2140,7 +2140,7 @@ bobolink,noun
  bobolinks
 bobsled,noun
  bobsledded bobsledding bobsleds
-bobsledder!!!
+bobsledder!
  bobsledders
 bobsleigh,noun
  bobsleighed bobsleighing bobsleighs
@@ -2173,7 +2173,7 @@ bodyguard,noun
  bodyguards
 bodysuit,noun
  bodysuits
-bodywarmer!!!
+bodywarmer!
  bodywarmers
 bodywork,noun
 boerewors,noun
@@ -2230,7 +2230,7 @@ bollocking,noun
  bollockings
 bollocks,pluralnoun
 bologna,noun,propernoun
- baloney -> [baloney] boloney -> [baloney]
+ baloney boloney
 bolshevik,adjective,noun
  bolsheviki bolsheviks
 bolshy,adjective,noun
@@ -2244,7 +2244,7 @@ bolthole,noun
 bolus,noun
  boluses
 bomb,verb,noun
- bombed bombing -> [bombing] bombs
+ bombed bombing bombs
 bombard,verb,noun
  bombarded bombarding bombards
 bombardier,noun
@@ -2276,9 +2276,9 @@ bondage,noun
 bondholder,noun
  bondholders
 bondman,noun
- bondmen bondsman -> [bondsman] bondsmen -> [bondsman]
+ bondmen bondsman bondsmen
 bondsman,noun
- bondsmen -> [bondman]
+ bondsmen
 bondwoman,noun
  bondwomen
 bone,verb,noun,propernoun
@@ -2334,7 +2334,7 @@ boogie,verb,noun
 boohoo,exclamation,verb
  boohooed boohooing boohoos
 book,verb,noun
- booked booking -> [booking] bookish books
+ booked booking bookish books
 bookable,adjective
 bookbinder,noun
  bookbinders
@@ -2390,11 +2390,11 @@ boon,noun
 boondocks,pluralnoun
 boondoggle,verb,noun
  boondoggled boondoggles boondoggling
-boondoggler!!!
+boondoggler!
  boondogglers
 boonies,pluralnoun
 boor,noun
- boorish boorishly boorishness -> [boorishness] boors
+ boorish boorishly boorishness boors
 boorishness,noun
  boorishnesses
 boost,verb,noun
@@ -2407,7 +2407,7 @@ bootblack,noun
  bootblacks
 bootcut,adjective
 bootee,noun
- bootees bootie booties -> [booty]
+ bootees bootie booties
 booth,noun
  booths
 bootlace,noun
@@ -2419,7 +2419,7 @@ bootlegger,noun
 bootstrap,verb,noun
  bootstrapped bootstrapping bootstraps
 booty,noun
- booties -> [bootee]
+ booties
 booze,verb,noun
  boozed boozes boozing
 boozer,noun
@@ -2451,7 +2451,7 @@ boron,noun
 borough,noun
  boroughs
 borrow,verb,noun
- borrowed borrowing -> [borrowing] borrows
+ borrowed borrowing borrows
 borrower,noun
  borrowers
 borrowing,noun
@@ -2484,7 +2484,7 @@ botch,verb,noun
  bodge bodged bodges bodging botched botches botching
 botcher,noun
  botchers
-both,predeterminer<spanclass="listSeparator">,</span>determiner<spanclass="listSeparator">,</span>,pronoun,adverb
+both,predeterminer,determiner,pronoun,adverb
 bother,exclamation,verb,noun
  bothered bothering bothers
 botheration,exclamation,noun
@@ -2529,7 +2529,7 @@ bound,verb,adjective,noun
  bounded bounding boundless boundlessly boundlessness bounds
 boundary,noun
  boundaries
-bounden!!!
+bounden!
 bounder,noun
  bounders
 bounteous,adjective
@@ -2567,7 +2567,7 @@ bower,verb,noun
  bowers
 bowl,verb,noun
  bowled bowlful bowlfuls bowling bowls
-bowleg!!!
+bowleg!
  bowlegged bowlegs
 bowler,noun
  bowlers
@@ -2721,7 +2721,7 @@ braze,verb,noun
  brazed brazes brazing
 brazen,adjective,verb
  brazened brazening brazenly brazenness brazens
-brazer!!!
+brazer!
  brazers
 brazier,noun
  braziers
@@ -2746,7 +2746,7 @@ breadth,noun
 breadwinner,noun
  breadwinners
 break,verb,noun
- breaking breaks broke broken -> [broken]
+ breaking breaks broke broken
 breakable,pluralnoun,adjective
  breakables
 breakage,noun
@@ -2804,7 +2804,7 @@ breathtaking,adjective
 breathy,adjective
  breathier breathiest
 breech,verb,noun
- breeches -> [breeches]
+ breeches
 breeches,pluralnoun
  britches
 breed,verb,noun
@@ -2869,7 +2869,7 @@ bridleway,noun
  bridleways
 brie,noun
 brief,adjective,verb,noun
- briefed briefer briefest briefing -> [briefing] briefly briefness briefs
+ briefed briefer briefest briefing briefly briefness briefs
 briefcase,noun
  briefcases
 briefing,noun
@@ -3011,7 +3011,7 @@ brood,verb,adjective,noun
  brooded brooding broodingly broods
 brooder,noun
  brooders
-broodmare!!!
+broodmare!
  broodmares
 broody,adjective
  broodier broodiest broodily broodiness
@@ -3149,7 +3149,7 @@ buffalo,verb,noun,propernoun
 buffer,verb,noun
  buffered buffering buffers
 buffet,verb,noun
- buffeted buffeting -> [buffeting] buffets
+ buffeted buffeting buffets
 buffeting,noun
  buffetings
 buffoon,noun
@@ -3171,7 +3171,7 @@ bugle,verb,noun
 bugler,noun
  buglers
 build,verb,noun
- building -> [building] builds built
+ building builds built
 builder,noun
  builders
 building,noun
@@ -3250,7 +3250,7 @@ bulrush,noun
 bulwark,noun
  bulwarks
 bum,verb,adjective,noun
- bummed bummer -> [bummer] bummest bumming bums
+ bummed bummer bummest bumming bums
 bumbag,noun
  bumbags
 bumble,verb
@@ -3308,7 +3308,7 @@ bunkum,noun
 bunny,noun
  bunnies
 bunt,verb,noun
- bunted bunting -> [bunting] bunts
+ bunted bunting bunts
 bunting,noun
  buntings
 buoy,verb,noun
@@ -3317,7 +3317,7 @@ buoyancy,noun
 buoyant,adjective
  buoyantly
 bur,noun,abbreviation
- burr -> [burr] burrs -> [burr] burs -> [burr]
+ burr burrs burs
 burble,verb,noun
  burbled burbles burbling
 burbs,noun
@@ -3393,7 +3393,7 @@ burnout,noun
 burp,verb,noun
  burped burping burps
 burr,verb,noun
- bur -> [bur] burred burring burrs -> [bur] burs -> [bur]
+ bur burred burring burrs burs
 burrito,noun
  burritos
 burro,noun
@@ -3414,7 +3414,7 @@ burst,verb,noun
 bury,verb
  buried buries burying
 bus,verb,noun
- bused buses busing bussed -> [buss] busses -> [buss] bussing -> [buss]
+ bused buses busing bussed busses bussing
 busboy,noun
  busboys
 busby,noun
@@ -3422,7 +3422,7 @@ busby,noun
 busgirl,noun
  busgirls
 bush,verb,noun
- bushed bushes bushing -> [bushing]
+ bushed bushes bushing
 bushbaby,noun
  bushbabies
 bushel,noun
@@ -3458,7 +3458,7 @@ buskin,noun
 busload,noun
  busloads
 buss,verb,noun
- bussed -> [bus] busses -> [bus] bussing -> [bus]
+ bussed busses bussing
 bust,verb,adjective,noun
  busted busting busts
 buster,noun
@@ -3468,7 +3468,7 @@ bustier,noun
 bustle,verb,noun
  bustled bustles bustling
 busty,adjective
- bustier -> [bustier] bustiest
+ bustier bustiest
 busy,adjective,verb,noun
  busied busier busies busiest busily busying busyness
 busybody,noun

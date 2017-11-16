@@ -1259,7 +1259,7 @@ alkaloid,noun
  alkaloids
 alkyd,noun
  alkyds
-all,abbreviation,determiner<spanclass="listSeparator">,</span>predeterminer<spanclass="listSeparator">,</span>,pronoun,adverb
+all,abbreviation,determiner,predeterminer,pronoun,adverb
 all-around,noun,adjective
 allay,verb
  allayed allaying allays
