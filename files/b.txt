@@ -1001,7 +1001,7 @@ befit,verb
  befits befitted befitting befittingly
 befog,verb
  befogged befogging befogs
-before,preposition<spanclass="listSeparator">,</span>conjunction<spanclass="listSeparator">,</span>,adverb
+before,preposition,conjunction,adverb
 beforehand,adverb
 befoul,verb
  befouled befouling befouls
@@ -1195,7 +1195,7 @@ benign,adjective
  benigner benignest benignly
 benignant,adjective
 benignity,noun
-bent,</span></h3><spanclass="transitivity"></span><ulclass="semb"><li><divclass="trg"><p><spanclass="iteration"></span></p><divclass="crossReference">pastandpastparticipleof<ahref="/definition/bend">bend</a></div></div></li></ul></section><divclass="banbox"><divclass="container"></div><divclass="containermpu"></div></div><sectionclass="gramb"><h3class="pspos"><spanclass="pos">adjective,noun
+bent,adjective,noun
  bents
 bentwood,noun
 benumb,verb
@@ -2484,7 +2484,7 @@ botch,verb,noun
  bodge bodged bodges bodging botched botches botching
 botcher,noun
  botchers
-both,predeterminer<spanclass="listSeparator">,</span>determiner<spanclass="listSeparator">,</span>,pronoun,adverb
+both,predeterminer,determiner,pronoun,adverb
 bother,exclamation,verb,noun
  bothered bothering bothers
 botheration,exclamation,noun
