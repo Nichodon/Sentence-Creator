@@ -1,4882 +1,4880 @@
-pa
+pa,abbreviation,noun
  pas
-paan
+paan,noun
  paans
-pablum
-pabulum
-pace
+pablum,noun
+pabulum,noun
+pace,abbreviation,preposition,verb,noun
  paced paces pacing
-pacemaker
+pacemaker,noun
  pacemakers
-pacer
+pacer,noun
  pacers
-pacesetter
+pacesetter,noun
  pacesetters
-pacey
+pacey,adjective,noun
  pacier paciest pacy
-pachyderm
+pachyderm,noun
  pachyderms
-pachysandra
+pachysandra,noun
  pachysandras
-pacific
+pacific,adjective,noun
  pacifically
-pacification
-pacifier
+pacification,noun
+pacifier,noun
  pacifiers
-pacifism
-pacifist
+pacifism,noun
+pacifist,adjective,noun
  pacifists
-pacifistic
-pacify
+pacifistic,adjective
+pacify,verb
  pacified pacifies pacifying
-pack
+pack,verb,noun
  packed packing packs
-package
+package,verb,noun
  packaged packages packaging
-packager
+packager,noun
  packagers
-packer
+packer,noun
  packers
-packet
+packet,verb,noun
  packets
-packhorse
+packhorse,noun
  packhorses
-packinghouse
+packinghouse!
  packinghouses
-packsaddle
+packsaddle,noun
  packsaddles
-pact
+pact,noun
  pacts
-pad
+pad,verb,noun
  padded padding pads
-paddle
+paddle,verb,noun
  paddled paddles paddling
-paddleboat
+paddleboat,noun
  paddleboats
-paddler
+paddler,noun
  paddlers
-paddock
+paddock,verb,noun
  paddocked paddocking paddocks
-paddy
+paddy,noun
  paddies
-padlock
+padlock,verb,noun
  padlocked padlocking padlocks
-padre
+padre,noun
  padres
-paean
+paean,noun
  paeans
-paella
+paella,noun
  paellas
-pagan
+pagan,adjective,noun,propernoun
  pagans
-paganism
-page
+paganism,noun
+page,verb,noun
  paged pages paging
-pageant
+pageant,noun
  pageants
-pageantry
-pageboy
+pageantry,noun
+pageboy,noun
  pageboys
-pager
+pager,noun
  pagers
-paginate
+paginate,verb
  paginated paginates paginating
-pagination
-pagoda
+pagination,noun
+pagoda,noun
  pagodas
-pah
-pail
+pah,exclamation
+pail,noun
  pailful pailfuls pails pailsful
-pain
+pain,verb,noun
  pained painful painfuller painfullest painfully painfulness paining painless painlessly painlessness pains
-painkiller
+painkiller,noun
  painkillers
-painkilling
-painstaking
+painkilling,adjective
+painstaking,adjective
  painstakingly
-paint
+paint,verb,noun
  painted painting -> [painting] paints
-paintball
-paintbox
+paintball,noun
+paintbox,noun
  paintboxes
-paintbrush
+paintbrush,noun
  paintbrushes
-painter
+painter,noun
  painterly painters
-painting -> [paint]
+painting,noun
  paintings
-paintwork
-pair
+paintwork,noun
+pair,verb,noun
  paired pairing -> [pairing] pairs
-pairing -> [pair]
+pairing,noun
  pairings
-paisley
+paisley,noun,propernoun
  paisleys
-pajama
+pajama!
  pajamas pyjama pyjamas
-pakora
+pakora,noun
  pakoras
-pal
+pal,verb,noun
  palled -> [pall] palling -> [pall] pals
-palace
+palace,noun
  palaces
-paladin
+paladin,noun
  paladins
-palanquin
+palanquin,noun
  palanquins
-palatable
-palatal
+palatable,adjective
+palatal,adjective,noun
  palatals
-palatalization
+palatalization,noun
  palatalisation
-palatalize
+palatalize,verb
  palatalise palatalised palatalises palatalising palatalized palatalizes palatalizing
-palate
+palate,noun
  palates
-palatial
+palatial,adjective
  palatially
-palatinate
+palatinate,noun
  palatinates
-palatine
+palatine,adjective,noun
  palatines
-palaver
+palaver,verb,noun
  palavered palavering palavers
-pale
+pale,adjective,verb,noun
  paled palely paleness paler pales palest paling -> [paling] palish
-paleface
+paleface,noun
  palefaces
-paleographer
+paleographer,noun
  palaeographer palaeographers paleographers
-paleography
+paleography,noun
  palaeography
-paleolithic
+paleolithic,adjective
  palaeolithic
-paleontologist
+paleontologist,noun
  palaeontologist palaeontologists paleontologists
-paleontology
+paleontology,noun
  palaeontology
-palette
+palette,noun
  palettes
-palfrey
+palfrey,noun
  palfreys
-palimony
-palimpsest
+palimony,noun
+palimpsest,noun
  palimpsests
-palindrome
+palindrome,noun
  palindromes
-paling -> [pale]
+paling,noun
  palings
-palisade
+palisade,verb,noun
  palisades
-pall
+pall,verb,noun
  palled -> [pal] palling -> [pal] palls
-palladium
-pallbearer
+palladium,noun
+pallbearer,noun
  pallbearers
-pallet
+pallet,noun
  pallets
-palliate
+palliate,verb
  palliated palliates palliating
-palliation
-palliative
+palliation,noun
+palliative,adjective,noun
  palliatives
-pallid
+pallid,adjective
  pallider pallidest pallidly pallidness
-pallor
-pally
-palm
+pallor,noun
+pally,adjective
+palm,verb,noun
  palmed palming palms
-palmate
-palmcorder
+palmate,adjective
+palmcorder,noun
  palmcorders
-palmetto
+palmetto,noun
  palmettoes palmettos
-palmist
+palmist,noun
  palmists
-palmistry
-palmtop
+palmistry,noun
+palmtop,noun
  palmtops
-palmy
+palmy,adjective
  palmier palmiest
-palomino
+palomino,noun
  palominos
-palpable
+palpable,adjective
  palpably
-palpate
+palpate,verb
  palpated palpates palpating
-palpation
-palpitate
+palpation,noun
+palpitate,verb
  palpitated palpitates palpitating
-palpitation
+palpitation,noun
  palpitations
-palsy
+palsy,verb,noun
  palsied palsies palsying
-paltry
+paltry,adjective
  paltrier paltriest paltriness
-pampas
-pamper
+pampas,noun
+pamper,verb
  pampered pampering pampers
-pamphlet
+pamphlet,verb,noun
  pamphleted pamphleting pamphlets
-pamphleteer
+pamphleteer,verb,noun
  pamphleteers
-pan
+pan,verb,noun,propernoun
  panned panning pans
-panacea
+panacea,noun
  panaceas
-panache
-panama
+panache,noun
+panama,noun,propernoun
  panamas
-panatella
+panatella,noun
  panatellas
-pancake
+pancake,verb,noun
  pancaked pancakes pancaking
-panchromatic
-pancreas
+panchromatic,adjective
+pancreas,noun
  pancreases
-pancreatic
-panda
+pancreatic,adjective
+panda,noun
  pandas
-pandemic
+pandemic,adjective,noun
  pandemics
-pandemonium
-pander
+pandemonium,noun
+pander,verb,noun
  pandered pandering panders
-panderer
+panderer,noun
  panderers
-pandit
+pandit,noun
  pandits
-pane
+pane,noun
  panes
-panegyric
+panegyric,noun
  panegyrics
-panel
+panel,verb,noun
  paneled paneling panelled panelling panels
-panelist
+panelist,noun
  panelists panellist panellists
-panfry
+panfry,verb
  panfried panfries panfrying
-pang
+pang,adjective,noun
  pangs
-panhandle
+panhandle,verb,noun
  panhandled panhandles panhandling
-panhandler
+panhandler,noun
  panhandlers
-panic
+panic,verb,noun
  panicked panicking panics
-panicky
-panini
+panicky,adjective
+panini,noun,propernoun
  paninis
-pannier
+pannier,noun
  panier paniers panniers
-panoply
+panoply,noun
  panoplies
-panorama
+panorama,noun
  panoramas
-panoramic
-panpipes
-pansy
+panoramic,adjective
+panpipes,pluralnoun
+pansy,noun
  pansies
-pant
+pant,verb,noun
  panted panting pants -> [pants]
-pantaloons
-pantechnicon
+pantaloons,noun
+pantechnicon,noun
  pantechnicons
-pantheism
-pantheist
+pantheism,noun
+pantheist,noun
  pantheists
-pantheistic
-pantheon
+pantheistic,adjective
+pantheon,noun
  pantheons
-panther
+panther,noun
  panthers
-pantie
+pantie!
  panties panty
-panto
+panto,noun
  pantos
-pantomime
+pantomime,verb,noun
  pantomimed pantomimes pantomiming
-pantomimic
-pantomimist
+pantomimic,adjective
+pantomimist,noun
  pantomimists
-pantry
+pantry,noun
  pantries
-pants -> [pant]
-pantsuit
+pants,pluralnoun
+pantsuit,noun
  pantsuits
-pantyhose
-pantyliner
+pantyhose,pluralnoun
+pantyliner,noun
  pantyliners
-pantywaist
+pantywaist,adjective,noun
  pantywaists
-pap
+pap,adjective,verb,noun
  paps
-papa
+papa,noun
  papas poppa poppas
-papacy
+papacy,noun
  papacies
-papal
-paparazzo
+papal,adjective
+paparazzo,noun
  paparazzi
-papaw
+papaw,noun
  papaws pawpaw pawpaws
-papaya
+papaya,noun
  papayas
-paper
+paper,verb,noun
  papered papering paperless papers
-paperback
+paperback,adjective,noun
  paperbacks
-paperbark
+paperbark,noun
  paperbarks
-paperboard
-paperboy
+paperboard,noun
+paperboy,noun
  paperboys
-paperclip
+paperclip,noun
  paperclips
-paperer
+paperer,noun
  paperers
-papergirl
+papergirl,noun
  papergirls
-paperhanger
+paperhanger,noun
  paperhangers
-paperhanging
-paperknife
+paperhanging,noun
+paperknife,noun
  paperknives
-paper-thin
-paperweight
+paper-thin,adjective
+paperweight,noun
  paperweights
-paperwork
-papery
-papilla
+paperwork,noun
+papery,adjective
+papilla,noun
  papillae
-papillary
-papist
+papillary,adjective
+papist,adjective,noun
  papists
-papoose
+papoose,noun
  papooses
-pappy
+pappy,adjective,noun
  pappies
-paprika
-papyrus
+paprika,noun
+papyrus,noun
  papyri papyruses
-par
+par,verb,noun
  parred parring pars
-para
+para,noun,propernoun
  paras
-parable
+parable,noun
  parables
-parabola
+parabola,noun
  parabolas
-parabolic
-paracetamol
+parabolic,adjective
+paracetamol,noun
  paracetamols
-parachute
+parachute,verb,noun
  parachuted parachutes parachuting
-parachutist
+parachutist,noun
  parachutists
-parade
+parade,verb,noun
  paraded parades parading
-parader
+parader,noun
  paraders
-paradigm
+paradigm,noun
  paradigms
-paradigmatic
-paradisaical
-paradise
+paradigmatic,adjective
+paradisaical,adjective
+paradise,noun
  paradises
-paradox
+paradox,noun
  paradoxes
-paradoxical
+paradoxical,adjective
  paradoxically
-paraffin
-paraglider
+paraffin,noun
+paraglider,noun
  paragliders
-paragliding
-paragon
+paragliding,noun
+paragon,noun
  paragons
-paragraph
+paragraph,verb,noun
  paragraphed paragraphing paragraphs
-parakeet
+parakeet,noun
  parakeets parrakeet parrakeets
-paralegal
+paralegal,adjective,noun
  paralegals
-parallax
+parallax,noun
  parallaxes
-parallel
+parallel,adjective,verb,noun
  paralleled paralleling parallelled parallelling parallels
-parallelism
+parallelism,noun
  parallelisms
-parallelogram
+parallelogram,noun
  parallelograms
-paralysis
+paralysis,noun
  paralyses -> [paralyze]
-paralytic
+paralytic,adjective,noun
  paralytics
-paralyze
+paralyze,verb
  paralyse paralysed paralyses -> [paralysis] paralysing paralysingly paralyzed paralyzes paralyzing paralyzingly
-paramecium
+paramecium,noun
  paramecia parameciums
-paramedic
+paramedic,noun
  paramedics
-paramedical
+paramedical,adjective
  paramedicals
-parameter
+parameter,noun
  parameters
-parametric
-paramilitary
+parametric,adjective
+paramilitary,adjective,noun
  paramilitaries
-paramount
-paramountcy
-paramour
+paramount,adjective,propernoun
+paramountcy,noun
+paramour,noun
  paramours
-paranoia
-paranoiac
+paranoia,noun
+paranoiac,adjective,noun
  paranoiacs
-paranoid
+paranoid,adjective,noun
  paranoids
-paranormal
-parapet
+paranormal,adjective
+parapet,noun
  parapets
-paraphernalia
-paraphrase
+paraphernalia,noun
+paraphrase,verb,noun
  paraphrased paraphrases paraphrasing
-paraplegia
-paraplegic
+paraplegia,noun
+paraplegic,adjective,noun
  paraplegics
-paraprofessional
+paraprofessional,adjective,noun
  paraprofessionals
-parapsychologist
+parapsychologist,noun
  parapsychologists
-parapsychology
-paraquat
-parasailing
-parascending
-parasite
+parapsychology,noun
+paraquat,noun
+parasailing,verb,noun
+parascending,noun
+parasite,noun
  parasites
-parasitic
-parasitical
+parasitic,adjective
+parasitical,adjective
  parasitically
-parasitism
-parasol
+parasitism,noun
+parasol,noun
  parasols
-parasympathetic
-paratha
+parasympathetic,adjective
+paratha,noun
  parathas
-parathion
-parathyroid
+parathion,noun
+parathyroid,noun
  parathyroids
-paratroop
+paratroop!
  paratroops
-paratrooper
+paratrooper,noun
  paratroopers
-paratyphoid
-parboil
+paratyphoid,noun
+parboil,verb
  parboiled parboiling parboils
-parcel
+parcel,verb,noun
  parceled parceling parcelled parcelling parcels
-parch
+parch,verb
  parched parches parching
-parchment
+parchment,noun
  parchments
-pardner
+pardner,noun
  pardners
-pardon
+pardon,exclamation,verb,noun
  pardoned pardoning pardons
-pardonable
+pardonable,adjective
  pardonably
-pardoner
+pardoner,noun
  pardoners
-pare
+pare,verb
  pared pares paring -> [paring]
-paregoric
-parent
+paregoric,noun
+parent,verb,noun
  parented parenting parents
-parentage
-parental
-parenthesis
+parentage,noun
+parental,adjective,noun
+parenthesis,noun
  parentheses
-parenthesize
+parenthesize,verb
  parenthesise parenthesised parenthesises parenthesising parenthesized parenthesizes parenthesizing
-parenthetic
-parenthetical
+parenthetic,adjective
+parenthetical,adjective
  parenthetically
-parenthood
-parer
+parenthood,noun
+parer,noun
  parers
-paresis
-parfait
+paresis,noun
+parfait,noun
  parfaits
-pariah
+pariah,noun
  pariahs
-parietal
-parimutuel
+parietal,adjective,noun
+parimutuel,noun
  parimutuels
-paring -> [pare]
+paring,verb
  parings
-parish
+parish,noun
  parishes
-parishioner
+parishioner,noun
  parishioners
-parity
+parity,noun
  parities
-park
+park,verb,noun
  parked parking parks
-parka
+parka,noun
  parkas
-parkland
-parkour
-parkway
+parkland,noun
+parkour,noun
+parkway,noun
  parkways
-parky
-parlance
-parlay
+parky,adjective,noun
+parlance,noun
+parlay,verb,noun
  parlayed parlaying parlays
-parley
+parley,verb,noun
  parleyed parleying parleys
-parliament
+parliament,noun
  parliaments
-parliamentarian
+parliamentarian,adjective,noun
  parliamentarians
-parliamentary
-parlor
+parliamentary,adjective
+parlor,adjective,noun
  parlors parlour parlours
-parlormaid
+parlormaid,noun
  parlormaids parlourmaid parlourmaids
-parlous
-parmigiana
+parlous,adjective,adverb
+parmigiana,adjective
  parmigiano
-parochial
+parochial,adjective
  parochially
-parochialism
-parodist
+parochialism,noun
+parodist,noun
  parodists
-parody
+parody,verb,noun
  parodied parodies parodying
-parole
+parole,verb,noun
  paroled paroles paroling
-parolee
+parolee,noun
  parolees
-paroxysm
+paroxysm,noun
  paroxysms
-paroxysmal
-parquet
+paroxysmal,adjective
+parquet,noun
  parqueted parqueting parquets
-parquetry
-parricidal
-parricide
+parquetry,noun
+parricidal,adjective
+parricide,noun
  parricides
-parrot
+parrot,verb,noun
  parroted parroting parrots
-parry
+parry,verb,noun
  parried parries parrying
-parse
+parse,verb,noun
  parsed parses parsing
-parsec
+parsec,noun
  parsecs
-parsimonious
+parsimonious,adjective
  parsimoniously
-parsimony
-parsley
-parsnip
+parsimony,noun
+parsley,noun
+parsnip,noun
  parsnips
-parson
+parson,noun
  parsons
-parsonage
+parsonage,noun
  parsonages
-part
+part,verb,noun,adverb
  parted parting -> [parting] partly parts
-partake
+partake,verb
  partaken partakes partaking partook
-partaker
+partaker,noun
  partakers
-parterre
+parterre,noun
  parterres
-parthenogenesis
-partial
+parthenogenesis,noun
+partial,adjective,noun
  partially partials
-partiality
-participant
+partiality,noun
+participant,noun
  participants
-participate
+participate,verb
  participated participates participating
-participation
-participative
-participator
+participation,noun
+participative,adjective
+participator,noun
  participators
-participatory
-participial
-participle
+participatory,adjective
+participial,adjective
+participle,noun
  participles
-particle
+particle,noun
  particles
-particleboard
-particular
+particleboard,noun
+particular,adjective,noun
  particularly particulars
-particularity
+particularity,noun
  particularities
-particularization
+particularization,noun
  particularisation
-particularize
+particularize,verb
  particularise particularised particularises particularising particularized particularizes particularizing
-particulate
+particulate,adjective,noun
  particulates
-parting -> [part]
+parting,noun
  partings
-partisan
+partisan,adjective,noun
  partisans partizan partizans
-partisanship
+partisanship,noun
  partizanship
-partition
+partition,verb,noun
  partitioned partitioning partitions
-partitive
+partitive,adjective,noun
  partitives
-partner
+partner,verb,noun
  partnered partnering partners
-partnership
+partnership,noun
  partnerships
-partridge
+partridge,noun
  partridges
-part-time
-part-timer
+part-time,adjective,adverb
+part-timer,noun
  part-timers
-parturition
-partway
-party
+parturition,noun
+partway,adverb
+party,adjective,verb,noun
  partied parties partying
-partygoer
+partygoer,noun
  partygoers
-parvenu
+parvenu,noun
  parvenus
-pascal
+pascal,noun
  pascals
-paschal
-pasha
+paschal,adjective
+pasha,noun
  pashas
-pashmina
+pashmina,noun
  pashminas
-pass
+pass,verb,noun
  passed passes passing passingly
-passable
+passable,adjective
  passably
-passage
+passage,verb,noun
  passages
-passageway
+passageway,noun
  passageways
-passbook
+passbook,noun
  passbooks
-passe
-passel
+passe,adjective
+passel,noun
  passels
-passenger
+passenger,noun
  passengers
-passer
+passer,noun
  passers
-passerby
+passerby,noun
  passersby
-passim
-passion
+passim,adverb
+passion,noun
  passionless passions
-passionate
+passionate,adjective
  passionately
-passionflower
+passionflower,noun
  passionflowers
-passive
+passive,adjective,noun
  passively passiveness passives
-passivity
-passivization
+passivity,noun
+passivization,noun
  passivisation
-passivize
+passivize,verb
  passivise passivised passivises passivising passivized passivizes passivizing
-passkey
+passkey,noun
  passkeys
-passport
+passport,noun
  passports
-password
+password,noun
  passwords
-past
+past,adjective,preposition,noun,adverb
  pasts
-pasta
+pasta,noun
  pastas
-paste
+paste,verb,noun
  pasted pastes pasting
-pasteboard
-pastel
+pasteboard,noun
+pastel,adjective,noun
  pastels
-pastern
+pastern,noun
  pasterns
-pasteurization
+pasteurization,noun
  pasteurisation
-pasteurize
+pasteurize,verb
  pasteurise pasteurised pasteurises pasteurising pasteurized pasteurizes pasteurizing
-pasteurizer
+pasteurizer,noun
  pasteuriser pasteurisers pasteurizers
-pastiche
+pastiche,verb,noun
  pastiches
-pastille
+pastille,noun
  pastilles
-pastime
+pastime,noun
  pastimes
-pastor
+pastor,verb,noun
  pastors
-pastoral
+pastoral,adjective,noun
  pastorals
-pastoralism
-pastoralist
+pastoralism,noun
+pastoralist,noun
  pastoralists
-pastorate
+pastorate,noun
  pastorates
-pastrami
-pastry
+pastrami,noun
+pastry,noun
  pastries
-pasturage
-pasture
+pasturage,noun
+pasture,verb,noun
  pastured pastures pasturing
-pastureland
+pastureland,noun
  pasturelands
-pasty
+pasty,adjective,noun
  pastier pasties pastiest pastiness
-pat
+pat,adjective,verb,noun,adverb
  pats patted patting
-patch
+patch,verb,noun
  patched patches patching
-patchouli
-patchwork
+patchouli,noun
+patchwork,noun
  patchworks
-patchy
+patchy,adjective
  patchier patchiest patchily patchiness
-pate
+pate,noun
  pates
-patella
+patella,noun
  patellae patellas
-patent
+patent,adjective,verb,noun
  patented patenting patently patents
-pater
+pater,noun
  paters
-paterfamilias
+paterfamilias,noun
  paterfamiliases patresfamilias
-paternal
+paternal,adjective
  paternally
-paternalism
-paternalist
+paternalism,noun
+paternalist,adjective,noun
  paternalists
-paternalistic
-paternity
-paternoster
+paternalistic,adjective
+paternity,noun
+paternoster,noun
  paternosters
-path
+path,verb,noun
  pathless paths
-pathetic
+pathetic,adjective
  pathetically
-pathfinder
+pathfinder,noun,propernoun
  pathfinders
-pathogen
+pathogen,noun
  pathogens
-pathogenic
-pathological
+pathogenic,adjective
+pathological,adjective
  pathologically
-pathologist
+pathologist,noun
  pathologists
-pathology
+pathology,noun
  pathologies
-pathos
-pathway
+pathos,noun
+pathway,noun
  pathways
-patience
-patient
+patience,noun
+patient,adjective,noun
  patienter patientest patiently patients
-patina
+patina,noun
  patinae patinas
-patio
+patio,noun
  patios
-patisserie
+patisserie,noun
  patisseries
-patois
-patriarch
+patois,noun
+patriarch,noun
  patriarchs
-patriarchal
-patriarchate
+patriarchal,adjective
+patriarchate,noun
  patriarchates
-patriarchy
+patriarchy,noun
  patriarchies
-patrician
+patrician,adjective,noun
  patricians
-patricide
+patricide,noun
  patricides
-patrimonial
-patrimony
+patrimonial,adjective
+patrimony,noun
  patrimonies
-patriot
+patriot,noun
  patriots
-patriotic
+patriotic,adjective
  patriotically
-patriotism
-patrol
+patriotism,noun
+patrol,verb,noun
  patroled patroling patrolled patrolling patrols
-patrolman
+patrolman,noun
  patrolmen
-patrolwoman
+patrolwoman!
  patrolwomen
-patron
+patron,noun
  patrons
-patronage
-patroness
+patronage,noun
+patroness,noun
  patronesses
-patronize
+patronize,verb
  patronise patronised patronises patronising patronisingly patronized patronizes patronizing patronizingly
-patronizer
+patronizer,noun
  patroniser patronisers patronizers
-patronymic
+patronymic,adjective,noun
  patronymically patronymics
-patroon
+patroon,noun
  patroons
-patsy
+patsy,noun
  patsies
-patter
+patter,verb,noun
  pattered pattering patters
-pattern
+pattern,verb,noun
  patterned patterning patterns
-patty
+patty,noun
  patties
-paucity
-paunch
+paucity,noun
+paunch,verb,noun
  paunches
-paunchy
+paunchy,adjective
  paunchier paunchiest
-pauper
+pauper,noun
  paupers
-pauperism
-pauperize
+pauperism,noun
+pauperize,verb
  pauperise pauperised pauperises pauperising pauperized pauperizes pauperizing
-pause
+pause,verb,noun
  paused pauses pausing
-pave
+pave,verb,noun
  paved paves paving -> [paving]
-pavement
+pavement,noun
  pavements
-pavilion
+pavilion,noun
  pavilions
-paving -> [pave]
+paving,noun
  pavings
-pavlova
+pavlova,noun
  pavlovas
-paw
+paw,verb,noun
  pawed pawing paws
-pawl
+pawl,noun
  pawls
-pawn
+pawn,verb,noun
  pawned pawning pawns
-pawnbroker
+pawnbroker,noun
  pawnbrokers
-pawnbroking
-pawnshop
+pawnbroking,noun
+pawnshop,noun
  pawnshops
-pay
+pay,verb,noun
  paid payed paying pays
-payable
-payback
+payable,adjective,noun
+payback,noun
  paybacks
-paycheck
+paycheck,noun
  paychecks paycheque paycheques
-payday
+payday,noun
  paydays
-payee
+payee,noun
  payees
-payer
+payer,noun
  payers
-payload
+payload,noun
  payloads
-paymaster
+paymaster,noun
  paymasters
-payment
+payment,noun
  payments
-payoff
+payoff,noun
  payoffs
-payola
+payola,noun
  payolas
-payout
+payout,noun
  payouts
-pay-per-view
-payphone
+pay-per-view,noun
+payphone,noun
  payphones
-payroll
+payroll,noun
  payrolls
-payslip
+payslip,noun
  payslips
-paystub
+paystub!
  paystubs
-paywall
+paywall,noun
  paywalls
-pea
+pea,noun
  peas pease
-peace
+peace,noun
  peaceful peacefully peacefulness peaces
-peaceable
+peaceable,adjective
  peaceably
-peacekeeper
+peacekeeper,noun
  peacekeepers
-peacekeeping
-peacemaker
+peacekeeping,noun
+peacemaker,noun
  peacemakers
-peacemaking
-peacenik
+peacemaking,adjective,noun
+peacenik,noun
  peaceniks
-peacetime
-peach
+peacetime,noun
+peach,verb,noun
  peaches
-peachy
+peachy,adjective
  peachier peachiest
-peacock
+peacock,noun
  peacocks
-peafowl
+peafowl,noun
  peafowls
-peahen
+peahen,noun
  peahens
-peak
+peak,adjective,verb,noun
  peaked peaking peaks
-peaky
-peal
+peaky,adjective
+peal,verb,noun
  pealed pealing peals
-peanut
+peanut,noun
  peanuts
-pear
+pear,noun
  pears
-pearl
+pearl,verb,noun
  pearled pearling pearls
-pearly
+pearly,adjective,noun
  pearlier pearliest
-peasant
+peasant,noun
  peasants
-peasantry
-peashooter
+peasantry,noun
+peashooter,noun
  peashooters
-peat
-peaty
+peat,noun
+peaty,adjective
  peatier peatiest
-pebble
+pebble,adjective,noun
  pebbled pebbles pebbling
-pebbly
+pebbly,adjective
  pebblier pebbliest
-pecan
+pecan,noun
  pecans
-peccadillo
+peccadillo,noun
  peccadilloes peccadillos
-peccary
+peccary,noun
  peccaries
-peck
+peck,verb,noun
  pecked pecking pecks
-pecker
+pecker,noun
  peckers
-peckish
-pecs
-pectic
-pectin
-pectoral
+peckish,adjective
+pecs,propernoun
+pectic,adjective
+pectin,noun
+pectoral,adjective,noun
  pectorals
-peculate
+peculate,verb
  peculated peculates peculating
-peculation
-peculator
+peculation,noun
+peculator,noun
  peculators
-peculiar
+peculiar,adjective,noun
  peculiarly
-peculiarity
+peculiarity,noun
  peculiarities
-pecuniary
-pedagogic
-pedagogical
+pecuniary,adjective
+pedagogic,adjective,pluralnoun
+pedagogical,adjective
  pedagogically
-pedagogue
+pedagogue,noun
  pedagog pedagogs pedagogues
-pedagogy
-pedal
+pedagogy,noun
+pedal,adjective,verb,noun
  pedaled pedaling pedalled pedalling pedals
-pedalo
+pedalo,noun
  pedalos
-pedant
+pedant,noun
  pedants
-pedantic
+pedantic,adjective
  pedantically
-pedantry
-peddle
+pedantry,noun
+peddle,verb
  peddled peddles peddling
-peddler
+peddler,noun
  peddlers pedlar pedlars
-pederast
+pederast,noun
  paederast paederasts pederasts
-pederasty
+pederasty,noun
  paederasty
-pedestal
+pedestal,verb,noun
  pedestals
-pedestrian
+pedestrian,adjective,noun
  pedestrians
-pedestrianization
+pedestrianization,noun
  pedestrianisation
-pedestrianize
+pedestrianize,verb
  pedestrianise pedestrianised pedestrianises pedestrianising pedestrianized pedestrianizes pedestrianizing
-pediatric
+pediatric,adjective
  paediatric paediatrics pediatrics
-pediatrician
+pediatrician,noun
  paediatrician paediatricians pediatricians
-pedicab
+pedicab,noun
  pedicabs
-pedicure
+pedicure,verb,noun
  pedicured pedicures pedicuring
-pedicurist
+pedicurist,noun
  pedicurists
-pedigree
+pedigree,adjective,noun
  pedigreed pedigrees
-pediment
+pediment,noun
  pediments
-pedometer
+pedometer,noun
  pedometers
-pedophile
+pedophile,noun
  paedophile paedophiles pedophiles
-pedophilia
+pedophilia,noun
  paedophilia
-peduncle
+peduncle,noun
  peduncles
-pee
+pee,verb,noun
  peed peeing pees
-peek
+peek,verb,noun
  peeked peeking peeks
-peekaboo
-peel
+peekaboo,adjective,noun
+peel,verb,noun
  peeled peeling -> [peeling] peels
-peeler
+peeler,noun
  peelers
-peeling -> [peel]
+peeling,propernoun
  peelings
-peen
+peen,verb,noun
  peens
-peep
+peep,verb,noun
  peeped peeping peeps
-peepbo
-peeper
+peepbo,noun
+peeper,noun
  peepers
-peephole
+peephole,noun
  peepholes
-peepshow
+peepshow!
  peepshows
-peer
+peer,verb,noun
  peered peering peerless peers
-peerage
+peerage,noun
  peerages
-peeress
+peeress,noun
  peeresses
-peeve
+peeve,verb,noun
  peeved peeves peeving peevish peevishly peevishness
-peewee
+peewee,noun
  peewees pewee pewees
-peewit
+peewit,noun
  peewits pewit pewits
-peg
+peg,abbreviation,verb,noun
  pegged pegging pegs
-pegboard
+pegboard,noun
  pegboards
-peignoir
+peignoir,noun
  peignoirs
-pejoration
-pejorative
+pejoration,noun
+pejorative,adjective,noun
  pejoratively pejoratives
-peke
+peke,noun
  pekes
-pekingese
+pekingese,adjective,noun
  pekinese pekineses pekingeses
-pekoe
-pelagic
-pelf
-pelican
+pekoe,noun
+pelagic,adjective,noun
+pelf,noun
+pelican,noun
  pelicans
-pellagra
-pellet
+pellagra,noun
+pellet,verb,noun
  pelleted pelleting pellets
-pellmell
-pellucid
-pelmet
+pellmell,adjective,noun,adverb
+pellucid,adjective
+pelmet,noun
  pelmets
-pelota
-pelt
+pelota,noun
+pelt,verb,noun
  pelted pelting pelts
-pelvic
-pelvis
+pelvic,adjective
+pelvis,noun
  pelves pelvises
-pemmican
-pen
+pemmican,noun
+pen,abbreviation,verb,noun
  penned penning pens
-penal
-penalization
+penal,adjective
+penalization,noun
  penalisation
-penalize
+penalize,verb
  penalise penalised penalises penalising penalized penalizes penalizing
-penalty
+penalty,noun
  penalties
-penance
+penance,verb,noun
  penances
-penchant
+penchant,noun
  penchants
-pencil
+pencil,verb,noun
  penciled penciling pencilled pencilling pencils
-pend
+pend,verb,noun
  pended pending pends
-pendant -> [pendent]
+pendant,adjective,noun
  pendants pendent -> [pendent] pendents
-pendent -> [pendant]
+pendent,adjective
  pendant -> [pendant]
-pendulous
-pendulum
+pendulous,adjective
+pendulum,noun
  pendulums
-penetrable
+penetrable,adjective
  penetrability
-penetrate
+penetrate,verb
  penetrated penetrates penetrating penetratingly
-penetration
+penetration,noun
  penetrations
-penetrative
-penfriend
+penetrative,adjective
+penfriend,noun
  penfriends
-penguin
+penguin,noun
  penguins
-penicillin
-penile
-peninsula
+penicillin,noun
+penile,adjective
+peninsula,noun
  peninsulas
-peninsular
-penis
+peninsular,adjective
+penis,noun
  penes penises
-penitence
-penitent
+penitence,noun
+penitent,adjective,noun
  penitently penitents
-penitential
-penitentiary
+penitential,adjective
+penitentiary,noun
  penitentiaries
-penknife
+penknife,noun
  penknives
-penlight
+penlight,noun
  penlights penlite penlites
-penman
+penman,noun
  penmen
-penmanship
-pennant
+penmanship,noun
+pennant,noun
  pennants
-pennon
+pennon,noun
  pennons
-penny
+penny,noun
  pence pennies penniless
-pennyweight
+pennyweight,noun
  pennyweights
-pennyworth
-penologist
+pennyworth,noun
+penologist,noun
  penologists
-penology
-penpusher
+penology,noun
+penpusher,noun
  penpushers
-pension
+pension,verb,noun
  pensioned pensioning pensions
-pensionable
-pensioner
+pensionable,adjective
+pensioner,noun
  pensioners
-pensive
+pensive,adjective
  pensively pensiveness
-pent
-pentacle
+pent,adjective
+pentacle,noun
  pentacles
-pentagon
+pentagon,noun,propernoun
  pentagons
-pentagonal
-pentagram
+pentagonal,adjective
+pentagram,noun
  pentagrams
-pentameter
+pentameter,noun
  pentameters
-pentathlete
+pentathlete,noun
  pentathletes
-pentathlon
+pentathlon,noun
  pentathlons
-penthouse
+penthouse,noun
  penthouses
-pent-up
-penuche
-penultimate
+pent-up,adjective
+penuche,noun
+penultimate,adjective
  penultimates
-penumbra
+penumbra,noun
  penumbrae penumbras
-penurious
+penurious,adjective
  penuriously penuriousness
-penury
-peon
+penury,noun
+peon,noun
  peons
-peonage
-peony
+peonage,noun
+peony,noun
  peonies
-people -> [person]
+people,pluralnoun,verb
  peopled peoples peopling
-pep
+pep,abbreviation,verb,noun
  pepped pepping peps
-pepper
+pepper,verb,noun
  peppered peppering peppers
-peppercorn
+peppercorn,noun
  peppercorns
-peppermill
+peppermill,noun
  peppermills
-peppermint
+peppermint,noun
  peppermints
-pepperoni
+pepperoni,noun
  pepperonis
-pepperpot
+pepperpot,noun
  pepperpots
-peppery
-peppy
+peppery,adjective
+peppy,adjective
  peppier peppiest peppiness
-pepsin
-peptic
+pepsin,noun
+peptic,adjective
  peptics
-peptide
+peptide,noun
  peptides
-per
-peradventure
-perambulate
+per,preposition
+peradventure,noun,adverb
+perambulate,verb
  perambulated perambulates perambulating
-perambulation
+perambulation,noun
  perambulations
-perambulator
+perambulator,noun
  perambulators
-percale
+percale,noun
  percales
-perceivable
-perceive
+perceivable,adjective
+perceive,verb
  perceived perceives perceiving
-percent
+percent,noun,adverb
  percents
-percentage
+percentage,noun
  percentages
-percentile
+percentile,noun
  percentiles
-perceptible
+perceptible,adjective
  perceptibly
-perception
+perception,noun
  perceptions
-perceptional
-perceptive
+perceptional,adjective
+perceptive,adjective
  perceptively perceptiveness
-perceptual
+perceptual,adjective
  perceptually
-perch
+perch,verb,noun
  perched perches perching
-perchance
-percipience
-percipient
-percolate
+perchance,adverb
+percipience,noun
+percipient,adjective,noun
+percolate,verb
  percolated percolates percolating
-percolation
-percolator
+percolation,noun
+percolator,noun
  percolators
-percussion
-percussionist
+percussion,noun
+percussionist,noun
  percussionists
-percussive
-perdition
-perdurable
-peregrinate
+percussive,adjective
+perdition,noun
+perdurable,adjective
+peregrinate,verb
  peregrinated peregrinates peregrinating
-peregrination
+peregrination,noun
  peregrinations
-peregrine
+peregrine,adjective,noun
  peregrines
-peremptory
+peremptory,adjective
  peremptorily
-perennial
+perennial,adjective,noun
  perennially perennials
-perestroika
-perfect
+perestroika,noun
+perfect,adjective,verb,noun
  perfected perfecter perfectest perfecting perfectly perfectness perfects
-perfecta
+perfecta,noun
  perfectas
-perfectible
+perfectible,adjective
  perfectibility
-perfection
+perfection,noun
  perfections
-perfectionism
-perfectionist
+perfectionism,noun
+perfectionist,adjective,noun
  perfectionists
-perfidious
+perfidious,adjective
  perfidiously
-perfidy
+perfidy,noun
  perfidies
-perforate
+perforate,adjective,verb
  perforated perforates perforating
-perforation
+perforation,noun
  perforations
-perforce
-perform
+perforce,adverb
+perform,verb
  performed performing performs
-performance
+performance,noun
  performances
-performance-enhancing
-performer
+performance-enhancing,adjective
+performer,noun
  performers
-perfume
+perfume,verb,noun
  perfumed perfumes perfuming
-perfumer
+perfumer,noun
  perfumers
-perfumery
+perfumery,noun
  perfumeries
-perfunctory
+perfunctory,adjective
  perfunctorily
-pergola
+pergola,noun
  pergolas
-perhaps
-pericardium
+perhaps,adverb
+pericardium,noun
  pericardia pericardiums
-perigee
+perigee,noun
  perigees
-perihelion
+perihelion,noun
  perihelia perihelions
-peril
+peril,verb,noun
  periled periling perilled perilling perils
-perilous
+perilous,adjective
  perilously
-perimeter
+perimeter,noun
  perimeters
-perinatal
-perineum
+perinatal,adjective
+perineum,noun
  perinea
-period
+period,adjective,noun
  periods
-periodic
-periodical
+periodic,adjective
+periodical,adjective,noun
  periodically periodicals
-periodicity
-periodontal
-periodontics
-periodontist
+periodicity,noun
+periodontal,adjective
+periodontics,pluralnoun
+periodontist,noun
  periodontists
-peripatetic
+peripatetic,adjective,noun
  peripatetics
-peripheral
+peripheral,adjective,noun
  peripherally peripherals
-periphery
+periphery,noun
  peripheries
-periphrasis
+periphrasis,noun
  periphrases
-periphrastic
-periscope
+periphrastic,adjective
+periscope,noun
  periscopes
-perish
+perish,verb
  perished perishes perishing
-perishable
+perishable,adjective,noun
  perishables
-perisher
+perisher,noun
  perishers
-peristalsis
-peristaltic
-peristyle
+peristalsis,noun
+peristaltic,adjective
+peristyle,noun
  peristyles
-peritoneal
-peritoneum
+peritoneal,adjective
+peritoneum,noun
  peritonea peritoneums
-peritonitis
-periwig
+peritonitis,noun
+periwig,noun
  periwigs
-periwinkle
+periwinkle,noun
  periwinkles
-perjure
+perjure,verb
  perjured perjures perjuring
-perjurer
+perjurer,noun
  perjurers
-perjury
+perjury,noun
  perjuries
-perk
+perk,verb,noun
  perked perking perks
-perky
+perky,adjective
  perkier perkiest perkily perkiness
-perm
+perm,verb,noun,propernoun
  permed perming perms
-permafrost
-permanence
+permafrost,noun
+permanence,noun
  permanency
-permanent
+permanent,adjective,noun
  permanently permanents
-permeable
+permeable,adjective
  permeability
-permeate
+permeate,verb
  permeated permeates permeating
-permeation
-permissible
+permeation,noun
+permissible,adjective
  permissibly
-permission
+permission,noun
  permissions
-permissive
+permissive,adjective
  permissively permissiveness
-permit
+permit,verb,noun
  permits permitted permitting
-permutation
+permutation,noun
  permutations
-permute
+permute,verb
  permuted permutes permuting
-pernicious
+pernicious,adjective
  perniciously perniciousness
-peroration
+peroration,noun
  perorations
-peroxide
+peroxide,verb,noun
  peroxided peroxides peroxiding
-perp
+perp,noun
  perps
-perpendicular
+perpendicular,adjective,noun
  perpendicularly perpendiculars
-perpendicularity
-perpetrate
+perpendicularity,noun
+perpetrate,verb
  perpetrated perpetrates perpetrating
-perpetration
-perpetrator
+perpetration,noun
+perpetrator,noun
  perpetrators
-perpetual
+perpetual,adjective
  perpetually perpetuals
-perpetuate
+perpetuate,verb
  perpetuated perpetuates perpetuating
-perpetuation
-perpetuity
-perplex
+perpetuation,noun
+perpetuity,noun
+perplex,verb
  perplexed perplexedly perplexes perplexing
-perplexity
+perplexity,noun
  perplexities
-perquisite
+perquisite,noun
  perquisites
-perry
-persecute
+perry,noun
+persecute,verb
  persecuted persecutes persecuting
-persecution
+persecution,noun
  persecutions
-persecutor
+persecutor,noun
  persecutors
-perseverance
-persevere
+perseverance,noun
+persevere,verb
  persevered perseveres persevering
-persiflage
-persimmon
+persiflage,noun
+persimmon,noun
  persimmons
-persist
+persist,verb
  persisted persisting persists
-persistence
-persistent
+persistence,noun
+persistent,adjective
  persistently
-persnickety
+persnickety,adjective
  pernickety
-person
+person,noun
  people -> [people] persons
-persona
+persona,noun
  personae personas
-personable
-personage
+personable,adjective
+personage,noun
  personages
-personal
+personal,adjective,noun
  personally personals
-personality
+personality,noun
  personalities
-personalize
+personalize,verb
  personalise personalised personalises personalising personalized personalizes personalizing
-personalty
-personification
+personalty,noun
+personification,noun
  personifications
-personify
+personify,verb
  personified personifies personifying
-personnel
-perspective
+personnel,pluralnoun
+perspective,noun
  perspectives
-perspex
-perspicacious
+perspex,noun
+perspicacious,adjective
  perspicaciously
-perspicacity
-perspicuity
-perspicuous
-perspiration
-perspire
+perspicacity,noun
+perspicuity,noun
+perspicuous,adjective
+perspiration,noun
+perspire,verb
  perspired perspires perspiring
-persuadable
-persuade
+persuadable,adjective
+persuade,verb
  persuaded persuades persuading
-persuader
+persuader,noun
  persuaders
-persuasion
+persuasion,noun
  persuasions
-persuasive
+persuasive,adjective
  persuasively persuasiveness
-pert
+pert,adjective,abbreviation
  perter pertest pertly pertness
-pertain
+pertain,verb
  pertained pertaining pertains
-pertinacious
+pertinacious,adjective
  pertinaciously
-pertinacity
-pertinence
-pertinent
+pertinacity,noun
+pertinence,noun
+pertinent,adjective
  pertinently
-perturb
+perturb,verb
  perturbed perturbing perturbs
-perturbation
+perturbation,noun
  perturbations
-pertussis
-peruke
+pertussis,noun
+peruke,noun
  perukes
-perusal
+perusal,noun
  perusals
-peruse
+peruse,verb
  perused peruses perusing
-perv
+perv,verb,noun
  pervs
-pervade
+pervade,verb
  pervaded pervades pervading
-pervasive
+pervasive,adjective
  pervasively pervasiveness
-perverse
+perverse,adjective
  perversely perverseness
-perversion
+perversion,noun
  perversions
-perversity
+perversity,noun
  perversities
-pervert
+pervert,verb,noun
  perverted perverting perverts
-peseta
+peseta,noun
  pesetas
-pesky
+pesky,adjective
  peskier peskiest peskily peskiness
-peso
+peso,noun
  pesos
-pessary
+pessary,noun
  pessaries
-pessimism
-pessimist
+pessimism,noun
+pessimist,noun
  pessimists
-pessimistic
+pessimistic,adjective
  pessimistically
-pest
+pest,noun
  pests
-pester
+pester,verb
  pestered pestering pesters
-pesticide
+pesticide,noun
  pesticides
-pestiferous
-pestilence
+pestiferous,adjective
+pestilence,noun
  pestilences
-pestilent
-pestilential
-pestle
+pestilent,adjective
+pestilential,adjective
+pestle,verb,noun
  pestled pestles pestling
-pesto
-pet
+pesto,noun
+pet,abbreviation,verb,noun
  pets petted petting
-petal
+petal,noun
  petaled petalled petals
-petard
+petard,noun
  petards
-petcock
+petcock,noun
  petcocks
-peter
+peter,verb,verb,noun,noun
  petered petering peters
-petiole
+petiole,noun
  petioles
-petite
+petite,adjective
  petites
-petition
+petition,verb,noun
  petitioned petitioning petitions
-petitioner
+petitioner,noun
  petitioners
-petrel
+petrel,noun
  petrels
-petrifaction
-petrify
+petrifaction,noun
+petrify,verb
  petrified petrifies petrifying
-petrochemical
+petrochemical,adjective,noun
  petrochemicals
-petrodollar
+petrodollar,noun
  petrodollars
-petrol
-petrolatum
-petroleum
-petrologist
+petrol,noun
+petrolatum,noun
+petroleum,noun
+petrologist,noun
  petrologists
-petrology
-petticoat
+petrology,noun
+petticoat,noun
  petticoats
-pettifog
+pettifog,verb
  pettifogged pettifogging pettifogs
-pettifogger
+pettifogger,noun
  pettifoggers
-pettifoggery
-pettish
+pettifoggery,noun
+pettish,adjective
  pettishly
-petty
+petty,adjective
  pettier pettiest pettily pettiness
-petulance
-petulant
+petulance,noun
+petulant,adjective
  petulantly
-petunia
+petunia,noun
  petunias
-pew
+pew,noun
  pews
-pewter
+pewter,noun
  pewters
-peyote
+peyote,noun
  peyotes
-pfennig
+pfennig,noun
  pfennige pfennigs
-phaeton
+phaeton,noun
  phaetons
-phagocyte
+phagocyte,noun
  phagocytes
-phalanger
+phalanger,noun
  phalangers
-phalanx
+phalanx,noun
  phalanges phalanxes
-phallic
-phallus
+phallic,adjective
+phallus,noun
  phalli phalluses
-phantasm
+phantasm,noun
  phantasms
-phantasmagoria
+phantasmagoria,noun
  phantasmagorias
-phantasmagorical
-phantasmal
-phantom
+phantasmagorical,adjective
+phantasmal,adjective
+phantom,noun
  phantoms
-pharaoh
+pharaoh,noun
  pharaohs
-pharisaic
-pharisee
+pharisaic,adjective
+pharisee,noun
  pharisees
-pharmaceutic
+pharmaceutic,adjective,noun
  pharmaceutics
-pharmaceutical
+pharmaceutical,adjective,noun
  pharmaceuticals
-pharmacist
+pharmacist,noun
  pharmacists
-pharmacological
-pharmacologist
+pharmacological,adjective
+pharmacologist,noun
  pharmacologists
-pharmacology
-pharmacopoeia
+pharmacology,noun
+pharmacopoeia,noun
  pharmacopeia pharmacopeias pharmacopoeias
-pharmacy
+pharmacy,noun
  pharmacies
-pharyngeal
-pharyngitis
-pharynx
+pharyngeal,adjective,noun
+pharyngitis,noun
+pharynx,noun
  pharynges pharynxes
-phase
+phase,verb,noun
  phased phases phasing
-phaseout
+phaseout,noun
  phaseouts
-phat
+phat,adjective
  phatter phattest
-pheasant
+pheasant,noun
  pheasants
-phenacetin
-phenobarbital
-phenol
-phenom
+phenacetin,noun
+phenobarbital,noun
+phenol,noun
+phenom,noun
  phenoms
-phenomenal
+phenomenal,adjective
  phenomenally
-phenomenological
-phenomenology
-phenomenon
+phenomenological,adjective
+phenomenology,noun
+phenomenon,noun
  phenomena phenomenons
-phenotype
+phenotype,noun
  phenotypes
-pheromone
+pheromone,noun
  pheromones
-phew
-phi
+phew,exclamation
+phi,noun
  phis
-philander
+philander,verb
  philandered philandering philanders
-philanderer
+philanderer,noun
  philanderers
-philanthropic
+philanthropic,adjective
  philanthropically
-philanthropist
+philanthropist,noun
  philanthropists
-philanthropy
+philanthropy,noun
  philanthropies
-philatelic
-philatelist
+philatelic,adjective
+philatelist,noun
  philatelists
-philately
-philharmonic
+philately,noun
+philharmonic,adjective
  philharmonics
-philippic
+philippic,noun
  philippics
-philistine
+philistine,adjective,noun
  philistines
-philistinism
-philodendron
+philistinism,noun
+philodendron,noun
  philodendra philodendrons
-philological
-philologist
+philological,adjective
+philologist,noun
  philologists
-philology
-philosopher
+philology,noun
+philosopher,noun
  philosophers
-philosophic
-philosophical
+philosophic,adjective
+philosophical,adjective
  philosophically
-philosophize
+philosophize,verb
  philosophise philosophised philosophises philosophising philosophized philosophizes philosophizing
-philosophizer
+philosophizer,noun
  philosophiser philosophisers philosophizers
-philosophy
+philosophy,noun
  philosophies
-philter
+philter,noun
  philters philtre philtres
-phishing
-phlebitis
-phlegm
-phlegmatic
+phishing,noun
+phlebitis,noun
+phlegm,noun
+phlegmatic,adjective
  phlegmatically
-phloem
-phlox
+phloem,noun
+phlox,noun
  phloxes
-phobia
+phobia,noun
  phobias
-phobic
+phobic,adjective,noun
  phobics
-phoebe
+phoebe,noun,propernoun
  phoebes
-phoenix
+phoenix,noun,propernoun
  phoenixes
-phone
+phone,verb,noun
  phoned phones phoning
-phonecard
+phonecard,noun
  phonecards
-phoneme
+phoneme,noun
  phonemes
-phonemic
+phonemic,adjective
  phonemically
-phonetic
+phonetic,adjective
  phonetically phonetics
-phonetician
+phonetician,noun
  phoneticians
-phonic
+phonic,adjective
  phonically phonics
-phonograph
+phonograph,noun
  phonographs
-phonographic
-phonological
+phonographic,adjective
+phonological,adjective
  phonologically
-phonologist
+phonologist,noun
  phonologists
-phonology
-phony
+phonology,noun
+phony,adjective,noun
  phoney phoneyed phoneying phoneys phonied phonier phonies phoniest phoniness phonying
-phooey
-phosphate
+phooey,exclamation,noun
+phosphate,noun
  phosphates
-phosphor
+phosphor,noun
  phosphors
-phosphorescence
-phosphorescent
+phosphorescence,noun
+phosphorescent,adjective
  phosphorescently
-phosphoric
-phosphorous
-phosphorus
-photo
+phosphoric,adjective
+phosphorous,adjective
+phosphorus,noun
+photo,verb,noun
  photoed photoing photos
-photocall
+photocall,noun
  photocalls
-photocell
+photocell,noun
  photocells
-photocopier
+photocopier,noun
  photocopiers
-photocopy
+photocopy,verb,noun
  photocopied photocopies photocopying
-photoelectric
+photoelectric,adjective
  photoelectrically
-photoengrave
+photoengrave,verb
  photoengraved photoengraves photoengraving -> [photoengraving]
-photoengraver
+photoengraver,noun
  photoengravers
-photoengraving -> [photoengrave]
+photoengraving,noun
  photoengravings
-photofinishing
-photofit
+photofinishing,noun
+photofit,noun
  photofits
-photogenic
+photogenic,adjective
  photogenically
-photograph
+photograph,verb,noun
  photographed photographing photographs
-photographer
+photographer,noun
  photographers
-photographic
+photographic,adjective
  photographically
-photography
-photojournalism
-photojournalist
+photography,noun
+photojournalism,noun
+photojournalist,noun
  photojournalists
-photometer
+photometer,noun
  photometers
-photon
+photon,noun
  photons
-photosensitive
-photoshop
+photosensitive,adjective
+photoshop,verb
  photoshopped photoshopping photoshops
-photostat
+photostat,verb,noun
  photostated photostating photostats photostatted photostatting
-photostatic
-photosynthesis
-photosynthesize
+photostatic,adjective
+photosynthesis,noun
+photosynthesize,verb
  photosynthesise photosynthesised photosynthesises photosynthesising photosynthesized photosynthesizes photosynthesizing
-photosynthetic
-phrasal
-phrase
+photosynthetic,adjective
+phrasal,adjective
+phrase,verb,noun
  phrased phrases phrasing -> [phrasing]
-phrasebook
+phrasebook,noun
  phrasebooks
-phraseology
-phrasing -> [phrase]
+phraseology,noun
+phrasing,verb,noun
  phrasings
-phrenologist
+phrenologist,noun
  phrenologists
-phrenology
-phut
-phylactery
+phrenology,noun
+phut,exclamation
+phylactery,noun
  phylacteries
-phyllo
+phyllo,noun
  filo
-phylogeny
-phylum
+phylogeny,noun
+phylum,noun
  phyla phylums
-physic
+physic,verb,noun
  physicked physicking physics -> [physics]
-physical
+physical,adjective,noun
  physically physicals
-physicality
-physician
+physicality,noun
+physician,noun
  physicians
-physicist
+physicist,noun
  physicists
-physics -> [physic]
-physio
+physics,pluralnoun
+physio,noun
  physios
-physiognomy
+physiognomy,noun
  physiognomies
-physiography
-physiologic
-physiological
+physiography,noun
+physiologic,adjective
+physiological,adjective
  physiologically
-physiologist
+physiologist,noun
  physiologists
-physiology
-physiotherapist
+physiology,noun
+physiotherapist,noun
  physiotherapists
-physiotherapy
-physique
+physiotherapy,noun
+physique,noun
  physiques
-pi
+pi,adjective,noun
  pied -> [pied] pieing pies -> [pie] piing pis
-pianissimo
+pianissimo,adjective,noun,adverb
  pianissimi pianissimos
-pianist
+pianist,noun
  pianists
-piano
+piano,adjective,noun,adverb
  pianos
-pianoforte
+pianoforte,noun
  pianofortes
-pianola
+pianola,noun
  pianolas
-piaster
+piaster,noun
  piasters piastre piastres
-piazza
+piazza,noun
  piazzas piazze
-pibroch
+pibroch,noun
  pibrochs
-pic
+pic,noun
  pics pix
-pica
-picador
+pica,noun
+picador,noun
  picadors
-picante
-picaresque
-picayune
-piccalilli
-piccolo
+picante,adjective
+picaresque,adjective
+picayune,adjective,noun
+piccalilli,noun
+piccolo,noun
  piccolos
-pick
+pick,verb,noun
  picked picking -> [picking] picks
-pickax
+pickax,verb,noun
  pickaxe pickaxed pickaxes pickaxing
-picker
+picker,noun
  pickers
-pickerel
+pickerel,noun
  pickerels
-picket
+picket,verb,noun
  picketed picketing pickets
-picketer
+picketer,noun
  picketers
-picking -> [pick]
+picking,verb,noun
  pickings
-pickle
+pickle,verb,noun
  pickled pickles pickling
-pickpocket
+pickpocket,verb,noun
  pickpockets
-pickup
+pickup,adjective,noun
  pickups
-picky
+picky,adjective
  pickier pickiest
-picnic
+picnic,verb,noun
  picnicked picnicking picnics
-picnicker
+picnicker,noun
  picnickers
-picot
+picot,noun
  picots
-pictogram
+pictogram,noun
  pictograms
-pictograph
+pictograph,noun
  pictographs
-pictorial
+pictorial,adjective,noun
  pictorially pictorials
-picture
+picture,verb,noun
  pictured pictures picturing
-picture-perfect
-picturesque
+picture-perfect,adjective
+picturesque,adjective
  picturesquely picturesqueness
-piddle
+piddle,verb,noun
  piddled piddles piddling
-piddly
-pidgin
+piddly,adjective
+pidgin,noun
  pidgins
-pie
+pie,noun
  pies -> [pi]
-piebald
+piebald,adjective,noun
  piebalds
-piece
+piece,verb,noun
  pieced pieces piecing
-piecemeal
-piecework
-pieceworker
+piecemeal,adjective,adverb
+piecework,noun
+pieceworker,noun
  pieceworkers
-piecrust
+piecrust,noun
  piecrusts
-pied -> [pi]
-pier
+pied,adjective
+pier,noun
  piers
-pierce
+pierce,verb
  pierced pierces piercing -> [piercing]
-piercing -> [pierce]
+piercing,adjective,noun
  piercingly piercings
-pieta
+pieta,noun
  pietas
-piety
+piety,noun
  pieties
-piezoelectric
-piffle
+piezoelectric,adjective
+piffle,exclamation,noun
  piffling
-pig
+pig,verb,noun
  pigged pigging piggish piggishly piggishness pigs
-pigeon
+pigeon,noun
  pigeons
-pigeonhole
+pigeonhole,verb,noun
  pigeonholed pigeonholes pigeonholing
-piggery
+piggery,noun
  piggeries
-piggy
+piggy,adjective,noun
  piggier piggies piggiest
-piggyback
+piggyback,adjective,verb,noun,adverb
  pickaback pickabacked pickabacking pickabacks piggybacked piggybacking piggybacks
-piggybank
+piggybank!
  piggybanks
-pigheaded
+pigheaded,adjective
  pigheadedly pigheadedness
-piglet
+piglet,noun
  piglets
-pigment
+pigment,verb,noun
  pigmented pigments
-pigmentation
-pigpen
+pigmentation,noun
+pigpen,noun
  pigpens
-pigskin
+pigskin,noun
  pigskins
-pigsty
+pigsty,noun
  pigsties
-pigswill
-pigtail
+pigswill,noun
+pigtail,noun
  pigtails
-pike
+pike,verb,noun
  piked pikes piking
-piker
+piker,noun
  pikers
-pikestaff
+pikestaff,noun
  pikestaffs pikestaves
-pilaf
+pilaf,noun
  pilaff pilaffs pilafs pilau pilaus
-pilaster
+pilaster,noun
  pilasters
-pilchard
+pilchard,noun
  pilchards
-pile
+pile,verb,noun
  piled piles piling -> [piling]
-piledriver
+piledriver,noun
  piledrivers
-pileup
+pileup,noun
  pileups
-pilfer
+pilfer,verb
  pilfered pilfering pilfers
-pilferage
-pilferer
+pilferage,noun
+pilferer,noun
  pilferers
-pilgrim
+pilgrim,verb,noun
  pilgrims
-pilgrimage
+pilgrimage,verb,noun
  pilgrimages
-piling -> [pile]
+piling,noun
  pilings
-pill
+pill,verb,noun
  pilled pilling pills
-pillage
+pillage,verb,noun
  pillaged pillages pillaging
-pillager
+pillager,noun
  pillagers
-pillar
+pillar,noun
  pillared pillars
-pillbox
+pillbox,noun
  pillboxes
-pillion
+pillion,noun
  pillions
-pillock
+pillock,noun
  pillocks
-pillory
+pillory,verb,noun
  pilloried pillories pillorying
-pillow
+pillow,verb,noun
  pillowed pillowing pillows
-pillowcase
+pillowcase,noun
  pillowcases
-pillowslip
+pillowslip,noun
  pillowslips
-pilot
+pilot,adjective,verb,noun
  piloted piloting pilots
-pilothouse
+pilothouse,noun
  pilothouses
-pimento
+pimento,noun
  pimentos pimiento pimientos
-pimp
+pimp,verb,noun
  pimped pimping pimps
-pimpernel
+pimpernel,noun
  pimpernels
-pimple
+pimple,noun
  pimpled pimples
-pimply
+pimply,adjective
  pimplier pimpliest
-pin
+pin,verb,noun
  pinned pinning pins
-pinafore
+pinafore,noun
  pinafores
-pinata
+pinata,noun
  pinatas
-pinball
-pincer
+pinball,noun
+pincer,noun
  pincers
-pinch
+pinch,verb,noun
  pinched pinches pinching
-pincushion
+pincushion,noun
  pincushions
-pine
+pine,verb,noun
  pined pines pining
-pineapple
+pineapple,noun
  pineapples
-pinecone
+pinecone,noun
  pinecones
-pinewood
+pinewood,noun
  pinewoods
-pinfeather
+pinfeather,noun
  pinfeathers
-ping
+ping,verb,noun
  pinged pinging pings
-ping-pong
-pinhead
+ping-pong,noun
+pinhead,noun
  pinheads
-pinhole
+pinhole,noun
  pinholes
-pinion
+pinion,verb,noun
  pinioned pinioning pinions
-pink
+pink,adjective,verb,noun
  pinked pinker pinkest pinking pinkish pinkness pinks
-pinkeye
-pinkie
+pinkeye,noun
+pinkie,noun
  pinkies pinky
-pinko
+pinko,noun
  pinkoes pinkos
-pinnacle
+pinnacle,verb,noun
  pinnacles
-pinnate
-pinny
+pinnate,adjective
+pinny,noun
  pinnies
-pinochle
+pinochle,noun
  pinocle
-pinon
+pinon,noun
  pinones pinons pinyon pinyons
-pinpoint
+pinpoint,adjective,verb,noun
  pinpointed pinpointing pinpoints
-pinprick
+pinprick,noun
  pinpricks
-pinsetter
+pinsetter,noun
  pinsetters
-pinstripe
+pinstripe,noun
  pinstriped pinstripes
-pint
+pint,noun
  pints
-pinto
+pinto,adjective,noun
  pintoes pintos
-pinup
+pinup,noun
  pinups
-pinwheel
+pinwheel,verb,noun
  pinwheeled pinwheeling pinwheels
-piny
+piny,adjective
  piney pinier piniest
-pinyin
-pioneer
+pinyin,noun
+pioneer,verb,noun,propernoun
  pioneered pioneering pioneers
-pious
+pious,adjective
  piously piousness
-pip
+pip,verb,noun
  pipped pipping pips
-pipe
+pipe,verb,noun
  piped pipes piping
-pipeline
+pipeline,verb,noun
  pipelines
-piper
+piper,noun
  pipers
-pipette
+pipette,verb,noun
  pipettes
-pipework
-pipit
+pipework,noun
+pipit,noun
  pipits
-pippin
+pippin,noun
  pippins
-pipsqueak
+pipsqueak,noun
  pipsqueaks
-piquancy
-piquant
+piquancy,noun
+piquant,adjective
  piquantly
-pique
+pique,verb,noun
  piqued piques piquing
-piracy
-piranha
+piracy,noun
+piranha,noun
  piranhas
-pirate
+pirate,verb,noun
  pirated pirates pirating
-piratical
+piratical,adjective
  piratically
-pirogi
-piroshki
-pirouette
+pirogi,noun
+piroshki,pluralnoun
+pirouette,verb,noun
  pirouetted pirouettes pirouetting
-piscatorial
-pismire
+piscatorial,adjective
+pismire,noun
  pismires
-piss
+piss,verb,noun
  pissed pisses pissing
-pisser
+pisser,noun
  pissers
-pissoir
+pissoir,noun
  pissoirs
-pistachio
+pistachio,noun
  pistachios
-piste
+piste,noun
  pistes
-pistil
+pistil,noun
  pistils
-pistillate
-pistol
+pistillate,adjective
+pistol,verb,noun
  pistols
-piston
+piston,noun
  pistons
-pit
+pit,verb,noun
  pits pitted pitting
-pita
+pita,abbreviation
  pitas pitta pittas
-pitapat
+pitapat,noun,adverb
  pitapats
-pitch
+pitch,verb,noun
  pitched pitches pitching
-pitchblende
-pitcher
+pitchblende,noun
+pitcher,noun
  pitchers
-pitchfork
+pitchfork,verb,noun
  pitchforked pitchforking pitchforks
-pitchman
+pitchman,noun
  pitchmen
-piteous
+piteous,adjective
  piteously piteousness
-pitfall
+pitfall,noun
  pitfalls
-pith
-pithead
+pith,verb,noun
+pithead,noun
  pitheads
-pithy
+pithy,adjective
  pithier pithiest pithily pithiness
-pitiable
+pitiable,adjective
  pitiably
-pitiful
+pitiful,adjective
  pitifully
-piton
+piton,noun
  pitons
-pittance
+pittance,noun
  pittances
-pituitary
+pituitary,adjective,noun
  pituitaries
-pity
+pity,verb,noun
  pitied pities pitiless pitilessly pitilessness pitying pityingly
-pivot
+pivot,verb,noun
  pivoted pivoting pivots
-pivotal
-pixel
+pivotal,adjective
+pixel,noun
  pixels
-pixelated
+pixelated,verb
  pixellated
-pixie
+pixie,noun
  pixies pixy
-pizza
+pizza,noun
  pizzas
-pizzazz
+pizzazz,noun
  pizazz pzazz
-pizzeria
+pizzeria,noun
  pizzerias
-pizzicato
+pizzicato,adjective,noun,adverb
  pizzicati pizzicatos
-placard
+placard,verb,noun
  placarded placarding placards
-placate
+placate,verb
  placated placates placating
-placation
-placatory
-place
+placation,noun
+placatory,adjective
+place,verb,noun
  placed places placing -> [placing]
-placebo
+placebo,noun
  placeboes placebos
-placeholder
+placeholder,noun
  placeholders
-placekick
+placekick,verb,noun
  placekicked placekicking placekicks
-placekicker
+placekicker,noun
  placekickers
-placemat
+placemat,noun
  placemats
-placement
+placement,noun
  placements
-placenta
+placenta,noun
  placentae placentas
-placental
-placer
+placental,adjective,noun
+placer,noun
  placers
-placid
+placid,adjective
  placidly
-placidity
-placing -> [place]
+placidity,noun
+placing,noun
  placings
-placket
+placket,noun
  plackets
-plagiarism
+plagiarism,noun
  plagiarisms
-plagiarist
+plagiarist,noun
  plagiarists
-plagiarize
+plagiarize,verb
  plagiarise plagiarised plagiarises plagiarising plagiarized plagiarizes plagiarizing
-plagiarizer
+plagiarizer,noun
  plagiariser plagiarisers plagiarizers
-plagiary
-plague
+plagiary!
+plague,verb,noun
  plagued plagues plaguing
-plaice
-plaid
+plaice,noun
+plaid,noun
  plaids
-plain
+plain,adjective,verb,noun,adverb
  plainer plainest plainly plainness plains
-plainchant
-plainclothes
-plainclothesman
+plainchant,noun
+plainclothes,pluralnoun
+plainclothesman,noun
  plainclothesmen
-plainsman
+plainsman,noun
  plainsmen
-plainsong
-plainspoken
-plaint
+plainsong,noun
+plainspoken,adjective
+plaint,noun
  plaints
-plaintiff
+plaintiff,noun
  plaintiffs
-plaintive
+plaintive,adjective
  plaintively
-plait
+plait,verb,noun
  plaited plaiting plaits
-plan
+plan,verb,noun
  planned planning plans
-plane
+plane,adjective,verb,noun
  planed planes planing
-planeload
+planeload,noun
  planeloads
-planer
+planer,noun
  planers
-planet
+planet,noun
  planets
-planetarium
+planetarium,noun
  planetaria planetariums
-planetary
-plangency
-plangent
-plank
+planetary,adjective
+plangency,noun
+plangent,adjective
+plank,verb,noun
  planked planking planks
-plankton
-planner
+plankton,noun
+planner,noun
  planners
-plant
+plant,verb,noun
  planted planting -> [planting] plantlike plants
-plantain
+plantain,noun
  plantains
-plantar
-plantation
+plantar,adjective
+plantation,noun
  plantations
-planter
+planter,noun
  planters
-planting -> [plant]
+planting,verb,noun
  plantings
-plaque
+plaque,noun
  plaques
-plash
+plash,verb,noun
  plashed plashes plashing
-plasma
-plaster
+plasma,noun
+plaster,verb,noun
  plastered plastering plasters
-plasterboard
-plasterer
+plasterboard,noun
+plasterer,noun
  plasterers
-plastic
+plastic,adjective,noun
  plastics
-plasticine
-plasticity
-plasticize
+plasticine,noun
+plasticity,noun
+plasticize,verb
  plasticise plasticised plasticises plasticising plasticized plasticizes plasticizing
-plastique!
-plat
+plastique,noun
+plat,verb,verb,noun,noun
  plats platted platting
-plate
+plate,verb,noun
  plated plateful platefuls plates plating
-plateau
+plateau,verb,noun
  plateaued plateauing plateaus plateaux
-platelet
+platelet,noun
  platelets
-platen
+platen,noun
  platens
-platform
+platform,noun
  platformed platforming platforms
-platinum
-platitude
+platinum,noun
+platitude,noun
  platitudes
-platitudinous
-platonic
-platoon
+platitudinous,adjective
+platonic,adjective
+platoon,verb,noun
  platooned platooning platoons
-platter
+platter,noun
  platters
-platy
+platy,noun
  platies platys
-platypus
+platypus,noun
  platypi platypuses
-plaudit
+plaudit,pluralnoun
  plaudits
-plausible
+plausible,adjective
  plausibility plausibly
-play
+play,verb,noun
  played playful playfully playfulness playing plays
-playable
-playact
+playable,adjective
+playact,verb
  playacted playacting playacts
-playback
+playback,noun
  playbacks
-playbill
+playbill,noun
  playbills
-playbook
+playbook,noun
  playbooks
-playboy
+playboy,noun
  playboys
-play-by-play
+play-by-play,noun
  play-by-plays
-playdate
+playdate,noun
  playdates
-player
+player,noun
  players
-playfellow
+playfellow,noun
  playfellows
-playgirl
+playgirl,noun
  playgirls
-playgoer
+playgoer,noun
  playgoers
-playground
+playground,noun
  playgrounds
-playgroup
+playgroup,noun
  playgroups
-playhouse
+playhouse,noun
  playhouses
-playlist
+playlist,verb,noun
  playlists
-playmate
+playmate,noun
  playmates
-playoff
+playoff,noun
  playoffs
-playpen
+playpen,noun
  playpens
-playroom
+playroom,noun
  playrooms
-playschool
+playschool,noun
  playschools
-plaything
+plaything,noun
  playthings
-playtime
+playtime,noun
  playtimes
-playwright
+playwright,noun
  playwrights
-plaza
+plaza,noun
  plazas
-plea
+plea,noun
  pleas
-plead
+plead,verb
  pleaded pleading -> [pleading] pleads pled
-pleader
+pleader,noun
  pleaders
-pleading -> [plead]
+pleading,noun
  pleadingly pleadings
-pleasant
+pleasant,adjective
  pleasanter pleasantest pleasantly pleasantness
-pleasantry
+pleasantry,noun
  pleasantries
-please
+please,verb,adverb
  pleased pleases pleasing pleasingly
-pleasurable
+pleasurable,adjective
  pleasurably
-pleasure
+pleasure,adjective,verb,noun
  pleasured pleasureful pleasures pleasuring
-pleat
+pleat,verb,noun
  pleated pleating pleats
-pleb
+pleb,noun
  plebs
-plebby
-plebe
+plebby,adjective
+plebe,noun
  plebes
-plebeian
+plebeian,adjective,noun
  plebeians
-plebiscite
+plebiscite,noun
  plebiscites
-plectrum
+plectrum,noun
  plectra plectrums
-pledge
+pledge,verb,noun
  pledged pledges pledging
-plenary
+plenary,adjective,noun
  plenaries
-plenipotentiary
+plenipotentiary,adjective,noun
  plenipotentiaries
-plenitude
+plenitude,noun
  plenitudes
-plenteous
-plenty
+plenteous,adjective
+plenty,noun,adverb,pronoun
  plentiful plentifully
-plenum
+plenum,noun
  plenums
-pleonasm
+pleonasm,noun
  pleonasms
-plethora
-pleura
+plethora,noun
+pleura,noun
  pleurae
-pleurisy
-plexiglass
-plexus
+pleurisy,noun
+plexiglass,noun
+plexus,noun
  plexuses
-pliable
+pliable,adjective
  pliability
-pliancy
-pliant
+pliancy,noun
+pliant,adjective
  pliantly
-pliers
-plight
+pliers,pluralnoun
+plight,verb,noun
  plighted plighting plights
-plimsoll
+plimsoll,noun
  plimsolls
-plinth
+plinth,noun
  plinths
-plod
+plod,verb,noun
  plodded plodding plods
-plodder
+plodder,noun
  plodders
-plonk
+plonk,verb,noun
  plonked plonking plonks
-plonker
+plonker,noun
  plonkers
-plop
+plop,verb,noun
  plopped plopping plops
-plosive
+plosive,adjective,noun
  plosives
-plot
+plot,verb,noun
  plots plotted plotting
-plotter
+plotter,noun
  plotters
-plover
+plover,noun
  plovers
-plow
+plow,verb,noun
  plough ploughed ploughing ploughs plowed plowing plows
-plowman
+plowman,noun
  ploughman ploughmen plowmen
-plowshare
+plowshare,noun
  ploughshare ploughshares plowshares
-ploy
+ploy,noun
  ploys
-pluck
+pluck,verb,noun
  plucked plucking plucks
-plucky
+plucky,adjective
  pluckier pluckiest pluckily pluckiness
-plug
+plug,verb,noun
  plugged plugging plugs
-plughole
+plughole,noun
  plugholes
-plug-in
+plug-in,adjective,noun
  plug-ins
-plum
+plum,noun,adverb
  plummer plummest plums
-plumage
-plumb
+plumage,noun
+plumb,adjective,verb,noun,adverb
  plumbed plumbing plumbs
-plumber
+plumber,noun
  plumbers
-plume
+plume,verb,noun
  plumed plumes pluming
-plummet
+plummet,verb,noun
  plummeted plummeting plummets
-plummy
-plump
+plummy,adjective
+plump,adjective,verb,noun,adverb
  plumped plumper plumpest plumping plumply plumpness plumps
-plumy
+plumy,adjective
  plumier plumiest
-plunder
+plunder,verb,noun
  plundered plundering plunders
-plunderer
+plunderer,noun
  plunderers
-plunge
+plunge,verb,noun
  plunged plunges plunging
-plunger
+plunger,noun
  plungers
-plunk
+plunk,verb,noun
  plunked plunking plunks
-pluperfect
+pluperfect,adjective,noun
  pluperfects
-plural
+plural,adjective,noun
  plurals
-pluralism
-pluralist
+pluralism,noun
+pluralist,adjective,noun
  pluralists
-pluralistic
-plurality
+pluralistic,adjective
+plurality,noun
  pluralities
-pluralization
+pluralization,noun
  pluralisation
-pluralize
+pluralize,verb
  pluralise pluralised pluralises pluralising pluralized pluralizes pluralizing
-plus
+plus,adjective,preposition,conjunction,noun
  pluses plusses
-plush
+plush,adjective,noun
  plusher plushest plushly plushness
-plushy
+plushy,adjective,noun
  plushier plushiest
-plutocracy
+plutocracy,noun
  plutocracies
-plutocrat
+plutocrat,noun
  plutocrats
-plutocratic
-plutonium
-pluvial
-ply
+plutocratic,adjective
+plutonium,noun
+pluvial,adjective,noun
+ply,verb,noun
  plied plies plying
-plywood
-pneumatic
+plywood,noun
+pneumatic,adjective,noun
  pneumatically
-pneumonia
-poach
+pneumonia,noun
+poach,verb
  poached poaches poaching
-poacher
+poacher,noun
  poachers
-pock
+pock,noun
  pocked pocks
-pocket
+pocket,adjective,verb,noun
  pocketed pocketful pocketfuls pocketing pockets pocketsful
-pocketbook
+pocketbook,noun
  pocketbooks
-pocketknife
+pocketknife,noun
  pocketknives
-pockmark
+pockmark,verb,noun
  pockmarked pockmarking pockmarks
-pod
+pod,verb,noun
  podded podding pods
-podcast
+podcast,verb,noun
  podcasting podcasts
-podiatrist
+podiatrist,noun
  podiatrists
-podiatry
-podium
+podiatry,noun
+podium,verb,noun
  podia podiums
-poem
+poem,noun
  poems
-poesy
-poet
+poesy,noun
+poet,noun
  poets
-poetaster
+poetaster,noun
  poetasters
-poetess
+poetess,noun
  poetesses
-poetic
-poetical
+poetic,adjective
+poetical,adjective
  poetically
-poetry
-pogrom
+poetry,noun
+pogrom,noun
  pogroms
-poi
-poignancy
-poignant
+poi,noun
+poignancy,noun
+poignant,adjective
  poignantly
-poinciana
+poinciana,noun
  poincianas
-poinsettia
+poinsettia,noun
  poinsettias
-point
+point,verb,noun
  pointed pointedly pointing pointless pointlessly pointlessness points
-pointblank
-pointer
+pointblank,adjective,adverb
+pointer,noun
  pointers
-pointillism
-pointillist
+pointillism,noun
+pointillist,adjective,noun
  pointillists
-pointy
+pointy,adjective
  pointier pointiest
-poise
+poise,verb,noun
  poised poises poising
-poison
+poison,verb,noun
  poisoned poisoning -> [poisoning] poisons
-poisoner
+poisoner,noun
  poisoners
-poisoning -> [poison]
+poisoning,verb,noun
  poisonings
-poisonous
+poisonous,adjective
  poisonously
-poke
+poke,verb,noun
  poked pokes poking
-poker
+poker,noun
  pokers
-pokey -> [poky]
+pokey,noun
  pokeys
-poky
+poky,adjective
  pokey -> [pokey] pokier pokiest
-pol
+pol,noun
  pols
-polar
-polarity
+polar,adjective,noun
+polarity,noun
  polarities
-polarization
+polarization,noun
  polarisation
-polarize
+polarize,verb
  polarise polarised polarises polarising polarized polarizes polarizing
-pole
+pole,verb,noun
  poled poles poling
-poleax
+poleax,verb,noun
  poleaxe poleaxed poleaxes poleaxing
-polecat
+polecat,noun
  polecats
-polemic
+polemic,adjective,noun
  polemics
-polemical
+polemical,adjective
  polemically
-polemicist
+polemicist,noun
  polemicists
-polenta
-polestar
- polestars
-police
+polenta,noun
+police,verb,noun
  policed polices policing
-policeman
+policeman,noun
  policemen
-policewoman
+policewoman,noun
  policewomen
-policy
+policy,noun
  policies
-policyholder
+policyholder,noun
  policyholders
-policymaker
+policymaker,noun
  policymakers
-polio
-poliomyelitis
-polish
+polio,noun
+poliomyelitis,noun
+polish,adjective,verb,noun
  polished polishes polishing
-polisher
+polisher,noun
  polishers
-politburo
+politburo,noun
  politburos
-polite
+polite,adjective
  politely politeness politer politest
-politesse
-politic
+politesse,noun
+politic,adjective,verb
  politicking politics
-political
+political,adjective
  politically
-politician
+politician,noun
  politicians
-politicization
+politicization,noun
  politicisation
-politicize
+politicize,verb
  politicise politicised politicises politicising politicized politicizes politicizing
-politico
+politico,noun
  politicoes politicos
-polity
+polity,noun
  polities
-polka
+polka,verb,noun
  polkaed polkaing polkas
-poll
+poll,verb,noun
  polled polling polls
-pollack
+pollack,noun
  pollacks pollock pollocks
-pollard
+pollard,verb,noun
  pollards
-pollen
-pollinate
+pollen,noun
+pollinate,verb
  pollinated pollinates pollinating
-pollination
-pollinator
+pollination,noun
+pollinator,noun
  pollinators
-polliwog
+polliwog,noun
  polliwogs pollywog pollywogs
-pollster
+pollster,noun
  pollsters
-pollutant
+pollutant,noun
  pollutants
-pollute
+pollute,verb
  polluted pollutes polluting
-polluter
+polluter,noun
  polluters
-pollution
-polo
-polonaise
+pollution,noun
+polo,noun
+polonaise,adjective,noun
  polonaises
-polonium
-poltergeist
+polonium,noun
+poltergeist,noun
  poltergeists
-poltroon
+poltroon,noun
  poltroons
-poly
+poly,noun
  polys
-polyamory!
-polyandrous
-polyandry
-polyclinic
+polyamory,noun
+polyandrous,adjective
+polyandry,noun
+polyclinic,noun
  polyclinics
-polyester
+polyester,noun
  polyesters
-polyethylene
-polygamist
+polyethylene,noun
+polygamist,noun
  polygamists
-polygamous
-polygamy
-polyglot
+polygamous,adjective
+polygamy,noun
+polyglot,adjective,noun
  polyglots
-polygon
+polygon,noun
  polygons
-polygonal
-polygraph
+polygonal,adjective
+polygraph,noun
  polygraphed polygraphing polygraphs
-polyhedral
-polyhedron
+polyhedral,adjective
+polyhedron,noun
  polyhedra polyhedrons
-polymath
+polymath,noun
  polymaths
-polymer
+polymer,noun
  polymers
-polymeric
-polymerization
+polymeric,adjective
+polymerization,noun
  polymerisation
-polymerize
+polymerize,verb
  polymerise polymerised polymerises polymerising polymerized polymerizes polymerizing
-polymorphic
-polymorphous
-polynomial
+polymorphic,adjective
+polymorphous,adjective
+polynomial,adjective,noun
  polynomials
-polyp
+polyp,noun
  polyps
-polyphonic
-polyphony
-polypropylene
-polysemous
-polysemy
-polystyrene
-polysyllabic
-polysyllable
+polyphonic,adjective
+polyphony,noun
+polypropylene,noun
+polysemous,adjective
+polysemy,noun
+polystyrene,noun
+polysyllabic,adjective
+polysyllable,noun
  polysyllables
-polytechnic
+polytechnic,noun
  polytechnics
-polytheism
-polytheist
+polytheism,noun
+polytheist,noun
  polytheists
-polytheistic
-polythene
-polyunsaturate
+polytheistic,adjective
+polythene,noun
+polyunsaturate,pluralnoun
  polyunsaturated polyunsaturates
-polyurethane
+polyurethane,verb,noun
  polyurethanes
-polyvinyl
-pom
+polyvinyl,adjective
+pom,noun
  poms
-pomade
+pomade,verb,noun
  pomaded pomades pomading
-pomander
+pomander,noun
  pomanders
-pomegranate
+pomegranate,noun
  pomegranates
-pommel -> [pummel]
+pommel,verb,noun
  pommels -> [pummel]
-pommy
+pommy,adjective,noun
  pommies
-pomp
-pompadour
+pomp,noun
+pompadour,verb,noun
  pompadours
-pompano
+pompano,noun
  pompanos
-pompon
+pompon,noun
  pompom pompoms pompons
-pomposity
-pompous
+pomposity,noun
+pompous,adjective
  pompously pompousness
-ponce
+ponce,verb,noun
  ponced ponces poncing
-poncey
+poncey,adjective
  poncy
-poncho
+poncho,noun
  ponchos
-pond
+pond,verb,noun
  ponds
-ponder
+ponder,verb
  pondered pondering ponders
-ponderer
+ponderer,noun
  ponderers
-ponderous
+ponderous,adjective
  ponderously ponderousness
-pone
+pone,noun
  pones
-pong
+pong,verb,noun
  ponged ponging pongs
-pongee
-poniard
+pongee,noun
+poniard,noun
  poniards
-pontiff
+pontiff,noun
  pontiffs
-pontifical
+pontifical,adjective,noun
  pontifically
-pontificate
+pontificate,verb,noun
  pontificated pontificates pontificating
-pontoon
+pontoon,noun
  pontoons
-pony
+pony,verb,noun
  ponied ponies ponying
-ponytail
+ponytail,noun
  ponytails
-poo
+poo,exclamation,verb,noun
  pooed pooh -> [pooh] poohed poohing poohs -> [pooh] pooing poos
-pooch
+pooch,verb,noun
  pooches
-poodle
+poodle,verb,noun
  poodles
-poof
+poof,exclamation,noun
  poofs pouf -> [pouf] poufs -> [pouf]
-poofter
+poofter,noun
  poofters
-pooh -> [poo]
+pooh,exclamation,verb,noun
  poohs -> [poo]
-pool
+pool,verb,noun
  pooled pooling pools
-poolroom
+poolroom,noun
  poolrooms
-poolside
+poolside,adjective,noun,adverb
  poolsides
-poop
+poop,verb,noun
  pooped pooping poops
-poor
+poor,adjective
  poorer poorest poorly poorness
-poorboy
+poorboy!
  poorboys
-poorhouse
+poorhouse,noun
  poorhouses
-pootle
+pootle,verb
  pootled pootles pootling
-pop
+pop,adjective,abbreviation,verb,noun,adverb
  popped popping pops
-popcorn
-pope
+popcorn,noun
+pope,noun
  popes
-popgun
+popgun,noun
  popguns
-popinjay
+popinjay,noun
  popinjays
-poplar
+poplar,noun
  poplars
-poplin
-popover
+poplin,noun
+popover,noun
  popovers
-poppadum
+poppadum,noun
  poppadom poppadoms poppadums
-popper
+popper,noun
  poppers
-poppet
+poppet,noun
  poppets
-poppy
+poppy,adjective,noun
  poppies
-poppycock
-poppyseed
-populace
+poppycock,noun
+poppyseed,noun
+populace,noun
  populaces
-popular
+popular,adjective
  popularly
-popularity
-popularization
+popularity,noun
+popularization,noun
  popularisation
-popularize
+popularize,verb
  popularise popularised popularises popularising popularized popularizes popularizing
-populate
+populate,verb
  populated populates populating
-population
+population,noun
  populations
-populism
-populist
+populism,noun
+populist,adjective,noun
  populists
-populous
+populous,adjective
  populousness
-pop-up
+pop-up,adjective,noun
  pop-ups
-porcelain
+porcelain,noun
  porcelains
-porch
+porch,noun
  porches
-porcine
-porcupine
+porcine,adjective
+porcupine,noun
  porcupines
-pore
+pore,verb,noun
  pored pores poring
-porgy
+porgy,noun
  porgies
-pork
-porker
+pork,verb,noun
+porker,noun
  porkers
-porky
+porky,adjective,noun
  porkier porkies porkiest
-porn
+porn,adjective,noun
  porno
-pornographer
+pornographer,noun
  pornographers
-pornographic
+pornographic,adjective
  pornographically
-pornography
-porosity
-porous
+pornography,noun
+porosity,noun
+porous,adjective
  porousness
-porphyritic
-porphyry
-porpoise
+porphyritic,adjective
+porphyry,noun,propernoun
+porpoise,verb,noun
  porpoised porpoises porpoising
-porridge
-porringer
+porridge,noun
+porringer,noun
  porringers
-port
+port,verb,noun
  ported porting ports
-portable
+portable,adjective,noun
  portability portables
-portage
+portage,verb,noun
  portaged portages portaging
-portal
+portal,adjective,noun
  portals
-portapotty
+portapotty,noun
  portapotties
-portcullis
+portcullis,noun
  portcullises
-portend
+portend,verb
  portended portending portends
-portent
+portent,noun
  portents
-portentous
+portentous,adjective
  portentously portentousness
-porter
+porter,noun
  porters
-porterhouse
+porterhouse,noun
  porterhouses
-portfolio
+portfolio,noun
  portfolios
-porthole
+porthole,noun
  portholes
-portico
+portico,noun
  porticoes porticos
-portiere
+portiere,noun
  portieres
-portion
+portion,verb,noun
  portioned portioning portions
-portly
+portly,adjective
  portlier portliest portliness
-portmanteau
+portmanteau,noun
  portmanteaus portmanteaux
-portobello
+portobello,noun
  portobellos
-portrait
+portrait,noun
  portraits
-portraitist
+portraitist,noun
  portraitists
-portraiture
-portray
+portraiture,noun
+portray,verb
  portrayed portraying portrays
-portrayal
+portrayal,noun
  portrayals
-portulaca
-pose
+portulaca,noun
+pose,verb,noun
  posed poses posing
-poser
+poser,noun
  posers
-poseur
+poseur,noun
  poseurs
-posh
+posh,adjective,verb,noun,adverb
  posher poshest
-posit
+posit,verb,noun
  posited positing posits
-position
+position,verb,noun
  positioned positioning positions
-positional
-positive
+positional,adjective
+positive,adjective,noun
  positively positiveness positives
-positivism
-positivist
+positivism,noun
+positivist,adjective,noun
  positivists
-positron
+positron,noun
  positrons
-poss
-posse
+poss,abbreviation
+posse,noun
  posses
-possess
+possess,verb
  possessed possesses possessing
-possession
+possession,noun
  possessions
-possessive
+possessive,adjective,noun
  possessively possessiveness possessives
-possessor
+possessor,noun
  possessors
-possibility -> [possible]
+possibility,noun
  possibilities
-possible
+possible,adjective,noun
  possibility -> [possibility] possibles possibly
-post
+post,preposition,verb,noun,adverb
  posted posting -> [posting] posts
-postage
-postal
-postbag
+postage,noun
+postal,adjective,noun
+postbag,noun
  postbags
-postbox
+postbox,noun
  postboxes
-postcard
+postcard,noun
  postcards
-postcode
+postcode,noun
  postcodes
-postconsonantal
-postdate
+postconsonantal,adjective
+postdate,verb
  postdated postdates postdating
-postdoc
-postdoctoral
-poster
+postdoc,noun
+postdoctoral,adjective
+poster,verb,noun
  posters
-posterior
+posterior,adjective,noun
  posteriors
-posterity
-postgrad
+posterity,noun
+postgrad,adjective,noun
  postgrads
-postgraduate
+postgraduate,adjective,noun
  postgraduates
-posthaste
-posthumous
+posthaste,adverb
+posthumous,adjective
  posthumously
-posthypnotic
-postie
+posthypnotic,adjective
+postie,noun
  posties
-postilion
+postilion,noun
  postilions postillion postillions
-postindustrial
-posting -> [post]
+postindustrial,adjective
+posting,noun
  postings
-postlude
+postlude,noun
  postludes
-postman
+postman,noun
  postmen
-postmark
+postmark,verb,noun
  postmarked postmarking postmarks
-postmaster
+postmaster,noun
  postmasters
-postmenopausal
-postmeridian
-postmistress
+postmenopausal,adjective
+postmeridian,adjective,noun,adverb
+postmistress,noun
  postmistresses
-postmodern
-postmodernism
-postmodernist
+postmodern,adjective
+postmodernism,noun
+postmodernist,adjective,noun
  postmodernists
-postmortem
+postmortem,adjective,noun
  postmortems
-postnasal
-postnatal
-postoperative
-postpaid
-postpartum
-postpone
+postnasal,adjective,noun
+postnatal,adjective
+postoperative,adjective
+postpaid,adjective,adverb
+postpartum,adjective
+postpone,verb
  postponed postpones postponing
-postponement
+postponement,noun
  postponements
-postprandial
-postscript
+postprandial,adjective
+postscript,noun
  postscripts
-postseason
+postseason,adjective,noun
  postseasons
-postulate
+postulate,verb,noun
  postulated postulates postulating
-postulation
+postulation,noun
  postulations
-postural
-posture
+postural,adjective
+posture,verb,noun
  postured postures posturing -> [posturing]
-posturing -> [posture]
+posturing,verb,noun
  posturings
-postwar
-postwoman
+postwar,adjective
+postwoman,noun
  postwomen
-posy
+posy,adjective,noun
  posies
-pot
+pot,verb,noun
  potful potfuls pots potted potting
-potable
+potable,adjective
  potability potables
-potash
-potassium
-potato
+potash,noun
+potassium,noun
+potato,noun
  potatoes
-potbelly
+potbelly,noun
  potbellied potbellies
-potboiler
+potboiler,noun
  potboilers
-potency
+potency,noun
  potencies
-potent
+potent,adjective,noun
  potently
-potentate
+potentate,noun
  potentates
-potential
+potential,adjective,noun
  potentially potentials
-potentiality
+potentiality,noun
  potentialities
-pothead
+pothead,noun
  potheads
-pother
+pother,noun
  pothered pothering pothers
-potherb
+potherb,noun
  potherbs
-potholder
+potholder,noun
  potholders
-pothole
+pothole,verb,noun
  potholed potholes potholing
-potholer
+potholer,noun
  potholers
-pothook
+pothook,noun
  pothooks
-potion
+potion,noun
  potions
-potluck
+potluck,noun
  potlucks
-potpie
+potpie!
  potpies
-potpourri
+potpourri,noun
  potpourris
-potsherd
+potsherd,noun
  potsherds
-potshot
+potshot,noun
  potshots
-pottage
-potter
+pottage,noun
+potter,verb,noun
  pottered pottering potters
-pottery
+pottery,noun
  potteries
-potty
+potty,adjective,noun
  pottier potties pottiest pottiness
-pouch
+pouch,verb,noun
  pouched pouches pouching
-pouf -> [poof]
+pouf,exclamation,noun
  pouffe pouffes poufs -> [poof]
-poulterer
+poulterer,noun
  poulterers
-poultice
+poultice,verb,noun
  poulticed poultices poulticing
-poultry
-pounce
+poultry,noun
+pounce,verb,noun
  pounced pounces pouncing
-pound
+pound,verb,noun
  pounded pounding -> [pounding] pounds
-poundage
-pounding -> [pound]
+poundage,noun
+pounding,noun
  poundings
-pour
+pour,verb
  poured pouring pours
-pout
+pout,verb,noun
  pouted pouting pouts
-pouter
+pouter,noun
  pouters
-pouty
-poverty
-poverty-stricken
-pow
-powder
+pouty,adjective
+poverty,noun
+poverty-stricken,adjective
+pow,exclamation,abbreviation,noun
+powder,verb,noun
  powdered powdering powders
-powdery
-power
+powdery,adjective
+power,verb,noun
  powered powerful powerfully powering powerless powerlessly powerlessness powers
-powerboat
+powerboat,noun
  powerboats
-powerbroker
+powerbroker,noun
  powerbrokers
-powerhouse
+powerhouse,noun
  powerhouses
-power-sharing
-powwow
+power-sharing,noun
+powwow,verb,noun
  powwowed powwowing powwows
-pox
+pox,noun
  poxes
-poxy
-practicable
+poxy,adjective
+practicable,adjective
  practicability practicably
-practical
+practical,adjective,noun
  practically practicals
-practicality
+practicality,noun
  practicalities
-practice
+practice,verb,noun
  practiced practices practicing practise practised practises practising
-practicum
+practicum,noun
  practicums
-practitioner
+practitioner,noun
  practitioners
-praetor
+praetor,noun
  praetors
-praetorian
-pragmatic
+praetorian,adjective,noun
+pragmatic,adjective
  pragmatics
-pragmatical
+pragmatical,adjective
  pragmatically
-pragmatism
-pragmatist
+pragmatism,noun
+pragmatist,noun
  pragmatists
-prairie
+prairie,noun
  prairies
-praise
+praise,verb,noun
  praised praises praising
-praiseworthy
+praiseworthy,adjective
  praiseworthier praiseworthiest praiseworthiness
-praline
+praline,noun
  pralines
-pram
+pram,noun
  prams
-prance
+prance,verb,noun
  pranced prances prancing prancingly
-prancer
+prancer,noun
  prancers
-prang
+prang,verb,noun
  pranged pranging prangs
-prank
+prank,verb,noun
  pranks
-prankster
+prankster,noun
  pranksters
-praseodymium
-prat
+praseodymium,noun
+prat,noun
  prats
-prate
+prate,verb
  prated prates prating
-prater
+prater,noun
  praters
-pratfall
+pratfall,noun
  pratfalls
-prattle
+prattle,verb,noun
  prattled prattles prattling
-prattler
+prattler,noun
  prattlers
-prawn
+prawn,noun
  prawned prawning prawns
-pray
+pray,verb,adverb
  prayed praying prays
-prayer
+prayer,noun
  prayerful prayerfully prayers
-preach
+preach,verb
  preached preaches preaching
-preacher
+preacher,noun
  preachers
-preachment
-preachy
+preachment,noun
+preachy,adjective
  preachier preachiest
-preadolescence
+preadolescence,noun
  preadolescences
-preamble
+preamble,noun
  preambles
-preapproved
-prearrange
+preapproved!
+prearrange,verb
  prearranged prearranges prearranging
-prearrangement
+prearrangement,noun
  prearrangements
-preassigned
-precancel
+preassigned!
+precancel,verb,noun
  precanceled precanceling precancelled precancelling precancels
-precancerous
-precarious
+precancerous,adjective
+precarious,adjective
  precariously precariousness
-precast
-precaution
+precast,verb
+precaution,noun
  precautions
-precautionary
-precede
+precautionary,adjective
+precede,verb
  preceded precedes preceding
-precedence
-precedent
+precedence,noun
+precedent,adjective,noun
  precedents
-precept
+precept,noun
  precepts
-preceptor
+preceptor,noun
  preceptors
-precinct
+precinct,noun
  precincts
-preciosity
-precious
+preciosity,noun
+precious,adjective,noun
  preciously preciousness
-precipice
+precipice,noun
  precipices
-precipitant
+precipitant,noun
  precipitants
-precipitate
+precipitate,adjective,verb,noun
  precipitated precipitately precipitates precipitating
-precipitation
+precipitation,noun
  precipitations
-precipitous
+precipitous,adjective
  precipitously
-precis
+precis,verb,noun
  precised precises precising
-precise
+precise,adjective
  precisely preciseness preciser precisest
-precision
-preclude
+precision,noun
+preclude,verb
  precluded precludes precluding
-preclusion
-precocious
+preclusion,noun
+precocious,adjective
  precociously precociousness
-precocity
-precognition
-precognitive
-precolonial
-preconceive
+precocity,noun
+precognition,noun
+precognitive,adjective
+precolonial,adjective
+preconceive,verb
  preconceived preconceives preconceiving
-preconception
+preconception,noun
  preconceptions
-precondition
+precondition,verb,noun
  preconditioned preconditioning preconditions
-precook
+precook,verb
  precooked precooking precooks
-precursor
+precursor,noun
  precursors
-precursory
-predate
+precursory,adjective
+predate,verb
  predated predates predating
-predator
+predator,noun
  predators
-predatory
-predawn
-predecease
+predatory,adjective
+predawn,adjective
+predecease,verb,noun
  predeceased predeceases predeceasing
-predecessor
+predecessor,noun
  predecessors
-predesignate
+predesignate,verb
  predesignated predesignates predesignating
-predestination
-predestine
+predestination,noun
+predestine,verb
  predestined predestines predestining
-predetermination
-predetermine
+predetermination,noun
+predetermine,verb
  predetermined predetermines predetermining
-predeterminer
+predeterminer,noun
  predeterminers
-predicable
-predicament
+predicable,adjective,noun
+predicament,noun
  predicaments
-predicate
+predicate,verb,noun
  predicated predicates predicating
-predication
-predicative
+predication,noun
+predicative,adjective
  predicatively
-predict
+predict,verb
  predicted predicting predicts
-predictable
+predictable,adjective
  predictability predictably
-prediction
+prediction,noun
  predictions
-predictive
-predictor
+predictive,adjective
+predictor,noun
  predictors
-predigest
+predigest,verb
  predigested predigesting predigests
-predilection
+predilection,noun
  predilections
-predispose
+predispose,verb
  predisposed predisposes predisposing
-predisposition
+predisposition,noun
  predispositions
-predominance
-predominant
+predominance,noun
+predominant,adjective
  predominantly
-predominate
+predominate,verb
  predominated predominately predominates predominating
-preeclampsia
-preemie
+preeclampsia,noun
+preemie,noun
  preemies
-preeminence
-preeminent
+preeminence,noun
+preeminent,adjective
  preeminently
-preempt
+preempt,verb,noun
  preempted preempting preempts
-preemption
-preemptive
-preen
+preemption,noun
+preemptive,adjective
+preen,verb
  preened preening preens
-preexist
+preexist,verb
  preexisted preexisting preexists
-preexistence
-prefab
+preexistence,noun
+prefab,noun
  prefabbed prefabbing prefabs
-prefabricate
+prefabricate,verb
  prefabricated prefabricates prefabricating
-prefabrication
-preface
+prefabrication,noun
+preface,verb,noun
  prefaced prefaces prefacing
-prefatory
-prefect
+prefatory,adjective
+prefect,noun
  prefects
-prefecture
+prefecture,noun
  prefectures
-prefer
+prefer,verb
  preferred preferring prefers
-preferable
+preferable,adjective
  preferably
-preference
+preference,noun
  preferences
-preferential
+preferential,adjective
  preferentially
-preferment
-prefigure
+preferment,noun
+prefigure,verb
  prefigured prefigures prefiguring
-prefix
+prefix,verb,noun
  prefixed prefixes prefixing
-preform
+preform,verb
  preformed preforming preforms
-pregame
+pregame,adjective,verb,noun
  pregames
-preggers
-pregnancy
+preggers,adjective
+pregnancy,noun
  pregnancies
-pregnant
-preheat
+pregnant,adjective
+preheat,verb
  preheated preheating preheats
-prehensile
-prehistoric
-prehistorical
+prehensile,adjective
+prehistoric,adjective
+prehistorical,adjective
  prehistorically
-prehistory
-prejudge
+prehistory,noun
+prejudge,verb
  prejudged prejudges prejudging
-prejudgment
+prejudgment,noun
  prejudgement prejudgements prejudgments
-prejudice
+prejudice,verb,noun
  prejudiced prejudices prejudicing
-prejudicial
-prekindergarten
+prejudicial,adjective
+prekindergarten,noun
  prekindergartens
-prelacy
-prelate
+prelacy,noun
+prelate,noun
  prelates
-prelim
+prelim,noun
  prelims
-preliminary
+preliminary,adjective,noun
  preliminaries
-preliterate
-prelude
+preliterate,adjective
+prelude,verb,noun
  preludes
-premarital
-premature
+premarital,adjective
+premature,adjective
  prematurely
-premed
+premed,adjective,noun
  premeds
-premedical
-premeditate
+premedical,adjective
+premeditate,verb
  premeditated premeditates premeditating
-premeditation
-premenstrual
-premier
+premeditation,noun
+premenstrual,adjective
+premier,adjective,noun
  premiers
-premiere
+premiere,verb,noun
  premiered premieres premiering
-premiership
+premiership,noun
  premierships
-premise
+premise,verb,noun
  premised premises premising premiss premisses
-premium
+premium,noun
  premiums
-premix
+premix,verb,noun
  premixed premixes premixing
-premolar
+premolar,noun
  premolars
-premonition
+premonition,noun
  premonitions
-premonitory
-prenatal
+premonitory,adjective
+prenatal,adjective
  prenatally
-prenup
+prenup,noun
  prenups
-prenuptial
-preoccupation
+prenuptial,adjective
+preoccupation,noun
  preoccupations
-preoccupy
+preoccupy,verb
  preoccupied preoccupies preoccupying
-preoperative
-preordain
+preoperative,adjective
+preordain,verb
  preordained preordaining preordains
-prep
+prep,verb,noun
  prepped prepping preps
-prepackage
+prepackage,verb
  prepackaged prepackages prepackaging
-prepacked
-preparation
+prepacked!
+preparation,noun
  preparations
-preparatory
-prepare
+preparatory,adjective
+prepare,verb
  prepared preparedness prepares preparing
-prepay
+prepay,verb
  prepaid prepaying prepays
-prepayment
+prepayment,noun
  prepayments
-preponderance
+preponderance,noun
  preponderances
-preponderant
+preponderant,adjective
  preponderantly
-preponderate
+preponderate,verb
  preponderated preponderates preponderating
-prepone
+prepone,verb
  preponed prepones preponing
-preposition
+preposition,noun
  prepositions
-prepositional
+prepositional,adjective
  prepositionally
-prepossess
+prepossess,verb
  prepossessed prepossesses prepossessing
-prepossession
+prepossession,noun
  prepossessions
-preposterous
+preposterous,adjective
  preposterously
-preppy
+preppy,adjective,noun
  preppie preppier preppies preppiest
-preprandial
-prepubescence
-prepubescent
+preprandial,adjective
+prepubescence,noun
+prepubescent,adjective,noun
  prepubescents
-prepuce
+prepuce,noun
  prepuces
-prequel
+prequel,noun
  prequels
-prerecord
+prerecord,verb
  prerecorded prerecording prerecords
-preregister
+preregister,verb
  preregistered preregistering preregisters
-preregistration
-prerequisite
+preregistration,noun
+prerequisite,adjective,noun
  prerequisites
-prerogative
+prerogative,adjective,noun
  prerogatives
-presage
+presage,verb,noun
  presaged presages presaging
-presbyopia
-presbyter
+presbyopia,noun
+presbyter,noun
  presbyters
-presbytery
+presbytery,noun
  presbyteries
-preschool
+preschool,adjective,noun
  preschools
-preschooler
+preschooler,noun
  preschoolers
-prescience
-prescient
+prescience,noun
+prescient,adjective
  presciently
-prescribe
+prescribe,verb
  prescribed prescribes prescribing
-prescript
+prescript,noun
  prescripts
-prescription
+prescription,noun
  prescriptions
-prescriptive
+prescriptive,adjective
  prescriptively
-preseason
+preseason,adjective,noun
  preseasons
-presence
+presence,noun
  presences
-present
+present,adjective,verb,noun
  presented presenting presently presents
-presentable
+presentable,adjective
  presentably
-presentation
+presentation,noun
  presentations
-presentational
-present-day
-presenteeism
-presenter
+presentational,adjective
+present-day,adjective
+presenteeism,noun
+presenter,noun
  presenters
-presentiment
+presentiment,noun
  presentiments
-presentment
+presentment,noun
  presentments
-preservable
-preservation
-preservationist
+preservable,adjective
+preservation,noun
+preservationist,noun
  preservationists
-preservative
+preservative,adjective,noun
  preservatives
-preserve
+preserve,verb,noun
  preserved preserves preserving
-preserver
+preserver,noun
  preservers
-preset
+preset,verb,noun
  presets presetting
-preshrink
+preshrink,verb
  preshrank preshrinking preshrinks preshrunk preshrunken
-preside
+preside,verb
  presided presides presiding
-presidency
+presidency,noun
  presidencies
-president
+president,noun
  presidents
-presidential
-presidium
+presidential,adjective
+presidium,noun
  praesidia praesidium praesidiums presidia presidiums
-presort
+presort,verb
  presorted presorting presorts
-press
+press,verb,noun
  pressed presses pressing -> [pressing]
-presser
+presser,noun
  pressers
-pressing -> [press]
+pressing,adjective,noun
  pressingly pressings
-pressman
+pressman,noun
  pressmen
-pressure
+pressure,verb,noun
  pressured pressures pressuring
-pressurization
+pressurization,noun
  pressurisation
-pressurize
+pressurize,verb
  pressurise pressurised pressurises pressurising pressurized pressurizes pressurizing
-pressurizer
+pressurizer,noun
  pressuriser pressurisers pressurizers
-prestidigitation
-prestige
-prestigious
-presto
+prestidigitation,noun
+prestige,noun
+prestigious,adjective
+presto,exclamation,adjective,noun,adverb
  prestos
-presumable
+presumable,adjective
  presumably
-presume
+presume,verb
  presumed presumes presuming
-presumption
+presumption,noun
  presumptions
-presumptive
-presumptuous
+presumptive,adjective
+presumptuous,adjective
  presumptuously presumptuousness
-presuppose
+presuppose,verb
  presupposed presupposes presupposing
-presupposition
+presupposition,noun
  presuppositions
-pretax
-preteen
+pretax,adjective
+preteen,adjective,noun
  preteens
-pretend
+pretend,adjective,verb
  pretended pretending pretends
-pretender
+pretender,noun
  pretenders
-pretense
+pretense,noun
  pretence pretences pretenses
-pretension
+pretension,verb,noun
  pretensions
-pretentious
+pretentious,adjective
  pretentiously pretentiousness
-preterit
+preterit,adjective,noun
  preterite preterites preterits
-preterm
-preternatural
+preterm,adjective,adverb
+preternatural,adjective
  preternaturally
-pretest
+pretest,verb,noun
  pretested pretesting pretests
-pretext
+pretext,noun
  pretexts
-pretrial
-prettify
+pretrial,adjective
+prettify,verb
  prettified prettifies prettifying
-pretty
+pretty,adjective,verb,noun,adverb
  prettied prettier pretties prettiest prettily prettiness prettying
-pretzel
+pretzel,verb,noun
  pretzels
-prevail
+prevail,verb
  prevailed prevailing prevails
-prevalence
-prevalent
-prevaricate
+prevalence,noun
+prevalent,adjective
+prevaricate,verb
  prevaricated prevaricates prevaricating
-prevarication
+prevarication,noun
  prevarications
-prevaricator
+prevaricator,noun
  prevaricators
-prevent
+prevent,verb
  prevented preventing prevents
-preventable
+preventable,adjective
  preventible
-prevention
-preventive
+prevention,noun
+preventive,adjective,noun
  preventative preventatives preventives
-preview
+preview,verb,noun
  previewed previewing previews prevue prevues
-previous
+previous,adjective,noun
  previously
-prevision
+prevision,noun
  previsions
-prewar
-prey
+prewar,adjective
+prey,verb,noun
  preyed preying preys
-prezzie
+prezzie,noun
  pressie pressies prezzies
-priapic
-price
+priapic,adjective
+price,verb,noun
  priced priceless prices pricing
-pricey
+pricey,adjective
  pricier priciest pricy
-prick
+prick,verb,noun
  pricked pricking pricks
-pricker
+pricker,noun
  prickers
-prickle
+prickle,verb,noun
  prickled prickles prickling
-prickly
+prickly,adjective
  pricklier prickliest prickliness
-pride
+pride,verb,noun
  prided prideful pridefully prides priding
-prier
+prier,noun
  priers pryer pryers
-priest
+priest,verb,noun
  priestlier priestliest priestliness priestly priests
-priestess
+priestess,noun
  priestesses
-priesthood
+priesthood,noun
  priesthoods
-prig
+prig,noun
  priggish priggishness prigs
-prim
+prim,adjective,verb
  primly primmer primmest primness
-primacy
-primal
-primary
+primacy,noun
+primal,adjective
+primary,adjective,noun
  primaries primarily
-primate
+primate,noun
  primates
-prime
+prime,adjective,verb,noun
  primed primes priming
-primer
+primer,noun
  primers
-primetime
-primeval
+primetime,noun
+primeval,adjective
  primaeval
-primitive
+primitive,adjective,noun
  primitively primitiveness primitives
-primo
-primogenitor
+primo,adjective,noun
+primogenitor,noun
  primogenitors
-primogeniture
-primordial
+primogeniture,noun
+primordial,adjective
  primordially
-primp
+primp,verb
  primped primping primps
-primrose
+primrose,noun
  primroses
-primula
+primula,noun
  primulas
-prince
+prince,noun,propernoun
  princelier princeliest princeliness princely princes
-princedom
+princedom,noun
  princedoms
-princess
+princess,noun
  princesses
-principal
+principal,adjective,noun
  principally principals
-principality
+principality,noun
  principalities
-principle
+principle,noun
  principled principles
-print
+print,verb,noun
  printed printing -> [printing] prints
-printable
-printer
+printable,adjective
+printer,noun
  printers
-printing -> [print]
+printing,noun
  printings
-printmaking
-printout
+printmaking,noun
+printout,noun
  printouts
-prion
+prion,noun
  prions
-prior
+prior,adjective,noun
  priors
-prioress
+prioress,noun
  prioresses
-prioritization
+prioritization,noun
  prioritisation
-prioritize
+prioritize,verb
  prioritise prioritised prioritises prioritising prioritized prioritizes prioritizing
-priority
+priority,noun
  priorities
-priory
+priory,noun
  priories
-prism
+prism,noun
  prisms
-prismatic
-prison
+prismatic,adjective
+prison,verb,noun
  prisons
-prisoner
+prisoner,noun
  prisoners
-prissy
+prissy,adjective
  prissier prissiest prissily prissiness
-pristine
-prithee
-privacy
-private
+pristine,adjective
+prithee,exclamation
+privacy,noun
+private,adjective,noun
  privately privater privates privatest
-privateer
+privateer,noun
  privateers
-privation
+privation,noun
  privations
-privatization
+privatization,noun
  privatisation privatisations privatizations
-privatize
+privatize,verb
  privatise privatised privatises privatising privatized privatizes privatizing
-privet
+privet,noun
  privets
-privilege
+privilege,verb,noun
  privileged privileges privileging
-privy
+privy,adjective,noun
  privier privies priviest privily
-prize
+prize,adjective,verb,noun
  prise prised prises prising prized prizes prizing
-prizefight
+prizefight,noun
  prizefighting prizefights
-prizefighter
+prizefighter,noun
  prizefighters
-prizegiving
+prizegiving,noun
  prizegivings
-prizewinner
+prizewinner,noun
  prizewinners
-prizewinning
-pro
+prizewinning,adjective
+pro,adjective,abbreviation,noun,preposition,adverb
  pros
-proactive
+proactive,adjective
  proactively
-probabilistic
-probability -> [probable]
+probabilistic,adjective
+probability,noun
  probabilities
-probable
+probable,adjective,noun
  probability -> [probability] probables probably
-probate
+probate,verb,noun
  probated probates probating
-probation
-probational
-probationary
-probationer
+probation,noun
+probational,adjective
+probationary,adjective
+probationer,noun
  probationers
-probe
+probe,verb,noun
  probed probes probing -> [probing]
-probing -> [probe]
+probing,verb,noun
  probings
-probity
-problem
+probity,noun
+problem,noun
  problems
-problematic
-problematical
+problematic,adjective,noun
+problematical,adjective
  problematically
-problem-solving
-proboscis
+problem-solving,noun
+proboscis,noun
  probosces proboscides proboscises
-procaine
-procedural
-procedure
+procaine,noun
+procedural,adjective,noun
+procedure,noun
  procedures
-proceed
+proceed,verb
  proceeded proceeding -> [proceeding] proceeds -> [proceeds]
-proceeding -> [proceed]
+proceeding,verb
  proceedings
-proceeds -> [proceed]
-process
+proceeds,pluralnoun
+process,verb,noun
  processed processes processing
-procession
+procession,noun
  processioned processioning processions
-processional
+processional,adjective,noun
  processionals
-processor
+processor,noun
  processors
-pro-choice
-proclaim
+pro-choice,adjective
+proclaim,verb
  proclaimed proclaiming proclaims
-proclamation
+proclamation,noun
  proclamations
-proclivity
+proclivity,noun
  proclivities
-proconsul
+proconsul,noun
  proconsuls
-proconsular
-procrastinate
+proconsular,adjective
+procrastinate,verb
  procrastinated procrastinates procrastinating
-procrastination
-procrastinator
+procrastination,noun
+procrastinator,noun
  procrastinators
-procreate
+procreate,verb
  procreated procreates procreating
-procreation
-procreative
-proctor
+procreation,noun
+procreative,adjective
+proctor,verb,noun
  proctored proctoring proctors
-procurable
-procurator
+procurable,adjective
+procurator,noun
  procurators
-procure
+procure,verb
  procured procures procuring
-procurement
-procurer
+procurement,noun
+procurer,noun
  procurers
-prod
+prod,verb,noun
  prodded prodding prods
-prodigal
+prodigal,adjective,noun
  prodigally prodigals
-prodigality
-prodigious
+prodigality,noun
+prodigious,adjective
  prodigiously
-prodigy
+prodigy,noun
  prodigies
-produce
+produce,verb,noun
  produced produces producing
-producer
+producer,noun
  producers
-producible
-product
+producible,adjective
+product,noun
  products
-production
+production,noun
  productions
-productive
+productive,adjective
  productively productiveness
-productivity
-prof
+productivity,noun
+prof,noun
  profs
-profanation
+profanation,noun
  profanations
-profane
+profane,adjective,verb
  profaned profanely profaneness profanes profaning
-profanity
+profanity,noun
  profanities
-profess
+profess,verb
  professed professedly professes professing
-profession
+profession,noun
  professions
-professional
+professional,adjective,noun
  professionally professionals
-professionalism
-professionalization
+professionalism,noun
+professionalization,noun
  professionalisation
-professionalize
+professionalize,verb
  professionalise professionalised professionalises professionalising professionalized professionalizes professionalizing
-professor
+professor,noun
  professors
-professorial
+professorial,adjective
  professorially
-professorship
+professorship,noun
  professorships
-proffer
+proffer,verb,noun
  proffered proffering proffers
-proficiency
-proficient
+proficiency,noun
+proficient,adjective,noun
  proficiently proficients
-profile
+profile,verb,noun
  profiled profiles profiling
-profit
+profit,verb,noun
  profited profiting profitless profits
-profitable
+profitable,adjective
  profitability profitably
-profiteer
+profiteer,verb,noun
  profiteered profiteering profiteers
-profiterole
+profiterole,noun
  profiteroles
-profit-making
-profligacy
-profligate
+profit-making,adjective
+profligacy,noun
+profligate,adjective,noun
  profligately profligates
-profound
+profound,adjective,noun
  profounder profoundest profoundly profoundness
-profundity
+profundity,noun
  profundities
-profuse
+profuse,adjective
  profusely profuseness profuser profusest
-profusion
+profusion,noun
  profusions
-progenitor
+progenitor,noun
  progenitors
-progeny
-progesterone
-prognathous
-prognosis
+progeny,noun
+progesterone,noun
+prognathous,adjective
+prognosis,noun
  prognoses
-prognostic
+prognostic,adjective,noun
  prognostics
-prognosticate
+prognosticate,verb
  prognosticated prognosticates prognosticating
-prognostication
+prognostication,noun
  prognostications
-prognosticator
+prognosticator,noun
  prognosticators
-program
+program,verb,noun
  programed programing programme programmed programmes programming programs
-programmable
+programmable,adjective
  programmables
-programmatic
-programmer
+programmatic,adjective
+programmer,noun
  programer programers programmers
-progress
+progress,verb,noun
  progressed progresses progressing
-progression
+progression,noun
  progressions
-progressive
+progressive,adjective,noun
  progressively progressiveness progressives
-prohibit
+prohibit,verb
  prohibited prohibiting prohibits
-prohibition
+prohibition,noun
  prohibitions
-prohibitionist
+prohibitionist,noun
  prohibitionists
-prohibitive
+prohibitive,adjective
  prohibitively
-prohibitory
-project
+prohibitory,adjective
+project,verb,noun
  projected projecting projects
-projectile
+projectile,adjective,noun
  projectiles
-projection
+projection,noun
  projections
-projectionist
+projectionist,noun
  projectionists
-projector
+projector,noun
  projectors
-prolapse
+prolapse,verb,noun
  prolapsed prolapses prolapsing
-prole
+prole,adjective,noun
  proles
-proletarian
+proletarian,adjective,noun
  proletarians
-proletariat
-pro-life
-proliferate
+proletariat,noun
+pro-life,adjective
+proliferate,verb
  proliferated proliferates proliferating
-proliferation
-prolific
+proliferation,noun
+prolific,adjective
  prolifically
-prolix
+prolix,adjective
  prolixly
-prolixity
-prologue
+prolixity,noun
+prologue,noun
  prolog prologs prologues
-prolong
+prolong,verb
  prolonged prolonging prolongs
-prolongation
+prolongation,noun
  prolongations
-prom
+prom,noun
  proms
-promenade
+promenade,verb,noun
  promenaded promenades promenading
-promethium
-prominence
-prominent
+promethium,noun
+prominence,noun
+prominent,adjective,noun
  prominently
-promiscuity
-promiscuous
+promiscuity,noun
+promiscuous,adjective
  promiscuously
-promise
+promise,verb,noun
  promised promises promising promisingly
-promissory
-promo
+promissory,adjective
+promo,noun
  promoed promoing promos
-promontory
+promontory,noun
  promontories
-promote
+promote,verb
  promoted promotes promoting
-promoter
+promoter,noun
  promoters
-promotion
+promotion,noun
  promotions
-promotional
-prompt
+promotional,adjective
+prompt,adjective,verb,noun,adverb
  prompted prompter -> [prompter] promptest prompting -> [prompting] promptly promptness prompts
-prompter -> [prompt]
+prompter,noun
  prompters
-prompting -> [prompt]
+prompting,noun
  promptings
-promptitude
-promulgate
+promptitude,noun
+promulgate,verb
  promulgated promulgates promulgating
-promulgation
-promulgator
+promulgation,noun
+promulgator,noun
  promulgators
-prone
+prone,adjective
  proneness proner pronest
-prong
+prong,verb,noun
  pronged prongs
-pronghorn
+pronghorn,noun
  pronghorns
-pronominal
+pronominal,adjective
  pronominals
-pronoun
+pronoun,noun
  pronouns
-pronounce
+pronounce,verb
  pronounced pronounces pronouncing
-pronounceable
-pronouncement
+pronounceable,adjective
+pronouncement,noun
  pronouncements
-pronto
-pronuclear
-pronunciation
+pronto,adverb
+pronuclear,adjective
+pronunciation,noun
  pronunciations
-proof
+proof,adjective,verb,noun
  proofed proofing proofs
-proofread
+proofread,verb
  proofreading proofreads
-proofreader
+proofreader,noun
  proofreaders
-prop
+prop,verb,noun
  propped propping props
-propaganda
-propagandist
+propaganda,noun
+propagandist,adjective,noun
  propagandists
-propagandize
+propagandize,verb
  propagandise propagandised propagandises propagandising propagandized propagandizes propagandizing
-propagate
+propagate,verb
  propagated propagates propagating
-propagation
-propagator
+propagation,noun
+propagator,noun
  propagators
-propane
-propel
+propane,noun
+propel,verb
  propelled propelling propels
-propellant
+propellant,adjective,noun
  propellants propellent propellents
-propeller
+propeller,noun
  propellers
-propensity
+propensity,noun
  propensities
-proper
+proper,adjective,noun,adverb
  properer properest properly
-property
+property,noun
  propertied properties
-prophecy
+prophecy,noun
  prophecies prophesies -> [prophesy] prophesy -> [prophesy]
-prophesier
+prophesier,noun
  prophesiers
-prophesy -> [prophecy]
+prophesy,verb
  prophesied prophesies -> [prophecy] prophesying
-prophet
+prophet,noun
  prophets
-prophetess
+prophetess,noun
  prophetesses
-prophetic
-prophetical
+prophetic,adjective
+prophetical,adjective
  prophetically
-prophylactic
+prophylactic,adjective,noun
  prophylactics
-prophylaxis
-propinquity
-propitiate
+prophylaxis,noun
+propinquity,noun
+propitiate,verb
  propitiated propitiates propitiating
-propitiation
-propitiatory
-propitious
+propitiation,noun
+propitiatory,adjective
+propitious,adjective
  propitiously
-proponent
+proponent,noun
  proponents
-proportion
+proportion,verb,noun
  proportioned proportioning proportions
-proportional
+proportional,adjective
  proportionally
-proportionality
-proportionate
+proportionality,noun
+proportionate,adjective
  proportionately
-proposal
+proposal,noun
  proposals
-propose
+propose,verb
  proposed proposes proposing
-proposer
+proposer,noun
  proposers
-proposition
+proposition,verb,noun
  propositioned propositioning propositions
-propositional
-propound
+propositional,adjective
+propound,verb
  propounded propounding propounds
-proprietary
+proprietary,adjective
  proprietaries
-proprietor
+proprietor,noun
  proprietors
-proprietorial
+proprietorial,adjective
  proprietorially
-proprietorship
-proprietress
+proprietorship,noun
+proprietress,noun
  proprietresses
-propriety
+propriety,noun
  proprieties
-propulsion
-propulsive
-prorate
+propulsion,noun
+propulsive,adjective
+prorate,verb
  prorated prorates prorating
-prorogation
-prorogue
+prorogation,noun
+prorogue,verb
  prorogued prorogues proroguing
-prosaic
+prosaic,adjective
  prosaically
-proscenium
+proscenium,noun
  proscenia prosceniums
-prosciutto
-proscribe
+prosciutto,noun
+proscribe,verb
  proscribed proscribes proscribing
-proscription
+proscription,noun
  proscriptions
-prose
-prosecute
+prose,verb,noun
+prosecute,verb
  prosecuted prosecutes prosecuting
-prosecution
+prosecution,noun
  prosecutions
-prosecutor
+prosecutor,noun
  prosecutors
-proselyte
+proselyte,verb,noun
  proselyted proselytes proselyting
-proselytism
-proselytize
+proselytism,noun
+proselytize,verb
  proselytise proselytised proselytises proselytising proselytized proselytizes proselytizing
-proselytizer
+proselytizer,noun
  proselytiser proselytisers proselytizers
-prosody
+prosody,noun
  prosodies
-prospect
+prospect,verb,noun
  prospected prospecting prospects
-prospective
+prospective,adjective
  prospectively
-prospector
+prospector,noun
  prospectors
-prospectus
+prospectus,noun
  prospectuses
-prosper
+prosper,verb
  prospered prospering prospers
-prosperity
-prosperous
+prosperity,noun
+prosperous,adjective
  prosperously
-prostate
+prostate,noun
  prostates
-prosthesis
+prosthesis,noun
  prostheses
-prosthetic
-prostitute
+prosthetic,adjective,noun
+prostitute,verb,noun
  prostituted prostitutes prostituting
-prostitution
-prostrate
+prostitution,noun
+prostrate,adjective,verb
  prostrated prostrates prostrating
-prostration
+prostration,noun
  prostrations
-prosy
+prosy,adjective
  prosier prosiest
-protactinium
-protagonist
+protactinium,noun
+protagonist,noun
  protagonists
-protean
-protease
+protean,adjective
+protease,noun
  proteases
-protect
+protect,verb
  protected protecting protects
-protection
+protection,noun
  protections
-protectionism
-protectionist
+protectionism,noun
+protectionist,adjective,noun
  protectionists
-protective
+protective,adjective,noun
  protectively protectiveness
-protector
+protector,noun
  protectors
-protectorate
+protectorate,noun
  protectorates
-protege
+protege,noun
  protegee protegees proteges
-protein
+protein,noun
  proteins
-protest
+protest,verb,noun
  protested protesting protests
-protestation
+protestation,noun
  protestations
-protester
+protester,noun
  protesters protestor protestors
-protocol
+protocol,noun
  protocols
-proton
+proton,noun
  protons
-protoplasm
-protoplasmic
-prototype
+protoplasm,noun
+protoplasmic,adjective
+prototype,verb,noun
  prototypes
-prototypical
-protozoan
+prototypical,adjective
+protozoan,adjective,noun
  protozoans
-protozoic
-protozoon
+protozoic,adjective
+protozoon,noun
  protozoa
-protract
+protract,verb
  protracted protracting protracts
-protraction
-protractor
+protraction,noun
+protractor,noun
  protractors
-protrude
+protrude,verb
  protruded protrudes protruding
-protrusile
-protrusion
+protrusile,adjective
+protrusion,noun
  protrusions
-protuberance
+protuberance,noun
  protuberances
-protuberant
-proud
+protuberant,adjective
+proud,adjective
  prouder proudest proudly
-provable
+provable,adjective
  provability
-prove
+prove,verb
  proved proven proves proving
-provenance
+provenance,noun
  provenances
-provender
-provenience
-proverb
+provender,noun
+provenience,noun
+proverb,noun
  proverbs
-proverbial
+proverbial,adjective,noun
  proverbially
-provide
+provide,verb
  provided provides providing -> [providing]
-providence
-provident
+providence,noun,propernoun
+provident,adjective
  providently
-providential
+providential,adjective
  providentially
-provider
+provider,noun
  providers
-providing -> [provide]
-province
+providing,conjunction
+province,noun
  provinces
-provincial
+provincial,adjective,noun
  provincially provincials
-provincialism
-provision
+provincialism,noun
+provision,verb,noun
  provisioned provisioning provisions
-provisional
+provisional,adjective,noun
  provisionally
-proviso
+proviso,noun
  provisoes provisos
-provocateur
+provocateur,noun
  provocateurs
-provocation
+provocation,noun
  provocations
-provocative
+provocative,adjective
  provocatively provocativeness
-provoke
+provoke,verb
  provoked provokes provoking provokingly
-provoker
+provoker,noun
  provokers
-provolone
-provost
+provolone,noun
+provost,noun
  provosts
-prow
+prow,noun
  prows
-prowess
-prowl
+prowess,noun
+prowl,verb,noun
  prowled prowling prowls
-prowler
+prowler,noun
  prowlers
-proximate
-proximity
-proxy
+proximate,adjective
+proximity,noun
+proxy,noun
  proxies
-prude
+prude,noun
  prudes prudish prudishly prudishness
-prudence
-prudent
+prudence,noun
+prudent,adjective
  prudently
-prudential
+prudential,adjective
  prudentially
-prudery
-prune
+prudery,noun
+prune,verb,noun
  pruned prunes pruning
-pruner
+pruner,noun
  pruners
-prurience
-prurient
+prurience,noun
+prurient,adjective
  pruriently
-pry
+pry,verb
  pried pries prying
-psalm
+psalm,noun
  psalms
-psalmist
+psalmist,noun
  psalmists
-psalter
+psalter,noun
  psalters
-psaltery
+psaltery,noun
  psalteries
-psephologist
+psephologist,noun
  psephologists
-psephology
-pseud
+psephology,noun
+pseud,adjective,noun
  pseuds
-pseudo
-pseudonym
+pseudo,adjective,noun
+pseudonym,noun
  pseudonyms
-pseudonymous
-pseudoscience
+pseudonymous,adjective
+pseudoscience,noun
  pseudosciences
-pseudy
-pshaw
+pseudy,adjective
+pshaw,exclamation,verb
  pshaws
-psi
+psi,noun
  psis
-psittacosis
-psoriasis
-psst
-psych
+psittacosis,noun
+psoriasis,noun
+psst,exclamation
+psych,adjective,verb,noun
  psyched psyching psychs
-psyche
+psyche,noun<spanclass="listSeparator">,</span>adjective<spanclass="listSeparator">,</span>,noun,verb,propernoun
  psyches
-psychedelia
-psychedelic
+psychedelia,noun
+psychedelic,adjective,noun
  psychedelically psychedelics
-psychiatric
-psychiatrist
+psychiatric,adjective
+psychiatrist,noun
  psychiatrists
-psychiatry
-psychic
+psychiatry,noun
+psychic,adjective,noun
  psychics
-psychical
+psychical,adjective
  psychically
-psycho
+psycho,adjective,noun
  psychos
-psychoactive
-psychoanalysis
+psychoactive,adjective
+psychoanalysis,noun
  psychoanalyses -> [psychoanalyze]
-psychoanalyst
+psychoanalyst,noun
  psychoanalysts
-psychoanalytic
-psychoanalytical
+psychoanalytic,adjective
+psychoanalytical,adjective
  psychoanalytically
-psychoanalyze
+psychoanalyze,verb
  psychoanalyse psychoanalysed psychoanalyses -> [psychoanalysis] psychoanalysing psychoanalyzed psychoanalyzes psychoanalyzing
-psychobabble
-psychodrama
+psychobabble,noun
+psychodrama,noun
  psychodramas
-psychogenic
-psychokinesis
-psychokinetic
-psychological
+psychogenic,adjective
+psychokinesis,noun
+psychokinetic,adjective
+psychological,adjective
  psychologically
-psychologist
+psychologist,noun
  psychologists
-psychology
+psychology,noun
  psychologies
-psychometric
-psychoneurosis
-psychopath
+psychometric,adjective
+psychoneurosis,noun
+psychopath,noun
  psychopaths
-psychopathic
-psychopathology
-psychopathy
-psychosis
+psychopathic,adjective
+psychopathology,noun
+psychopathy,noun
+psychosis,noun
  psychoses
-psychosomatic
-psychotherapist
+psychosomatic,adjective
+psychotherapist,noun
  psychotherapists
-psychotherapy
+psychotherapy,noun
  psychotherapies
-psychotic
+psychotic,adjective,noun
  psychotically psychotics
-psychotropic
+psychotropic,adjective,noun
  psychotropics
-ptarmigan
+ptarmigan,noun
  ptarmigans
-pterodactyl
+pterodactyl,noun
  pterodactyls
-ptomaine
+ptomaine,noun
  ptomaines
-pub
+pub,verb,noun
  pubs
-pubertal
-puberty
-pubescence
-pubescent
-pubic
-pubis
+pubertal,adjective
+puberty,noun
+pubescence,noun
+pubescent,adjective,noun
+pubic,adjective
+pubis,noun
  pubes
-public
+public,adjective,noun
  publicly
-publican
+publican,noun
  publicans
-publication
+publication,noun
  publications
-publicist
+publicist,noun
  publicists
-publicity
-publicize
+publicity,noun
+publicize,verb
  publicise publicised publicises publicising publicized publicizes publicizing
-publish
+publish,verb
  published publishes publishing
-publisher
+publisher,noun
  publishers
-puce
-puck
+puce,adjective,noun
+puck,noun
  pucks
-pucker
+pucker,verb,noun
  puckered puckering puckers
-puckish
+puckish,adjective
  puckishly puckishness
-pud
+pud,noun
  puds
-pudding
+pudding,noun
  puddings
-puddle
+puddle,verb,noun
  puddled puddles puddling
-pudendum
+pudendum,noun
  pudenda
-pudgy
+pudgy,adjective
  podgier podgiest podginess podgy pudgier pudgiest pudginess
-pueblo
+pueblo,adjective,noun
  pueblos
-puerile
-puerility
-puerperal
-puff
+puerile,adjective
+puerility,noun
+puerperal,adjective
+puff,verb,noun
  puffed puffing puffs
-puffball
+puffball,noun
  puffballs
-puffer
+puffer,noun
  puffers
-puffin
+puffin,noun
  puffins
-puffy
+puffy,adjective
  puffier puffiest puffiness
-pug
+pug,verb,noun
  pugs
-pugilism
-pugilist
+pugilism,noun
+pugilist,noun
  pugilists
-pugilistic
-pugnacious
+pugilistic,adjective
+pugnacious,adjective
  pugnaciously pugnaciousness
-pugnacity
-puke
+pugnacity,noun
+puke,verb,noun
  puked pukes puking
-pukka
-pulchritude
-pulchritudinous
-pule
+pukka,adjective
+pulchritude,noun
+pulchritudinous,adjective
+pule,verb
  puled pules puling
-pull
+pull,verb,noun
  pulled pulling pulls
-pullback
+pullback,noun
  pullbacks
-puller
+puller,noun
  pullers
-pullet
+pullet,noun
  pullets
-pulley
+pulley,verb,noun
  pulleys
-pullout
+pullout,adjective,noun
  pullouts
-pullover
+pullover,noun
  pullovers
-pullup
+pullup,noun
  pullups
-pulmonary
-pulp
+pulmonary,adjective
+pulp,verb,noun
  pulped pulping pulps
-pulpit
+pulpit,noun
  pulpits
-pulpwood
-pulpy
+pulpwood,noun
+pulpy,adjective
  pulpier pulpiest pulpiness
-pulsar
+pulsar,noun
  pulsars
-pulsate
+pulsate,verb
  pulsated pulsates pulsating
-pulsation
+pulsation,noun
  pulsations
-pulse
+pulse,verb,noun
  pulsed pulses pulsing
-pulverization
+pulverization,noun
  pulverisation
-pulverize
+pulverize,verb
  pulverise pulverised pulverises pulverising pulverized pulverizes pulverizing
-puma
+puma,noun
  pumas
-pumice
-pummel
+pumice,verb,noun
+pummel,verb
  pommel -> [pommel] pommeled pommeling pommelled pommelling pommels -> [pommel] pummeled pummeling pummelled pummelling pummels
-pump
+pump,verb,noun
  pumped pumping pumps
-pumper
+pumper,noun
  pumpers
-pumpernickel
-pumpkin
+pumpernickel,noun
+pumpkin,noun
  pumpkins punkin punkins
-pun
+pun,verb,noun
  punned punning puns
-punch
+punch,verb,noun
  punched punches punching
-punchbag
+punchbag,noun
  punchbags
-punchbowl
+punchbowl,noun
  punchbowls
-punchcard
+punchcard,noun
  punchcards
-puncheon
+puncheon,noun
  puncheons
-puncher
+puncher,noun
  punchers
-punchline
+punchline,noun
  punchlines
-punchy
+punchy,adjective
  punchier punchiest
-punctilio
-punctilious
+punctilio,noun
+punctilious,adjective
  punctiliously punctiliousness
-punctual
+punctual,adjective
  punctually
-punctuality
-punctuate
+punctuality,noun
+punctuate,verb
  punctuated punctuates punctuating
-punctuation
-puncture
+punctuation,noun
+puncture,verb,noun
  punctured punctures puncturing
-pundit
+pundit,noun
  pundits
-punditry
-pungency
-pungent
+punditry,noun
+pungency,noun
+pungent,adjective
  pungently
-punish
+punish,verb
  punished punishes punishing punishingly
-punishable
-punishment
+punishable,adjective
+punishment,noun
  punishments
-punitive
+punitive,adjective
  punitively
-punk
+punk,adjective,verb,noun
  punker punkest punks
-punnet
+punnet,noun
  punnets
-punster
+punster,noun
  punsters
-punt
+punt,verb,noun
  punted punting punts
-punter
+punter,noun
  punters
-puny
+puny,adjective
  punier puniest puniness
-pup
+pup,verb,noun
  pupped pupping pups
-pupa
+pupa,noun
  pupae pupas
-pupal
-pupate
+pupal,adjective
+pupate,verb
  pupated pupates pupating
-pupil
+pupil,noun
  pupils
-puppet
+puppet,noun
  puppets
-puppeteer
+puppeteer,noun
  puppeteers
-puppetry
-puppy
+puppetry,noun
+puppy,noun
  puppies
-purblind
-purchasable
-purchase
+purblind,adjective
+purchasable,adjective
+purchase,verb,noun
  purchased purchases purchasing
-purchaser
+purchaser,noun
  purchasers
-purdah
-pure
+purdah,noun
+pure,adjective
  purely pureness purer purest
-purebred
+purebred,adjective,noun
  purebreds
-puree
+puree,verb,noun
  pureed pureeing purees
-purgative
+purgative,adjective,noun
  purgatives
-purgatorial
-purgatory
+purgatorial,adjective
+purgatory,adjective,noun
  purgatories
-purge
+purge,verb,noun
  purged purges purging
-purger
+purger,noun
  purgers
-purification
-purifier
+purification,noun
+purifier,noun
  purifiers
-purify
+purify,verb
  purified purifies purifying
-purine
+purine,noun
  purines
-purism
-purist
+purism,noun
+purist,noun
  purists
-puristic
-puritan
+puristic,adjective
+puritan,adjective,noun
  puritans
-puritanical
+puritanical,adjective
  puritanically
-puritanism
-purity
-purl
+puritanism,noun
+purity,noun
+purl,adjective,verb,noun
  purled purling purls
-purlieu
+purlieu,noun
  purlieus
-purloin
+purloin,verb
  purloined purloining purloins
-purple
+purple,adjective,verb,noun
  purpler purples purplest purplish
-purport
+purport,verb,noun
  purported purportedly purporting purports
-purpose
+purpose,verb,noun
  purposed purposeful purposefully purposefulness purposeless purposelessly purposelessness purposely purposes purposing
-purpose-built
-purr
+purpose-built,adjective
+purr,verb,noun
  purred purring purrs
-purse
+purse,verb,noun
  pursed purses pursing
-purser
+purser,noun
  pursers
-pursuance
-pursuant
-pursue
+pursuance,noun
+pursuant,adjective,adverb
+pursue,verb
  pursued pursues pursuing
-pursuer
+pursuer,noun
  pursuers
-pursuit
+pursuit,noun
  pursuits
-purulence
-purulent
-purvey
+purulence!
+purulent,adjective
+purvey,verb
  purveyed purveying purveys
-purveyance
-purveyor
+purveyance,noun
+purveyor,noun
  purveyors
-purview
-pus
-push
+purview,noun
+pus,noun
+push,verb,noun
  pushed pushes pushing
-pushback
-pushbike
+pushback,noun
+pushbike,noun
  pushbikes
-pushcart
+pushcart,noun
  pushcarts
-pushchair
+pushchair,noun
  pushchairs
-pusher
+pusher,noun
  pushers
-pushover
+pushover,noun
  pushovers
-pushpin
+pushpin,noun
  pushpins
-pushup
+pushup,adjective,noun
  pushups
-pushy
+pushy,adjective
  pushier pushiest pushily pushiness
-pusillanimity
-pusillanimous
+pusillanimity,noun
+pusillanimous,adjective
  pusillanimously
-puss
+puss,noun
  pusses
-pussy
+pussy,noun
  pussier pussies pussiest
-pussycat
+pussycat,noun
  pussycats
-pussyfoot
+pussyfoot,verb
  pussyfooted pussyfooting pussyfoots
-pustular
-pustule
+pustular,adjective
+pustule,noun
  pustules
-put
+put,verb,noun
  puts putting -> [putt]
-putative
-putdown
+putative,adjective
+putdown,noun
  putdowns
-putout
+putout,noun
  putouts
-putrefaction
-putrefactive
-putrefy
+putrefaction,noun
+putrefactive,adjective
+putrefy,verb
  putrefied putrefies putrefying
-putrescence
-putrescent
-putrid
-putsch
+putrescence,noun
+putrescent,adjective
+putrid,adjective
+putsch,noun
  putsches
-putt
+putt,verb,noun
  putted putting -> [put] putts
-puttee
+puttee,noun
  puttees
-putter
+putter,verb,noun
  puttered puttering putters
-putterer
+putterer,noun
  putterers
-putty
+putty,verb,noun
  puttied putties puttying
-putz
+putz,verb,noun
  putzes
-puzzle
+puzzle,verb,noun
  puzzled puzzles puzzling
-puzzlement
-puzzler
+puzzlement,noun
+puzzler,noun
  puzzlers
-pwn!
+pwn,verb
  pwned pwning pwns
-pygmy
+pygmy,adjective,noun
  pigmies pigmy pygmies
-pylon
+pylon,noun
  pylons
-pyloric
-pylorus
+pyloric,adjective
+pylorus,noun
  pylori
-pyorrhea
+pyorrhea,noun
  pyorrhoea
-pyramid
+pyramid,verb,noun
  pyramided pyramiding pyramids
-pyramidal
-pyre
+pyramidal,adjective
+pyre,noun
  pyres
-pyrimidine
+pyrimidine,noun
  pyrimidines
-pyrite
+pyrite,noun
  pyrites
-pyromania
-pyromaniac
+pyromania,noun
+pyromaniac,noun
  pyromaniacs
-pyrotechnic
+pyrotechnic,adjective
  pyrotechnics
-pyrotechnical
-python
+pyrotechnical,adjective
+python,noun
  pythons
-pyx
+pyx,noun
  pyxes
