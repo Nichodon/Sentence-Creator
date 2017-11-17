@@ -1,515 +1,515 @@
-jab
+jab,noun,verb
  jabbed jabbing jabs
-jabber
+jabber,noun,verb
  jabbered jabbering jabbers
-jabberer
+jabberer,noun
  jabberers
-jabot
+jabot,noun
  jabots
-jacaranda
+jacaranda,noun
  jacarandas
-jack
+jack,adjective,noun,verb
  jacked jacking jacks
-jackal
+jackal,noun
  jackals
-jackaroo
+jackaroo,noun,verb
  jackaroos
-jackass
+jackass,noun
  jackasses
-jackboot
+jackboot,noun
  jackbooted jackboots
-jackdaw
+jackdaw,noun
  jackdaws
-jacket
+jacket,noun,verb
  jacketed jackets
-jackhammer
+jackhammer,noun,verb
  jackhammers
-jackknife
+jackknife,noun,verb
  jackknifed jackknifes jackknifing jackknives
-jackpot
+jackpot,noun
  jackpots
-jackrabbit
+jackrabbit,noun
  jackrabbits
-jackstraw
+jackstraw,noun
  jackstraws
-jacquard
-jade
+jacquard,noun
+jade,noun
  jaded jadedly jadedness jades jading
-jadeite
-jag
+jadeite,noun
+jag,noun,abbreviation,verb
  jags
-jagged
+jagged,adjective
  jaggeder jaggedest jaggedly jaggedness
-jaguar
+jaguar,noun
  jaguars
-jail
+jail,noun,verb
  gaol gaoled gaoling gaols jailed jailing jails
-jailbird
+jailbird,noun
  gaolbird gaolbirds jailbirds
-jailbreak
+jailbreak,noun,verb
  gaolbreak gaolbreaks jailbreaking! jailbreaks jailbroke! jailbroken!
-jailer
+jailer,noun
  gaoler gaolers jailers jailor jailors
-jailhouse
+jailhouse,noun
  jailhouses
-jalapeno
+jalapeno,noun
  jalapenos
-jalopy
+jalopy,noun
  jalopies
-jalousie
+jalousie,noun
  jalousies
-jam
+jam,noun,verb
  jammed jamming jams
-jamb
+jamb,noun
  jambs
-jambalaya
-jamboree
+jambalaya,noun
+jamboree,noun
  jamborees
-jammies
-jammy
+jammies,pluralnoun
+jammy,adjective
  jammier jammiest
-jam-packed
-jangle
+jam-packed,adjective
+jangle,noun,verb
  jangled jangles jangling
-jangler
+jangler,adjective
  janglers
-janitor
+janitor,noun
  janitors
-janitorial
-japan
+janitorial,adjective
+japan,propernoun,noun,verb
  japanned japanning japans
-jape
+jape,noun,verb
  japed japes japing
-jar
+jar,noun,verb
  jarful jarfuls jarred jarring jarringly jars
-jardiniere
+jardiniere,noun
  jardinieres
-jargon
-jasmine
+jargon,noun
+jasmine,noun
  jasmines jessamine jessamines
-jasper
-jato
+jasper,noun
+jato,noun
  jatos
-jaundice
+jaundice,noun
  jaundiced jaundices jaundicing
-jaunt
+jaunt,noun,verb
  jaunted jaunting jaunts
-jaunty
+jaunty,adjective
  jauntier jauntiest jauntily jauntiness
-java
-javelin
+java,noun,propernoun
+javelin,noun
  javelins
-jaw
+jaw,noun,verb
  jawed jawing jaws
-jawbone
+jawbone,noun,verb
  jawboned jawbones jawboning
-jawbreaker
+jawbreaker,noun
  jawbreakers
-jawline
+jawline,noun
  jawlines
-jay
+jay,noun
  jays
-jaybird
+jaybird!
  jaybirds
-jaywalk
+jaywalk,verb
  jaywalked jaywalking jaywalks
-jaywalker
+jaywalker,noun
  jaywalkers
-jazz
+jazz,noun,verb
  jazzed jazzes jazzing
-jazzy
+jazzy,adjective
  jazzier jazziest
-jealous
+jealous,adjective
  jealously
-jealousy
+jealousy,noun
  jealousies
-jeans
+jeans,pluralnoun
  jean
-jeep
+jeep,noun
  jeeps
-jeepers
-jeer
+jeepers,exclamation
+jeer,noun,verb
  jeered jeering jeeringly jeers
-jeez
+jeez,exclamation
  geez
-jejune
-jejunum
+jejune,adjective
+jejunum,noun
  jejuna jejunums
-jell
+jell,verb
  jelled jelling jells
-jello
-jelly
+jello,noun
+jelly,adjective,noun,verb
  jellied jellies jellying jellylike
-jellybean
+jellybean,noun
  jellybeans
-jellyfish
+jellyfish,noun
  jellyfishes
-jellyroll
+jellyroll!
  jellyrolls
-jennet
+jennet,noun
  jennets
-jenny
+jenny,noun
  jennies
-jeopardize
+jeopardize,verb
  jeopardise jeopardised jeopardises jeopardising jeopardized jeopardizes jeopardizing
-jeopardy
-jeremiad
+jeopardy,noun
+jeremiad,noun
  jeremiads
-jerk
+jerk,noun,verb
  jerked jerking jerks
-jerkin
+jerkin,noun
  jerkins
-jerkwater
-jerky
+jerkwater,adjective
+jerky,adjective,noun
  jerkier jerkiest jerkily jerkiness
-jeroboam
+jeroboam,noun
  jeroboams
-jerrybuilt
-jerrycan
+jerrybuilt,adjective
+jerrycan,noun
  jerrycans
-jersey
+jersey,noun,propernoun
  jerseys
-jest
+jest,noun,verb
  jested jesting jestingly jests
-jester
+jester,noun
  jesters
-jet
+jet,noun,abbreviation,verb
  jets jetted jetting
-jet-black
-jetfoil
+jet-black,noun,abbreviation,verb
+jetfoil,noun
  jetfoils
-jetlag
-jetliner
+jetlag,noun
+jetliner,noun
  jetliners
-jetport
+jetport,noun
  jetports
-jetsam
-jettison
+jetsam,noun
+jettison,noun,verb
  jettisoned jettisoning jettisons
-jetty
+jetty,noun
  jetties
-jew
+jew,noun
  jewed jewing jews
-jewel
+jewel,noun
  jeweled jeweling jewelled jewelling jewels
-jeweler
+jeweler,noun
  jewelers jeweller jewellers
-jewelry
+jewelry,noun
  jewelleries jewellery jewelries
-jezebel
+jezebel,propernoun
  jezebels
-jib
+jib,noun,verb
  jibbed jibbing jibs
-jiff
+jiff,noun
  jiffs
-jiffy
+jiffy,noun
  jiffies
-jig
+jig,noun,verb
  jigged jigging jigs
-jigger
+jigger,noun,verb
  jiggered jiggering jiggers
-jiggle
+jiggle,noun,verb
  jiggled jiggles jiggling
-jiggly
+jiggly,adjective
  jigglier jiggliest
-jigsaw
+jigsaw,noun
  jigsawed jigsawing jigsawn jigsaws
-jihad
+jihad,noun
  jehad jehads jihads
-jihadist!
+jihadist,noun
  jihadists
-jilt
+jilt,noun,verb
  jilted jilting jilts
-jimjams
-jimmy
+jimjams,pluralnoun
+jimmy,noun
  jemmied jemmies jemmy jemmying jimmied jimmies jimmying
-jimsonweed
-jingle
+jimsonweed,noun
+jingle,noun,verb
  jingled jingles jingling
-jingly
+jingly,adjective
  jinglier jingliest
-jingoism
-jingoist
+jingoism,noun
+jingoist,noun
  jingoists
-jingoistic
-jink
+jingoistic,adjective
+jink,noun,verb
  jinked jinking jinks
-jinn
+jinn,noun
  djinn djinns genie -> [genie] genies -> [genie] jinni jinnis jinns
-jinrikisha
+jinrikisha,noun
  jinricksha jinrickshas jinrikishas jinriksha jinrikshas
-jinx
+jinx,noun,verb
  jinxed jinxes jinxing
-jitney
+jitney,noun
  jitneys
-jitterbug
+jitterbug,noun,verb
  jitterbugged jitterbugging jitterbugs
-jitterbugger
+jitterbugger,noun,verb
  jitterbuggers
-jitters
-jittery
+jitters,noun,verb
+jittery,adjective
  jitterier jitteriest
-jive
+jive,adjective,noun,verb
  jived jives jiving
-job
+job,propernoun,noun,verb
  jobbed jobbing jobless joblessness jobs
-jobber
+jobber,noun
  jobbers
-jobbie
+jobbie,noun
  jobbies
-jobcentre
+jobcentre,noun
  jobcentres
-jobholder
+jobholder,noun
  jobholders
-jobseeker
+jobseeker,noun
  jobseekers
-jobshare
+jobshare,noun,verb
  jobshares
-jobsworth
+jobsworth,noun
  jobsworths
-jock
+jock,noun
  jocks
-jockey
+jockey,noun,verb
  jockeyed jockeying jockeys
-jockstrap
+jockstrap,noun
  jockstraps
-jocose
+jocose,adjective
  jocosely jocoseness
-jocosity
-jocular
+jocosity,noun
+jocular,adjective
  jocularly
-jocularity
-jocund
+jocularity,noun
+jocund,adjective
  jocundly
-jocundity
-jodhpurs
-joey
+jocundity,noun
+jodhpurs,pluralnoun
+joey,noun
  joeys
-jog
+jog,noun,verb
  jogged jogging jogs
-jogger
+jogger,noun
  joggers
-joggle
+joggle,noun,verb
  joggled joggles joggling
-jogtrot
-john
+jogtrot,noun
+john,noun,propernoun
  johns
-johnny
+johnny,noun
  johnnies
-johnnycake
+johnnycake,noun
  johnnycakes
-join
+join,noun,verb
  joined joining joins
-joiner
+joiner,noun
  joiners
-joinery
-joint
+joinery,noun
+joint,adjective,noun,verb
  jointed jointing jointly joints
-joist
+joist,noun
  joists
-jojoba
-joke
+jojoba,noun
+joke,noun,verb
  joked jokes joking jokingly
-joker
+joker,noun
  jokers
-jokey
+jokey,adjective
  jokier jokiest joky
-jollification
+jollification,noun
  jollifications
-jollity
-jolly
+jollity,noun
+jolly,adjective,adverb,noun,verb
  jollied jollier jollies jolliest jollily jolliness jollying
-jolt
+jolt,noun,verb
  jolted jolting jolts
-jolter
+jolter,noun,verb
  jolters
-jonquil
+jonquil,noun
  jonquils
-josh
+josh,noun,verb
  joshed joshes joshing
-josher
+josher,noun
  joshers
-jostle
+jostle,noun,verb
  jostled jostles jostling
-jot
+jot,noun,verb
  jots jotted jotting -> [jotting]
-jotter
+jotter,noun
  jotters
-jotting -> [jot]
+jotting,noun
  jottings
-joule
+joule,noun
  joules
-jounce
+jounce,verb
  jounced jounces jouncing
-jouncy
+jouncy,adjective
  jouncier jounciest
-journal
+journal,noun,verb
  journals
-journalese
-journalism
-journalist
+journalese,noun
+journalism,noun
+journalist,noun
  journalists
-journalistic
-journey
+journalistic,adjective
+journey,noun,verb
  journeyed journeying journeys
-journeyer
+journeyer,noun
  journeyers
-journeyman
+journeyman,noun
  journeymen
-journo
+journo,noun
  journos
-joust
+joust,noun,verb
  jousted jousting jousts
-jouster
+jouster,noun
  jousters
-jovial
+jovial,adjective
  jovially
-joviality
-jowl
+joviality,noun
+jowl,noun
  jowls
-jowly
+jowly,adjective
  jowlier jowliest
-joy
+joy,noun,verb
  joyed joyful joyfuller joyfullest joyfully joyfulness joying joyless joylessly joylessness joys
-joyous
+joyous,adjective
  joyously joyousness
-joypad
+joypad,noun
  joypads
-joyride
+joyride,noun
  joyridden joyrides joyriding joyrode
-joyrider
+joyrider,noun
  joyriders
-joystick
+joystick,noun
  joysticks
-jubilant
+jubilant,adjective
  jubilantly
-jubilation
-jubilee
+jubilation,noun
+jubilee,noun
  jubilees
-judder
+judder,noun,verb
  juddered juddering judders
-judge
+judge,noun,verb
  judged judges judging
-judgeship
-judgment
+judgeship,noun
+judgment,noun
  judgement judgements judgments
-judgmental
+judgmental,adjective
  judgemental judgementally judgmentally
-judicatory
+judicatory,adjective
  judicatories
-judicature
-judicial
+judicature,noun
+judicial,adjective
  judicially
-judiciary
+judiciary,noun
  judiciaries
-judicious
+judicious,adjective
  judiciously judiciousness
-judo
-jug
+judo,noun
+jug,noun,verb
  jugful jugfuls jugged jugging jugs
-juggernaut
+juggernaut,noun,propernoun
  juggernauts
-juggle
+juggle,noun,verb
  juggled juggles juggling
-juggler
+juggler,noun
  jugglers
-jugglery
-jugular
+jugglery,noun
+jugular,adjective,noun
  jugulars
-juice
+juice,noun,verb
  juiced juices juicing
-juicer
+juicer,noun
  juicers
-juicy
+juicy,adjective
  juicier juiciest juicily juiciness
-jujitsu
+jujitsu,noun
  jiujitsu jujutsu
-jujube
+jujube,noun
  jujubes
-jukebox
+jukebox,noun
  jukeboxes
-julep
+julep,noun
  juleps
-julienne
+julienne,noun,verb
  julienned juliennes julienning
-jumble
+jumble,noun,verb
  jumbled jumbles jumbling
-jumbo
+jumbo,adjective,noun
  jumbos
-jump
+jump,noun,verb
  jumped jumping jumps
-jumper
+jumper,noun
  jumpers
-jump-start
+jump-start,noun,verb
  jump-started jump-starting jump-starts
-jumpsuit
+jumpsuit,noun
  jumpsuits
-jumpy
+jumpy,adjective
  jumpier jumpiest jumpily jumpiness
-junco
+junco,noun
  juncoes juncos
-junction
+junction,noun
  junctions
-juncture
+juncture,noun
  junctures
-jungle
+jungle,noun
  jungles
-junior
+junior,adjective,noun
  juniors
-juniper
+juniper,noun
  junipers
-junk
+junk,noun,verb
  junked junking junks
-junker
+junker,noun
  junkers
-junket
+junket,noun,verb
  junketed junketing junkets
-junketeer
+junketeer,noun
  junketeers junketer junketers
-junkie
+junkie,noun
  junkies junky -> [junky]
-junky -> [junkie]
+junky,adjective,noun
  junkier junkiest
-junkyard
+junkyard,noun
  junkyards
-junta
+junta,noun
  juntas
-juridic
-juridical
+juridic,adverb
+juridical,adjective
  juridically
-jurisdiction
+jurisdiction,noun
  jurisdictions
-jurisdictional
-jurisprudence
-jurist
+jurisdictional,adjective
+jurisprudence,noun
+jurist,noun
  jurists
-juristic
-juror
+juristic,adjective
+juror,noun
  jurors
-jury
+jury,adjective,noun,verb
  juries
-juryman
+juryman,noun
  jurymen
-jurywoman
+jurywoman,noun
  jurywomen
-jus
-just
+jus,noun
+just,adjective,adverb
  juster justest justly justness
-justice
+justice,noun
  justices
-justifiable
+justifiable,adjective
  justifiably
-justification
+justification,noun
  justifications
-justify
+justify,verb
  justified justifies justifying
-jut
+jut,noun,verb
  juts jutted jutting
-jute
-juvenile
+jute,noun
+juvenile,adjective,noun
  juveniles
-juvenilia
-juxtapose
+juvenilia,pluralnoun
+juxtapose,verb
  juxtaposed juxtaposes juxtaposing
-juxtaposition
+juxtaposition,noun
  juxtapositions
