@@ -1,3112 +1,3112 @@
-ta
-tab
+ta,exclamation,abbreviation
+tab,verb,abbreviation,noun
  tabbed tabbing tabs
-tabard
+tabard,noun
  tabards
-tabbouleh
-tabby
+tabbouleh,noun
+tabby,adjective,noun
  tabbies
-tabernacle
+tabernacle,noun
  tabernacles
-tabla
+tabla,noun
  tablas
-table
+table,verb,noun
  tabled tables tabling
-tableau
+tableau,noun
  tableaus tableaux
-tablecloth
+tablecloth,noun
  tablecloths
-tableland
+tableland,noun
  tablelands
-tablespoon
+tablespoon,noun
  tablespoonful tablespoonfuls tablespoons tablespoonsful
-tablet
+tablet,noun
  tablets
-tabletop
+tabletop,noun
  tabletops
-tableware
-tabloid
+tableware,noun
+tabloid,noun
  tabloids
-taboo
+taboo,verb,adjective,noun
  tabooed tabooing taboos tabu tabued tabuing tabus
-tabor
+tabor,noun
  tabors
-tabular
-tabulate
+tabular,adjective
+tabulate,verb
  tabulated tabulates tabulating
-tabulation
+tabulation,noun
  tabulations
-tabulator
+tabulator,noun
  tabulators
-tachograph
+tachograph,noun
  tachographs
-tachometer
+tachometer,noun
  tachometers
-tachycardia
-tacit
+tachycardia,noun
+tacit,adjective
  tacitly tacitness
-taciturn
+taciturn,adjective
  taciturnly
-taciturnity
-tack
+taciturnity,noun
+tack,verb,noun
  tacked tacking tacks
-tacker
+tacker,noun
  tackers
-tackie
+tackie,noun
  tackies takkie takkies
-tackle
+tackle,verb,noun
  tackled tackles tackling
-tackler
+tackler,noun
  tacklers
-tacky
+tacky,adjective
  tackier tackiest tackiness
-taco
+taco,noun
  tacos
-tact
+tact,noun
  tactful tactfully tactfulness tactless tactlessly tactlessness
-tactic
+tactic,noun
  tactics
-tactical
+tactical,adjective
  tactically
-tactician
+tactician,noun
  tacticians
-tactile
-tactility
-tad
+tactile,adjective
+tactility,noun
+tad,adverb,noun
  tads
-tadpole
+tadpole,noun
  tadpoles
-taffeta
-taffrail
+taffeta,noun
+taffrail,noun
  taffrails
-taffy
+taffy,noun
  taffies
-tag
+tag,verb,noun
  tagged tagging tags
-tagger
+tagger,noun
  taggers
-tagliatelle
-tagline
+tagliatelle,noun
+tagline,noun
  taglines
-taiga
+taiga,noun
  taigas
-tail
+tail,verb,noun
  tailed tailing tailless tails
-tailback
+tailback,noun
  tailbacks
-tailboard
+tailboard,noun
  tailboards
-tailbone
+tailbone,noun
  tailbones
-tailcoat
+tailcoat,noun
  tailcoats
-tailgate
+tailgate,verb,noun
  tailgated tailgates tailgating
-tailgater
+tailgater,noun
  tailgaters
-taillight
+taillight,noun
  taillights
-tailor
+tailor,verb,noun
  tailored tailoring tailors
-tailor-made
-tailpiece
+tailor-made,adjective,noun
+tailpiece,noun
  tailpieces
-tailpipe
+tailpipe,noun
  tailpipes
-tailspin
+tailspin,verb,noun
  tailspins
-tailwind
+tailwind,noun
  tailwinds
-taint
+taint,verb,noun
  tainted tainting taints
-take
+take,verb,noun
  taken takes taking -> [taking] took
-takeaway
+takeaway,noun
  takeaways
-takeoff
+takeoff,noun
  takeoffs
-takeout
+takeout,noun
  takeouts
-takeover
+takeover,noun
  takeovers
-taker
+taker,noun
  takers
-taking -> [take]
+taking,adjective,noun
  takings
-talc
-talcum
-tale
+talc,verb,noun
+talcum,verb,noun
+tale,noun
  tales
-talebearer
+talebearer,noun
  talebearers
-talent
+talent,noun
  talented talents
-talisman
+talisman,noun
  talismans
-talk
+talk,verb,noun
  talked talking talks
-talkative
+talkative,adjective
  talkatively talkativeness
-talkback
+talkback,noun
  talkbacks
-talker
+talker,noun
  talkers
-talkie
+talkie,noun
  talkies
-talky
+talky,adjective
  talkier talkiest
-tall
+tall,adjective
  taller tallest tallish tallness
-tallboy
+tallboy,noun
  tallboys
-tallier
+tallier,noun
  talliers
-tallow
-tallowy
-tally
+tallow,verb,noun
+tallowy,adjective
+tally,verb,noun
  tallied tallies tallying
-tallyho
+tallyho,verb,exclamation,noun
  tallyhoed tallyhoing tallyhos
-talon
+talon,noun
  talons
-talus
+talus,noun
  tali taluses
-tam
+tam,abbreviation,noun
  tams
-tamable
+tamable,adjective
  tameable
-tamale
+tamale,noun
  tamales
-tamarack
+tamarack,noun
  tamaracks
-tamarind
+tamarind,noun
  tamarinds
-tambourine
+tambourine,noun
  tambourines
-tame
+tame,verb,adjective
  tamed tamely tameness tamer -> [tamer] tames tamest taming
-tamer -> [tame]
+tamer,noun
  tamers
-tamoxifen
-tamp
+tamoxifen,noun
+tamp,verb
  tamped tamping tamps
-tamper
+tamper,verb,noun
  tampered tampering tampers
-tamperer
+tamperer,noun
  tamperers
-tamperproof
-tampon
+tamperproof,adjective
+tampon,verb,noun
  tampons
-tan
+tan,verb,adjective,abbreviation,noun
  tanned tanner -> [tanner] tannest tanning tans
-tanager
+tanager,noun
  tanagers
-tanbark
-tandem
+tanbark,verb,adjective,abbreviation,noun
+tandem,adverb,adjective,noun
  tandems
-tandoori
-tang
+tandoori,adjective,noun
+tang,verb,noun,propernoun
  tangs
-tangelo
+tangelo,noun
  tangelos
-tangent
+tangent,adjective,noun
  tangents
-tangential
+tangential,adjective
  tangentially
-tangerine
+tangerine,noun
  tangerines
-tangible
+tangible,adjective,noun
  tangibility tangibleness tangibles tangibly
-tangle
+tangle,verb,noun
  tangled tangles tangling
-tango
+tango,verb,noun
  tangoed tangoing tangos
-tangy
+tangy,adjective
  tangier tangiest
-tank
+tank,verb,noun
  tanked tankful tankfuls tanking tanks
-tankard
+tankard,noun
  tankards
-tanker
+tanker,verb,noun
  tankers
-tanner -> [tan]
+tanner,noun
  tanners
-tannery
+tannery,noun
  tanneries
-tannin
+tannin,noun
  tannins
-tansy
-tantalization
+tansy,noun
+tantalization,noun
  tantalisation
-tantalize
+tantalize,verb
  tantalise tantalised tantalises tantalising tantalisingly tantalized tantalizes tantalizing tantalizingly
-tantalizer
+tantalizer,noun
  tantaliser tantalisers tantalizers
-tantalum
-tantamount
-tantra
-tantrum
+tantalum,noun
+tantamount,adjective
+tantra,noun
+tantrum,noun
  tantrums
-tap
+tap,verb,noun
  tapped tapping taps
-tapas
-tapdance
+tapas,pluralnoun
+tapdance,verb,noun
  tapdanced tapdances tapdancing
-tape
+tape,verb,noun
  taped tapes taping
-tapeline
+tapeline!
  tapelines
-taper
+taper,verb,noun
  tapered tapering tapers
-tapestry
+tapestry,noun
  tapestries
-tapeworm
+tapeworm,noun
  tapeworms
-tapioca
-tapir
+tapioca,noun
+tapir,noun
  tapirs
-tapper
+tapper,noun
  tappers
-tappet
+tappet,noun
  tappets
-taproom
+taproom,noun
  taprooms
-taproot
+taproot,noun
  taproots
-tar
+tar,verb,noun
  tarred tarring tars
-taramasalata
-tarantella
+taramasalata,noun
+tarantella,noun
  tarantellas
-tarantula
+tarantula,noun
  tarantulae tarantulas
-tardy
+tardy,adjective
  tardier tardiest tardily tardiness
-tare
+tare,noun
  tared tares taring
-target
+target,verb,noun
  targeted targeting targets targetted targetting
-tariff
+tariff,verb,noun
  tariffs
-tarmac
+tarmac,verb,noun
  tarmacked tarmacking tarmacs
-tarmacadam
-tarn
+tarmacadam,noun
+tarn,noun,propernoun
  tarns
-tarnish
+tarnish,verb,noun
  tarnished tarnishes tarnishing
-taro
+taro,noun
  taros
-tarot
+tarot,noun
  tarots
-tarp
+tarp,noun
  tarps
-tarpaulin
+tarpaulin,noun
  tarpaulins
-tarpon
+tarpon,noun
  tarpons
-tarragon
+tarragon,noun
  tarragons
-tarry
+tarry,verb,adjective
  tarried tarrier tarries tarriest tarrying
-tarsal
+tarsal,adjective,noun
  tarsals
-tarsus
+tarsus,noun,propernoun
  tarsi
-tart
+tart,verb,adjective,noun
  tarted tarter tartest tarting tartly tartness tarts
-tartan
+tartan,adjective,noun
  tartans
-tartar
+tartar,noun
  tartars
-tartaric
-tarty
+tartaric,adjective
+tarty,adjective
  tartier tartiest
-taser
+taser,verb,noun
  tasered! tasering! tasers
-task
+task,verb,noun
  tasked tasking tasks
-taskbar
+taskbar,noun
  taskbars
-taskforce
+taskforce!
  taskforces
-taskmaster
+taskmaster,noun
  taskmasters
-taskmistress
+taskmistress,noun
  taskmistresses
-tassel
+tassel,verb,noun
  tasseled tasseling tasselled tasselling tassels
-taste
+taste,verb,noun
  tasted tasteful tastefully tastefulness tasteless tastelessly tastelessness tastes tasting -> [tasting]
-tastebud
+tastebud,noun
  tastebuds
-taster
+taster,noun
  tasters
-tasting -> [taste]
+tasting,noun
  tastings
-tasty
+tasty,adjective
  tastier tastiest tastily tastiness
-tat
+tat,verb,noun
  tats tatted tatting
-tatami
+tatami,noun
  tatamis
-tater
+tater,noun
  taters
-tatter
+tatter,adjective
  tattered tattering tatters
-tatterdemalion
+tatterdemalion,adjective,noun
  tatterdemalions
-tattie
+tattie,noun
  tatties
-tattle
+tattle,verb,noun
  tattled tattles tattling
-tattler
+tattler,noun
  tattlers
-tattletale
+tattletale,verb,noun
  tattletales
-tattoo
+tattoo,verb,noun
  tattooed tattooing tattoos
-tattooer
+tattooer,noun
  tattooers
-tattooist
+tattooist,noun
  tattooists
-tatty
+tatty,adjective
  tattier tattiest
-tau
+tau,noun
  taus
-taunt
+taunt,verb,noun
  taunted taunting tauntingly taunts
-taunter
+taunter,noun
  taunters
-taupe
-taut
+taupe,noun
+taut,adjective
  tauter tautest tautly tautness
-tauten
+tauten,verb
  tautened tautening tautens
-tautological
+tautological,adjective
  tautologically
-tautologous
-tautology
+tautologous,adjective
+tautology,noun
  tautologies
-tavern
+tavern,noun
  taverns
-tawdry
+tawdry,adjective,noun
  tawdrier tawdriest tawdrily tawdriness
-tawny
+tawny,adjective,noun
  tawnier tawniest
-tax
+tax,verb,noun
  taxed taxes taxing
-taxable
-taxation
-tax-deferred
-taxer
+taxable,adjective
+taxation,noun
+tax-deferred,noun
+taxer,noun
  taxers
-tax-exempt
-tax-free
-taxi
+tax-exempt,verb,adjective,noun
+tax-free,adjective,adverb
+taxi,verb,noun
  taxied taxies taxiing taxis taxying
-taxicab
+taxicab,noun
  taxicabs
-taxidermist
+taxidermist,noun
  taxidermists
-taxidermy
-taximeter
+taxidermy,noun
+taximeter,noun
  taximeters
-taxiway
+taxiway,noun
  taxiways
-taxman
+taxman,noun
  taxmen
-taxonomic
-taxonomical
-taxonomist
+taxonomic,adjective
+taxonomical,adjective
+taxonomist,noun
  taxonomists
-taxonomy
+taxonomy,noun
  taxonomies
-taxpayer
+taxpayer,noun
  taxpayers
-taxpaying
-tea
+taxpaying,adjective
+tea,verb,noun
  teas
-teabag
+teabag,noun
  teabags
-teacake
+teacake,noun
  teacakes
-teach
+teach,verb,noun
  taught teaches teaching -> [teaching]
-teachable
-teacher
+teachable,adjective
+teacher,noun
  teachers
-teaching -> [teach]
+teaching,noun
  teachings
-teacup
+teacup,noun
  teacupful teacupfuls teacups
-teahouse
+teahouse,noun
  teahouses
-teak
+teak,noun
  teaks
-teakettle
+teakettle,noun
  teakettles
-teal
+teal,noun
  teals
 tealight!
  tealights
-team
+team,verb,noun
  teamed teaming teams
-teammate
+teammate,noun
  teammates
-teamster
+teamster,noun
  teamsters
-teamwork
-teapot
+teamwork,noun
+teapot,noun
  teapots
-tear
+tear,verb,noun
  teared tearful tearfully tearfulness tearing tears tore torn
-tearaway
+tearaway,noun
  tearaways
-teardrop
+teardrop,noun
  teardrops
-teargas
+teargas,verb,noun
  teargases teargassed teargasses teargassing
-tearjerker
+tearjerker,noun
  tearjerkers
-tearoom
+tearoom,noun
  tearooms
-teary
+teary,adjective
  tearier teariest
-tease
+tease,verb,noun
  teased teases teasing teasingly
-teasel
+teasel,verb,noun
  teasels teazel teazels teazle teazles
-teaser
+teaser,noun
  teasers
-teashop
+teashop,noun
  teashops
-teaspoon
+teaspoon,noun
  teaspoonful teaspoonfuls teaspoons teaspoonsful
-teat
+teat,noun
  teats
-teatime
+teatime,noun
  teatimes
-tech
+tech,noun
  techs
-techie
+techie,noun
  techies
-technetium
-technical
+technetium,noun
+technical,adjective,noun
  technically
-technicality
+technicality,noun
  technicalities
-technician
+technician,noun
  technicians
-technicolor
+technicolor,noun
  technicolour
-technique
+technique,noun
  techniques
-techno
-technobabble
-technocracy
+techno,noun
+technobabble,noun
+technocracy,noun
  technocracies
-technocrat
+technocrat,noun
  technocrats
-technocratic
-technological
+technocratic,adjective
+technological,adjective
  technologically
-technologist
+technologist,noun
  technologists
-technology
+technology,noun
  technologies
-technophile
+technophile,noun
  technophiles
-technophobe
+technophobe,noun
  technophobes
-techy
-tectonic
+techy,noun
+tectonic,adjective
  tectonics
-ted
+ted,verb,noun
  teds
-teddy
+teddy,noun
  teddies
-tedious
+tedious,adjective
  tediously tediousness
-tedium
-tee
+tedium,noun
+tee,verb,noun
  teed teeing tees
-teem
+teem,verb
  teemed teeming teems
-teen
+teen,adjective,noun
  teens
-teenage
+teenage,adjective
  teenaged
-teenager
+teenager,noun
  teenagers
-teeny
+teeny,adjective
  teenier teeniest teensier teensiest teensy
-teenybopper
+teenybopper,noun
  teenyboppers
-teeter
+teeter,verb
  teetered teetering teeters
-teethe
+teethe,verb
  teethed teethes teething
-teetotal
-teetotaler
+teetotal,adjective
+teetotaler,noun
  teetotalers teetotaller teetotallers
-teetotalism
-tektite
+teetotalism,noun
+tektite,noun
  tektites
-telecast
+telecast,verb,noun
  telecasted telecasting telecasts
-telecaster
+telecaster,noun
  telecasters
-telecommunication
+telecommunication,noun
  telecommunications
-telecommute
+telecommute,verb
  telecommuted telecommutes telecommuting
-telecommuter
+telecommuter,noun
  telecommuters
-telecoms
-teleconference
+telecoms,pluralnoun
+teleconference,noun
  teleconferenced teleconferences teleconferencing
-telecottage
+telecottage,noun
  telecottages
-telegenic
-telegram
+telegenic,adjective
+telegram,noun
  telegrams
-telegraph
+telegraph,verb,noun
  telegraphed telegraphing telegraphs
-telegrapher
+telegrapher,noun
  telegraphers
-telegraphese
-telegraphic
+telegraphese,noun
+telegraphic,adjective
  telegraphically
-telegraphist
+telegraphist,noun
  telegraphists
-telegraphy
-telekinesis
-telekinetic
-telemarketer
+telegraphy,noun
+telekinesis,noun
+telekinetic,adjective
+telemarketer,noun
  telemarketers
-telemarketing
-telemeter
+telemarketing,noun
+telemeter,verb,noun
  telemeters
-telemetry
+telemetry,noun
  telemetries
-teleological
-teleology
-telepathic
+teleological,adjective
+teleology,noun
+telepathic,adjective
  telepathically
-telepathy
-telephone
+telepathy,noun
+telephone,verb,noun
  telephoned telephones telephoning
-telephoner
+telephoner,noun
  telephoners
-telephonic
-telephonist
+telephonic,adjective
+telephonist,noun
  telephonists
-telephony
-telephoto
+telephony,noun
+telephoto,noun
  telephotos
-telephotography
-teleplay
+telephotography,noun
+teleplay,noun
  teleplays
-teleport
+teleport,verb,noun
  teleported teleporting teleports
-teleprinter
+teleprinter,noun
  teleprinters
-teleprocessing
-teleprompter
+teleprocessing,noun
+teleprompter,noun
  teleprompters
-telesales
-telescope
+telesales,pluralnoun
+telescope,verb,noun
  telescoped telescopes telescoping
-telescopic
+telescopic,adjective
  telescopically
-teletext
+teletext,noun
  teletexts
-telethon
+telethon,noun
  telethons
-teletypewriter
+teletypewriter,noun
  teletypewriters
-televangelism
-televangelist
+televangelism,noun
+televangelist,noun
  televangelists
-televise
+televise,verb
  televised televises televising
-television
+television,noun
  televisions
-televisual
-teleworker
+televisual,adjective
+teleworker,noun
  teleworkers
-teleworking
-telex
+teleworking,verb,noun
+telex,verb,noun
  telexed telexes telexing
-tell
+tell,verb,noun
  telling tellingly tells told
-teller
+teller,noun
  tellers
-telltale
+telltale,adjective,noun
  telltales
-tellurium
-telly
+tellurium,noun
+telly,noun
  tellies
-temblor
+temblor,noun
  temblors
-temerity
-temp
+temerity,noun
+temp,verb,abbreviation,noun
  temped temping temps
-temper
+temper,verb,noun
  tempered tempering tempers
-tempera
+tempera,noun
  temperas
-temperament
+temperament,noun
  temperaments
-temperamental
+temperamental,adjective
  temperamentally
-temperance
-temperate
+temperance,noun
+temperate,adjective
  temperately temperateness
-temperature
+temperature,noun
  temperatures
-tempest
+tempest,noun
  tempests
-tempestuous
+tempestuous,adjective
  tempestuously tempestuousness
-template
+template,noun
  templates
-temple
+temple,noun
  temples
-tempo
+tempo,noun
  tempi tempos
-temporal
+temporal,adjective
  temporally
-temporary
+temporary,adjective,noun
  temporaries temporarily temporariness
-temporize
+temporize,verb
  temporise temporised temporises temporising temporized temporizes temporizing
-temporizer
+temporizer,noun
  temporiser temporisers temporizers
-tempt
+tempt,verb
  tempted tempting temptingly tempts
-temptation
+temptation,noun
  temptations
-tempter
+tempter,noun
  tempters
-temptress
+temptress,noun
  temptresses
-tempura
-ten
+tempura,noun
+ten,cardinalnumber
  tens
-tenable
+tenable,adjective
  tenability tenably
-tenacious
+tenacious,adjective
  tenaciously tenaciousness
-tenacity
-tenancy
+tenacity,noun
+tenancy,noun
  tenancies
-tenant
+tenant,verb,noun
  tenanted tenanting tenants
-tenantry
-tench
-tend
+tenantry,noun
+tench,noun
+tend,verb
  tended tending tends
-tendency
+tendency,noun
  tendencies
-tendentious
+tendentious,adjective
  tendentiously tendentiousness
-tender
+tender,verb,adjective,noun
  tendered tenderer tenderest tendering tenderly tenderness tenders
-tenderfoot
+tenderfoot,noun
  tenderfeet tenderfoots
-tenderhearted
+tenderhearted,adjective
  tenderheartedly tenderheartedness
-tenderize
+tenderize,verb
  tenderise tenderised tenderises tenderising tenderized tenderizes tenderizing
-tenderizer
+tenderizer,noun
  tenderiser tenderisers tenderizers
-tenderloin
+tenderloin,noun
  tenderloins
-tendinitis
+tendinitis,noun
  tendonitis
-tendon
+tendon,noun
  tendons
-tendril
+tendril,noun
  tendrils
-tenement
+tenement,noun
  tenements
-tenet
+tenet,noun
  tenets
-tenfold
-tenner
+tenfold,adjective,adverb
+tenner,noun
  tenners
-tennis
-tenon
+tennis,noun
+tenon,verb,noun
  tenoned tenoning tenons
-tenor
+tenor,noun
  tenors
-tenpin
+tenpin,noun
  tenpins
-tense
+tense,verb,adjective,noun
  tensed tensely tenseness tenser tenses tensest tensing
-tensile
-tension
+tensile,adjective
+tension,verb,noun
  tensions
-tensity
-tent
+tensity,noun
+tent,verb,noun
  tented tenting tents
-tentacle
+tentacle,noun
  tentacled tentacles
-tentative
+tentative,adjective
  tentatively tentativeness
-tenterhook
+tenterhook,noun
  tenterhooks
-tenth
+tenth,ordinalnumber
  tenthly tenths
-tenuity
-tenuous
+tenuity,noun
+tenuous,adjective
  tenuously tenuousness
-tenure
+tenure,verb,noun
  tenured tenures tenuring
-tepee
+tepee,noun
  teepee teepees tepees tipi tipis
-tepid
+tepid,adjective
  tepider tepidest tepidly tepidness
-tepidity
-tequila
+tepidity,noun
+tequila,noun
  tequilas
-terabyte
+terabyte,noun
  terabytes
-terbium
-tercentenary
+terbium,noun
+tercentenary,adjective,noun
  tercentenaries
-tercentennial
+tercentennial,noun,adjective
  tercentennials
-term
+term,verb,noun
  termed terming termly terms
-termagant
+termagant,noun
  termagants
-terminable
-terminal
+terminable,adjective
+terminal,adjective,noun
  terminally terminals
-terminate
+terminate,verb
  terminated terminates terminating
-termination
+termination,noun
  terminations
-terminological
+terminological,adjective
  terminologically
-terminology
+terminology,noun
  terminologies
-terminus
+terminus,noun
  termini terminuses
-termite
+termite,noun
  termites
-tern
+tern,noun
  terns
-ternary
+ternary,adjective
  ternaries
-terrace
+terrace,verb,noun
  terraced terraces terracing
-terracotta
-terrain
+terracotta,noun
+terrain,noun
  terrains
-terrapin
+terrapin,noun
  terrapins
-terrarium
+terrarium,noun
  terraria terrariums
-terrazzo
+terrazzo,noun
  terrazzos
-terrestrial
+terrestrial,adjective,noun
  terrestrially terrestrials
-terrible
+terrible,adjective
  terribleness terribly
-terrier
+terrier,noun
  terriers
-terrific
+terrific,adjective
  terrifically
-terrify
+terrify,verb
  terrified terrifies terrifying terrifyingly
-terrine
+terrine,noun
  terrines
-territorial
+territorial,adjective,noun
  territorially territorials
-territoriality
-territory
+territoriality,noun
+territory,noun
  territories
-terror
+terror,noun
  terrors
-terrorism
-terrorist
+terrorism,noun
+terrorist,adjective,noun
  terrorists
-terrorize
+terrorize,verb
  terrorise terrorised terrorises terrorising terrorized terrorizes terrorizing
-terry
-terrycloth
-terse
+terry,noun
+terrycloth!
+terse,adjective
  tersely terseness terser tersest
-tertiary
-tessellate
+tertiary,adjective,noun
+tessellate,verb
  tessellated tessellates tessellating
-tessellation
+tessellation,noun
  tessellations
-test
+test,verb,noun
  tested testing tests
-testable
-testament
+testable,adjective
+testament,noun
  testaments
-testamentary
-testate
-testator
+testamentary,adjective
+testate,adjective,noun
+testator,noun
  testators
-testatrix
+testatrix,noun
  testatrices
-tester
+tester,noun
  testers
-testicle
+testicle,noun
  testicles
-testicular
-testifier
+testicular,adjective
+testifier,noun
  testifiers
-testify
+testify,verb
  testified testifies testifying
-testimonial
+testimonial,noun
  testimonials
-testimony
+testimony,noun
  testimonies
-testis
+testis,noun
  testes
-testosterone
-testy
+testosterone,noun
+testy,adjective
  testier testiest testily testiness
-tetanus
-tetchy
+tetanus,noun
+tetchy,adjective
  tetchier tetchiest tetchily tetchiness
-tether
+tether,verb,noun
  tethered tethering tethers
-tetra
+tetra,noun
  tetras
-tetracycline
-tetrahedral
-tetrahedron
+tetracycline,noun
+tetrahedral,adjective
+tetrahedron,noun
  tetrahedra tetrahedrons
-tetrameter
+tetrameter,noun
  tetrameters
-text
+text,verb,noun
  texted! texting! texts
-textbook
+textbook,adjective,noun
  textbooks
-textile
+textile,adjective,noun
  textiles
-textual
+textual,adjective
  textually
-textural
-texture
+textural,adjective
+texture,verb,noun
  textured textures texturing
-thalamus
+thalamus,noun
  thalami
-thalidomide
-thallium
-than
-thane
+thalidomide,noun
+thallium,noun
+than,conjunction,preposition
+thane,noun
  thanes
-thank
+thank,verb
  thanked thankful thankfully thankfulness thanking thankless thanklessly thanklessness thanks
-thanksgiving
+thanksgiving,noun
  thanksgivings
-thankyou
+thankyou,exclamation,noun
  thankyous
-that
+that,pronoun,adverb,conjunction,determiner
  those
-thatch
+thatch,verb,noun
  thatched thatches thatching
-thatcher
+thatcher,noun
  thatchers
-thaw
+thaw,verb,noun
  thawed thawing thaws
-the
-theater
+the,determiner
+theater,noun
  theaters theatre theatres
-theatergoer
+theatergoer!
  theatergoers theatregoer theatregoers
-theatrical
+theatrical,adjective,noun
  theatrically theatricals
-theatricality
-theatrics
-theft
+theatricality,noun
+theatrics,pluralnoun
+theft,noun
  thefts
-their
+their,possessivedeterminer
  theirs
-theism
-theist
+theism,noun
+theist,noun
  theists
-theistic
-thematic
+theistic,adjective
+thematic,adjective,noun
  thematically
-theme
+theme,verb,noun
  themed themes
-themselves
+themselves,pronoun
  themself
-then
-thence
-thenceforth
-thenceforward
-theocracy
+then,adverb
+thence,adverb
+thenceforth,adverb
+thenceforward,adverb
+theocracy,noun
  theocracies
-theocratic
-theodolite
+theocratic,adjective
+theodolite,noun
  theodolites
-theologian
+theologian,noun
  theologians
-theological
+theological,adjective
  theologically
-theology
+theology,noun
  theologies
-theorem
+theorem,noun
  theorems
-theoretic
-theoretical
+theoretic,adjective
+theoretical,adjective
  theoretically
-theoretician
+theoretician,noun
  theoreticians
-theorist
+theorist,noun
  theorists
-theorize
+theorize,verb
  theorise theorised theorises theorising theorized theorizes theorizing
-theory
+theory,noun
  theories
-theosophic
-theosophical
-theosophist
+theosophic,adjective
+theosophical,adjective
+theosophist,noun
  theosophists
-theosophy
-therapeutic
+theosophy,noun
+therapeutic,adjective,noun
  therapeutically therapeutics
-therapist
+therapist,noun
  therapists
-therapy
+therapy,noun
  therapies
-there
-thereabouts
+there,adverb,exclamation
+thereabouts,adverb
  thereabout
-thereafter
-thereat
-thereby
-therefor
-therefore
-therein
-thereof
-thereon
-thereto
-theretofore
-thereunder
-thereunto
-thereupon
-therewith
-therm
+thereafter,adverb
+thereat,adverb
+thereby,adverb
+therefor,adverb
+therefore,adverb
+therein,adverb
+thereof,adverb
+thereon,adverb
+thereto,adverb
+theretofore,adverb
+thereunder,adverb
+thereunto,adverb
+thereupon,adverb
+therewith,adverb
+therm,noun
  therms
-thermal
+thermal,adjective,noun
  thermally thermals
-thermodynamic
+thermodynamic,adjective
  thermodynamics
-thermometer
+thermometer,noun
  thermometers
-thermometric
-thermonuclear
-thermoplastic
+thermometric,adjective
+thermonuclear,adjective
+thermoplastic,adjective,noun
  thermoplastics
-thermos
+thermos,noun
  thermoses
-thermostat
+thermostat,noun
  thermostats
-thermostatic
+thermostatic,adjective
  thermostatically
-thesaurus
+thesaurus,noun
  thesauri thesauruses
-thesis
+thesis,noun
  theses
-thespian
+thespian,adjective,noun
  thespians
-theta
+theta,noun
  thetas
-thew
+thew,noun
  thews
-they
+they,pronoun
  them
-thiamine
+thiamine,noun
  thiamin
-thick
+thick,adjective,adverb,noun
  thicker thickest thickly thickness -> [thickness]
-thicken
+thicken,verb
  thickened thickening -> [thickening] thickens
-thickener
+thickener,noun
  thickeners
-thickening -> [thicken]
+thickening,adjective,noun
  thickenings
-thicket
+thicket,noun
  thickets
-thickheaded
-thickness -> [thick]
+thickheaded,adjective
+thickness,verb,noun
  thicknesses
-thicko
+thicko,noun
  thickos
-thickset
-thief
+thickset,adjective
+thief,noun
  thieves -> [thieve] thievish
-thieve
+thieve,verb
  thieved thieves -> [thief] thieving
-thievery
-thigh
+thievery,noun
+thigh,noun
  thighs
-thighbone
+thighbone,noun
  thighbones
-thimble
+thimble,noun
  thimbleful thimblefuls thimbles
-thin
+thin,verb,adjective,adverb
  thinly thinned thinner -> [thinner] thinness thinnest thinning thins
-thing
+thing,noun
  things
-thingamabob
+thingamabob,noun
  thingamabobs thingumabob thingumabobs
-thingamajig
+thingamajig,noun
  thingamajigs
-thingummy
+thingummy,noun
  thingummies
-thingy
+thingy,noun
  thingies
-think
+think,verb,noun
  thinking thinks thought -> [thought]
-thinkable
-thinker
+thinkable,adjective
+thinker,noun
  thinkers
-thinner -> [thin]
+thinner,noun
  thinners
-third
+third,ordinalnumber
  thirdly thirds
-thirst
+thirst,verb,noun
  thirsted thirsting thirsts
-thirsty
+thirsty,adjective
  thirstier thirstiest thirstily thirstiness
-thirteen
+thirteen,cardinalnumber
  thirteens
-thirteenth
+thirteenth,ordinalnumber
  thirteenths
-thirtieth
+thirtieth,ordinalnumber
  thirtieths
-thirty
+thirty,cardinalnumber
  thirties
-this
+this,pronoun,adverb,determiner
  these
-thistle
+thistle,noun
  thistles
-thistledown
-thither
-thole
+thistledown,noun
+thither,adverb
+thole,verb,noun
  tholes
-thong
+thong,verb,noun
  thongs
-thoracic
-thorax
+thoracic,adjective
+thorax,noun
  thoraces thoraxes
-thorium
-thorn
+thorium,noun
+thorn,noun,propernoun
  thorns
-thorny
+thorny,adjective
  thornier thorniest thorniness
-thorough
+thorough,adjective
  thorougher thoroughest thoroughly thoroughness
-thoroughbred
+thoroughbred,adjective,noun
  thoroughbreds
-thoroughfare
+thoroughfare,noun
  thoroughfares
-thoroughgoing
-thou
+thoroughgoing,adjective
+thou,pronoun,noun
  thee thous
-thought -> [think]
+thought,noun
  thoughtful thoughtfully thoughtfulness thoughtless thoughtlessly thoughtlessness thoughts
-thought-provoking
-thousand
+thought-provoking,adjective
+thousand,cardinalnumber
  thousands
-thousandfold
-thousandth
+thousandfold,adverb,adjective
+thousandth,ordinalnumber
  thousandths
-thrall
+thrall,noun
  thralled thralling thralls
-thralldom
+thralldom,noun
  thraldom
-thrash
+thrash,verb,noun
  thrashed thrashes thrashing -> [thrashing]
-thrasher
+thrasher,noun
  thrashers
-thrashing -> [thrash]
+thrashing,noun
  thrashings
-thread
+thread,verb,noun
  threaded threading threadlike threads
-threadbare
-threader
+threadbare,adjective
+threader,noun
  threaders
-thready
+thready,adjective
  threadier threadiest
-threat
+threat,noun
  threats
-threaten
+threaten,verb
  threatened threatening threateningly threatens
-three
+three,cardinalnumber
  threes
-three-dimensional
-threefold
-threepence
+three-dimensional,adjective
+threefold,adjective,adverb
+threepence,noun
  threepences
-three-quarter
+three-quarter,adjective,adverb,noun
  three-quarters
-threescore
+threescore,cardinalnumber
  threescores
-threesome
+threesome,noun
  threesomes
-threnody
+threnody,noun
  threnodies
-thresh
+thresh,verb
  threshed threshes threshing
-thresher
+thresher,noun
  threshers
-threshold
+threshold,noun
  thresholds
-thrice
-thrift
+thrice,adverb
+thrift,noun
  thriftless thrifts
-thrifty
+thrifty,adjective
  thriftier thriftiest thriftily thriftiness
-thrill
+thrill,verb,noun
  thrilled thrilling thrillingly thrills
-thriller
+thriller,noun
  thrillers
-thrive
+thrive,verb
  thrived thriven thrives thriving throve
-throat
+throat,noun
  throats
-throaty
+throaty,adjective
  throatier throatiest throatily throatiness
-throb
+throb,verb,noun
  throbbed throbbing throbs
-throe
+throe!
  throes
-thrombosis
+thrombosis,noun
  thromboses
-thrombotic
-thrombus
+thrombotic,adjective
+thrombus,noun
  thrombi
-throne
+throne,verb,noun
  thrones
-throng
+throng,verb,noun
  thronged thronging throngs
-throttle
+throttle,verb,noun
  throttled throttles throttling
-throttler
+throttler,noun
  throttlers
-through
+through,adjective,preposition,adverb
  thru
-throughout
-throughput
+throughout,preposition,adverb
+throughput,noun
  throughputs
-throw
+throw,verb,noun
  threw throwing thrown throws
-throwaway
+throwaway,adjective,noun
  throwaways
-throwback
+throwback,noun
  throwbacks
-thrower
+thrower,noun
  throwers
-thrum
+thrum,verb,noun
  thrummed thrumming thrums
-thrush
+thrush,noun
  thrushes
-thrust
+thrust,verb,noun
  thrusting thrusts
-thruway
+thruway,noun
  throughway throughways thruways
-thud
+thud,verb,noun
  thudded thudding thuds
-thug
+thug,noun
  thuggish thugs
-thuggery
-thulium
-thumb
+thuggery,noun
+thulium,noun
+thumb,verb,noun
  thumbed thumbing thumbs
-thumbnail
+thumbnail,noun
  thumbnails
-thumbprint
+thumbprint,noun
  thumbprints
-thumbscrew
+thumbscrew,noun
  thumbscrews
-thumbs-up
-thumbtack
+thumbs-up,phrase
+thumbtack,noun
  thumbtacks
-thump
+thump,verb,noun
  thumped thumping -> [thumping] thumps
-thumping -> [thump]
+thumping,adjective
  thumpings
-thunder
+thunder,verb,noun
  thundered thundering thunders
-thunderbolt
+thunderbolt,noun
  thunderbolts
-thunderclap
+thunderclap,noun
  thunderclaps
-thundercloud
+thundercloud,noun
  thunderclouds
-thunderer
+thunderer,noun
  thunderers
-thunderhead
+thunderhead,noun
  thunderheads
-thunderous
+thunderous,adjective
  thunderously
-thundershower
+thundershower,noun
  thundershowers
-thunderstorm
+thunderstorm,noun
  thunderstorms
-thunderstricken
-thunderstruck
-thundery
-thus
-thwack
+thunderstricken!
+thunderstruck,adjective
+thundery,adjective
+thus,adverb
+thwack,verb,noun
  thwacked thwacking thwacks
-thwacker
+thwacker,verb,noun
  thwackers
-thwart
+thwart,verb,preposition,adverb,noun
  thwarted thwarting thwarts
-thy
+thy,possessivedeterminer
  thine
-thyme
-thymine
-thymus
+thyme,noun
+thymine,noun
+thymus,noun
  thymi thymuses
-thyroid
+thyroid,noun
  thyroids
-thyroidal
-thyself
-ti
+thyroidal,noun
+thyself,pronoun
+ti,noun
  tis
-tiara
+tiara,noun
  tiaras
-tibia
+tibia,noun
  tibiae tibias
-tibial
-tic
+tibial,adjective
+tic,noun
  tics
-tick
+tick,verb,noun
  ticked ticking ticks
-ticker
+ticker,noun
  tickers
-ticket
+ticket,verb,noun
  ticketed ticketing tickets
-tickle
+tickle,verb,noun
  tickled tickles tickling
-tickler
+tickler,noun
  ticklers
-ticklish
+ticklish,adjective
  ticklishly ticklishness
-ticktacktoe
-ticktock
+ticktacktoe!
+ticktock,verb,noun
  ticktocks
-tidal
+tidal,adjective
  tidally
-tidbit
+tidbit,noun
  tidbits titbit titbits
-tiddler
+tiddler,noun
  tiddlers
-tiddly
-tiddlywink
+tiddly,adjective
+tiddlywink,noun
  tiddlywinks
-tide
+tide,verb,noun
  tided tides tiding -> [tiding]
-tideland
+tideland,noun
  tidelands
-tidemark
+tidemark,noun
  tidemarks
-tidewater
+tidewater,noun
  tidewaters
-tideway
+tideway,noun
  tideways
-tiding -> [tide]
+tiding,pluralnoun
  tidings
-tidy
+tidy,verb,adjective,noun
  tidied tidier tidies tidiest tidily tidiness tidying
-tie
+tie,verb,noun
  tied tieing ties tying
-tieback
+tieback,noun
  tiebacks
-tiebreaker
+tiebreaker,noun
  tiebreak tiebreakers tiebreaks
-tie-in
+tie-in,noun
  tie-ins
-tiepin
+tiepin,noun
  tiepins
-tier
+tier,noun
  tiered tiers
-tiff
+tiff,noun
  tiffed tiffing tiffs
-tiffin
-tiger
+tiffin,noun
+tiger,noun
  tigerish tigers
-tight
+tight,adjective,adverb
  tighter tightest tightly tightness tights
-tighten
+tighten,verb
  tightened tightening tightens
-tightener
+tightener,verb
  tighteners
-tightfisted
-tightknit
-tight-lipped
-tightrope
+tightfisted,adjective
+tightknit,adjective
+tight-lipped,adjective
+tightrope,verb,noun
  tightropes
-tightwad
+tightwad,noun
  tightwads
-tigress
+tigress,noun
  tigresses
-tikka
+tikka,noun
  tikkas
-tilapia
+tilapia,noun
  tilapias
-tilde
+tilde,noun
  tildes
-tile
+tile,verb,noun
  tiled tiles tiling
-tiler
+tiler,noun
  tilers
-till
+till,verb,conjunction,preposition,noun
  til tilled tilling tills
-tillable
-tillage
-tiller
+tillable,adjective
+tillage,noun
+tiller,verb,noun
  tillers
-tilt
+tilt,verb,noun
  tilted tilting tilts
-timber
+timber,noun
  timbered timbering timbers
-timberland
-timberline
+timberland,noun
+timberline,noun
  timberlines
-timbre
+timbre,noun
  timbres
-timbrel
+timbrel,noun
  timbrels
-time
+time,verb,noun
  timed timeless timelessly timelessness times timing -> [timing]
-time-consuming
-time-honored
+time-consuming,adjective
+time-honored,adjective
  time-honoured
-timekeeper
+timekeeper,noun
  timekeepers
-timekeeping
-timeline
+timekeeping,noun
+timeline,noun
  timelines
-timely
+timely,adjective
  timelier timeliest timeliness
-timeout
+timeout,noun
  timeouts
-timepiece
+timepiece,noun
  timepieces
-timer
+timer,noun
  timers
-timesaving
-timescale
+timesaving,adjective
+timescale,noun
  timescales
-timeserver
+timeserver,noun
  timeservers
-timeserving
-timeshare
+timeserving,adjective
+timeshare,noun
  timeshares
-timesharing
-timesheet
+timesharing,noun
+timesheet,noun
  timesheets
-timetable
+timetable,verb,noun
  timetabled timetables timetabling
-timeworn
-timid
+timeworn,adjective
+timid,adjective
  timider timidest timidly timidness
-timidity
-timing -> [time]
+timidity,noun
+timing,noun
  timings
-timorous
+timorous,adjective
  timorously timorousness
-timothy
-timpani
+timothy,noun
+timpani,pluralnoun
  tympani
-timpanist
+timpanist,noun
  timpanists tympanist tympanists
-tin
+tin,verb,noun
  tinned tinning tins
-tincture
+tincture,verb,noun
  tinctured tinctures tincturing
-tinder
-tinderbox
+tinder,noun
+tinderbox,noun
  tinderboxes
-tine
+tine,noun
  tines
-tinfoil
-ting
+tinfoil,noun
+ting,verb,noun
  tings
-tinge
+tinge,verb,noun
  tinged tingeing tinges tinging
-tingle
+tingle,verb,noun
  tingled tingles tingling -> [tingling]
-tingling -> [tingle]
+tingling,verb,noun
  tinglings
-tingly
+tingly,adjective
  tinglier tingliest
-tinker
+tinker,verb,noun
  tinkered tinkering tinkers
-tinkerer
+tinkerer,noun
  tinkerers
-tinkle
+tinkle,verb,noun
  tinkled tinkles tinkling
-tinnie
+tinnie,adjective,noun
  tinnies
-tinnitus
-tinny
+tinnitus,noun
+tinny,adjective,noun
  tinnier tinniest tinniness
-tinplate
-tinpot
-tinsel
+tinplate,verb,noun
+tinpot,adjective
+tinsel,noun
  tinseled tinseling tinselled tinselling tinsels
-tinsmith
+tinsmith,noun
  tinsmiths
-tint
+tint,verb,noun
  tinted tinting tints
-tintinnabulation
+tintinnabulation,noun
  tintinnabulations
-tintype
+tintype,noun
  tintypes
-tinware
-tiny
+tinware,noun
+tiny,adjective,noun
  tinier tiniest tininess
-tip
+tip,verb,noun
  tipped tipping tips
-tip-off
+tip-off,noun
  tip-offs
-tipper
+tipper,noun
  tippers
-tippet
+tippet,noun
  tippets
-tippex
+tippex,verb,noun
  tippexed tippexes tippexing
-tipple
+tipple,verb,noun
  tippled tipples tippling
-tippler
+tippler,noun
  tipplers
-tipster
+tipster,noun
  tipsters
-tipsy
+tipsy,adjective
  tipsier tipsiest tipsily tipsiness
-tiptoe
+tiptoe,verb
  tiptoed tiptoeing tiptoes
-tiptop
+tiptop,adjective,noun
  tiptops
-tirade
+tirade,noun
  tirades
-tire
+tire,verb,noun
  tired -> [tired] tireless tirelessly tirelessness tires tiring tyre tyres
-tired -> [tire]
+tired,adjective
  tireder tiredest tiredly tiredness
-tiresome
+tiresome,adjective
  tiresomely tiresomeness
-tissue
+tissue,noun
  tissues
-tit
+tit,noun
  tits
-titan
+titan,propernoun
  titans
-titanic
-titanium
-titch
+titanic,adjective,propernoun
+titanium,noun
+titch,noun
  titches
-titchy
-tithe
+titchy,adjective
+tithe,verb,noun
  tithed tithes tithing
-tither
+tither,noun
  tithers
-titian
-titillate
+titian,adjective,propernoun
+titillate,verb
  titillated titillates titillating titillatingly
-titillation
-titivate
+titillation,noun
+titivate,verb
  titivated titivates titivating tittivate tittivated tittivates tittivating
-titivation
+titivation,noun
  tittivation
-title
+title,verb,noun
  titled titles titling
-titleholder
+titleholder,noun
  titleholders
-titlist
+titlist,noun
  titlists
-titmouse
+titmouse,noun
  titmice
-titration
-titter
+titration,noun
+titter,verb,noun
  tittered tittering titters
-tittle
+tittle,noun
  tittles
-titty
+titty,noun
  titties
-titular
-tizz
-tizzy
+titular,adjective
+tizz,noun
+tizzy,noun
  tizzies
-to
-toad
+to,adverb,infinitivemarker,preposition
+toad,noun
  toads
-toadstool
+toadstool,noun
  toadstools
-toady
+toady,verb,noun
  toadied toadies toadying
-toadyism
-toast
+toadyism,noun
+toast,verb,noun
  toasted toasting toasts
-toaster
+toaster,noun
  toasters
-toastie
+toastie,noun
  toasties toasty -> [toasty]
-toastmaster
+toastmaster,noun
  toastmasters
-toastmistress
+toastmistress,noun
  toastmistresses
-toasty -> [toastie]
+toasty,adjective
  toastier toastiest
-tobacco
+tobacco,noun
  tobaccoes tobaccos
-tobacconist
+tobacconist,noun
  tobacconists
-toboggan
+toboggan,verb,noun
  tobogganed tobogganing toboggans
-tobogganer
+tobogganer,noun
  tobogganers
-toccata
+toccata,noun
  toccatas
-tocsin
+tocsin,noun
  tocsins
-tod
-today
-toddle
+tod,noun
+today,adverb,noun
+toddle,verb,noun
  toddled toddles toddling
-toddler
+toddler,noun
  toddlers
-toddy
+toddy,noun
  toddies
-to-do
+to-do,noun
  to-dos
-toe
+toe,verb,noun
  toed toeing toes
-toecap
+toecap,noun
  toecaps
-toehold
+toehold,noun
  toeholds
-toenail
+toenail,verb,noun
  toenails
-toerag
+toerag,noun
  toerags
-toff
+toff,verb,noun
  toffs
-toffee
+toffee,noun
  toffees toffies toffy
-tofu
-tog
+tofu,noun
+tog,verb,noun
  togged togging togs
-toga
+toga,noun
  togae togaed togas
-together
+together,adverb,adjective
  togetherness
-toggle
+toggle,verb,noun
  toggled toggles toggling
-toil
+toil,verb,noun
  toiled toiling toils
-toiler
+toiler,noun
  toilers
-toilet
+toilet,verb,noun
  toileted toileting toilets toilette
-toiletry
+toiletry!
  toiletries
-toilsome
-toke
+toilsome,adjective
+toke,verb,noun
  toked tokes toking
-token
+token,adjective,noun
  tokens
-tokenism
-tole
-tolerable
+tokenism,noun
+tole,noun
+tolerable,adjective
  tolerably
-tolerance
+tolerance,noun
  tolerances
-tolerant
+tolerant,adjective
  tolerantly
-tolerate
+tolerate,verb
  tolerated tolerates tolerating
-toleration
-toll
+toleration,noun
+toll,verb,noun
  tolled tolling tolls
-tollbooth
+tollbooth,noun
  tollbooths
-toll-free
-tollgate
+toll-free,verb,noun
+tollgate,noun
  tollgates
-tollway
+tollway,noun
  tollways
-toluene
-tom
+toluene,noun
+tom,verb,noun
  toms
-tomahawk
+tomahawk,verb,noun
  tomahawked tomahawking tomahawks
-tomato
+tomato,noun
  tomatoes
-tomb
+tomb,noun
  tombed tombing tombs
-tombola
+tombola,noun
  tombolas
-tomboy
+tomboy,noun
  tomboyish tomboys
-tombstone
+tombstone,verb,noun
  tombstones
-tomcat
+tomcat,noun
  tomcats
-tome
+tome,noun
  tomes
-tomfoolery
+tomfoolery,noun
  tomfooleries
-tomographic
-tomography
-tomorrow
+tomographic,adjective
+tomography,noun
+tomorrow,adverb,noun
  tomorrows
-tomtit
+tomtit,noun
  tomtits
-ton
+ton,adverb,noun
  tons
-tonal
+tonal,adjective
  tonally
-tonality
+tonality,noun
  tonalities
-tone
+tone,verb,noun
  toned toneless tonelessly tones toning
-tonearm
+tonearm,noun
  tonearms
-toner
+toner,noun
  toners
-tong
+tong,verb,noun
  tonged tonging tongs
-tongue
+tongue,verb,noun
  tongued tongueless tongues tonguing
-tongue-in-cheek
-tonic
+tongue-in-cheek,adverb,adjective
+tonic,adjective,noun
  tonics
-tonight
-tonnage
+tonight,adverb,noun
+tonnage,noun
  tonnages
-tonne
+tonne,noun
  tonnes
-tonsil
+tonsil,noun
  tonsils
-tonsillectomy
+tonsillectomy,noun
  tonsillectomies
-tonsillitis
-tonsorial
-tonsure
+tonsillitis,noun
+tonsorial,adjective
+tonsure,verb,noun
  tonsured tonsures tonsuring
-tony
+tony,adjective,noun
  tonier toniest
-too
-tool
+too,adverb
+tool,verb,noun
  tooled tooling tools
-toolbar
+toolbar,noun
  toolbars
-toolbox
+toolbox,noun
  toolboxes
-toolkit
+toolkit,noun
  toolkits
-toolmaker
+toolmaker,noun
  toolmakers
-toolshed
+toolshed,noun
  toolsheds
-tooltip
+tooltip,noun
  tooltips
-toot
+toot,verb,noun
  tooted tooting toots
-tooter
+tooter,noun
  tooters
-tooth
+tooth,noun
  teeth toothed toothless
-toothache
+toothache,noun
  toothaches
-toothbrush
+toothbrush,noun
  toothbrushes
-toothpaste
+toothpaste,noun
  toothpastes
-toothpick
+toothpick,noun
  toothpicks
-toothsome
-toothy
+toothsome,adjective
+toothy,adjective
  toothier toothiest toothily
-tootle
+tootle,verb,noun
  tootled tootles tootling
-tootsie
+tootsie,noun
  tootsies
-top
+top,verb,adjective,adverb,abbreviation,noun
  topless topmost topped topping -> [topping] tops
-topaz
+topaz,noun
  topazes
-topcoat
+topcoat,noun
  topcoats
-top-down
-topdressing
+top-down,adjective
+topdressing,noun
  topdressings
-topee
+topee,noun
  topees topi topis
-topflight
-topiary
+topflight,adjective,noun
+topiary,noun
  topiaries
-topic
+topic,noun
  topics
-topical
+topical,adjective
  topically
-topicality
-topknot
+topicality,noun
+topknot,noun
  topknots
-top-level
-topmast
+top-level,adjective
+topmast,noun
  topmasts
-topnotch
-top-of-the-line
-topographer
+topnotch,adjective
+top-of-the-line,adjective
+topographer,noun
  topographers
-topographic
-topographical
+topographic,adjective
+topographical,adjective
  topographically
-topography
+topography,noun
  topographies
-topper
+topper,noun
  toppers
-topping -> [top]
+topping,adjective,noun
  toppings
-topple
+topple,verb
  toppled topples toppling
-topsail
+topsail,noun
  topsails
-top-secret
-topside
+top-secret,adjective
+topside,adverb,noun
  topsides
-topsoil
-topspin
-topsy-turvy
-toque
+topsoil,noun
+topspin,noun
+topsy-turvy,adverb,noun,adjective
+toque,noun
  toques
-tor
+tor,noun
  tors
-torah
+torah,noun
  torahs
-torch
+torch,verb,noun
  torched torches torching
-torchbearer
+torchbearer,noun
  torchbearers
-torchlight
-toreador
+torchlight,noun
+toreador,noun
  toreadors
-torment
+torment,verb,noun
  tormented tormenting tormentingly torments
-tormentor
+tormentor,noun
  tormenter tormenters tormentors
-tornado
+tornado,noun
  tornadoes tornados
-torpedo
+torpedo,verb,noun
  torpedoed torpedoes torpedoing
-torpid
+torpid,adjective,pluralnoun
  torpidly
-torpidity
-torpor
-torque
+torpidity,noun
+torpor,noun
+torque,verb,noun
  torqued torques torquing
-torrent
+torrent,noun
  torrents
-torrential
-torrid
+torrential,adjective
+torrid,adjective
  torridly torridness
-torridity
-torsion
-torsional
-torso
+torridity,noun
+torsion,noun
+torsional,adjective
+torso,noun
  torsi torsos
-tort
+tort,noun
  torts
-torte
+torte,noun
  tortes
-tortellini
-tortilla
+tortellini,noun
+tortilla,noun
  tortillas
-tortoise
+tortoise,noun
  tortoises
-tortoiseshell
+tortoiseshell,noun
  tortoiseshells
-tortoni
-tortuous
+tortoni,noun
+tortuous,adjective
  tortuously tortuousness
-torture
+torture,verb,noun
  tortured tortures torturing
-torturer
+torturer,noun
  torturers
-torturous
-tosh
-toss
+torturous,adjective
+tosh,noun
+toss,verb,noun
  tossed tosses tossing tost
-tosser
+tosser,noun
  tossers
-tossup
+tossup,noun
  tossups
-tot
+tot,verb,noun
  tots totted totting
-total
+total,verb,adjective,noun
  totaled totaling totalled totalling totally totals
-totalitarian
+totalitarian,adjective,noun
  totalitarians
-totalitarianism
-totality
+totalitarianism,noun
+totality,noun
  totalities
-totalizator
+totalizator,noun
  totalisator totalisators totalizators
-tote
+tote,verb,noun
  toted totes toting
-totem
+totem,noun
  totems
-totemic
-totter
+totemic,adjective
+totter,verb,noun
  tottered tottering totters
-totterer
+totterer,noun
  totterers
-totty
-toucan
+totty,noun
+toucan,noun
  toucans
-touch
+touch,verb,noun
  touched touches -> [touche] touching touchingly
-touchable
-touchdown
+touchable,adjective
+touchdown,noun
  touchdowns
-touche
+touche,exclamation
  touches -> [touch]
-touchline
+touchline,noun
  touchlines
-touchpad
+touchpad,noun
  touchpads
-touchpaper
+touchpaper,noun
  touchpapers
-touchscreen
+touchscreen,noun
  touchscreens
-touchstone
+touchstone,noun
  touchstones
-touchy
+touchy,adjective
  touchier touchiest touchily touchiness
-tough
+tough,verb,adjective,noun
  toughed tougher toughest toughing toughly toughness toughs
-toughen
+toughen,verb
  toughened toughening toughens
-toughener
+toughener,noun
  tougheners
-toughie
+toughie,noun
  toughies
-toupee
+toupee,noun
  toupees
-tour
+tour,verb,noun
  toured touring tours
-tourism
-tourist
+tourism,noun
+tourist,verb,noun
  tourists
-touristy
-tourmaline
-tournament
+touristy,adjective
+tourmaline,noun
+tournament,noun
  tournaments
-tourney
+tourney,verb,noun
  tourneys
-tourniquet
+tourniquet,noun
  tourniquets
-tousle
+tousle,verb
  tousled tousles tousling
-tout
+tout,verb,noun,determiner
  touted touting touts
-tow
+tow,verb,abbreviation,noun
  towed towing tows
-toward
+toward,adjective,preposition
  towards
-towbar
+towbar,noun
  towbars
-towboat
+towboat!
  towboats
-towel
+towel,verb,noun
  toweled toweling towelled towelling towels
-towelette
+towelette,noun
  towelettes
-tower
+tower,verb,noun
  towered towering towers
-towhead
+towhead,noun
  towheaded towheads
-towhee
+towhee,noun
  towhees
-towline
+towline,noun
  towlines
-town
+town,noun
  towns
-townhouse
+townhouse,noun
  townhouses
-townie
+townie,adjective,noun
  townee townees townies
-townscape
+townscape,noun
  townscapes
-townsfolk
-township
+townsfolk,pluralnoun
+township,noun
  townships
-townsman
+townsman,noun
  townsmen
-townspeople
-townswoman
+townspeople,pluralnoun
+townswoman,noun
  townswomen
-towpath
+towpath,noun
  towpaths
-towrope
+towrope,noun
  towropes
-toxemia
+toxemia,noun
  toxaemia
-toxic
-toxicity
+toxic,adjective,noun
+toxicity,noun
  toxicities
-toxicological
-toxicologist
+toxicological,adjective
+toxicologist,noun
  toxicologists
-toxicology
-toxin
+toxicology,noun
+toxin,noun
  toxins
-toy
+toy,verb,noun
  toyed toying toys
-toyboy
+toyboy,noun
  toyboys
-trace
+trace,verb,noun
  traced traces tracing -> [tracing]
-traceable
-tracer
+traceable,adjective
+tracer,noun
  tracers
-tracery
+tracery,noun
  traceries
-trachea
+trachea,noun
  tracheae tracheas
-tracheal
-tracheotomy
+tracheal,adjective
+tracheotomy,noun
  tracheotomies
-tracing -> [trace]
+tracing,noun
  tracings
-track
+track,verb,noun
  tracked tracking trackless tracks
-trackball
+trackball,noun
  trackballs
-tracker
+tracker,noun
  trackers
-tracksuit
+tracksuit,noun
  tracksuits
-tract
+tract,noun
  tracts
-tractable
+tractable,adjective
  tractability tractably
-traction
-tractor
+traction,noun
+tractor,noun
  tractors
-tractor-trailer
+tractor-trailer,noun
  tractor-trailers
-trad
-trade
+trad,adjective,noun
+trade,verb,noun
  traded trades trading -> [trading]
-trademark
+trademark,verb,noun
  trademarked trademarking trademarks
-tradeoff
+tradeoff,noun
  tradeoffs
-trader
+trader,noun
  traders
-tradesman
+tradesman,noun
  tradesmen
-tradespeople
-tradeswoman
+tradespeople,pluralnoun
+tradeswoman,noun
  tradeswomen
-trading -> [trade]
+trading,noun
  tradings
-tradition
+tradition,noun
  traditions
-traditional
+traditional,adjective
  traditionally
-traditionalism
-traditionalist
+traditionalism,noun
+traditionalist,adjective,noun
  traditionalists
-traduce
+traduce,verb
  traduced traduces traducing
-traducer
+traducer,noun
  traducers
-traffic
+traffic,verb,noun
  trafficked trafficking traffics
-trafficker
+trafficker,noun
  traffickers
-tragedian
+tragedian,noun
  tragedians tragedienne tragediennes
-tragedy
+tragedy,noun
  tragedies
-tragic
+tragic,adjective,noun
  tragically
-tragicomedy
+tragicomedy,noun
  tragicomedies
-tragicomic
-trail
+tragicomic,adjective
+trail,verb,noun
  trailed trailing trails
-trailblazer
+trailblazer,noun
  trailblazers
-trailblazing
-trailer
+trailblazing,noun,adjective
+trailer,verb,noun
  trailers
-train
+train,verb,noun
  trained training trains
-trainable
-trainee
+trainable,adjective
+trainee,noun
  trainees
-trainer
+trainer,noun
  trainers
-trainload
+trainload,noun
  trainloads
-trainman
+trainman,noun
  trainmen
-trainspotter
+trainspotter,noun
  trainspotters
-trainspotting
-traipse
+trainspotting,noun
+traipse,verb,noun
  traipsed traipses traipsing
-trait
+trait,noun
  traits
-traitor
+traitor,noun
  traitors
-traitorous
+traitorous,adjective
  traitorously
-trajectory
+trajectory,noun
  trajectories
-tram
+tram,noun
  trammed tramming trams
-tramcar
+tramcar,noun
  tramcars
-tramlines
-trammel
+tramlines,noun
+trammel,verb,noun
  trammeled trammeling trammelled trammelling trammels
-tramp
+tramp,verb,noun
  tramped tramping tramps
-tramper
+tramper,noun
  trampers
-trample
+trample,verb,noun
  trampled tramples trampling
-trampler
+trampler,noun
  tramplers
-trampoline
+trampoline,verb,noun
  trampolined trampolines trampolining
-tramway
+tramway,noun
  tramways
-trance
+trance,verb,noun
  trances
-tranche
+tranche,noun
  tranches
-tranny
+tranny,noun
  trannies
-tranquil
+tranquil,adjective
  tranquiler tranquilest tranquiller tranquillest tranquilly
-tranquility
+tranquility,noun
  tranquillity
-tranquilize
+tranquilize,verb
  tranquilized tranquilizes tranquilizing tranquillise tranquillised tranquillises tranquillising tranquillize tranquillized tranquillizes tranquillizing
-tranquilizer
+tranquilizer,noun
  tranquilizers tranquilliser tranquillisers tranquillizer tranquillizers
-transact
+transact,verb
  transacted transacting transacts
-transaction
+transaction,noun
  transactions
-transactor
+transactor,noun
  transactors
-transatlantic
-transceiver
+transatlantic,adjective
+transceiver,noun
  transceivers
-transcend
+transcend,verb
  transcended transcending transcends
-transcendence
-transcendent
-transcendental
+transcendence,noun
+transcendent,adjective
+transcendental,adjective
  transcendentally
-transcendentalism
-transcendentalist
+transcendentalism,noun
+transcendentalist,noun,adjective
  transcendentalists
-transcontinental
-transcribe
+transcontinental,adjective,noun
+transcribe,verb
  transcribed transcribes transcribing
-transcriber
+transcriber,noun
  transcribers
-transcript
+transcript,noun
  transcripts
-transcription
+transcription,noun
  transcriptions
-transducer
+transducer,noun
  transducers
-transect
+transect,verb,noun
  transected transecting transects
-transept
+transept,noun
  transepts
-transfer
+transfer,verb,noun
  transferred transferring transfers
-transferable
-transferal
+transferable,adjective
+transferal,noun
  transferals
-transference
-transfiguration
-transfigure
+transference,noun
+transfiguration,noun
+transfigure,verb
  transfigured transfigures transfiguring
-transfix
+transfix,verb
  transfixed transfixes transfixing transfixt
-transform
+transform,verb,noun
  transformed transforming transforms
-transformable
-transformation
+transformable,adjective
+transformation,noun
  transformations
-transformer
+transformer,noun
  transformers
-transfuse
+transfuse,verb
  transfused transfuses transfusing
-transfusion
+transfusion,noun
  transfusions
-transgender
+transgender,adjective
  transgendered transgenders
-transgenic
-transgress
+transgenic,adjective
+transgress,verb
  transgressed transgresses transgressing
-transgression
+transgression,noun
  transgressions
-transgressive
-transgressor
+transgressive,adjective
+transgressor,noun
  transgressors
-transience
+transience,noun
  transiency
-transient
+transient,adjective,noun
  transiently transients
-transistor
+transistor,noun
  transistors
-transistorize
+transistorize,verb
  transistorise transistorised transistorises transistorising transistorized transistorizes transistorizing
-transit
+transit,verb,noun
  transited transiting transits
-transition
+transition,verb,noun
  transitioned transitioning transitions
-transitional
+transitional,adjective
  transitionally
-transitive
+transitive,adjective
  transitively transitiveness transitives
-transitivity
-transitory
-translatable
-translate
+transitivity,noun
+transitory,adjective
+translatable,adjective
+translate,verb
  translated translates translating
-translation
+translation,noun
  translations
-translator
+translator,noun
  translators
-transliterate
+transliterate,verb
  transliterated transliterates transliterating
-transliteration
+transliteration,noun
  transliterations
-translucence
+translucence,noun
  translucency
-translucent
+translucent,adjective
  translucently
-transmigrate
+transmigrate,verb
  transmigrated transmigrates transmigrating
-transmigration
-transmissible
-transmission
+transmigration,noun
+transmissible,adjective
+transmission,noun
  transmissions
-transmit
+transmit,verb
  transmits transmitted transmitting
-transmittable
-transmittal
-transmittance
-transmitter
+transmittable,adjective
+transmittal,noun
+transmittance,noun
+transmitter,noun
  transmitters
-transmogrification
-transmogrify
+transmogrification,noun
+transmogrify,verb
  transmogrified transmogrifies transmogrifying
-transmutable
-transmutation
+transmutable,adjective
+transmutation,noun
  transmutations
-transmute
+transmute,verb
  transmuted transmutes transmuting
-transnational
+transnational,adjective,noun
  transnationals
-transoceanic
-transom
+transoceanic,adjective
+transom,noun
  transoms
-transpacific
-transparency
+transpacific,adjective
+transparency,noun
  transparencies
-transparent
+transparent,adjective
  transparently
-transpiration
-transpire
+transpiration,noun
+transpire,verb
  transpired transpires transpiring
-transplant
+transplant,verb,noun
  transplanted transplanting transplants
-transplantation
-transpolar
-transponder
+transplantation,noun
+transpolar!
+transponder,noun
  transponders
-transport
+transport,verb,noun
  transported transporting transports
-transportable
-transportation
-transporter
+transportable,adjective,noun
+transportation,noun
+transporter,noun
  transporters
-transpose
+transpose,verb,noun
  transposed transposes transposing
-transposition
+transposition,noun
  transpositions
-transsexual
+transsexual,adjective,noun
  transsexuals
-transsexualism
-transship
+transsexualism,noun
+transship,verb
  transshipped transshipping transships
-transshipment
-transubstantiation
-transverse
+transshipment,noun
+transubstantiation,noun
+transverse,adjective
  transversely transverses
-transvestism
-transvestite
+transvestism,noun
+transvestite,noun
  transvestites
-trap
+trap,verb,noun
  trapped trapping -> [trapping] traps
-trapdoor
+trapdoor,noun
  trapdoors
-trapeze
+trapeze,noun
  trapezes
-trapezium
+trapezium,noun,propernoun
  trapezia trapeziums
-trapezoid
+trapezoid,noun
  trapezoids
-trapezoidal
-trapper
+trapezoidal,adjective
+trapper,noun
  trappers
-trapping -> [trap]
+trapping,verb,noun
  trappings
-trapshooting
-trash
+trapshooting,noun
+trash,verb,noun
  trashed trashes trashing
-trashcan
+trashcan,noun
  trashcans
-trashy
+trashy,adjective
  trashier trashiest trashiness
-trauma
+trauma,noun
  traumas traumata
-traumatic
+traumatic,adjective
  traumatically
-traumatize
+traumatize,verb
  traumatise traumatised traumatises traumatising traumatized traumatizes traumatizing
-travail
+travail,verb,noun
  travailed travailing travails
-travel
+travel,verb,noun
  traveled traveling travelled travelling travels
-traveler
+traveler,noun
  travelers traveller travellers
-travelogue
+travelogue,noun
  travelog travelogs travelogues
-traversal
+traversal,noun
  traversals
-traverse
+traverse,verb,noun
  traversed traverses traversing
-travesty
+travesty,verb,noun
  travestied travesties travestying
-trawl
+trawl,verb,noun
  trawled trawling trawls
-trawler
+trawler,noun
  trawlers
-tray
+tray,noun
  trays
-treacherous
+treacherous,adjective
  treacherously treacherousness
-treachery
+treachery,noun
  treacheries
-treacle
-treacly
-tread
+treacle,noun
+treacly,adjective
+tread,verb,noun
  treaded treading treads trod trodden
-treadle
+treadle,verb,noun
  treadled treadles treadling
-treadmill
+treadmill,noun
  treadmills
-treason
-treasonable
-treasonous
-treasure
+treason,noun
+treasonable,adjective
+treasonous,adjective
+treasure,verb,noun
  treasured treasures treasuring
-treasurer
+treasurer,noun
  treasurers
-treasury
+treasury,noun
  treasuries
-treat
+treat,verb,noun
  treated treating treats
-treatable
-treatise
+treatable,adjective
+treatise,noun
  treatises
-treatment
+treatment,noun
  treatments
-treaty
+treaty,noun
  treaties
-treble
+treble,predeterminer,noun,verb,adjective,pronoun
  trebled trebles trebling
-tree
+tree,verb,noun
  treed treeing treeless treelike trees
-treehouse
+treehouse,noun
  treehouses
-treeline
-tree-lined
-treetop
+treeline,noun
+tree-lined,adjective
+treetop,noun
  treetops
-trefoil
+trefoil,noun
  trefoils
-trek
+trek,verb,noun
  trekked trekking treks
-trekker
+trekker,noun
  trekkers
-trellis
+trellis,verb,noun
  trellised trellises trellising
-trematode
+trematode,noun
  trematodes
-tremble
+tremble,verb,noun
  trembled trembles trembling
-tremendous
+tremendous,adjective
  tremendously
-tremolo
+tremolo,noun
  tremolos
-tremor
+tremor,verb,noun
  tremors
-tremulous
+tremulous,adjective
  tremulously tremulousness
-trench
+trench,verb,noun
  trenched trenches trenching
-trenchancy
-trenchant
+trenchancy,noun
+trenchant,adjective
  trenchantly
-trenchcoat
+trenchcoat!
  trenchcoats
-trencher
+trencher,noun
  trenchers
-trencherman
+trencherman,noun
  trenchermen
-trend
+trend,verb,noun
  trended trending trends
-trendsetter
+trendsetter,noun
  trendsetters
-trendsetting
-trendy
+trendsetting,adjective
+trendy,adjective,noun
  trendier trendies trendiest trendily trendiness
-trepidation
-trespass
+trepidation,noun
+trespass,verb,noun
  trespassed trespasses trespassing
-trespasser
+trespasser,noun
  trespassers
-tress
+tress,verb,noun
  tresses
-trestle
+trestle,noun
  trestles
-trews
-trey
+trews,pluralnoun
+trey,noun
  treys
-triad
+triad,noun
  triads
-triage
-trial
+triage,verb,noun
+trial,verb,noun
  trialed trialing trialled trialling trials
-triangle
+triangle,noun
  triangles
-triangular
+triangular,adjective
  triangularly
-triangulate
+triangulate,verb
  triangulated triangulates triangulating
-triangulation
-triathlete
+triangulation,noun
+triathlete,noun
  triathletes
-triathlon
+triathlon,noun
  triathlons
-tribal
-tribalism
-tribe
+tribal,adjective,noun
+tribalism,noun
+tribe,noun
  tribes
-tribesman
+tribesman,noun
  tribesmen
-tribespeople
-tribeswoman
+tribespeople,pluralnoun
+tribeswoman,noun
  tribeswomen
-tribulation
+tribulation,noun
  tribulations
-tribunal
+tribunal,noun
  tribunals
-tribune
+tribune,noun
  tribunes
-tributary
+tributary,noun
  tributaries
-tribute
+tribute,noun
  tributes
-trice
-tricentennial
+trice,noun
+tricentennial,adjective,noun
  tricentennials
-triceps
+triceps,noun
  tricepses
-triceratops
+triceratops,noun
  triceratopses
-trichina
+trichina,noun
  trichinae trichinas
-trichinosis
-trick
+trichinosis,noun
+trick,verb,adjective,noun
  tricked tricking tricks
-trickery
-trickle
+trickery,noun
+trickle,verb,noun
  trickled trickles trickling
-trickle-down
-trick-or-treating
-trickster
+trickle-down,noun
+trick-or-treating,verb,noun
+trickster,noun
  tricksters
-tricky
+tricky,adjective
  trickier trickiest trickily trickiness
-tricolor
+tricolor,adjective,noun
  tricolors tricolour tricolours
-tricycle
+tricycle,verb,noun
  tricycles
-trident
+trident,noun
  tridents
-triennial
+triennial,adjective,noun
  triennially triennials
-trier
+trier,noun,propernoun
  triers
-trifecta!
+trifecta,noun
  trifectas
-trifle
+trifle,verb,noun
  trifled trifles trifling
-trifler
+trifler,noun
  triflers
-trifocals
-trig
-trigger
+trifocals,adjective,noun
+trig,verb,adjective,noun
+trigger,verb,noun
  triggered triggering triggers
-triglyceride
+triglyceride,noun
  triglycerides
-trigonometric
-trigonometrical
-trigonometry
-trike
+trigonometric,adjective
+trigonometrical,adjective
+trigonometry,noun
+trike,noun
  trikes
-trilateral
-trilby
+trilateral,adjective,noun
+trilby,noun
  trilbies
-trilingual
-trill
+trilingual,adjective
+trill,verb,noun
  trilled trilling trills
-trillion
+trillion,cardinalnumber
  trillions
-trillionth
+trillionth,ordinalnumber
  trillionths
-trillium
-trilobite
+trillium,noun
+trilobite,noun
  trilobites
-trilogy
+trilogy,noun
  trilogies
-trim
+trim,verb,adjective,noun,propernoun
  trimly trimmed trimmer -> [trimmer] trimmest trimming -> [trimming] trimness trims
-trimaran
+trimaran,noun
  trimarans
-trimester
+trimester,noun
  trimesters
-trimmer -> [trim]
+trimmer,noun
  trimmers
-trimming -> [trim]
+trimming,noun
  trimmings
-trimonthly
-trinitrotoluene
-trinity
+trimonthly!
+trinitrotoluene,noun
+trinity,noun
  trinities
-trinket
+trinket,noun
  trinkets
-trio
+trio,noun
  trios
-trip
+trip,verb,noun
  tripped tripping trips
-tripartite
-tripe
-triple
+tripartite,adjective
+tripe,noun
+triple,verb,adjective,predeterminer,noun
  tripled triples tripling triply
-triplet
+triplet,noun
  triplets
-triplex
+triplex,verb,adjective,noun
  triplexes
-triplicate
+triplicate,verb,adjective,noun
  triplicated triplicates triplicating
-tripod
+tripod,noun
  tripods
-tripodal
-tripper
+tripodal,adjective
+tripper,noun
  trippers
-triptych
+triptych,noun
  triptychs
-tripwire
+tripwire,noun
  tripwires
-trireme
+trireme,noun
  triremes
-trisect
+trisect,verb
  trisected trisecting trisects
-trisection
-trite
+trisection,noun
+trite,adjective
  tritely triteness triter tritest
-tritium
-triumph
+tritium,noun
+triumph,verb,noun
  triumphed triumphing triumphs
-triumphal
-triumphalism
-triumphalist
-triumphant
+triumphal,adjective
+triumphalism,noun
+triumphalist,noun,adjective
+triumphant,adjective
  triumphantly
-triumvir
+triumvir,noun
  triumvirs
-triumvirate
+triumvirate,noun
  triumvirates
-trivalent
-trivet
+trivalent,adjective
+trivet,noun
  trivets
-trivia
-trivial
+trivia,noun
+trivial,adjective
  trivially
-triviality
+triviality,noun
  trivialities
-trivialization
+trivialization,noun
  trivialisation
-trivialize
+trivialize,verb
  trivialise trivialised trivialises trivialising trivialized trivializes trivializing
-trivium
-trochaic
-trochee
+trivium,noun
+trochaic,adjective,noun
+trochee,noun
  trochees
-troglodyte
+troglodyte,noun
  troglodytes
-troika
+troika,noun
  troikas
-troll
+troll,verb,noun
  trolled trolling trolls
-trolley
+trolley,noun
  trolleys trollies trolly
-trolleybus
+trolleybus,noun
  trolleybuses trolleybusses
-trollop
+trollop,noun
  trollops
-trombone
+trombone,noun
  trombones
-trombonist
+trombonist,noun
  trombonists
-tromp
+tromp,verb
  tromped tromping tromps
-troop
+troop,verb,noun
  trooped trooping troops
-trooper
+trooper,noun
  troopers
-troopship
+troopship,noun
  troopships
-trope
+trope,noun
  tropes
-trophy
+trophy,noun
  trophies
-tropic
+tropic,adjective,noun
  tropics
-tropical
+tropical,adjective
  tropically
-tropism
+tropism,noun
  tropisms
-troposphere
+troposphere,noun
  tropospheres
-trot
+trot,verb,noun
  trots trotted trotting
-troth
-trotter
+troth,noun
+trotter,noun
  trotters
-troubadour
+troubadour,noun
  troubadours
-trouble
+trouble,verb,noun
  troubled troubles troubling
-troublemaker
+troublemaker,noun
  troublemakers
-troubleshoot
+troubleshoot,verb
  troubleshooted troubleshooting troubleshoots troubleshot
-troubleshooter
+troubleshooter,noun
  troubleshooters
-troublesome
+troublesome,adjective
  troublesomely
-trough
+trough,verb,noun
  troughs
-trounce
+trounce,verb
  trounced trounces trouncing
-trouncer
+trouncer,noun
  trouncers
-troupe
+troupe,noun
  trouped troupes trouping
-trouper
+trouper,noun
  troupers
-trouser
+trouser,verb,noun
  trousers
-trousseau
+trousseau,noun
  trousseaus trousseaux
-trout
+trout,noun
  trouts
-trove
+trove,noun
  troves
-trow
+trow,verb
  trowed trowing trows
-trowel
+trowel,verb,noun
  troweled troweling trowelled trowelling trowels
-troy
-truancy
-truant
+troy,noun,propernoun
+truancy,noun
+truant,verb,adjective,noun
  truanted truanting truants
-truce
+truce,noun
  truces
-truck
+truck,verb,noun
  trucked trucking trucks
-trucker
+trucker,noun
  truckers
-truckle
+truckle,verb,noun
  truckled truckles truckling
-truckload
+truckload,noun
  truckloads
-truculence
-truculent
+truculence,noun
+truculent,adjective
  truculently
-trudge
+trudge,verb,noun
  trudged trudges trudging
-true
+true,verb,adjective,adverb
  trued trueing truer trues truest truing truly
-truelove
+truelove,noun
  trueloves
-truffle
+truffle,noun
  truffles
-trug
+trug,noun
  trugs
-truism
+truism,noun
  truisms
-trump
+trump,verb,noun
  trumped trumping trumps
-trumpery
-trumpet
+trumpery,adjective,noun
+trumpet,verb,noun
  trumpeted trumpeting trumpets
-trumpeter
+trumpeter,noun
  trumpeters
-truncate
+truncate,verb,adjective
  truncated truncates truncating
-truncation
+truncation,noun
  truncations
-truncheon
+truncheon,noun
  truncheons
-trundle
+trundle,verb,noun
  trundled trundles trundling
-trundler
+trundler,noun
  trundlers
-trunk
+trunk,noun
  trunks
-truss
+truss,verb,noun
  trussed trusses trussing
-trust
+trust,verb,noun
  trusted trustful trustfully trustfulness trusting trustingly trusts
-trustee
+trustee,noun
  trustees
-trusteeship
+trusteeship,noun
  trusteeships
-trustworthy
+trustworthy,adjective
  trustworthier trustworthiest trustworthiness
-trusty
+trusty,adjective,noun
  trustier trusties trustiest
-truth
+truth,noun
  truthful truthfully truthfulness truths
-truther!
+truther,noun
  truthers
-truthiness!
-try
+truthiness,noun
+try,verb,abbreviation,noun
  tried tries trying -> [trying]
-trying -> [try]
+trying,adjective
  tryingly
-tryout
+tryout,noun
  tryouts
-tryst
+tryst,verb,noun
  trysted trysting trysts
-tsetse
+tsetse,noun
  tsetses
-tsunami
+tsunami,noun
  tsunamis
-tub
+tub,verb,noun
  tubful tubfuls tubs
-tuba
+tuba,noun
  tubas
-tubal
-tubby
+tubal,adjective
+tubby,adjective
  tubbier tubbiest
-tube
+tube,verb,noun
  tubed tubeless tubes tubing
-tuber
+tuber,noun
  tubers
-tubercle
+tubercle,noun
  tubercles
-tubercular
-tuberculin
-tuberculosis
-tuberculous
-tuberose
-tuberous
-tubular
-tubule
+tubercular,adjective,noun
+tuberculin,noun
+tuberculosis,noun
+tuberculous,adjective
+tuberose,adjective,noun
+tuberous,adjective
+tubular,adjective,noun
+tubule,noun
  tubules
-tuck
+tuck,verb,noun
  tucked tucking tucks
-tucker
+tucker,verb,noun
  tuckered tuckering tuckers
-tuft
+tuft,verb,noun
  tufted tufting tufts
-tufter
+tufter,adjective
  tufters
-tug
+tug,verb,noun
  tugged tugging tugs
-tugboat
+tugboat,verb,noun
  tugboats
-tug-of-war
+tug-of-war,noun
  tugs-of-war
-tuition
-tularemia
-tulip
+tuition,noun
+tularemia,noun
+tulip,noun
  tulips
-tulle
-tum
+tulle,noun
+tum,noun
  tums
-tumble
+tumble,verb,noun
  tumbled tumbles tumbling
-tumbledown
-tumbler
+tumbledown,adjective
+tumbler,noun
  tumblers
-tumbleweed
+tumbleweed,noun
  tumbleweeds
-tumbrel
+tumbrel,noun
  tumbrels tumbril tumbrils
-tumescence
-tumescent
-tumid
-tumidity
-tummy
+tumescence,noun
+tumescent,adjective
+tumid,adjective
+tumidity,noun
+tummy,noun
  tummies
-tumor
+tumor,noun
  tumors tumour tumours
-tumorous
-tumult
+tumorous,adjective
+tumult,noun
  tumults
-tumultuous
+tumultuous,adjective
  tumultuously
-tun
+tun,verb,noun
  tuns
-tuna
+tuna,noun
  tunas
-tundra
+tundra,noun
  tundras
-tune
+tune,verb,noun
  tuned tuneful tunefully tunefulness tuneless tunelessly tunes tuning
-tuner
+tuner,noun
  tuners
-tuneup
+tuneup,noun
  tuneups
-tungsten
-tunic
+tungsten,noun
+tunic,noun
  tunics
-tunnel
+tunnel,verb,noun
  tunneled tunneling tunnelled tunnelling tunnels
-tunneler
+tunneler,noun
  tunnelers tunneller tunnellers
-tunny
+tunny,noun
  tunnies
-tuppence
-tuppenny
-tuque
+tuppence,noun
+tuppenny,adjective
+tuque,noun
  tuques
-turban
+turban,noun
  turbaned turbans
-turbid
-turbidity
-turbine
+turbid,adjective
+turbidity,noun
+turbine,noun
  turbines
-turbo
+turbo,noun
  turbos
-turbocharge
+turbocharge,verb
  turbocharged turbocharges turbocharging
-turbocharger
+turbocharger,noun
  turbochargers
-turbofan
+turbofan,noun
  turbofans
-turbojet
+turbojet,noun
  turbojets
-turboprop
+turboprop,noun
  turboprops
-turbot
+turbot,noun
  turbots
-turbulence
-turbulent
+turbulence,noun
+turbulent,adjective
  turbulently
-turd
+turd,noun
  turds
-turducken!
+turducken,noun
  turduckens
-tureen
+tureen,noun
  tureens
-turf
+turf,verb,noun
  turfed turfing turfs turves
-turfy
-turgid
+turfy,adjective
+turgid,adjective
  turgidly
-turgidity
-turkey
+turgidity,noun
+turkey,noun,propernoun
  turkeys
-turista
-turmeric
+turista,noun
+turmeric,noun
  turmerics
-turmoil
+turmoil,noun
  turmoils
-turn
+turn,verb,noun
  turned turning -> [turning] turns
-turnabout
+turnabout,noun
  turnabouts
-turnaround
+turnaround,noun
  turnarounds turnround turnrounds
-turnbuckle
+turnbuckle,noun
  turnbuckles
-turncoat
+turncoat,noun
  turncoats
-turner
+turner,noun
  turners
-turning -> [turn]
+turning,noun
  turnings
-turnip
+turnip,noun
  turnips
-turnkey
+turnkey,adjective,noun
  turnkeys
-turnoff
+turnoff,noun
  turnoffs
-turn-on
+turn-on,noun
  turn-ons
-turnout
+turnout,noun
  turnouts
-turnover
+turnover,noun
  turnovers
-turnpike
+turnpike,noun
  turnpikes
-turnstile
+turnstile,noun
  turnstiles
-turntable
+turntable,noun
  turntables
-turpentine
-turpitude
-turps
-turquoise
+turpentine,verb,noun
+turpitude,noun
+turps,noun
+turquoise,noun
  turquoises
-turret
+turret,noun
  turreted turrets
-turtle
+turtle,noun
  turtles
-turtledove
+turtledove,noun
  turtledoves
-turtleneck
+turtleneck,noun
  turtlenecked turtlenecks
-tush
+tush,exclamation,noun
  tushes
-tusk
+tusk,noun
  tusked tusks
-tussle
+tussle,verb,noun
  tussled tussles tussling
-tussock
+tussock,noun
  tussocks
-tussocky
-tut
+tussocky,adjective
+tut,verb,noun<spanclass="listSeparator">,</span>exclamation<spanclass="listSeparator">,</span>
  tuts tutted tutting
-tutelage
-tutelary
-tutor
+tutelage,noun
+tutelary,adjective
+tutor,verb,noun
  tutored tutoring tutors
-tutorial
+tutorial,adjective,noun
  tutorials
-tutorship
-tutti
+tutorship,noun
+tutti,adverb,noun,adjective
  tuttis
-tutu
+tutu,noun
  tutus
-tux
+tux,noun
  tuxes
-tuxedo
+tuxedo,noun
  tuxedoes tuxedos
-twaddle
+twaddle,verb,noun
  twaddled twaddles twaddling
-twaddler
+twaddler,noun
  twaddlers
-twain
-twang
+twain,cardinalnumber
+twang,verb,noun
  twanged twanging twangs
-twangy
+twangy,adjective
  twangier twangiest
-twas
-twat
+twas,adjective,noun
+twat,verb,noun
  twats
-tweak
+tweak,verb,noun
  tweaked tweaking tweaks
-twee
-tweed
+twee,adjective
+tweed,noun,propernoun
  tweeds
-tweedy
+tweedy,adjective
  tweedier tweediest
-tween
+tween,noun
  tweens
-tweet
+tweet,verb,noun
  tweeted tweeting tweets
-tweeter
+tweeter,noun
  tweeters
-tweezers
-twelfth
+tweezers,pluralnoun
+twelfth,ordinalnumber
  twelfths
-twelve
+twelve,cardinalnumber
  twelves
-twelvemonth
+twelvemonth,noun
  twelvemonths
-twentieth
+twentieth,ordinalnumber
  twentieths
-twenty
+twenty,cardinalnumber
  twenties
-twerk!
+twerk,verb,noun
  twerked twerking twerks
-twerp
+twerp,noun
  twerps
-twice
-twiddle
+twice,adverb
+twiddle,verb,noun
  twiddled twiddles twiddling
-twiddly
+twiddly,adjective
  twiddlier twiddliest
-twig
+twig,verb,noun
  twigged twigging twigs
-twiggy
+twiggy,adjective
  twiggier twiggiest
-twilight
-twilit
-twill
+twilight,noun
+twilit,adjective
+twill,verb,noun
  twilled
-twin
+twin,verb,adjective,noun
  twinned twinning twins
-twine
+twine,verb,noun
  twined twines twining
-twiner
+twiner,noun
  twiners
-twinge
+twinge,verb,noun
  twinged twingeing twinges twinging
-twinight
-twinkle
+twinight!
+twinkle,verb,noun
  twinkled twinkles twinkling -> [twinkling]
-twinkling -> [twinkle]
+twinkling,adjective
  twinklings
-twinkly
-twinset
+twinkly,adjective
+twinset,noun
  twinsets
-twirl
+twirl,verb,noun
  twirled twirling twirls
-twirler
+twirler,noun
  twirlers
-twirly
+twirly,adjective
  twirlier twirliest
-twist
+twist,verb,noun
  twisted twisting twists
-twister
+twister,noun
  twisters
-twisty
+twisty,adjective
  twistier twistiest
-twit
+twit,verb,noun
  twits twitted twitting
-twitch
+twitch,verb,noun
  twitched twitches twitching
-twitcher
+twitcher,noun
  twitchers
-twitchy
+twitchy,adjective
  twitchier twitchiest
-twitter
+twitter,verb,noun
  twittered twittering twitters
-twittery
-two
+twittery,adjective
+two,cardinalnumber
  twos
-two-bit
-two-by-four
+two-bit,adjective
+two-by-four,noun
  two-by-fours
-two-dimensional
-twofer
+two-dimensional,adjective
+twofer,noun
  twofers
-twofold
-twopence
+twofold,adjective,adverb
+twopence,noun
  twopences
-twopenny
-two-piece
-two-seater
+twopenny,adjective
+two-piece,adjective,noun
+two-seater,noun
  two-seaters
-twosome
+twosome,noun
  twosomes
-two-step
+two-step,noun
  two-steps
-two-time
+two-time,verb,adjective
  two-timed two-times two-timing
-two-way
-tycoon
+two-way,adjective
+tycoon,noun
  tycoons
-tyke
+tyke,noun
  tike tikes tykes
-tympanum
+tympanum,noun
  tympana tympanums
-type
+type,verb,noun
  typed types typing
-typecast
+typecast,verb
  typecasting typecasts
-typeface
+typeface,noun
  typefaces
-typescript
+typescript,noun
  typescripts
-typeset
+typeset,verb
  typesets typesetting
-typesetter
+typesetter,noun
  typesetters
-typewrite
+typewrite,noun
  typewrites typewriting typewritten typewrote
-typewriter
+typewriter,noun
  typewriters
-typhoid
-typhoon
+typhoid,noun
+typhoon,noun
  typhoons
-typhus
-typical
+typhus,noun
+typical,adjective
  typically
-typicality
-typification
-typify
+typicality,noun
+typification,noun
+typify,verb
  typified typifies typifying
-typist
+typist,noun
  typists
-typo
+typo,noun
  typos
-typographer
+typographer,noun
  typographers
-typographic
-typographical
+typographic,adjective
+typographical,adjective
  typographically
-typography
-typology
+typography,noun
+typology,noun
  typologies
-tyrannic
-tyrannical
+tyrannic,adverb
+tyrannical,adjective
  tyrannically
-tyrannize
+tyrannize,verb
  tyrannise tyrannised tyrannises tyrannising tyrannized tyrannizes tyrannizing
-tyrannosaur
+tyrannosaur,noun
  tyrannosaurs
-tyrannosaurus
+tyrannosaurus,noun
  tyrannosauruses
-tyrannous
-tyranny
+tyrannous,adjective
+tyranny,noun
  tyrannies
-tyrant
+tyrant,noun
  tyrants
-tyro
+tyro,noun
  tiro tiros tyros
