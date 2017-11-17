@@ -15,7 +15,7 @@ def pos(word):
     for i in found:
         poss.update(set(i.split('<span class="listSeparator">&amp;</span>')))
     #regex finds all occurences
-    return ''.join((','+','.join(poss)).split()) if len(poss) > 0 else '!!!'
+    return ''.join((','+','.join(poss)).split()) if len(poss) > 0 else '!'
 
 fname = raw_input('Letter: ')
 

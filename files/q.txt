@@ -1,277 +1,277 @@
-qua
-quack
+qua,conjunction
+quack,verb,noun
  quacked quacking quacks
-quackery
-quad
+quackery,noun
+quad,adjective,noun
  quads
-quadrangle
+quadrangle,noun
  quadrangles
-quadrangular
-quadrant
+quadrangular,adjective
+quadrant,noun
  quadrants
-quadraphonic
+quadraphonic,adjective
  quadrophonic
-quadratic
+quadratic,adjective,noun
  quadratics
-quadrennial
-quadrennium
+quadrennial,adjective
+quadrennium,noun
  quadrennia quadrenniums
-quadriceps
+quadriceps,noun
  quadricepses
-quadrilateral
+quadrilateral,adjective,noun
  quadrilaterals
-quadrille
+quadrille,noun
  quadrilles
-quadrillion
+quadrillion,cardinalnumber
  quadrillions
-quadriplegia
-quadriplegic
+quadriplegia,noun
+quadriplegic,adjective,noun
  quadriplegics
-quadrivium
-quadruped
+quadrivium,noun
+quadruped,noun
  quadrupeds
-quadrupedal
-quadruple
+quadrupedal,adjective
+quadruple,adjective,verb,noun
  quadrupled quadruples quadrupling
-quadruplet
+quadruplet,noun
  quadruplets
-quadruplicate
+quadruplicate,adjective,verb
  quadruplicated quadruplicates quadruplicating
-quadruplication
-quaff
+quadruplication,noun
+quaff,verb,noun
  quaffed quaffing quaffs
-quagmire
+quagmire,noun
  quagmires
-quahog
+quahog,noun
  quahaug quahaugs quahogs
-quail
+quail,verb,noun
  quailed quailing quails
-quaint
+quaint,adjective
  quainter quaintest quaintly quaintness
-quake
+quake,verb,noun
  quaked quakes quaking
-quaky
+quaky,adjective
  quakier quakiest
-qualification
+qualification,noun
  qualifications
-qualifier
+qualifier,noun
  qualifiers
-qualify
+qualify,verb
  qualified qualifies qualifying
-qualitative
+qualitative,adjective
  qualitatively
-quality
+quality,adjective,noun
  qualities
-qualm
+qualm,noun
  qualmish qualms
-quandary
+quandary,noun
  quandaries
-quango
+quango,noun
  quangos
-quantifiable
-quantification
-quantifier
+quantifiable,adjective
+quantification,noun
+quantifier,noun
  quantifiers
-quantify
+quantify,verb
  quantified quantifies quantifying
-quantitative
+quantitative,adjective
  quantitatively
-quantity
+quantity,noun
  quantities
-quantum
+quantum,noun
  quanta
-quarantine
+quarantine,verb,noun
  quarantined quarantines quarantining
-quark
+quark,noun
  quarks
-quarrel
+quarrel,verb,noun
  quarreled quarreling quarrelled quarrelling quarrels
-quarreler
+quarreler,noun
  quarrelers quarreller quarrellers
-quarrelsome
+quarrelsome,adjective
  quarrelsomeness
-quarry
+quarry,verb,noun
  quarried quarries quarrying
-quart
+quart,noun
  quarts
-quarter
+quarter,verb,noun
  quartered quartering quarterly -> [quarterly] quarters
-quarterback
+quarterback,verb,noun
  quarterbacked quarterbacking quarterbacks
-quarterdeck
+quarterdeck,noun
  quarterdecks
-quarterfinal
+quarterfinal,noun
  quarterfinals
-quarterly -> [quarter]
+quarterly,adjective,noun,adverb
  quarterlies
-quartermaster
+quartermaster,noun
  quartermasters
-quarterstaff
+quarterstaff,noun
  quarterstaffs quarterstaves
-quartet
+quartet,noun
  quartets quartette quartettes
-quarto
+quarto,noun
  quartos
-quartz
-quasar
+quartz,noun
+quasar,noun
  quasars
-quash
+quash,verb
  quashed quashes quashing
-quasi
-quatrain
+quasi,combiningform
+quatrain,noun
  quatrains
-quaver
+quaver,verb,noun
  quavered quavering quavers
-quavery
-quay
+quavery,adjective
+quay,noun
  quays
-quayside
+quayside,noun
  quaysides
-queasy
+queasy,adjective
  queasier queasiest queasily queasiness
-queen
+queen,verb,noun,propernoun
  queened queening queenlier queenliest queenly queens
-queer
+queer,adjective,verb,noun
  queered queerer queerest queering queerly queerness queers
-quell
+quell,verb
  quelled quelling quells
-quench
+quench,verb,noun
  quenched quenches quenching quenchless
-quenchable
-quencher
+quenchable,adjective
+quencher,noun
  quenchers
-querulous
+querulous,adjective
  querulously querulousness
-query
+query,verb,noun
  queried queries querying
-quesadilla
+quesadilla,noun
  quesadillas
-quest
+quest,verb,noun
  quested questing quests
-question
+question,verb,noun
  questioned questioning -> [questioning] questions
-questionable
+questionable,adjective
  questionably
-questioner
+questioner,noun
  questioners
-questioning -> [question]
+questioning,verb,noun
  questioningly questionings
-questionnaire
+questionnaire,noun
  questionnaires
-queue
+queue,verb,noun
  queued queueing queues queuing
-quibble
+quibble,verb,noun
  quibbled quibbles quibbling
-quibbler
+quibbler,noun
  quibblers
-quiche
+quiche,adjective,noun
  quiches
-quick
+quick,adjective,noun,adverb
  quicker quickest quickly quickness
-quicken
+quicken,verb
  quickened quickening quickens
-quickfire
-quickie
+quickfire,adjective
+quickie,adjective,noun
  quickies
-quicklime
-quicksand
+quicklime,noun
+quicksand,noun
  quicksands
-quicksilver
-quickstep
+quicksilver,noun
+quickstep,verb,noun
  quicksteps
-quid
+quid,noun
  quids
-quiescence
-quiescent
+quiescence,noun
+quiescent,adjective
  quiescently
-quiet
+quiet,adjective,verb,noun
  quieted quieter quietest quieting quietly quietness quiets
-quieten
+quieten,verb
  quietened quietening quietens
-quietism
-quietude
-quietus
+quietism,noun
+quietude,noun
+quietus,noun
  quietuses
-quiff
+quiff,noun
  quiffs
-quill
+quill,verb,noun
  quills
-quilt
+quilt,verb,noun
  quilted quilting quilts
-quilter
+quilter,noun
  quilters
-quin
+quin,noun
  quins
-quinoa
-quince
+quinoa,noun
+quince,noun
  quinces
-quinine
-quinsy
-quint
+quinine,noun
+quinsy,noun
+quint,noun
  quints
-quintessence
+quintessence,noun
  quintessences
-quintessential
+quintessential,adjective
  quintessentially
-quintet
+quintet,noun
  quintets quintette quintettes
-quintuple
+quintuple,adjective,verb,noun
  quintupled quintuples quintupling
-quintuplet
+quintuplet,noun
  quintuplets
-quip
+quip,verb,noun
  quipped quipping quips
-quipster
+quipster,noun
  quipsters
-quire
+quire,noun
  quires
-quirk
+quirk,verb,noun
  quirked quirking quirks
-quirky
+quirky,adjective
  quirkier quirkiest quirkiness
-quirt
+quirt,verb,noun
  quirts
-quisling
+quisling,noun
  quislings
-quit
+quit,adjective,verb,noun
  quits quitted quitting
-quitclaim
+quitclaim,noun
  quitclaims
-quite
-quittance
-quitter
+quite,exclamation,adverb
+quittance,noun
+quitter,noun
  quitters
-quiver
+quiver,verb,noun
  quivered quivering quivers
-quivery
-quixotic
+quivery,adjective
+quixotic,adjective
  quixotically
-quiz
+quiz,verb,noun
  quizzed quizzes quizzing
-quizmaster
+quizmaster,noun
  quizmasters
-quizzer
+quizzer,noun
  quizzers
-quizzical
+quizzical,adjective
  quizzically
-quoin
+quoin,verb,noun
  quoins
-quoit
+quoit,verb,noun
  quoited quoiting quoits
-quondam
-quorate
-quorum
+quondam,adjective
+quorate,adjective
+quorum,noun
  quorums
-quota
+quota,noun
  quotas
-quotable
+quotable,adjective
  quotability
-quotation
+quotation,noun
  quotations
-quote
+quote,verb,noun
  quoted quotes quoting
-quoth
-quotidian
-quotient
+quoth,verb
+quotidian,adjective
+quotient,noun
  quotients
-qwerty
+qwerty,adjective

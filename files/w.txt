@@ -1,1586 +1,1586 @@
-wack
+wack,adjective,noun
  wacker wackest wacks
-wacko
+wacko,adjective,noun
  wackoes wackos
-wacky
+wacky,adjective
  wackier wackiest wackiness whackier whackiest whacky
-wad
+wad,verb,noun
  wadded wadding wads
-waddle
+waddle,verb,noun
  waddled waddles waddling
-wade
+wade,verb,noun
  waded wades wading
-wader
+wader,noun
  waders
-wadi
+wadi,noun
  wadis
-wafer
+wafer,verb,noun
  wafers
-waffle
+waffle,adjective,verb,noun
  waffled waffles waffling
-waffler
+waffler,noun
  wafflers
-waft
+waft,verb,noun
  wafted wafting wafts
-wag
+wag,abbreviation,verb,noun
  wagged wagging waggish waggishly waggishness wags
-wage
+wage,verb,noun
  waged wages waging
-wager
+wager,verb,noun
  wagered wagering wagers
-wagerer
+wagerer,verb,noun
  wagerers
-waggery
+waggery,noun
  waggeries
-waggle
+waggle,verb,noun
  waggled waggles waggling
-wagon
+wagon,noun
  waggon waggons wagons
-wagoner
+wagoner,noun
  waggoner waggoners wagoners
-wagtail
+wagtail,noun
  wagtails
-waif
+waif,noun
  waiflike waifs
-wail
+wail,verb,noun
  wailed wailing wails
-wailer
+wailer,noun
  wailers
-wain
+wain,noun
  wains
-wainscot
+wainscot,verb,noun
  wainscoted wainscoting -> [wainscoting] wainscots wainscotted wainscotting -> [wainscoting]
-wainscoting -> [wainscot]
+wainscoting,noun
  wainscotings wainscotting -> [wainscot] wainscottings
-wainwright
+wainwright,noun
  wainwrights
-waist
+waist,noun
  waists
-waistband
+waistband,noun
  waistbands
-waistcoat
+waistcoat,noun
  waistcoats
-waist-high
-waistline
+waist-high,adjective,adverb
+waistline,noun
  waistlines
-wait
+wait,verb,noun
  waited waiting waits
-waiter
+waiter,noun
  waiters
-waitlist
+waitlist,verb,noun
  waitlisted waitlisting waitlists
-waitperson
+waitperson,noun
  waitpersons
-waitress
+waitress,noun
  waitressed waitresses waitressing
-waitstaff
-waive
+waitstaff,noun
+waive,verb
  waived waives waiving
-waiver
+waiver,noun
  waivers
-wake
+wake,verb,noun
  waked wakeful wakefully wakefulness wakes waking woke woken
-waken
+waken,verb
  wakened wakening wakens
-wale
+wale,noun
  waled wales waling
-walk
+walk,verb,noun
  walked walking walks
-walkabout
+walkabout,noun
  walkabouts
-walkaway
+walkaway!
  walkaways
-walker
+walker,noun
  walkers
-walkies
-walkie-talkie
+walkies,noun
+walkie-talkie,noun
  walkie-talkies
-walk-in
+walk-in,adjective
  walk-ins
-walk-on
+walk-on,adjective,noun
  walk-ons
-walkout
+walkout,noun
  walkouts
-walkover
+walkover,noun
  walkovers
-walkthrough
+walkthrough,adjective,noun
  walkthroughs
-walkway
+walkway,noun
  walkways
-wall
+wall,verb,noun
  walled walling walls
-wallaby
+wallaby,noun
  wallabies
-wallah
+wallah,noun
  walla wallahs wallas
-wallboard
-wallchart
+wallboard,noun
+wallchart,noun
  wallcharts
-wallcovering
+wallcovering,noun
  wallcoverings
-wallet
+wallet,noun
  wallets
-walleye
+walleye,noun
  walleyed walleyes
-wallflower
+wallflower,noun
  wallflowers
-wallop
+wallop,verb,noun
  walloped walloping -> [walloping] wallops
-walloping -> [wallop]
+walloping,adjective,noun
  wallopings
-wallow
+wallow,verb,noun
  wallowed wallowing wallows
-wallpaper
+wallpaper,verb,noun
  wallpapered wallpapering wallpapers
-wall-to-wall
-wally
+wall-to-wall,phrase
+wally,noun
  wallies
-walnut
+walnut,noun
  walnuts
-walrus
+walrus,noun
  walruses
-waltz
+waltz,verb,noun
  waltzed waltzes waltzing
-waltzer
+waltzer,noun
  waltzers
-wampum
-wan
+wampum,noun
+wan,adjective,abbreviation
  wanly wanner wanness wannest
-wand
+wand,noun
  wands
-wander
+wander,verb,noun
  wandered wandering -> [wandering] wanders
-wanderer
+wanderer,noun
  wanderers
-wandering -> [wander]
+wandering,adjective
  wanderings
-wanderlust
+wanderlust,noun
  wanderlusts
-wane
+wane,verb,noun
  waned wanes waning
-wangle
+wangle,verb,noun
  wangled wangles wangling
-wangler
+wangler,noun
  wanglers
-wank
+wank,verb,noun
  wanked wanking wanks
-wanker
+wanker,noun
  wankers
-wanna
-wannabe
+wanna,contraction
+wannabe,adjective,noun
  wannabee wannabees wannabes
-want
+want,verb,noun
  wanted wanting wants
-wanton
+wanton,adjective,verb,noun
  wantoned wantoning wantonly wantonness wantons
-wapiti
+wapiti,noun
  wapitis
-war
+war,verb,noun
  warlike warred warring wars
-warble
+warble,verb,noun
  warbled warbles warbling
-warbler
+warbler,noun
  warblers
-warbonnet
+warbonnet,noun
  warbonnets
-ward
+ward,verb,noun
  warded warding wards
-warden
+warden,noun
  wardens
-warder
+warder,noun
  warders
-wardress
+wardress,noun
  wardresses
-wardrobe
+wardrobe,noun
  wardrobes
-wardroom
+wardroom,noun
  wardrooms
-ware
+ware,adjective,exclamation,noun
  wares
-warehouse
+warehouse,verb,noun
  warehoused warehouses warehousing
-warfare
-warfarin
-warhead
+warfare,noun
+warfarin,noun
+warhead,noun
  warheads
-warhorse
+warhorse,noun
  warhorses
-warlock
+warlock,noun
  warlocks
-warlord
+warlord,noun
  warlords
-warm
+warm,adjective,verb,noun
  warmed warmer -> [warmer] warmest warming warmish warmly warmness warms
-warmblooded
-warmer -> [warm]
+warmblooded,adjective
+warmer,noun
  warmers
-warmhearted
+warmhearted,adjective
  warmheartedness
-warmonger
+warmonger,noun
  warmongering warmongers
-warmth
-warmup
+warmth,noun
+warmup,noun
  warmups
-warn
+warn,verb
  warned warning -> [warning] warns
-warning -> [warn]
+warning,noun
  warnings
-warp
+warp,verb,noun
  warped warping warps
-warpaint
-warpath
+warpaint,noun
+warpath,noun
  warpaths
-warplane
+warplane,noun
  warplanes
-warrant
+warrant,verb,noun
  warranted warranting warrants
-warranty
+warranty,noun
  warrantied warranties warrantying
-warren
+warren,noun,propernoun
  warrens
-warrior
+warrior,noun
  warriors
-warship
+warship,noun
  warships
-wart
+wart,noun
  warts
-warthog
+warthog,noun
  warthogs
-wartime
-war-torn
-warty
+wartime,noun
+war-torn,adjective
+warty,adjective
  wartier wartiest
-wary
+wary,adjective
  warier wariest warily wariness
-wasabi
-wash
+wasabi,noun
+wash,verb,noun
  washed washes washing -> [washing]
-washable
+washable,adjective
  washables
-washbasin
+washbasin,noun
  washbasins
-washboard
+washboard,verb,noun
  washboards
-washbowl
+washbowl,noun
  washbowls
-washcloth
+washcloth,noun
  washcloths
-washday
+washday,noun
  washdays
-washer
+washer,noun
  washers
-washerwoman
+washerwoman,noun
  washerwomen
-washing -> [wash]
+washing,noun
  washings
-washout
+washout,noun
  washouts
-washrag
+washrag,noun
  washrags
-washroom
+washroom,noun
  washrooms
-washstand
+washstand,noun
  washstands
-washtub
+washtub,noun
  washtubs
-washy
+washy,adjective
  washier washiest
-wasp
+wasp,noun
  waspish waspishly waspishness wasps
-wassail
+wassail,verb,noun
  wassailed wassailing wassails
-wastage
-waste
+wastage,noun
+waste,adjective,verb,noun
  wasted wasteful wastefully wastefulness wastes wasting
-wastebasket
+wastebasket,noun
  wastebaskets
-wasteland
+wasteland,noun
  wastelands
-wastepaper
-waster
+wastepaper,noun
+waster,noun
  wasters
-wastrel
+wastrel,noun
  wastrels
-watch
+watch,verb,noun
  watched watches watchful watchfully watchfulness watching
-watchable
-watchband
+watchable,adjective
+watchband!
  watchbands
-watchdog
+watchdog,verb,noun
  watchdogs
-watcher
+watcher,noun
  watchers
-watchmaker
+watchmaker,noun
  watchmakers
-watchmaking
-watchman
+watchmaking,noun
+watchman,noun
  watchmen
-watchstrap
+watchstrap!
  watchstraps
-watchtower
+watchtower,noun
  watchtowers
-watchword
+watchword,noun
  watchwords
-water
+water,verb,noun
  watered watering waters
-waterbed
+waterbed,noun
  waterbeds
-waterbird
+waterbird,noun
  waterbirds
-waterboard!
+waterboard,verb,noun
  waterboarded waterboarding -> [waterboarding!] waterboards
-waterboarding! -> [waterboard!]
+waterboarding,noun
  waterboardings
-waterborne
-watercolor
+waterborne,adjective
+watercolor,noun
  watercolors watercolour watercolours
-watercourse
+watercourse,noun
  watercourses
-watercraft
-watercress
-watered-down
-waterfall
+watercraft,noun
+watercress,noun
+watered-down,adjective
+waterfall,adjective,noun
  waterfalls
-waterfowl
+waterfowl,pluralnoun
  waterfowls
-waterfront
+waterfront,noun
  waterfronts
-waterhole
+waterhole,noun
  waterholes
-waterlily
+waterlily,noun
  waterlilies
-waterline
+waterline,noun
  waterlines
-waterlogged
-watermark
+waterlogged,adjective
+watermark,verb,noun
  watermarked watermarking watermarks
-watermelon
+watermelon,noun
  watermelons
-watermill
+watermill,noun
  watermills
-waterpark
+waterpark,noun
  waterparks
-waterpower
-waterproof
+waterpower,noun
+waterproof,adjective,verb,noun
  waterproofed waterproofing waterproofs
-watershed
+watershed,noun
  watersheds
-waterside
+waterside,noun
  watersides
-waterski
+waterski,verb,noun
  waterskied waterskiing waterskis
-waterslide
+waterslide,noun
  waterslides
-waterspout
+waterspout,noun
  waterspouts
-watertight
-waterway
+watertight,adjective
+waterway,noun
  waterways
-waterwheel
+waterwheel,noun
  waterwheels
-waterwings
-waterworks
-watery
+waterwings!
+waterworks,pluralnoun
+watery,adjective
  waterier wateriest wateriness
-watt
+watt,noun
  watts
-wattage
-wattle
+wattage,noun
+wattle,verb,noun
  wattled wattles wattling
-wave
+wave,verb,noun
  waved wavelike waves waving
-waveband
+waveband,noun
  wavebands
-wavelength
+wavelength,noun
  wavelengths
-wavelet
+wavelet,noun
  wavelets
-waver
+waver,verb
  wavered wavering waveringly wavers
-waverer
+waverer,noun
  waverers
-wavy
+wavy,adjective
  wavier waviest waviness
-wax
+wax,verb,noun
  waxed waxes waxing
-waxen
-waxwing
+waxen,adjective
+waxwing,noun
  waxwings
-waxwork
+waxwork,noun
  waxworks
-waxy
+waxy,adjective
  waxier waxiest waxiness
-way
+way,noun,adverb
  ways
-waybill
+waybill,noun
  waybills
-wayfarer
+wayfarer,noun
  wayfarers
-wayfaring
+wayfaring,adjective,noun
  wayfarings
-waylay
+waylay,verb
  waylaid waylaying waylays
-waylayer
+waylayer,noun
  waylayers
-wayside
+wayside,noun
  waysides
-wayward
+wayward,adjective
  waywardly waywardness
-wazoo
+wazoo,noun
  wazoos
-we
+we,pronoun
  us
-weak
+weak,adjective
  weaker weakest weakly weakness -> [weakness]
-weaken
+weaken,verb
  weakened weakening weakens
-weakener
+weakener,noun
  weakeners
-weakfish
+weakfish,noun
  weakfishes
-weakling
+weakling,noun
  weaklings
-weakness -> [weak]
+weakness,noun
  weaknesses
-weal -> [wheal]
-wealth
-wealthy
+weal,verb,noun
+wealth,noun
+wealthy,adjective
  wealthier wealthiest wealthiness
-wean
+wean,verb,noun
  weaned weaning weans
-weapon
+weapon,noun
  weaponless weapons
-weaponize
+weaponize,verb
  weaponise weaponised weaponises weaponising weaponized weaponizes weaponizing
-weaponry
-wear
+weaponry,noun
+wear,verb,noun
  wearing wears wore worn
-wearable
-wearer
+wearable,adjective,noun
+wearer,noun
  wearers
-wearisome
+wearisome,adjective
  wearisomely
-weary
+weary,adjective,verb
  wearied wearier wearies weariest wearily weariness wearying
-weasel
+weasel,verb,noun
  weaseled weaseling weaselled weaselling weasels
-weaselly
-weather
+weaselly,adjective
+weather,verb,noun
  weathered weathering weathers
-weatherbeaten
-weatherboard
+weatherbeaten,adjective
+weatherboard,verb,noun
  weatherboards
-weatherboarding
-weathercock
+weatherboarding,noun
+weathercock,verb,noun
  weathercocks
-weathergirl
+weathergirl,noun
  weathergirls
-weatherization
-weatherize
+weatherization,noun
+weatherize,verb
  weatherise weatherised weatherises weatherising weatherized weatherizes weatherizing
-weatherman
+weatherman,noun
  weathermen
-weatherperson
+weatherperson!
  weatherpersons
-weatherproof
+weatherproof,adjective,verb
  weatherproofed weatherproofing weatherproofs
-weatherstrip
+weatherstrip,verb,noun
  weatherstripped weatherstripping weatherstrips
-weathervane
+weathervane,noun
  weathervanes
-weave
+weave,verb,noun
  weaved weaves weaving wove woven
-weaver
+weaver,noun
  weavers
-web
+web,verb,noun
  webbed webbing webs
-webcam
+webcam,noun
  webcams
-webcast
+webcast,verb,noun
  webcasting webcasts
-webfoot
+webfoot!
  webfeet webfooted
-webinar
+webinar,noun
  webinars
-webisode!
+webisode,noun
  webisodes
-weblog
+weblog,noun
  weblogs
-webmaster
+webmaster,noun
  webmasters
-website
+website,noun
  websites
-webzine
+webzine,noun
  webzines
-wed
+wed,verb
  wedded wedding -> [wedding] weds
-wedding -> [wed]
+wedding,noun
  weddings
-wedge
+wedge,verb,noun
  wedged wedges wedging
-wedgie
+wedgie,noun
  wedgies
-wedlock
-wee
+wedlock,noun
+wee,adjective,verb,noun
  weed -> [weed] weeing weer wees weest
-weed -> [wee]
+weed,verb,noun
  weeded weeding weedless weeds
-weeder
+weeder,noun
  weeders
-weedkiller
+weedkiller,noun
  weedkillers
-weedy
+weedy,adjective
  weedier weediest
-week
+week,noun
  weekly -> [weekly] weeks
-weekday
+weekday,noun
  weekdays
-weekend
+weekend,verb,noun
  weekended weekending weekends
-weekender
+weekender,noun
  weekenders
-weeklong
-weekly -> [week]
+weeklong,adjective
+weekly,adjective,noun,adverb
  weeklies
-weeknight
+weeknight,noun
  weeknights
-ween
+ween,verb
  weened weening weens
-weenie
+weenie,noun
  weenies wienie wienies
-weeny
+weeny,adjective
  weenier weeniest weensier weensiest weensy
-weep
+weep,verb,noun
  weeping weeps wept
-weeper
+weeper,noun
  weepers
-weepie
+weepie,adjective,noun
  weepies weepy -> [weepy]
-weepy -> [weepie]
+weepy,adjective,noun
  weepier weepiest
-weevil
+weevil,noun
  weevils
-weft
+weft,noun
  wefts
-weigh
+weigh,verb,noun
  weighed weighing weighs
-weighbridge
+weighbridge,noun
  weighbridges
-weight
+weight,verb,noun
  weighted weighting -> [weighting] weightless weightlessly weightlessness weights
-weighting -> [weight]
+weighting,noun
  weightings
-weightlifter
+weightlifter,noun
  weightlifters
-weightlifting
-weighty
+weightlifting,noun
+weighty,adjective
  weightier weightiest weightily weightiness
-weir
+weir,noun
  weirs
-weird
+weird,adjective,verb,noun
  weirded weirder weirdest weirding weirdly weirdness
-weirdie
+weirdie,noun
  weirdies
-weirdo
+weirdo,noun
  weirdos
-welcome
+welcome,exclamation,adjective,verb,noun
  welcomed welcomes welcoming
-weld
+weld,verb,noun
  welded welding welds
-weldable
-welder
+weldable,adjective
+welder,noun
  welders
-welfare
-welkin
-well
+welfare,noun
+welkin,noun
+well,adjective,exclamation,verb,noun,adverb
  best -> [best good] better -> [better good] welled welling wellness wells
-well-adjusted
-well-balanced
-well-behaved
-well-being
-wellborn
-well-built
-well-connected
-well-defined
-well-developed
-well-documented
-well-dressed
-well-established
-well-fed
-well-founded
-well-groomed
-wellhead
+well-adjusted,adjective
+well-balanced,adjective
+well-behaved,adjective
+well-being,noun
+wellborn!
+well-built,adjective
+well-connected,adjective
+well-defined,adjective
+well-developed,adjective
+well-documented,adjective
+well-dressed,adjective
+well-established,adjective
+well-fed,adjective
+well-founded,adjective
+well-groomed,adjective
+wellhead,noun
  wellheads
-well-heeled
-well-informed
-wellington
+well-heeled,adjective
+well-informed,adjective
+wellington,noun,propernoun
  wellingtons
-well-intentioned
-well-kept
-well-known
-well-made
-well-mannered
-well-meaning
-well-off
-well-paid
-well-preserved
-well-rounded
-wellspring
+well-intentioned,adjective
+well-kept,adjective
+well-known,adjective
+well-made,adjective
+well-mannered,adjective
+well-meaning,adjective
+well-off,adjective
+well-paid,adjective
+well-preserved,adjective
+well-rounded,adjective
+wellspring,noun
  wellsprings
-well-to-do
-wellwisher
+well-to-do,adjective
+wellwisher,noun
  wellwishers
-well-worn
-welly
+well-worn,adjective
+welly,verb,noun
  wellie wellies
-welsh
+welsh,adjective,verb,noun
  welch welched welches welching welshed welshes welshing
-welsher
+welsher,noun
  welcher welchers welshers
-welt
+welt,verb,noun
  welted welting welts
-welter
+welter,verb,noun
  weltered weltering welters
-welterweight
+welterweight,noun
  welterweights
-wen
+wen,noun
  wens
-wench
+wench,verb,noun
  wenches
-wend
+wend,verb,noun
  wended wending wends
-werewolf
+werewolf,noun
  werewolves werwolf werwolves
-west
-westbound
-westerly
+west,adjective,noun,adverb
+westbound,adjective
+westerly,adjective,noun,adverb
  westerlies
-western
+western,adjective,noun
  westernmost westerns
-westerner
+westerner,noun
  westerners
-westernization
+westernization,noun
  westernisation
-westernize
+westernize,verb
  westernise westernised westernises westernising westernized westernizes westernizing
-westward
+westward,adjective,noun,adverb
  westwards
-wet
+wet,adjective,verb,noun
  wetly wetness wets wetted wetter -> [wetter] wettest wetting
-wetback
+wetback,noun
  wetbacks
-wetland
+wetland,noun
  wetlands
-wetsuit
+wetsuit,noun
  wetsuits
-wetter -> [wet]
+wetter,adjective,verb,noun
  wetters
-whack
+whack,verb,noun
  whacked whacking -> [whacking] whacks
-whacker
+whacker,noun
  whackers
-whacking -> [whack]
+whacking,adjective
  whackings
-whale
+whale,verb,noun
  whaled whales whaling
-whaleboat
+whaleboat,noun
  whaleboats
-whalebone
-whaler
+whalebone,noun
+whaler,noun
  whalers
-wham
+wham,exclamation,verb
  whammed whamming whams
-whammy
+whammy,noun
  whammies
-wharf
+wharf,noun
  wharfs wharves
-what
+what,interrogativeadverb,determiner,pronoun
  whats wot -> [wit]
-whatchamacallit
+whatchamacallit,noun
  whatchamacallits
-whatever
-whatnot
-whatshisname
+whatever,exclamation,relativepronoun,determiner,interrogativepronoun,adverb
+whatnot,noun
+whatshisname,noun
  whatsername whatshername whatsisname
-whatsit
+whatsit,noun
  whatsits
-whatsoever
-wheal
+whatsoever,pronoun,determiner,adverb
+wheal,verb,noun
  weal -> [weal] weals wheals
-wheat
-wheaten
-wheatgerm
-wheatmeal
-whee
-wheedle
+wheat,noun
+wheaten,adjective
+wheatgerm,noun
+wheatmeal,noun
+whee,exclamation
+wheedle,verb
  wheedled wheedles wheedling
-wheedler
+wheedler,noun
  wheedlers
-wheel
+wheel,verb,noun
  wheeled wheeling wheels
-wheelbarrow
+wheelbarrow,noun
  wheelbarrows
-wheelbase
+wheelbase,noun
  wheelbases
-wheelchair
+wheelchair,noun
  wheelchairs
-wheelhouse
+wheelhouse,noun
  wheelhouses
-wheelie
+wheelie,noun
  wheelies
-wheelwright
+wheelwright,noun
  wheelwrights
-wheeze
+wheeze,verb,noun
  wheezed wheezes wheezing
-wheezy
+wheezy,adjective
  wheezier wheeziest wheezily wheeziness
-whelk
+whelk,noun
  whelks
-whelm
+whelm,verb,noun
  whelmed whelming whelms
-whelp
+whelp,verb,noun
  whelped whelping whelps
-when
+when,conjunction,interrogativeadverb,relativeadverb
  whens
-whence
-whenever
-whensoever
-where
+whence,interrogativeadverb,relativeadverb
+whenever,interrogativeadverb,conjunction
+whensoever,conjunction,adverb
+where,interrogativeadverb,relativeadverb
  wheres
-whereabouts
-whereas
-whereat
-whereby
-wherefore
+whereabouts,interrogativeadverb,noun
+whereas,conjunction
+whereat,relativeadverb,conjunction
+whereby,relativeadverb
+wherefore,relativeadverb,interrogativeadverb,conjunction
  wherefores
-wherein
-whereof
-whereon
-wheresoever
-whereto
-whereupon
-wherever
-wherewith
-wherewithal
-wherry
+wherein,adverb
+whereof,relativeadverb
+whereon,relativeadverb
+wheresoever,conjunction,adverb
+whereto,relativeadverb
+whereupon,conjunction
+wherever,conjunction,interrogativeadverb,relativeadverb
+wherewith,relativeadverb
+wherewithal,noun
+wherry,noun
  wherries
-whet
+whet,verb,noun
  whets whetted whetting
-whether
-whetstone
+whether,conjunction
+whetstone,noun
  whetstones
-whew
-whey
-which
-whichever
-whiff
+whew,exclamation
+whey,noun
+which,relativepronoun,determiner,interrogativepronoun
+whichever,relativedeterminer,pronoun
+whiff,verb,noun
  whiffed whiffing whiffs
-whiffletree
+whiffletree,noun
  whiffletrees
-whiffy
-while
+whiffy,adjective
+while,preposition,verb,conjunction,noun,relativeadverb
  whiled whiles whiling whilst
-whilom
-whim
+whilom,adjective,adverb
+whim,noun
  whims
-whimper
+whimper,verb,noun
  whimpered whimpering whimpers
-whimsical
+whimsical,adjective
  whimsically
-whimsicality
-whimsy
+whimsicality,noun
+whimsy,noun
  whimsey whimseys whimsies
-whine
+whine,verb,noun
  whined whines whining
-whiner
+whiner,noun
  whiners
-whinge
+whinge,verb,noun
  whinged whingeing whinges whinging
-whinger
+whinger,noun
  whingers
-whinny
+whinny,verb,noun
  whinnied whinnies whinnying
-whiny
+whiny,adjective
  whinier whiniest
-whip
+whip,verb,noun
  whipped whipping -> [whipping] whips whup whupped whupping whups
-whipcord
-whiplash
+whipcord,noun
+whiplash,verb,noun
  whiplashes
-whipper
+whipper,noun
  whippers
-whippersnapper
+whippersnapper,noun
  whippersnappers
-whippet
+whippet,noun
  whippets
-whipping -> [whip]
+whipping,noun
  whippings
-whippletree
+whippletree,noun
  whippletrees
-whippoorwill
+whippoorwill,noun
  whippoorwills
-whipsaw
+whipsaw,verb,noun
  whipsawed whipsawing whipsawn whipsaws
-whir
+whir,verb,noun
  whirr whirred whirring whirrs whirs
-whirl
+whirl,verb,noun
  whirled whirling whirls
-whirligig
+whirligig,noun
  whirligigs
-whirlpool
+whirlpool,noun
  whirlpools
-whirlwind
+whirlwind,noun
  whirlwinds
-whirlybird
+whirlybird,noun
  whirlybirds
-whisk
+whisk,verb,noun
  whisked whisking whisks
-whisker
+whisker,noun
  whiskered whiskers
-whiskery
-whiskey
+whiskery,adjective
+whiskey,noun
  whiskeys whiskies whisky
-whisper
+whisper,verb,noun
  whispered whispering -> [whispering] whispers
-whisperer
+whisperer,noun
  whisperers
-whispering -> [whisper]
+whispering,verb,noun
  whisperings
-whist
-whistle
+whist,exclamation,noun
+whistle,verb,noun
  whistled whistles whistling
-whistle-blower
+whistle-blower,noun
  whistle-blowers
-whistler
+whistler,noun
  whistlers
-whit
+whit,adjective,noun
  whits
-white
+white,adjective,verb,noun
  whited whiteness whiter whites whitest whiting -> [whiting] whitish
-whitebait
-whiteboard
+whitebait,noun
+whiteboard,noun
  whiteboards
-whitecap
+whitecap,noun
  whitecaps
-white-collar
-whitefish
+white-collar,adjective
+whitefish,noun
  whitefishes
-whitehead
+whitehead,noun
  whiteheads
-white-hot
-whiten
+white-hot,adjective
+whiten,verb
  whitened whitening -> [whitening] whitens
-whitener
+whitener,noun
  whiteners
-whitening -> [whiten]
+whitening,verb
  whitenings
-whiteout
+whiteout,noun
  whiteouts
-whitetail
+whitetail,noun
  whitetails
-whitewall
+whitewall,noun
  whitewalls
-whitewash
+whitewash,verb,noun
  whitewashed whitewashes whitewashing
-whitewater
-whitey
+whitewater,noun
+whitey,adjective,noun
  whiteys whities
-whither
-whiting -> [white]
+whither,interrogativeadverb,relativeadverb
+whiting,noun
  whitings
-whittle
+whittle,verb
  whittled whittles whittling
-whittler
+whittler,noun
  whittlers
-whiz
+whiz,verb,noun
  whizz whizzed whizzes whizzing
-whizzbang
+whizzbang,adjective,noun
  whizzbangs
-whizzkid
+whizzkid,noun
  whizkid whizkids whizzkids
-who
+who,abbreviation,pronoun
  whom
-whoa
-whodunit
+whoa,exclamation
+whodunit,noun
  whodunits whodunnit whodunnits
-whoever
+whoever,relativepronoun,interrogativepronoun
  whomever
-whole
+whole,adjective,noun,adverb
  wholeness wholes wholly
-wholefood
+wholefood,noun
  wholefoods
-wholegrain
-wholehearted
+wholegrain,adjective
+wholehearted,adjective
  wholeheartedly wholeheartedness
-wholemeal
-wholesale
+wholemeal,adjective,noun
+wholesale,adjective,verb,noun,adverb
  wholesaled wholesales wholesaling
-wholesaler
+wholesaler,noun
  wholesalers
-wholesome
+wholesome,adjective
  wholesomely wholesomeness wholesomer wholesomest
-wholewheat
-whoop
+wholewheat,adjective,noun
+whoop,verb,noun
  whooped whooping whoops -> [oops]
-whoopee
-whooper
+whoopee,exclamation,noun
+whooper,noun
  whoopers
-whoosh
+whoosh,exclamation,verb,noun
  whooshed whooshes whooshing
-whop
+whop,verb,noun
  whopped whopping whops
-whopper
+whopper,noun
  whoppers
-whore
+whore,verb,noun
  whoreish whores whoring whorish
-whorehouse
+whorehouse,noun
  whorehouses
-whorl
+whorl,verb,noun
  whorled whorls
-whose
-whoso
-whosoever
+whose,pronoun,possessivedeterminer
+whoso,pronoun
+whosoever,pronoun
  whomsoever
-why
+why,exclamation,interrogativeadverb,noun,relativeadverb
  whys
-wick
+wick,adjective,verb,noun
  wicked -> [wicked] wicking wicks
-wicked -> [wick]
+wicked,adjective
  wickeder wickedest wickedly wickedness
-wicker
+wicker,noun
  wickers
-wickerwork
-wicket
+wickerwork,noun
+wicket,noun
  wickets
-wicketkeeper
+wicketkeeper,noun
  wicketkeepers
-wide
+wide,adjective,noun,adverb
  widely wideness wider widest
-wide-eyed
-widemouthed
-widen
+wide-eyed,adjective
+widemouthed,adjective
+widen,verb
  widened widening widens
-widener
+widener,noun
  wideners
-wide-open
-wide-ranging
-widescreen
+wide-open,phrase
+wide-ranging,adjective
+widescreen,noun
  widescreens!
-widespread
-widgeon
+widespread,adjective
+widgeon,noun
  widgeons wigeon wigeons
-widget
+widget,noun
  widgets
-widow
+widow,verb,noun
  widowed widowing widows
-widower
+widower,noun
  widowers
-widowhood
-width
+widowhood,noun
+width,noun
  widths
-wield
+wield,verb
  wielded wielding wields
-wielder
+wielder,noun
  wielders
-wiener
+wiener,noun
  wieners
-wife
+wife,noun
  wifeless wifely wives -> [wive]
-wig
+wig,verb,noun
  wigged wigging wigs
-wiggle
+wiggle,verb,noun
  wiggled wiggles wiggling
-wiggler
+wiggler,noun
  wigglers
-wiggly
+wiggly,adjective
  wigglier wiggliest
-wight
+wight,noun,propernoun
  wights
-wiglet
+wiglet!
  wiglets
-wigwag
+wigwag,verb
  wigwagged wigwagging wigwags
-wigwam
+wigwam,noun
  wigwams
-wiki
+wiki,noun
  wikis
-wild
+wild,adjective,verb,noun
  wilder wildest wildly wildness wilds
-wildcard
+wildcard!
  wildcards
-wildcat
+wildcat,adjective,verb,noun
  wildcats wildcatted wildcatting
-wildcatter
+wildcatter,noun
  wildcatters
-wildebeest
+wildebeest,noun
  wildebeests
-wilderness
+wilderness,noun
  wildernesses
-wild-eyed
-wildfire
+wild-eyed,adjective
+wildfire,noun
  wildfires
-wildflower
+wildflower,noun
  wildflowers
-wildfowl
+wildfowl,pluralnoun
  wildfowls
-wildlife
-wile
+wildlife,noun
+wile,adjective,verb,noun,adverb
  wiled wiles wiling
-will
+will,noun,verb,modalverb
  wilful wilfully wilfulness willed willful willfully willfulness willing -> [willing] wills wilt -> [wilt]
-willing -> [will]
+willing,adjective
  willingly willingness
-williwaw
+williwaw,noun
  williwaws
-willow
+willow,noun
  willows
-willowy
+willowy,adjective
  willowier willowiest
-willpower
-willy
+willpower,noun
+willy,noun
  willie willies
-willy-nilly
-wilt -> [will]
+willy-nilly,adverb
+wilt,verb,noun
  wilted wilting wilts
-wily
+wily,adjective
  wilier wiliest wiliness
-wimp
+wimp,verb,noun
  wimped wimping wimpish wimps
-wimple
+wimple,noun
  wimpled wimples wimpling
-wimpy
+wimpy,adjective
  wimpier wimpiest
-win
+win,verb,noun
  winning -> [winning] wins won
-wince
+wince,verb,noun
  winced winces wincing
-winch
+winch,verb,noun
  winched winches winching
-wind
+wind,verb,noun
  winded winding windless winds wound -> [wound]
-windbag
+windbag,noun
  windbags
-windblown
-windbreak
+windblown,adjective
+windbreak,noun
  windbreaks
-windbreaker
+windbreaker,noun
  windbreakers
-windburn
+windburn,noun
  windburned
-windcheater
+windcheater,noun
  windcheaters
-windchill
-winder
+windchill,noun
+winder,noun
  winders
-windfall
+windfall,noun
  windfalls
-windflower
+windflower,noun
  windflowers
-windjammer
+windjammer,noun
  windjammers
-windlass
+windlass,verb,noun
  windlasses
-windmill
+windmill,verb,noun
  windmilled windmilling windmills
-window
+window,noun
  windowless windows
-windowpane
+windowpane,noun
  windowpanes
-windowsill
+windowsill,noun
  windowsills
-windpipe
+windpipe,noun
  windpipes
-windproof
-windrow
+windproof,adjective
+windrow,noun
  windrows
-windscreen
+windscreen,noun
  windscreens
-windshield
+windshield,noun
  windshields
-windsock
+windsock,noun
  windsocks
-windstorm
+windstorm,noun
  windstorms
-windsurf
+windsurf,verb
  windsurfed windsurfing windsurfs
-windsurfer
+windsurfer,noun
  windsurfers
-windswept
-windup
+windswept,adjective
+windup,adjective,noun
  windups
-windward
-windy
+windward,adjective,noun,adverb
+windy,adjective
  windier windiest windily windiness
-wine
+wine,verb,noun
  wined wines wining
-wineglass
+wineglass,noun
  wineglasses
-winegrower
+winegrower,noun
  winegrowers
-winemaker
+winemaker,noun
  winemakers
-winery
+winery,noun
  wineries
-wing
+wing,verb,noun
  winged winging wingless winglike wings
-wingding
+wingding,noun
  wingdings
-winger
+winger,noun
  wingers
 wingnut!
  wingnuts
-wingspan
+wingspan,noun
  wingspans
-wingspread
+wingspread,noun
  wingspreads
-wingtip
+wingtip,noun
  wingtips
-wink
+wink,verb,noun
  winked winking winks
-winker
+winker,noun
  winkers
-winkle
+winkle,verb,noun
  winkled winkles winkling
-winnable
-winner
+winnable,adjective
+winner,noun
  winners
-winning -> [win]
+winning,adjective,noun
  winningest winningly winnings
-winnow
+winnow,verb
  winnowed winnowing winnows
-winnower
+winnower,noun
  winnowers
-wino
+wino,noun
  winos
-winsome
+winsome,adjective
  winsomely winsomeness winsomer winsomest
-winter
+winter,adjective,verb,noun
  wintered wintering winters
-wintergreen
-winterize
+wintergreen,noun
+winterize,verb
  winterise winterised winterises winterising winterized winterizes winterizing
-wintertime
-wintry
+wintertime,noun
+wintry,adjective
  winterier winteriest wintery wintrier wintriest
-win-win
-winy
+win-win,adjective
+winy,adjective
  winier winiest
-wipe
+wipe,verb,noun
  wiped wipes wiping
-wipeout
+wipeout,noun
  wipeouts
-wiper
+wiper,noun
  wipers
-wire
+wire,verb,noun
  wired wireless -> [wireless] wires wiring
-wirehair
+wirehair!
  wirehairs
-wirehaired
-wireless -> [wire]
+wirehaired,adjective
+wireless,adjective,noun
  wirelesses
-wiretap
+wiretap,verb,noun
  wiretapped wiretapping wiretaps
-wiretapper
+wiretapper,noun
  wiretappers
-wiry
+wiry,adjective
  wirier wiriest wiriness
-wisdom
-wise
+wisdom,noun
+wise,adjective,verb,noun
  wised wisely wiser wises wisest wising
-wiseacre
+wiseacre,noun
  wiseacres
-wiseass
+wiseass,adjective,noun
  wiseasses
-wisecrack
+wisecrack,verb,noun
  wisecracked wisecracking wisecracks
-wiseguy
+wiseguy!
  wiseguys
-wish
+wish,verb,noun
  wished wishes wishful wishfully wishing
-wishbone
+wishbone,noun
  wishbones
-wisher
+wisher,noun
  wishers
-wisp
+wisp,noun
  wisps
-wispy
+wispy,adjective
  wispier wispiest
-wisteria
+wisteria,noun
  wistaria wistarias wisterias
-wistful
+wistful,adjective
  wistfully wistfulness
-wit
+wit,verb,noun
  wist witless witlessly witlessness wits witted witting wittingly wot -> [what]
-witch
+witch,verb,noun
  witched witches witching
-witchcraft
-witchery
-with
-withal
-withdraw
+witchcraft,noun
+witchery,noun
+with,preposition
+withal,preposition,adverb
+withdraw,verb
  withdrawing withdrawn withdraws withdrew
-withdrawal
+withdrawal,noun
  withdrawals
-withe
+withe,noun
  withed withes withing
-wither
+wither,verb
  withered withering witheringly withers -> [withers]
-withers -> [wither]
-withhold
+withers,pluralnoun
+withhold,verb
  withheld withholding withholds
-within
-without
-withstand
+within,preposition,adverb
+without,preposition,conjunction,adverb
+withstand,verb
  withstanding withstands withstood
-witness
+witness,verb,noun
  witnessed witnesses witnessing
-witter
+witter,verb
  wittered wittering witters
-witticism
+witticism,noun
  witticisms
-witty
+witty,adjective
  wittier wittiest wittily wittiness
-wive
+wive,verb
  wived wives -> [wife] wiving
-wiz
+wiz,verb,noun
  wizes wizzes
-wizard
+wizard,adjective,noun
  wizards
-wizardry
-wizened
-woad
-wobble
+wizardry,noun
+wizened,adjective
+woad,noun
+wobble,verb,noun
  wobbled wobbles wobbling
-wobbly
+wobbly,adjective,noun
  wobblier wobbliest wobbliness
-wodge
+wodge,noun
  wadge wadges wodges
-woe
+woe,noun
  woeful woefuller woefullest woefully woefulness woes
-woebegone
-wog
+woebegone,adjective
+wog,noun
  wogs
-wok
+wok,noun
  woks
-wold
+wold,noun
  wolds
-wolf
+wolf,verb,noun
  wolfed wolfing wolfish wolfs wolves
-wolfhound
+wolfhound,noun
  wolfhounds
-wolfram
-wolverine
+wolfram,noun
+wolverine,noun
  wolverines
-woman
+woman,noun
  womanish womanlier womanliest womanlike womanliness womanly women
-womanhood
-womanize
+womanhood,noun
+womanize,verb
  womanise womanised womanises womanising womanized womanizes womanizing
-womanizer
+womanizer,noun
  womaniser womanisers womanizers
-womankind
-womb
+womankind,noun
+womb,noun
  wombs
-wombat
+wombat,noun
  wombats
-womenfolk
+womenfolk,pluralnoun
  womenfolks
-wonder
+wonder,verb,noun
  wondered wonderful wonderfully wonderfulness wondering wonderingly wonders
-wonderland
+wonderland,noun
  wonderlands
-wonderment
-wondrous
+wonderment,noun
+wondrous,adjective,adverb
  wondrously
-wonga
-wonk
+wonga,noun
+wonk,noun
  wonks
-wonky
+wonky,adjective
  wonkier wonkiest
-wont
+wont,adjective,verb,noun
  wonted
-wonton
+wonton,noun
  wontons
-woo
+woo,adjective,verb,noun
  wooed wooing woos
-wood
+wood,noun
  wooded wooding woods
-woodbine
-woodblock
+woodbine,noun
+woodblock,noun
  woodblocks
-woodcarver
+woodcarver,noun
  woodcarvers
-woodcarving
+woodcarving,noun
  woodcarvings
-woodchuck
+woodchuck,noun
  woodchucks
-woodcock
+woodcock,noun
  woodcocks
-woodcraft
-woodcut
+woodcraft,noun
+woodcut,noun
  woodcuts woodcutting
-woodcutter
+woodcutter,noun
  woodcutters
-wooden
+wooden,adjective
  woodener woodenest woodenly woodenness
-woodland
+woodland,noun
  woodlands
-woodlot
+woodlot!
  woodlots
-woodlouse
+woodlouse,noun
  woodlice
-woodpecker
+woodpecker,noun
  woodpeckers
-woodpile
+woodpile,noun
  woodpiles
-woodshed
+woodshed,verb,noun
  woodsheds
-woodsman
+woodsman,noun
  woodman woodmen woodsmen
-woodsy
+woodsy,adjective
  woodsier woodsiest woodsiness
-woodwind
+woodwind,noun
  woodwinds
-woodwork
+woodwork,noun
  woodworking
-woodworker
+woodworker,noun
  woodworkers
-woodworm
+woodworm,noun
  woodworms
-woody
+woody,adjective,noun
  woodier woodies woodiest woodiness
-wooer
+wooer,noun
  wooers
-woof
+woof,verb,noun
  woofed woofing woofs
-woofer
+woofer,noun
  woofers
-wool
-woolen
+wool,noun
+woolen,adjective,noun
  woolens woollen woollens
-woolgathering
-woolly
+woolgathering,noun
+woolly,adjective,noun
  woolie woolier woolies wooliest wooliness woollier woollies woolliest woolliness wooly
-woozy
+woozy,adjective
  woozier wooziest woozily wooziness
-wop
+wop,noun
  wops
-word
+word,exclamation,verb,noun
  worded wording -> [wording] wordless wordlessly words
-wordage
-wordbook
+wordage,noun
+wordbook,noun
  wordbooks
-wording -> [word]
+wording,noun
  wordings
-wordplay
-wordsmith
+wordplay,noun
+wordsmith,noun
  wordsmiths
-wordy
+wordy,adjective
  wordier wordiest wordily wordiness
-work
+work,verb,noun
  worked working -> [working] works wrought -> [wreak wrought]
-workable
-workaday
-workaholic
+workable,adjective
+workaday,adjective
+workaholic,noun
  workaholics
-workbasket
+workbasket,noun
  workbaskets
-workbench
+workbench,noun
  workbenches
-workbook
+workbook,noun
  workbooks
-workday
+workday,noun
  workdays
-worker
+worker,noun
  workers
-workfare
-workforce
+workfare,noun
+workforce,noun
  workforces
-workhorse
+workhorse,noun
  workhorses
-workhouse
+workhouse,noun
  workhouses
-working -> [work]
+working,adjective,noun
  workings
-working-class
-workingman
+working-class,adjective,noun
+workingman,noun
  workingmen
-workingwoman
+workingwoman!
  workingwomen
-workload
+workload,noun
  workloads
-workman
+workman,noun
  workmanlike workmen
-workmanship
-workmate
+workmanship,noun
+workmate,noun
  workmates
-workout
+workout,noun
  workouts
-workplace
+workplace,noun
  workplaces
-workroom
+workroom,noun
  workrooms
-worksheet
+worksheet,noun
  worksheets
-workshop
+workshop,verb,noun
  workshops
-workshy
-workstation
+workshy,adjective
+workstation,noun
  workstations
-worksurface
+worksurface,noun
  worksurfaces
-worktable
+worktable,noun
  worktables
-worktop
+worktop,noun
  worktops
-workup
+workup,noun
  workups
-workweek
+workweek,noun
  workweeks
-world
+world,noun
  worldlier worldliest worldliness worldly worlds
-world-class
-world-famous
-worldview
+world-class,adjective
+world-famous,adjective
+worldview,noun
  worldviews
-worldwide
-worm
+worldwide,adjective,adverb
+worm,abbreviation,verb,noun
  wormed worming worms
-wormhole
+wormhole,noun
  wormholes
-wormwood
-wormy
+wormwood,noun
+wormy,adjective
  wormier wormiest
-worn-out
-worrier
+worn-out,adjective
+worrier,noun
  worriers
-worriment
-worrisome
-worry
+worriment,noun
+worrisome,adjective
+worry,verb,noun
  worried worriedly worries worrying worryingly
-worrywart
+worrywart,noun
  worrywarts
-worsen
+worsen,verb
  worsened worsening worsens
-worship
+worship,verb,noun
  worshiped worshipful worshiping worshipped worshipping worships
-worshiper
+worshiper,noun
  worshipers worshipper worshippers
-worst -> [bad]
+worst,adjective,verb,noun,adverb
  worsted -> [worsted] worsting worsts
-worsted -> [worst]
-wort
-worth
+worsted,noun
+wort,noun
+worth,adjective,noun
  worthless worthlessly worthlessness
-worthwhile
-worthy
+worthwhile,adjective
+worthy,adjective,noun
  worthier worthies worthiest worthily worthiness
-wotcha
-would
+wotcha,exclamation,contraction
+would,modalverb
  wouldst
-would-be
-wound -> [wind]
+would-be,adjective,noun
+wound,verb,noun
  wounded wounding wounds
-wow
+wow,exclamation,verb,noun
  wowed wowing wows
-wrack -> [rack]
-wraith
+wrack,verb,noun
+wraith,noun
  wraiths
-wrangle
+wrangle,verb,noun
  wrangled wrangles wrangling -> [wrangling]
-wrangler
+wrangler,noun
  wranglers
-wrangling -> [wrangle]
+wrangling,verb,noun
  wranglings
-wrap
+wrap,verb,noun
  wrapped wrapping -> [wrapping] wraps wrapt
-wraparound
+wraparound,adjective,noun
  wraparounds
-wrapper
+wrapper,noun
  wrappers
-wrapping -> [wrap]
+wrapping,noun
  wrappings
-wrasse
+wrasse,noun
  wrasses
-wrath
+wrath,noun
  wrathful wrathfully
-wreak
+wreak,verb
  wreaked wreaking wreaks wrought -> [work wrought]
-wreath
+wreath,noun
  wreaths
-wreathe
+wreathe,verb
  wreathed wreathes wreathing
-wreck
+wreck,verb,noun
  wrecked wrecking wrecks
-wreckage
-wrecker
+wreckage,noun
+wrecker,noun
  wreckers
-wren
+wren,noun
  wrens
-wrench
+wrench,verb,noun
  wrenched wrenches wrenching
-wrest
+wrest,verb,noun
  wrested wresting wrests
-wrestle
+wrestle,verb,noun
  wrestled wrestles wrestling
-wrestler
+wrestler,noun
  wrestlers
-wretch
+wretch,noun
  wretches
-wretched
+wretched,adjective
  wretcheder wretchedest wretchedly wretchedness
-wriggle
+wriggle,verb,noun
  wriggled wriggles wriggling
-wriggler
+wriggler,noun
  wrigglers
-wriggly
+wriggly,adjective
  wrigglier wriggliest
-wright
+wright,noun,propernoun
  wrights
-wring
+wring,verb,noun
  wringing wrings wrung
-wringer
+wringer,noun
  wringers
-wrinkle
+wrinkle,verb,noun
  wrinkled wrinkles wrinkling
-wrinkly
+wrinkly,adjective,noun
  wrinklier wrinklies wrinkliest
-wrist
+wrist,noun
  wrists
-wristband
+wristband,noun
  wristbands
-wristwatch
+wristwatch,noun
  wristwatches
-writ -> [write]
+writ,verb,noun
  writs
-write
+write,verb
  writ -> [writ] writes writing -> [writing] written wrote
-write-off
+write-off,noun
  write-offs
-writer
+writer,noun
  writers
-writhe
+writhe,verb
  writhed writhes writhing
-writing -> [write]
+writing,noun
  writings
-wrong
+wrong,adjective,verb,noun,adverb
  wronged wronger wrongest wrongful wrongfully wrongfulness wronging wrongly wrongness wrongs
-wrongdoer
+wrongdoer,noun
  wrongdoers
-wrongdoing
+wrongdoing,noun
  wrongdoings
-wrongheaded
+wrongheaded,adjective
  wrongheadedly wrongheadedness
-wroth
-wrought -> [work wreak]
-wrought-iron
-wry
+wroth,adjective
+wrought,adjective
+wrought-iron,noun
+wry,adjective
  wrier wriest wryer wryest wryly wryness
-wunderkind
+wunderkind,noun
  wunderkinder wunderkinds
-wurst
+wurst,noun
  wursts
-wuss
+wuss,verb,noun
  wusses
-wussy
+wussy,adjective,noun
  wussier wussies wussiest
