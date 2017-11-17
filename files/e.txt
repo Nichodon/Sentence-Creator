@@ -27,7 +27,7 @@ earmark,noun,verb
 earmuff,pluralnoun
  earmuffs
 earn,verb
- earned earning -> [earning] earns
+ earned earning earns
 earner,noun
  earners
 earnest,noun,adjective
@@ -191,7 +191,7 @@ edelweiss,noun
 edema,noun
  oedema
 edge,noun,verb
- edged edges edging -> [edging]
+ edged edges edging
 edger,noun
  edgers
 edgewise,adverb,adjective
@@ -325,21 +325,21 @@ egocentric,noun,adjective
 egocentricity,noun
 egoism,noun
 egoist,noun
- egoists -> [egotist]
+ egoists
 egoistic,adjective
 egoistical,adjective
- egoistically -> [egotistical]
+ egoistically
 egomania,noun
 egomaniac,noun
  egomaniacs
 egotism,noun
- egoism -> [egoism]
+ egoism
 egotist,noun
- egoist -> [egoist] egoists -> [egoist] egotists
+ egoist egoists egotists
 egotistic,adjective
- egoistic -> [egoistic]
+ egoistic
 egotistical,adjective
- egoistical -> [egoistical] egoistically -> [egoistical] egotistically
+ egoistical egoistically egotistically
 egregious,adjective
  egregiously egregiousness
 egress,noun,verb
@@ -535,9 +535,9 @@ elk,noun
 ell,noun
  ells
 ellipse,noun
- ellipses -> [ellipsis]
+ ellipses
 ellipsis,noun
- ellipses -> [ellipse]
+ ellipses
 ellipsoid,noun
  ellipsoids
 ellipsoidal,adjective
@@ -895,7 +895,7 @@ encyst,verb
  encysted encysting encysts
 encystment,noun
 end,noun,verb
- ended ending -> [ending] endless endlessly endlessness endmost ends
+ ended ending endless endlessly endlessness endmost ends
 endanger,verb
  endangered endangering endangers
 endangerment,noun
@@ -1000,7 +1000,7 @@ engorgement,noun
 engram,noun
  engrams
 engrave,verb
- engraved engraves engraving -> [engraving]
+ engraved engraves engraving
 engraver,noun
  engravers
 engraving,noun
@@ -1463,7 +1463,7 @@ escalation,noun
 escalator,noun
  escalators
 escalope,noun
- escalop -> [scallop] escalopes escalops -> [scallop]
+ escalop escalopes escalops
 escapade,noun
  escapades
 escape,noun,verb
@@ -1566,7 +1566,7 @@ etailer,noun
  etailers
 etailing,noun
 etch,noun,verb
- etched etches etching -> [etching]
+ etched etches etching
 etcher,noun
  etchers
 etching,noun
@@ -1705,7 +1705,7 @@ evasive,adjective
 eve,noun,propernoun
  eves
 even,noun,adverb,adjective,verb
- evened evener evenest evening -> [evening] evenly evenness evens
+ evened evener evenest evening evenly evenness evens
 evenhanded,adjective
  evenhandedly
 evening,exclamation,noun,adverb

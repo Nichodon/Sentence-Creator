@@ -1,2473 +1,2473 @@
-I
+I,pronoun,abbreviation,noun
  me
-iamb
+iamb,noun
  iambs
-iambic
+iambic,adjective,noun
  iambics
-iambus
+iambus,noun
  iambi iambuses
-ibex
+ibex,noun
  ibexes ibices
-ibidem
+ibidem!
  ibid
-ibis
+ibis,noun
  ibises
-ibuprofen
-ice
+ibuprofen,noun
+ice,verb,abbreviation,noun
  iced ices icing -> [icing]
-iceberg
+iceberg,noun
  icebergs
-iceboat
+iceboat,noun
  iceboats
-icebound
-icebox
+icebound,adjective
+icebox,noun
  iceboxes
-icebreaker
+icebreaker,noun
  icebreakers
-icecap
+icecap,noun
  icecaps
-ice-cold
-icemaker
+ice-cold,adjective
+icemaker,noun
  icemakers
-iceman
+iceman,noun
  icemen
-ichthyologist
+ichthyologist,noun
  ichthyologists
-ichthyology
-icicle
+ichthyology,noun
+icicle,noun
  icicles
-icing -> [ice]
+icing,noun
  icings
-ick
-icky
+ick,exclamation,noun
+icky,adjective
  ickier ickiest
-icon
+icon,noun
  icons ikon ikons
-iconic
-iconoclasm
-iconoclast
+iconic,adjective
+iconoclasm,noun
+iconoclast,noun
  iconoclasts
-iconoclastic
-iconography
-ictus
-icy
+iconoclastic,adjective
+iconography,noun
+ictus,noun
+icy,adjective
  icier iciest icily iciness
-id
+id,verb,abbreviation,noun
  ids
-idea
+idea,noun
  ideas
-ideal
+ideal,adjective,noun
  ideally ideals
-idealism
-idealist
+idealism,noun
+idealist,noun
  idealists
-idealistic
+idealistic,adjective
  idealistically
-idealization
+idealization,noun
  idealisation idealisations idealizations
-idealize
+idealize,verb
  idealise idealised idealises idealising idealized idealizes idealizing
-idem
-identical
+idem,adverb
+identical,adjective
  identically
-identifiable
-identification
+identifiable,adjective
+identification,noun
  identifications
-identify
+identify,verb
  identified identifies identifying
-identikit
+identikit,adjective,noun
  identikits
-identity
+identity,noun
  identities
-ideogram
+ideogram,noun
  ideograms ideograph ideographs
-ideological
+ideological,adjective
  ideologically
-ideologist
+ideologist,noun
  ideologists
-ideologue
+ideologue,noun
  ideologues
-ideology
+ideology,noun
  ideologies
-ides
-idiocy
+ides,pluralnoun
+idiocy,noun
  idiocies
-idiom
+idiom,noun
  idioms
-idiomatic
+idiomatic,adjective
  idiomatically
-idiopathic
-idiosyncrasy
+idiopathic,adjective
+idiosyncrasy,noun
  idiosyncrasies
-idiosyncratic
+idiosyncratic,adjective
  idiosyncratically
-idiot
+idiot,noun
  idiots
-idiotic
+idiotic,adjective
  idiotically
-idle
+idle,adjective,verb
  idled idleness idler -> [idler] idles idlest idling idly
-idler -> [idle]
+idler,noun
  idlers
-idol
+idol,noun
  idols
-idolater
+idolater,noun
  idolaters
-idolatress
+idolatress!
  idolatresses
-idolatrous
-idolatry
-idolization
+idolatrous,adjective
+idolatry,noun
+idolization,noun
  idolisation
-idolize
+idolize,verb
  idolise idolised idolises idolising idolized idolizes idolizing
-idyll
+idyll,noun
  idyl idylls idyls
-idyllic
+idyllic,adjective
  idyllically
-if
+if,noun,abbreviation,conjunction
  ifs
-iffy
+iffy,adjective
  iffier iffiest iffiness
-igloo
+igloo,noun
  igloos
-igneous
-ignitable
+igneous,adjective
+ignitable,adjective
  ignitible
-ignite
+ignite,verb
  ignited ignites igniting
-ignition
+ignition,noun
  ignitions
-ignoble
+ignoble,adjective
  ignobler ignoblest ignobly
-ignominious
+ignominious,adjective
  ignominiously
-ignominy
+ignominy,noun
  ignominies
-ignoramus
+ignoramus,noun
  ignoramuses
-ignorance
-ignorant
+ignorance,noun
+ignorant,adjective
  ignorantly
-ignore
+ignore,verb
  ignored ignores ignoring
-iguana
+iguana,noun
  iguanas
-ileitis
-ileum
+ileitis,noun
+ileum,noun
  ilea
-ilium
+ilium,propernoun,noun
  ilia
-ilk
+ilk,noun
  ilks
-ill
+ill,adverb,adjective,noun
  illness -> [illness] ills
-ill-advised
-ill-conceived
-ill-defined
-illegal
+ill-advised,adjective
+ill-conceived,adjective
+ill-defined,adjective
+illegal,adjective,noun
  illegally illegals
-illegality
+illegality,noun
  illegalities
-illegible
+illegible,adjective
  illegibility illegibly
-illegitimacy
-illegitimate
+illegitimacy,noun
+illegitimate,adjective,noun
  illegitimately
-ill-equipped
-ill-fated
-ill-fitting
-illiberal
+ill-equipped,adjective
+ill-fated,adjective
+ill-fitting,adjective
+illiberal,adjective
  illiberally
-illiberality
-illicit
+illiberality,noun
+illicit,adjective
  illicitly illicitness
-illimitable
-illiteracy
-illiterate
+illimitable,adjective
+illiteracy,noun
+illiterate,adjective,noun
  illiterately illiterates
-illness -> [ill]
+illness,noun
  illnesses
-illogical
+illogical,adjective
  illogically
-illogicality
-ill-prepared
-illuminable
-illuminate
+illogicality,noun
+ill-prepared,adjective
+illuminable,noun
+illuminate,verb
  illuminated illuminates illuminating illuminatingly
-illumination
+illumination,noun
  illuminations
-illumine
+illumine,verb
  illumined illumines illumining
-illusion
+illusion,noun
  illusions
-illusionist
+illusionist,noun
  illusionists
-illusive
-illusory
-illustrate
+illusive,adjective
+illusory,adjective
+illustrate,verb
  illustrated illustrates illustrating
-illustration
+illustration,noun
  illustrations
-illustrative
+illustrative,adjective
  illustratively
-illustrator
+illustrator,noun
  illustrators
-illustrious
+illustrious,adjective
  illustriously illustriousness
-image
+image,verb,noun
  imaged images imaging
-imagery
-imaginable
+imagery,noun
+imaginable,adjective
  imaginably
-imaginary
-imagination
+imaginary,adjective
+imagination,noun
  imaginations
-imaginative
+imaginative,adjective
  imaginatively
-imagine
+imagine,verb
  imagined imagines imagining -> [imagining]
-imagining -> [imagine]
+imagining,verb
  imaginings
-imago
+imago,noun
  imagoes
-imam
+imam,noun
  imams
-imbalance
+imbalance,noun
  imbalanced imbalances
-imbecile
+imbecile,adjective,noun
  imbeciles
-imbecilic
-imbecility
+imbecilic,adjective
+imbecility,noun
  imbecilities
-imbibe
+imbibe,verb
  imbibed imbibes imbibing
-imbiber
+imbiber,noun
  imbibers
-imbrication
-imbroglio
+imbrication,noun
+imbroglio,noun
  imbroglios
-imbue
+imbue,verb
  imbued imbues imbuing
-imitable
-imitate
+imitable,adjective
+imitate,verb
  imitated imitates imitating
-imitation
+imitation,noun
  imitations
-imitative
+imitative,adjective
  imitatively imitativeness
-imitator
+imitator,noun
  imitators
-immaculate
+immaculate,adjective
  immaculately immaculateness
-immanence
+immanence,noun
  immanency
-immanent
+immanent,adjective
  immanently
-immaterial
+immaterial,adjective
  immaterially immaterialness
-immateriality
-immature
+immateriality,noun
+immature,adjective
  immaturely
-immaturity
-immeasurable
+immaturity,noun
+immeasurable,adjective
  immeasurably
-immediacy
+immediacy,noun
  immediacies
-immediate
+immediate,adjective
  immediately immediateness
-immemorial
+immemorial,adjective
  immemorially
-immense
+immense,adjective
  immensely
-immensity
+immensity,noun
  immensities
-immerse
+immerse,verb
  immersed immerses immersing
-immersible
-immersion
+immersible,adjective
+immersion,noun
  immersions
-immigrant
+immigrant,noun
  immigrants
-immigrate
+immigrate,verb
  immigrated immigrates immigrating
-immigration
-imminence
-imminent
+immigration,noun
+imminence,noun
+imminent,adjective
  imminently
-immobile
-immobility
-immobilization
+immobile,adjective
+immobility,noun
+immobilization,noun
  immobilisation
-immobilize
+immobilize,verb
  immobilise immobilised immobilises immobilising immobilized immobilizes immobilizing
-immobilizer
+immobilizer,noun
  immobiliser immobilisers immobilizers
-immoderate
+immoderate,adjective
  immoderately
-immodest
+immodest,adjective
  immodestly
-immodesty
-immolate
+immodesty,noun
+immolate,verb
  immolated immolates immolating
-immolation
-immoral
+immolation,noun
+immoral,adjective
  immorally
-immorality
+immorality,noun
  immoralities
-immortal
+immortal,adjective,noun
  immortally immortals
-immortality
-immortalize
+immortality,noun
+immortalize,verb
  immortalise immortalised immortalises immortalising immortalized immortalizes immortalizing
-immovable
+immovable,adjective,noun
  immovability immovably
-immune
-immunity
-immunization
+immune,adjective
+immunity,noun
+immunization,noun
  immunisation immunisations immunizations
-immunize
+immunize,verb
  immunise immunised immunises immunising immunized immunizes immunizing
-immunodeficiency
-immunodeficient
-immunologic
-immunological
-immunologist
+immunodeficiency,noun
+immunodeficient,adjective
+immunologic,adjective
+immunological,adjective
+immunologist,noun
  immunologists
-immunology
-immure
+immunology,noun
+immure,verb
  immured immures immuring
-immutable
+immutable,adjective
  immutability immutably
-imp
+imp,verb,abbreviation,noun
  impish impishly impishness imps
-impact
+impact,verb,noun
  impacted impacting impacts
-impair
+impair,verb
  impaired impairing impairs
-impairment
+impairment,noun
  impairments
-impala
+impala,noun
  impalas
-impale
+impale,verb
  impaled impales impaling
-impalement
-impalpable
+impalement,noun
+impalpable,adjective
  impalpably
-impanel
+impanel,verb
  empanel empaneled empaneling empanelled empanelling empanels impaneled impaneling impanelled impanelling impanels
-impart
+impart,verb
  imparted imparting imparts
-impartial
+impartial,adjective
  impartially
-impartiality
-impassable
+impartiality,noun
+impassable,adjective
  impassably
-impasse
+impasse,noun
  impasses
-impassible
+impassible,adjective
  impassibility impassibly
-impassioned
-impassive
+impassioned,adjective
+impassive,adjective
  impassively impassiveness
-impassivity
-impasto
-impatience
+impassivity,noun
+impasto,noun
+impatience,noun
  impatiences
-impatiens
-impatient
+impatiens,noun
+impatient,adjective
  impatiently
-impeach
+impeach,verb
  impeached impeaches impeaching
-impeachable
-impeacher
+impeachable,adjective
+impeacher,noun
  impeachers
-impeachment
+impeachment,noun
  impeachments
-impeccable
+impeccable,adjective
  impeccability impeccably
-impecunious
+impecunious,adjective
  impecuniously impecuniousness
-impedance
-impede
+impedance,noun
+impede,verb
  impeded impedes impeding
-impediment
+impediment,noun
  impediments
-impedimenta
-impel
+impedimenta,pluralnoun
+impel,verb
  impelled impelling impels
-impeller
+impeller,noun
  impellers
-impend
+impend,verb
  impended impending impends
-impenetrable
+impenetrable,adjective
  impenetrability impenetrably
-impenitence
-impenitent
+impenitence,noun
+impenitent,adjective
  impenitently
-imperative
+imperative,adjective,noun
  imperatively imperatives
-imperceptible
+imperceptible,adjective
  imperceptibility imperceptibly
-imperceptive
-imperfect
+imperceptive,adjective
+imperfect,adjective,noun
  imperfectly imperfectness imperfects
-imperfection
+imperfection,noun
  imperfections
-imperial
+imperial,adjective,noun
  imperially imperials
-imperialism
-imperialist
+imperialism,noun
+imperialist,adjective,noun
  imperialists
-imperialistic
+imperialistic,adjective
  imperialistically
-imperil
+imperil,verb
  imperiled imperiling imperilled imperilling imperils
-imperilment
-imperious
+imperilment,noun
+imperious,adjective
  imperiously imperiousness
-imperishable
+imperishable,adjective
  imperishably
-impermanence
-impermanent
+impermanence,noun
+impermanent,adjective
  impermanently
-impermeable
+impermeable,adjective
  impermeability impermeably
-impermissible
-impersonal
+impermissible,adjective
+impersonal,adjective
  impersonally
-impersonate
+impersonate,verb
  impersonated impersonates impersonating
-impersonation
+impersonation,noun
  impersonations
-impersonator
+impersonator,noun
  impersonators
-impertinence
+impertinence,noun
  impertinences
-impertinent
+impertinent,adjective
  impertinently
-imperturbable
+imperturbable,adjective
  imperturbability imperturbably
-impervious
+impervious,adjective
  imperviously
-impetigo
-impetuosity
-impetuous
+impetigo,noun
+impetuosity,noun
+impetuous,adjective
  impetuously impetuousness
-impetus
+impetus,noun
  impetuses
-impiety
+impiety,noun
  impieties
-impinge
+impinge,verb
  impinged impinges impinging
-impingement
-impious
+impingement,noun
+impious,adjective
  impiously impiousness
-implacable
+implacable,adjective
  implacability implacably
-implant
+implant,verb,noun
  implanted implanting implants
-implantable
-implantation
-implausibility -> [implausible]
+implantable,adjective
+implantation,noun
+implausibility,noun
  implausibilities
-implausible
+implausible,adjective
  implausibility -> [implausibility] implausibly
-implement
+implement,verb,noun
  implemented implementing implements
-implementation
+implementation,noun
  implementations
-implicate
+implicate,verb,noun
  implicated implicates implicating
-implication
+implication,noun
  implications
-implicit
+implicit,adjective
  implicitly implicitness
-implode
+implode,verb
  imploded implodes imploding
-implore
+implore,verb
  implored implores imploring imploringly
-implosion
+implosion,noun
  implosions
-implosive
-imply
+implosive,adjective
+imply,verb
  implied implies implying
-impolite
+impolite,adjective
  impolitely impoliteness -> [impoliteness]
-impoliteness -> [impolite]
+impoliteness,noun
  impolitenesses
-impolitic
-imponderable
+impolitic,adjective
+imponderable,adjective,noun
  imponderables
-import
+import,verb,noun
  imported importing imports
-importable
-importance
-important
+importable,adjective
+importance,noun
+important,adjective
  importantly
-importation
+importation,noun
  importations
-importer
+importer,noun
  importers
-importunate
+importunate,adjective
  importunately
-importune
+importune,verb
  importuned importunes importuning
-importunity
-impose
+importunity,noun
+impose,verb
  imposed imposes imposing -> [imposing]
-imposer
+imposer,verb
  imposers
-imposing -> [impose]
+imposing,adjective
  imposingly
-imposition
+imposition,noun
  impositions
-impossibility -> [impossible]
+impossibility,noun
  impossibilities
-impossible
+impossible,adjective
  impossibility -> [impossibility] impossibly
-impost
+impost,noun
  imposts
-impostor
+impostor,noun
  imposter imposters impostors
-imposture
+imposture,noun
  impostures
-impotence
+impotence,noun
  impotency
-impotent
+impotent,adjective
  impotently
-impound
+impound,verb
  impounded impounding impounds
-impoverish
+impoverish,verb
  impoverished impoverishes impoverishing
-impoverishment
-impracticable
+impoverishment,noun
+impracticable,adjective
  impracticability impracticably
-impractical
+impractical,adjective
  impractically
-impracticality
+impracticality,noun
  impracticalities
-imprecate
+imprecate,verb
  imprecated imprecates imprecating
-imprecation
+imprecation,noun
  imprecations
-imprecise
+imprecise,adjective
  imprecisely impreciseness
-imprecision
-impregnable
+imprecision,noun
+impregnable,adjective
  impregnability impregnably
-impregnate
+impregnate,verb
  impregnated impregnates impregnating
-impregnation
-impresario
+impregnation,noun
+impresario,noun
  impresarios
-impress
+impress,verb,noun
  impressed impresses impressing
-impressible
+impressible,adjective
  impressibility
-impression
+impression,noun
  impressions
-impressionable
+impressionable,adjective
  impressionability
-impressionism
-impressionist
+impressionism,noun
+impressionist,adjective,noun
  impressionists
-impressionistic
-impressive
+impressionistic,adjective
+impressive,adjective
  impressively impressiveness
-imprimatur
+imprimatur,noun
  imprimaturs
-imprint
+imprint,verb,noun
  imprinted imprinting imprints
-imprinter
+imprinter,verb,noun
  imprinters
-imprison
+imprison,verb
  imprisoned imprisoning imprisons
-imprisonment
+imprisonment,noun
  imprisonments
-improbability -> [improbable]
+improbability,noun
  improbabilities
-improbable
+improbable,adjective
  improbability -> [improbability] improbably
-impromptu
+impromptu,adjective,adverb,noun
  impromptus
-improper
+improper,adjective
  improperly
-impropriety
+impropriety,noun
  improprieties
-improv
-improvable
-improve
+improv,noun
+improvable,adjective
+improve,verb
  improved improves improving
-improvement
+improvement,noun
  improvements
-improvidence
-improvident
+improvidence,noun
+improvident,adjective
  improvidently
-improvisation
+improvisation,noun
  improvisations
-improvisational
-improvise
+improvisational,adjective
+improvise,verb
  improvised improvises improvising
-improviser
+improviser,noun
  improvisers improvisor improvisors
-imprudence
-imprudent
+imprudence,noun
+imprudent,adjective
  imprudently
-impudence
-impudent
+impudence,noun
+impudent,adjective
  impudently
-impugn
+impugn,verb
  impugned impugning impugns
-impugner
+impugner,noun
  impugners
-impulse
+impulse,noun
  impulsed impulses impulsing
-impulsion
-impulsive
+impulsion,noun
+impulsive,adjective
  impulsively impulsiveness
-impunity
-impure
+impunity,noun
+impure,adjective
  impurely impurer impurest
-impurity
+impurity,noun
  impurities
-imputable
-imputation
+imputable,adjective
+imputation,noun
  imputations
-impute
+impute,verb
  imputed imputes imputing
-in
+in,noun,adverb,adjective,abbreviation,preposition
  ins
-inability
+inability,noun
  inabilities
-inaccessible
+inaccessible,adjective
  inaccessibility inaccessibly
-inaccuracy
+inaccuracy,noun
  inaccuracies
-inaccurate
+inaccurate,adjective
  inaccurately
-inaction
-inactivate
+inaction,noun
+inactivate,verb
  inactivated inactivates inactivating
-inactivation
-inactive
+inactivation,noun
+inactive,adjective
  inactively
-inactivity
-inadequacy
+inactivity,noun
+inadequacy,noun
  inadequacies
-inadequate
+inadequate,adjective
  inadequately
-inadmissible
+inadmissible,adjective
  inadmissibility
-inadvertence
-inadvertent
+inadvertence,noun
+inadvertent,adjective
  inadvertently
-inadvisable
+inadvisable,adjective
  inadvisability
-inalienable
+inalienable,adjective
  inalienability inalienably
-inamorata
+inamorata,noun
  inamoratas
-inane
+inane,adjective
  inanely inaner inanest
-inanimate
+inanimate,adjective
  inanimately inanimateness
-inanity
+inanity,noun
  inanities
-inapplicable
-inappreciable
+inapplicable,adjective
+inappreciable,adjective
  inappreciably
-inapproachable
-inappropriate
+inapproachable!
+inappropriate,adjective
  inappropriately inappropriateness
-inapt
+inapt,adjective
  inaptly inaptness
-inarguable
-inarticulacy
-inarticulate
+inarguable,adjective
+inarticulacy,noun
+inarticulate,adjective
  inarticulately inarticulateness
-inartistic
-inattention
-inattentive
+inartistic,adjective
+inattention,noun
+inattentive,adjective
  inattentively inattentiveness
-inaudible
+inaudible,adjective
  inaudibility inaudibly
-inaugural
+inaugural,adjective,noun
  inaugurals
-inaugurate
+inaugurate,verb
  inaugurated inaugurates inaugurating
-inauguration
+inauguration,noun
  inaugurations
-inauspicious
+inauspicious,adjective
  inauspiciously
-inauthentic
-in-between
-inboard
+inauthentic,adjective
+in-between,adjective,noun
+inboard,adverb,adjective,noun
  inboards
-inborn
-inbound
+inborn,adjective
+inbound,adjective,adverb,verb
  inbounded inbounding inbounds
-inbox
+inbox,verb,noun
  inboxes
-inbreed
+inbreed,verb
  inbred inbreeding inbreeds
-inbuilt
-incalculable
+inbuilt,adjective
+incalculable,adjective
  incalculably
-incandescence
-incandescent
+incandescence,noun
+incandescent,adjective
  incandescently
-incantation
+incantation,noun
  incantations
-incapable
+incapable,adjective
  incapability incapably
-incapacitate
+incapacitate,verb
  incapacitated incapacitates incapacitating
-incapacity
-incarcerate
+incapacity,noun
+incarcerate,verb
  incarcerated incarcerates incarcerating
-incarceration
+incarceration,noun
  incarcerations
-incarnadine
+incarnadine,verb,noun
  incarnadined incarnadines incarnadining
-incarnate
+incarnate,adjective,verb
  incarnated incarnates incarnating
-incarnation
+incarnation,noun
  incarnations
-incautious
+incautious,adjective
  incautiously
-incendiary
+incendiary,adjective,noun
  incendiaries
-incense
+incense,verb,noun
  incensed incenses incensing
-incentive
+incentive,noun
  incentives
-incentivize
+incentivize,verb
  incentivise incentivised incentivises incentivising incentivized incentivizes incentivizing
-inception
+inception,noun
  inceptions
-incertitude
-incessant
+incertitude,noun
+incessant,adjective
  incessantly
-incest
-incestuous
+incest,noun
+incestuous,adjective
  incestuously incestuousness
-inch
+inch,verb,noun
  inched inches inching
-inchoate
-inchworm
+inchoate,adjective
+inchworm,noun
  inchworms
-incidence
+incidence,noun
  incidences
-incident
+incident,adjective,noun
  incidents
-incidental
+incidental,adjective,noun
  incidentally incidentals
-incinerate
+incinerate,verb
  incinerated incinerates incinerating
-incineration
-incinerator
+incineration,noun
+incinerator,noun
  incinerators
-incipience
-incipient
+incipience,noun
+incipient,adjective
  incipiently
-incise
+incise,verb
  incised incises incising
-incision
+incision,noun
  incisions
-incisive
+incisive,adjective
  incisively incisiveness
-incisor
+incisor,noun
  incisors
-incite
+incite,verb
  incited incites inciting
-incitement
+incitement,noun
  incitements
-inciter
+inciter,noun
  inciters
-incivility
+incivility,noun
  incivilities
-inclemency
-inclement
-inclination
+inclemency,noun
+inclement,adjective
+inclination,noun
  inclinations
-incline
+incline,verb,noun
  inclined inclines inclining
-include
+include,verb
  included includes including
-inclusion
+inclusion,noun
  inclusions
-inclusive
+inclusive,adjective
  inclusively inclusiveness
-incognito
+incognito,adjective,adverb,noun
  incognitos
-incoherence
-incoherent
+incoherence,noun
+incoherent,adjective
  incoherently
-incombustible
-income
+incombustible,adjective
+income,noun
  incomes
-incomer
+incomer,noun
  incomers
-incoming
-incommensurate
+incoming,pluralnoun,adjective
+incommensurate,adjective
  incommensurately
-incommode
+incommode,verb
  incommoded incommodes incommoding
-incommodious
-incommunicable
-incommunicado
-incomparable
+incommodious,adjective
+incommunicable,adjective
+incommunicado,adjective
+incomparable,adjective
  incomparably
-incompatibility -> [incompatible]
+incompatibility,noun
  incompatibilities
-incompatible
+incompatible,adjective
  incompatibility -> [incompatibility] incompatibles incompatibly
-incompetence
+incompetence,noun
  incompetency
-incompetent
+incompetent,adjective,noun
  incompetently incompetents
-incomplete
+incomplete,adjective
  incompletely incompleteness incompletes
-incomprehensible
+incomprehensible,adjective
  incomprehensibility incomprehensibly
-incomprehension
-inconceivable
+incomprehension,noun
+inconceivable,adjective
  inconceivability inconceivably
-inconclusive
+inconclusive,adjective
  inconclusively inconclusiveness
-incongruity
+incongruity,noun
  incongruities
-incongruous
+incongruous,adjective
  incongruously incongruousness
-inconsequential
+inconsequential,adjective
  inconsequentially
-inconsiderable
-inconsiderate
+inconsiderable,adjective
+inconsiderate,adjective
  inconsiderately inconsiderateness
-inconsideration
-inconsistency
+inconsideration,noun
+inconsistency,noun
  inconsistencies
-inconsistent
+inconsistent,adjective
  inconsistently
-inconsolable
+inconsolable,adjective
  inconsolably
-inconspicuous
+inconspicuous,adjective
  inconspicuously inconspicuousness
-inconstancy
-inconstant
+inconstancy,noun
+inconstant,adjective
  inconstantly
-incontestable
+incontestable,adjective
  incontestability incontestably
-incontinence
-incontinent
-incontrovertible
+incontinence,noun
+incontinent,adjective
+incontrovertible,adjective
  incontrovertibly
-inconvenience
+inconvenience,verb,noun
  inconvenienced inconveniences inconveniencing
-inconvenient
+inconvenient,adjective
  inconveniently
-incorporate
+incorporate,verb,adjective
  incorporated incorporates incorporating
-incorporation
-incorporeal
-incorrect
+incorporation,noun
+incorporeal,adjective
+incorrect,adjective
  incorrectly incorrectness
-incorrigible
+incorrigible,adjective,noun
  incorrigibility incorrigibly
-incorruptible
+incorruptible,adjective
  incorruptibility incorruptibly
-increase
+increase,verb,noun
  increased increases increasing increasingly
-incredible
+incredible,adjective
  incredibility incredibly
-incredulity
-incredulous
+incredulity,noun
+incredulous,adjective
  incredulously
-increment
+increment,verb,noun
  increments
-incremental
+incremental,adjective
  incrementally
-incriminate
+incriminate,verb
  incriminated incriminates incriminating
-incrimination
-incriminatory
-incubate
+incrimination,noun
+incriminatory,adjective
+incubate,verb
  incubated incubates incubating
-incubation
+incubation,noun
  incubations
-incubator
+incubator,noun
  incubators
-incubus
+incubus,noun
  incubi incubuses
-inculcate
+inculcate,verb
  inculcated inculcates inculcating
-inculcation
-inculpable
-inculpate
+inculcation,noun
+inculpable,noun
+inculpate,verb
  inculpated inculpates inculpating
-incumbency
+incumbency,noun
  incumbencies
-incumbent
+incumbent,adjective,noun
  incumbents
-incunabulum
+incunabulum,noun
  incunabula
-incur
+incur,verb
  incurred incurring incurs
-incurable
+incurable,adjective,noun
  incurables incurably
-incurious
-incursion
+incurious,adjective
+incursion,noun
  incursions
-indaba
+indaba,noun
  indabas
-indebted
+indebted,adjective
  indebtedness
-indecency
+indecency,noun
  indecencies
-indecent
+indecent,adjective
  indecently
-indecipherable
-indecision
-indecisive
+indecipherable,adjective
+indecision,noun
+indecisive,adjective
  indecisively indecisiveness
-indecorous
+indecorous,adjective
  indecorously
-indeed
-indefatigable
+indeed,adverb
+indefatigable,adjective
  indefatigably
-indefeasible
+indefeasible,adjective
  indefeasibly
-indefensible
+indefensible,adjective
  indefensibly
-indefinable
+indefinable,adjective
  indefinably
-indefinite
+indefinite,adjective
  indefinitely indefiniteness
-indelible
+indelible,adjective
  indelibly
-indelicacy
+indelicacy,noun
  indelicacies
-indelicate
+indelicate,adjective
  indelicately
-indemnification
+indemnification,noun
  indemnifications
-indemnify
+indemnify,verb
  indemnified indemnifies indemnifying
-indemnity
+indemnity,noun
  indemnities
-indemonstrable
-indent
+indemonstrable,adjective
+indent,verb,noun
  indented indenting indents
-indentation
+indentation,noun
  indentations
-indention
-indenture
+indention,noun
+indenture,verb,noun
  indentured indentures indenturing
-independence
-independent
+independence,noun
+independent,adjective,noun
  independently independents
-in-depth
-indescribable
+in-depth,adjective
+indescribable,adjective
  indescribably
-indestructible
+indestructible,adjective
  indestructibility indestructibly
-indeterminable
+indeterminable,adjective
  indeterminably
-indeterminacy
-indeterminate
+indeterminacy,noun
+indeterminate,adjective
  indeterminately
-index
+index,verb,noun
  indexed indexes indexing indices
-indexation
+indexation,noun
  indexations
-indexer
+indexer,noun
  indexers
-indicate
+indicate,verb
  indicated indicates indicating
-indication
+indication,noun
  indications
-indicative
+indicative,adjective,noun
  indicatively indicatives
-indicator
+indicator,noun
  indicators
-indict
+indict,verb
  indicted indicting indicts
-indictable
-indictment
+indictable,adjective
+indictment,noun
  indictments
-indie
+indie,adjective,noun
  indies
-indifference
-indifferent
+indifference,noun
+indifferent,adjective
  indifferently
-indigence
-indigenous
-indigent
+indigence,noun
+indigenous,adjective
+indigent,adjective,noun
  indigently indigents
-indigestible
-indigestion
-indignant
+indigestible,adjective
+indigestion,noun
+indignant,adjective
  indignantly
-indignation
-indignity
+indignation,noun
+indignity,noun
  indignities
-indigo
-indirect
+indigo,noun
+indirect,adjective
  indirected indirecting indirectly indirectness indirects
-indirection
-indiscernible
-indiscipline
-indiscreet
+indirection,noun
+indiscernible,adjective
+indiscipline,noun
+indiscreet,adjective
  indiscreetly
-indiscretion
+indiscretion,noun
  indiscretions
-indiscriminate
+indiscriminate,adjective
  indiscriminately
-indispensable
+indispensable,adjective
  indispensability indispensables indispensably
-indisposed
-indisposition
+indisposed,adjective
+indisposition,noun
  indispositions
-indisputable
+indisputable,adjective
  indisputably
-indissoluble
+indissoluble,adjective
  indissolubility indissolubly
-indistinct
+indistinct,adjective
  indistinctly indistinctness
-indistinguishable
+indistinguishable,adjective
  indistinguishably
-indite
+indite,verb
  indited indites inditing
-indium
-individual
+indium,noun
+individual,adjective,noun
  individually individuals
-individualism
-individualist
+individualism,noun
+individualist,adjective,noun
  individualists
-individualistic
+individualistic,adjective
  individualistically
-individuality
-individualization
+individuality,noun
+individualization,noun
  individualisation
-individualize
+individualize,verb
  individualise individualised individualises individualising individualized individualizes individualizing
-individuate
+individuate,verb
  individuated individuates individuating
-individuation
-indivisible
+individuation,noun
+indivisible,adjective
  indivisibility indivisibly
-indoctrinate
+indoctrinate,verb
  indoctrinated indoctrinates indoctrinating
-indoctrination
-indolence
-indolent
+indoctrination,noun
+indolence,noun
+indolent,adjective
  indolently
-indomitable
+indomitable,adjective
  indomitably
-indoor
+indoor,adjective
  indoors
-indubitable
+indubitable,adjective
  indubitably
-induce
+induce,verb
  induced induces inducing
-inducement
+inducement,noun
  inducements
-inducer
+inducer,noun
  inducers
-induct
+induct,verb
  inducted inducting inducts
-inductance
-inductee
+inductance,noun
+inductee,noun
  inductees
-induction
+induction,noun
  inductions
-inductive
+inductive,adjective
  inductively
-indulge
+indulge,verb
  indulged indulges indulging
-indulgence
+indulgence,noun
  indulgences
-indulgent
+indulgent,adjective
  indulgently
-industrial
+industrial,adjective,noun
  industrially industrials
-industrialism
-industrialist
+industrialism,noun
+industrialist,noun
  industrialists
-industrialization
+industrialization,noun
  industrialisation
-industrialize
+industrialize,verb
  industrialise industrialised industrialises industrialising industrialized industrializes industrializing
-industrious
+industrious,adjective
  industriously industriousness
-industry
+industry,noun
  industries
-indwell
+indwell,verb
  indwelled indwelling indwells indwelt
-inebriate
+inebriate,verb,adjective,noun
  inebriated inebriates inebriating
-inebriation
-inedible
-ineducable
-ineffable
+inebriation,noun
+inedible,adjective
+ineducable,adjective
+ineffable,adjective
  ineffability ineffably
-ineffective
+ineffective,adjective
  ineffectively ineffectiveness
-ineffectual
+ineffectual,adjective
  ineffectually
-inefficacy
-inefficiency
+inefficacy,noun
+inefficiency,noun
  inefficiencies
-inefficient
+inefficient,adjective
  inefficiently
-inelastic
-inelegance
-inelegant
+inelastic,adjective
+inelegance,noun
+inelegant,adjective
  inelegantly
-ineligible
+ineligible,adjective
  ineligibility ineligibles ineligibly
-ineluctable
+ineluctable,adjective
  ineluctably
-inept
+inept,adjective
  inepter ineptest ineptly ineptness
-ineptitude
-inequality
+ineptitude,noun
+inequality,noun
  inequalities
-inequitable
+inequitable,adjective
  inequitably
-inequity
+inequity,noun
  inequities
-ineradicable
-inerrant
-inert
+ineradicable,adjective
+inerrant,adjective
+inert,adjective
  inertly inertness
-inertia
-inertial
-inescapable
+inertia,noun
+inertial,adjective
+inescapable,adjective
  inescapably
-inessential
+inessential,adjective,noun
  inessentials
-inestimable
+inestimable,adjective
  inestimably
-inevitable
+inevitable,adjective,noun
  inevitability inevitables inevitably
-inexact
+inexact,adjective
  inexactly inexactness
-inexcusable
+inexcusable,adjective
  inexcusably
-inexhaustible
+inexhaustible,adjective
  inexhaustibly
-inexorable
+inexorable,adjective
  inexorability inexorably
-inexpediency
+inexpediency,noun
  inexpedience
-inexpedient
-inexpensive
+inexpedient,adjective
+inexpensive,adjective
  inexpensively inexpensiveness
-inexperience
+inexperience,noun
  inexperienced
-inexpert
+inexpert,adjective
  inexpertly
-inexpiable
-inexplicable
+inexpiable,adjective
+inexplicable,adjective
  inexplicably
-inexpressible
+inexpressible,adjective
  inexpressibly
-inexpressive
-inextinguishable
-inextricable
+inexpressive,adjective
+inextinguishable,adjective
+inextricable,adjective
  inextricably
-infallible
+infallible,adjective
  infallibility infallibly
-infamous
+infamous,adjective
  infamously
-infamy
+infamy,noun
  infamies
-infancy
-infant
+infancy,noun
+infant,noun
  infants
-infanticide
+infanticide,noun
  infanticides
-infantile
-infantry
+infantile,adjective
+infantry,noun
  infantries
-infantryman
+infantryman,noun
  infantrymen
-infarct
+infarct,noun
  infarcts
-infarction
-infatuate
+infarction,noun
+infatuate,verb
  infatuated infatuates infatuating
-infatuation
+infatuation,noun
  infatuations
-infect
+infect,verb
  infected infecting infects
-infection
+infection,noun
  infections
-infectious
+infectious,adjective
  infectiously infectiousness
-infelicitous
-infelicity
+infelicitous,adjective
+infelicity,noun
  infelicities
-infer
+infer,verb
  inferred inferring infers
-inference
+inference,noun
  inferences
-inferential
-inferior
+inferential,adjective
+inferior,adjective,noun
  inferiors
-inferiority
-infernal
+inferiority,noun
+infernal,adjective
  infernally
-inferno
+inferno,noun
  infernos
-infertile
-infertility
-infest
+infertile,adjective
+infertility,noun
+infest,verb
  infested infesting infests
-infestation
+infestation,noun
  infestations
-infidel
+infidel,adjective,noun
  infidels
-infidelity
+infidelity,noun
  infidelities
-infield
+infield,adverb,noun
  infields
-infielder
+infielder,noun
  infielders
-infighter
+infighter,noun
  infighters
-infighting
-infill
+infighting,noun
+infill,verb,noun
  infilled infilling infills
-infiltrate
+infiltrate,verb,noun
  infiltrated infiltrates infiltrating
-infiltration
-infiltrator
+infiltration,noun
+infiltrator,noun
  infiltrators
-infinite
+infinite,adjective,noun
  infinitely
-infinitesimal
+infinitesimal,adjective,noun
  infinitesimally infinitesimals
-infinitival
-infinitive
+infinitival,adjective
+infinitive,adjective,noun
  infinitives
-infinitude
-infinity
+infinitude,noun
+infinity,noun
  infinities
-infirm
-infirmary
+infirm,adjective
+infirmary,noun
  infirmaries
-infirmity
+infirmity,noun
  infirmities
-inflame
+inflame,verb
  inflamed inflames inflaming
-inflammable
+inflammable,adjective,noun
  inflammability
-inflammation
+inflammation,noun
  inflammations
-inflammatory
-inflatable
+inflammatory,adjective
+inflatable,adjective,noun
  inflatables
-inflate
+inflate,verb
  inflated inflates inflating
-inflation
-inflationary
-inflect
+inflation,noun
+inflationary,adjective
+inflect,verb
  inflected inflecting inflects
-inflection
+inflection,noun
  inflections inflexion inflexions
-inflectional
+inflectional,adjective
  inflexional
-inflexible
+inflexible,adjective
  inflexibility inflexibly
-inflict
+inflict,verb
  inflicted inflicting inflicts
-infliction
-inflictive
-inflight
-inflorescence
-inflorescent
-inflow
+infliction,noun
+inflictive,noun
+inflight,adjective
+inflorescence,noun
+inflorescent!
+inflow,noun
  inflows
-influence
+influence,verb,noun
  influenced influences influencing
-influential
+influential,adjective,noun
  influentially
-influenza
-influx
+influenza,noun
+influx,noun
  influxes
-info
-infobahn
-infomercial
+info,noun
+infobahn,noun
+infomercial,noun
  infomercials
-inform
+inform,verb
  informed informing informs
-informal
+informal,adjective
  informally
-informality
-informant
+informality,noun
+informant,noun
  informants
-information
-informational
-informative
+information,noun
+informational,adjective
+informative,adjective
  informatively informativeness
-informer
+informer,noun
  informers
-infotainment
-infra
-infraction
+infotainment,noun
+infra,adverb
+infraction,noun
  infractions
-infrared
-infrasonic
-infrastructural
-infrastructure
+infrared,adjective,noun
+infrasonic,adjective
+infrastructural,adjective
+infrastructure,noun
  infrastructures
-infrequency
+infrequency,noun
  infrequence
-infrequent
+infrequent,adjective
  infrequently
-infringe
+infringe,verb
  infringed infringes infringing
-infringement
+infringement,noun
  infringements
-infuriate
+infuriate,verb
  infuriated infuriates infuriating infuriatingly
-infuse
+infuse,verb
  infused infuses infusing
-infuser
+infuser,noun
  infusers
-infusion
+infusion,noun
  infusions
-ingenious
+ingenious,adjective
  ingeniously ingeniousness
-ingenue
+ingenue,noun
  ingenues
-ingenuity
-ingenuous
+ingenuity,noun
+ingenuous,adjective
  ingenuously ingenuousness
-ingest
+ingest,verb
  ingested ingesting ingests
-ingestion
-inglenook
+ingestion,noun
+inglenook,noun
  inglenooks
-inglorious
+inglorious,adjective
  ingloriously
-ingot
+ingot,noun
  ingots
-ingrain
+ingrain,verb,adjective
  ingrained ingraining ingrains
-ingrate
+ingrate,adjective,noun
  ingrates
-ingratiate
+ingratiate,verb
  ingratiated ingratiates ingratiating ingratiatingly
-ingratiation
-ingratitude
-ingredient
+ingratiation,noun
+ingratitude,noun
+ingredient,noun
  ingredients
-ingress
+ingress,noun
  ingresses
-in-group
+in-group,noun
  in-groups
-ingrowing
-ingrown
-inguinal
-inhabit
+ingrowing,adjective
+ingrown,adjective
+inguinal,adjective
+inhabit,verb
  inhabited inhabiting inhabits
-inhabitable
-inhabitant
+inhabitable,adjective
+inhabitant,noun
  inhabitants
-inhalant
+inhalant,adjective,noun
  inhalants
-inhalation
+inhalation,noun
  inhalations
-inhalator
+inhalator,noun
  inhalators
-inhale
+inhale,verb
  inhaled inhales inhaling
-inhaler
+inhaler,noun
  inhalers
-inharmonious
-inhere
+inharmonious,adjective
+inhere,verb
  inhered inheres inhering
-inherent
+inherent,adjective
  inherently
-inherit
+inherit,verb
  inherited inheriting inherits
-inheritable
-inheritance
+inheritable,adjective
+inheritance,noun
  inheritances
-inheritor
+inheritor,noun
  inheritors
-inhibit
+inhibit,verb
  inhibited inhibiting inhibits
-inhibition
+inhibition,noun
  inhibitions
-inhibitor
+inhibitor,noun
  inhibitors
-inhibitory
-inhospitable
+inhibitory,adjective
+inhospitable,adjective
  inhospitably
-in-house
-inhuman
+in-house,adverb,adjective
+inhuman,adjective
  inhumanly
-inhumane
+inhumane,adjective
  inhumanely
-inhumanity
+inhumanity,noun
  inhumanities
-inimical
+inimical,adjective
  inimically
-inimitable
+inimitable,adjective
  inimitably
-iniquitous
+iniquitous,adjective
  iniquitously
-iniquity
+iniquity,noun
  iniquities
-initial
+initial,adjective,verb,noun
  initialed initialing initialled initialling initially initials
-initialize
+initialize,verb
  initialise initialised initialises initialising initialized initializes initializing
-initiate
+initiate,verb,noun
  initiated initiates initiating
-initiation
+initiation,noun
  initiations
-initiative
+initiative,noun
  initiatives
-initiator
+initiator,noun
  initiators
-initiatory
-inject
+initiatory,adjective
+inject,verb
  injected injecting injects
-injection
+injection,noun
  injections
-injector
+injector,noun
  injectors
-injudicious
+injudicious,adjective
  injudiciously injudiciousness
-injunction
+injunction,noun
  injunctions
-injure
+injure,verb
  injured injures injuring
-injurer
+injurer,noun
  injurers
-injurious
-injury
+injurious,adjective
+injury,noun
  injuries
-injustice
+injustice,noun
  injustices
-ink
+ink,verb,noun
  inked inking inks
-inkblot
+inkblot,noun
  inkblots
-inkling
+inkling,noun
  inklings
-inkstand
+inkstand,noun
  inkstands
-inkwell
+inkwell,noun
  inkwells
-inky
+inky,adjective
  inkier inkiest inkiness
-inland
-in-law
+inland,adverb,adjective,noun
+in-law,noun
  in-laws
-inlay
+inlay,verb,noun
  inlaid inlaying inlays
-inlet
+inlet,noun
  inlets
-inmate
+inmate,noun
  inmates
-inmost
-inn
+inmost,adjective
+inn,noun
  inns
-innards
-innate
+innards,pluralnoun
+innate,adjective
  innately innateness
-inner
+inner,adjective,noun
  innermost
-inner-city
-innersole
+inner-city,noun
+innersole!
  innersoles
-innerspring
-innervate
+innerspring,adjective
+innervate,verb
  innervated innervates innervating
-innervation
-inning
+innervation,noun
+inning,noun
  innings
-innit
-innkeeper
+innit,contraction
+innkeeper,noun
  innkeepers
-innocence
-innocent
+innocence,noun
+innocent,adjective,noun
  innocently innocents
-innocuous
+innocuous,adjective
  innocuously innocuousness
-innovate
+innovate,verb
  innovated innovates innovating
-innovation
+innovation,noun
  innovations
-innovative
-innovator
+innovative,adjective
+innovator,noun
  innovators
-innovatory
-innuendo
+innovatory,adjective
+innuendo,noun
  innuendoes innuendos
-innumerable
+innumerable,adjective
  innumerably
-innumeracy
-innumerate
-inoculate
+innumeracy,noun
+innumerate,adjective,noun
+inoculate,verb
  inoculated inoculates inoculating
-inoculation
+inoculation,noun
  inoculations
-inoffensive
+inoffensive,adjective
  inoffensively inoffensiveness
-inoperable
-inoperative
-inopportune
+inoperable,adjective
+inoperative,adjective
+inopportune,adjective
  inopportunely
-inordinate
+inordinate,adjective
  inordinately
-inorganic
+inorganic,adjective
  inorganically
-inpatient
+inpatient,noun
  inpatients
-input
+input,verb,noun
  inputs inputted inputting
-inquest
+inquest,noun
  inquests
-inquietude
-inquire
+inquietude,noun
+inquire,verb
  enquire enquired enquires enquiring enquiringly inquired inquires inquiring inquiringly
-inquirer
+inquirer,noun
  enquirer enquirers inquirers
-inquiry
+inquiry,noun
  enquiries enquiry inquiries
-inquisition
+inquisition,noun
  inquisitions
-inquisitional
-inquisitive
+inquisitional,adjective
+inquisitive,adjective
  inquisitively inquisitiveness
-inquisitor
+inquisitor,noun
  inquisitors
-inquisitorial
-inquorate
-inroad
+inquisitorial,adjective
+inquorate,adjective
+inroad,noun
  inroads
-inrush
+inrush,noun
  inrushes
-insalubrious
-insane
+insalubrious,adjective
+insane,adjective
  insanely insaner insanest
-insanitary
-insanity
-insatiable
+insanitary,adjective
+insanity,noun
+insatiable,adjective
  insatiability insatiably
-inscribe
+inscribe,verb
  inscribed inscribes inscribing
-inscriber
+inscriber,noun
  inscribers
-inscription
+inscription,noun
  inscriptions
-inscrutable
+inscrutable,adjective
  inscrutability inscrutableness inscrutably
-inseam
+inseam,noun
  inseams
-insect
+insect,noun
  insects
-insecticidal
-insecticide
+insecticidal,adjective
+insecticide,noun
  insecticides
-insectivore
+insectivore,noun
  insectivores
-insectivorous
-insecure
+insectivorous,adjective
+insecure,adjective
  insecurely
-insecurity
+insecurity,noun
  insecurities
-inseminate
+inseminate,verb
  inseminated inseminates inseminating
-insemination
-insensate
-insensible
+insemination,noun
+insensate,adjective
+insensible,adjective
  insensibility insensibly
-insensitive
+insensitive,adjective
  insensitively
-insensitivity
-insentience
-insentient
-inseparable
+insensitivity,noun
+insentience,noun
+insentient,adjective
+inseparable,adjective,noun
  inseparability inseparables inseparably
-insert
+insert,verb,noun
  inserted inserting inserts
-insertion
+insertion,noun
  insertions
-in-service
-inset
+in-service,adjective
+inset,verb,noun
  insets insetted insetting
-inshore
-inside
+inshore,adverb,adjective
+inside,preposition,adverb,adjective,noun
  insides
-insider
+insider,noun
  insiders
-insidious
+insidious,adjective
  insidiously insidiousness
-insight
+insight,noun
  insightful insights
-insignia
+insignia,noun
  insigne insignias
-insignificance
-insignificant
+insignificance,noun
+insignificant,adjective
  insignificantly
-insincere
+insincere,adjective
  insincerely
-insincerity
-insinuate
+insincerity,noun
+insinuate,verb
  insinuated insinuates insinuating
-insinuation
+insinuation,noun
  insinuations
-insinuative
-insinuator
+insinuative,adjective
+insinuator,noun
  insinuators
-insipid
+insipid,adjective
  insipidly insipidness
-insipidity
-insist
+insipidity,noun
+insist,verb
  insisted insisting insistingly insists
-insistence
-insistent
+insistence,noun
+insistent,adjective
  insistently
-insobriety
-insofar
-insole
+insobriety,noun
+insofar,adverb
+insole,noun
  insoles
-insolence
-insolent
+insolence,noun
+insolent,adjective
  insolently
-insoluble
+insoluble,adjective
  insolubility insolubly
-insolvable
-insolvency
+insolvable,adjective
+insolvency,noun
  insolvencies
-insolvent
+insolvent,adjective,noun
  insolvents
-insomnia
-insomniac
+insomnia,noun
+insomniac,adjective,noun
  insomniacs
-insomuch
-insouciance
-insouciant
-inspect
+insomuch,adverb
+insouciance,noun
+insouciant,adjective
+inspect,verb
  inspected inspecting inspects
-inspection
+inspection,noun
  inspections
-inspector
+inspector,noun
  inspectors
-inspectorate
+inspectorate,noun
  inspectorates
-inspiration
+inspiration,noun
  inspirations
-inspirational
-inspire
+inspirational,adjective
+inspire,verb
  inspired inspires inspiring
-inspirit
+inspirit,verb
  inspirited inspiriting inspirits
-instability
+instability,noun
  instabilities
-install
+install,verb
  instal installed installing installs instals
-installation
+installation,noun
  installations
-installer
+installer,noun
  installers
-installment
+installment,noun
  installments instalment instalments
-instance
+instance,verb,noun
  instanced instances instancing
-instant
+instant,adjective,noun
  instantly instants
-instantaneous
+instantaneous,adjective
  instantaneously
-instanter
-instantiate
+instanter,adverb
+instantiate,verb
  instantiated instantiates instantiating
-instate
+instate,verb
  instated instates instating
-instead
-instep
+instead,adverb
+instep,noun
  insteps
-instigate
+instigate,verb
  instigated instigates instigating
-instigation
-instigator
+instigation,noun
+instigator,noun
  instigators
-instill
+instill,verb
  instil instilled instilling instills instils
-instillation
-instinct
+instillation,noun
+instinct,adjective,noun
  instincts
-instinctive
+instinctive,adjective
  instinctively
-instinctual
-institute
+instinctual,adjective
+institute,verb,noun
  instituted institutes instituting
-instituter
+instituter,noun
  instituters institutor institutors
-institution
+institution,noun
  institutions
-institutional
+institutional,adjective
  institutionally
-institutionalization
+institutionalization,noun
  institutionalisation
-institutionalize
+institutionalize,verb
  institutionalise institutionalised institutionalises institutionalising institutionalized institutionalizes institutionalizing
-in-store
-instruct
+in-store,adjective,adverb
+instruct,verb
  instructed instructing instructs
-instruction
+instruction,noun
  instructions
-instructional
-instructive
+instructional,adjective
+instructive,adjective
  instructively
-instructor
+instructor,noun
  instructors
-instrument
+instrument,verb,noun
  instrumented instrumenting instruments
-instrumental
+instrumental,adjective,noun
  instrumentally instrumentals
-instrumentalist
+instrumentalist,adjective,noun
  instrumentalists
-instrumentality
-instrumentation
-insubordinate
-insubordination
-insubstantial
+instrumentality,noun
+instrumentation,noun
+insubordinate,adjective
+insubordination,noun
+insubstantial,adjective
  insubstantially
-insufferable
+insufferable,adjective
  insufferably
-insufficiency
-insufficient
+insufficiency,noun
+insufficient,adjective
  insufficiently
-insular
-insularity
-insulate
+insular,adjective
+insularity,noun
+insulate,verb
  insulated insulates insulating
-insulation
-insulator
+insulation,noun
+insulator,noun
  insulators
-insulin
-insult
+insulin,noun
+insult,verb,noun
  insulted insulting insultingly insults
-insuperable
+insuperable,adjective
  insuperably
-insupportable
-insurable
-insurance
+insupportable,adjective
+insurable,adjective
+insurance,noun
  insurances
-insure
+insure,verb
  insured -> [insured] insures insuring
-insured -> [insure]
+insured,adjective,noun
  insureds
-insurer
+insurer,noun
  insurers
-insurgence
+insurgence,noun
  insurgences
-insurgency
+insurgency,noun
  insurgencies
-insurgent
+insurgent,adjective,noun
  insurgents
-insurmountable
+insurmountable,adjective
  insurmountably
-insurrection
+insurrection,noun
  insurrections
-insurrectionist
+insurrectionist,adjective,noun
  insurrectionists
-insusceptible
-intact
-intaglio
+insusceptible,adjective
+intact,adjective
+intaglio,verb,noun
  intagli intaglios
-intake
+intake,noun
  intakes
-intangible
+intangible,adjective,noun
  intangibility intangibles intangibly
-integer
+integer,noun
  integers
-integral
+integral,adjective,noun
  integrally integrals
-integrate
+integrate,verb
  integrated integrates integrating
-integration
-integrative
-integrity
-integument
+integration,noun
+integrative,adjective
+integrity,noun
+integument,noun
  integuments
-intellect
+intellect,noun
  intellects
-intellectual
+intellectual,adjective,noun
  intellectually intellectuals
-intellectualism
-intellectualize
+intellectualism,noun
+intellectualize,verb
  intellectualise intellectualised intellectualises intellectualising intellectualized intellectualizes intellectualizing
-intelligence
-intelligent
+intelligence,noun
+intelligent,adjective
  intelligently
-intelligentsia
-intelligible
+intelligentsia,noun
+intelligible,adjective
  intelligibility intelligibly
-intemperance
-intemperate
+intemperance,noun
+intemperate,adjective
  intemperately
-intend
+intend,verb
  intended -> [intended] intending intends
-intended -> [intend]
+intended,adjective,noun
  intendeds
-intense
+intense,adjective
  intensely intenser intensest
-intensification
-intensifier
+intensification,noun
+intensifier,noun
  intensifiers
-intensify
+intensify,verb
  intensified intensifies intensifying
-intensity
+intensity,noun
  intensities
-intensive
+intensive,adjective,noun
  intensively intensiveness intensives
-intent
+intent,adjective,noun
  intently intentness intents
-intention
+intention,noun
  intentions
-intentional
+intentional,adjective
  intentionally
-inter
+inter,verb
  interred interring inters
-interact
+interact,verb
  interacted interacting interacts
-interaction
+interaction,noun
  interactions
-interactive
+interactive,adjective
  interactively
-interactivity
-interbreed
+interactivity,noun
+interbreed,verb
  interbred interbreeding interbreeds
-intercede
+intercede,verb
  interceded intercedes interceding
-intercept
+intercept,verb,noun
  intercepted intercepting intercepts
-interception
+interception,noun
  interceptions
-interceptor
+interceptor,noun
  interceptors
-intercession
+intercession,noun
  intercessions
-intercessor
+intercessor,noun
  intercessors
-intercessory
-interchange
+intercessory,adjective
+interchange,verb,noun
  interchanged interchanges interchanging
-interchangeable
+interchangeable,adjective
  interchangeability interchangeably
-intercity
-intercollegiate
-intercom
+intercity,adjective
+intercollegiate,adjective
+intercom,noun
  intercoms
-intercommunicate
+intercommunicate,verb
  intercommunicated intercommunicates intercommunicating
-intercommunication
-interconnect
+intercommunication,noun
+interconnect,verb,noun
  interconnected interconnecting interconnects
-interconnection
+interconnection,noun
  interconnections
-intercontinental
-intercourse
-intercultural
-intercut
+intercontinental,adjective
+intercourse,noun
+intercultural,adjective
+intercut,verb
  intercuts intercutting
-interdenominational
-interdepartmental
-interdependence
-interdependent
+interdenominational,adjective
+interdepartmental,adjective
+interdependence,noun
+interdependent,adjective
  interdependently
-interdict
+interdict,verb,noun
  interdicted interdicting interdicts
-interdiction
-interdisciplinary
-interest
+interdiction,noun
+interdisciplinary,adjective
+interest,verb,noun
  interested interesting interestingly interests
-interface
+interface,verb,noun
  interfaced interfaces interfacing
-interfaith
-interfere
+interfaith,adjective
+interfere,verb
  interfered interferes interfering
-interference
-interferon
-interfile
+interference,noun
+interferon,noun
+interfile,verb
  interfiled interfiles interfiling
-intergalactic
-intergenerational
-intergovernmental
-interim
-interior
+intergalactic,adjective
+intergenerational,adjective
+intergovernmental,adjective
+interim,adverb,adjective,noun
+interior,adjective,noun
  interiors
-interject
+interject,verb
  interjected interjecting interjects
-interjection
+interjection,noun
  interjections
-interlace
+interlace,verb
  interlaced interlaces interlacing
-interlard
+interlard,verb
  interlarded interlarding interlards
-interleave
+interleave,verb
  interleaved interleaves interleaving
-interleukin
-interline
+interleukin,noun
+interline,verb
  interlined interlines interlining -> [interlining]
-interlinear
-interlining -> [interline]
+interlinear,adjective
+interlining,noun
  interlinings
-interlink
+interlink,verb
  interlinked interlinking interlinks
-interlock
+interlock,verb,noun
  interlocked interlocking interlocks
-interlocutor
+interlocutor,noun
  interlocutors
-interlocutory
-interlope
+interlocutory,adjective
+interlope,verb
  interloped interlopes interloping
-interloper
+interloper,noun
  interlopers
-interlude
+interlude,noun
  interludes
-intermarriage
+intermarriage,noun
  intermarriages
-intermarry
+intermarry,verb
  intermarried intermarries intermarrying
-intermediary
+intermediary,adjective,noun
  intermediaries
-intermediate
+intermediate,adjective,verb,noun
  intermediately intermediates
-interment
+interment,noun
  interments
-intermezzo
+intermezzo,noun
  intermezzi intermezzos
-interminable
+interminable,adjective
  interminably
-intermingle
+intermingle,verb
  intermingled intermingles intermingling
-intermission
+intermission,noun
  intermissions
-intermittent
+intermittent,adjective
  intermittently
-intermix
+intermix,verb
  intermixed intermixes intermixing
-intern
+intern,verb,noun
  interne interned internes interning interns
-internal
+internal,pluralnoun,adjective
  internally
-internalization
+internalization,noun
  internalisation
-internalize
+internalize,verb
  internalise internalised internalises internalising internalized internalizes internalizing
-international
+international,adjective,noun
  internationally internationals
-internationalism
-internationalist
+internationalism,noun
+internationalist,adjective,noun
  internationalists
-internationalization
+internationalization,noun
  internationalisation
-internationalize
+internationalize,verb
  internationalise internationalised internationalises internationalising internationalized internationalizes internationalizing
-internecine
-internee
+internecine,adjective
+internee,noun
  internees
-internet
-internist
+internet,noun
+internist,noun
  internists
-internment
-internship
+internment,noun
+internship,noun
  internships
-interoffice
-interpenetrate
+interoffice!
+interpenetrate,verb
  interpenetrated interpenetrates interpenetrating
-interpenetration
-interpersonal
-interplanetary
-interplay
-interpolate
+interpenetration,noun
+interpersonal,adjective
+interplanetary,adjective
+interplay,noun
+interpolate,verb
  interpolated interpolates interpolating
-interpolation
+interpolation,noun
  interpolations
-interpose
+interpose,verb
  interposed interposes interposing
-interposition
-interpret
+interposition,noun
+interpret,verb
  interpreted interpreting interprets
-interpretation
+interpretation,noun
  interpretations
-interpreter
+interpreter,noun
  interpreters
-interpretive
+interpretive,adjective
  interpretative
-interracial
-interregnum
+interracial,adjective
+interregnum,noun
  interregna interregnums
-interrelate
+interrelate,verb
  interrelated interrelates interrelating
-interrelation
+interrelation,noun
  interrelations
-interrelationship
+interrelationship,noun
  interrelationships
-interrogate
+interrogate,verb
  interrogated interrogates interrogating
-interrogation
+interrogation,noun
  interrogations
-interrogative
+interrogative,adjective,noun
  interrogatively interrogatives
-interrogator
+interrogator,noun
  interrogators
-interrogatory
+interrogatory,adjective,noun
  interrogatories
-interrupt
+interrupt,verb
  interrupted interrupting interrupts
-interrupter
+interrupter,noun
  interrupters
-interruption
+interruption,noun
  interruptions
-interscholastic
-intersect
+interscholastic!
+intersect,verb
  intersected intersecting intersects
-intersection
+intersection,noun
  intersections
-intersession
+intersession,noun
  intersessions
-intersperse
+intersperse,verb
  interspersed intersperses interspersing
-interspersion
-interstate
+interspersion,noun
+interstate,adverb,adjective,noun
  interstates
-interstellar
-interstice
+interstellar,adjective
+interstice,noun
  interstices
-interstitial
-intertwine
+interstitial,adjective,noun
+intertwine,verb
  intertwined intertwines intertwining
-interurban
-interval
+interurban,adjective,noun
+interval,noun
  intervals
-intervene
+intervene,verb
  intervened intervenes intervening
-intervention
+intervention,noun
  interventions
-interventionism
-interventionist
+interventionism,noun
+interventionist,adjective,noun
  interventionists
-interview
+interview,verb,noun
  interviewed interviewing interviews
-interviewee
+interviewee,noun
  interviewees
-interviewer
+interviewer,noun
  interviewers
-intervocalic
-interwar
-interweave
+intervocalic,adjective
+interwar,adjective
+interweave,verb
  interweaved interweaves interweaving interwove interwoven
-intestacy
-intestate
-intestinal
-intestine
+intestacy,noun
+intestate,adjective,noun
+intestinal,adjective
+intestine,noun
  intestines
-intimacy
+intimacy,noun
  intimacies
-intimate
+intimate,adjective,verb,noun
  intimated intimately intimates intimating
-intimation
+intimation,noun
  intimations
-intimidate
+intimidate,verb
  intimidated intimidates intimidating intimidatingly
-intimidation
-into
-intolerable
+intimidation,noun
+into,preposition
+intolerable,adjective
  intolerably
-intolerance
+intolerance,noun
  intolerances
-intolerant
+intolerant,adjective
  intolerantly
-intonation
+intonation,noun
  intonations
-intone
+intone,verb
  intoned intones intoning
-intoner
+intoner,noun
  intoners
-intoxicant
+intoxicant,noun
  intoxicants
-intoxicate
+intoxicate,verb
  intoxicated intoxicates intoxicating
-intoxication
-intractable
+intoxication,noun
+intractable,adjective
  intractability intractably
-intramural
-intramuscular
-intranet
+intramural,adjective
+intramuscular,adjective
+intranet,noun
  intranets
-intransigence
-intransigent
+intransigence,noun
+intransigent,adjective,noun
  intransigently intransigents
-intransitive
+intransitive,adjective
  intransitively intransitives
-intrastate
-intrauterine
-intravenous
+intrastate!
+intrauterine,adjective
+intravenous,adjective
  intravenouses intravenously
-intrepid
+intrepid,adjective
  intrepidly
-intrepidity
-intricacy
+intrepidity,noun
+intricacy,noun
  intricacies
-intricate
+intricate,adjective
  intricately
-intrigue
+intrigue,verb,noun
  intrigued intrigues intriguing intriguingly
-intriguer
+intriguer,noun
  intriguers
-intrinsic
+intrinsic,adjective
  intrinsically
-intro
+intro,noun
  intros
-introduce
+introduce,verb
  introduced introduces introducing
-introduction
+introduction,noun
  introductions
-introductory
-introit
+introductory,adjective
+introit,noun
  introits
-introspect
+introspect,verb
  introspected introspecting introspects
-introspection
-introspective
+introspection,noun
+introspective,adjective
  introspectively
-introversion
-introvert
+introversion,noun
+introvert,adjective,noun
  introverted introverts
-intrude
+intrude,verb
  intruded intrudes intruding
-intruder
+intruder,noun
  intruders
-intrusion
+intrusion,noun
  intrusions
-intrusive
+intrusive,adjective
  intrusively intrusiveness
-intuit
+intuit,verb
  intuited intuiting intuits
-intuition
+intuition,noun
  intuitions
-intuitive
+intuitive,adjective
  intuitively intuitiveness
-inundate
+inundate,verb
  inundated inundates inundating
-inundation
+inundation,noun
  inundations
-inure
+inure,verb
  enure enured enures enuring inured inures inuring
-invade
+invade,verb
  invaded invades invading
-invader
+invader,noun
  invaders
-invalid
+invalid,verb,adjective,noun
  invalided invaliding invalidly invalids
-invalidate
+invalidate,verb
  invalidated invalidates invalidating
-invalidation
-invalidism
-invalidity
-invaluable
+invalidation,noun
+invalidism,noun
+invalidity,noun
+invaluable,adjective
  invaluably
-invariable
+invariable,adjective
  invariability invariables invariably
-invasion
+invasion,noun
  invasions
-invasive
-invective
-inveigh
+invasive,adjective
+invective,noun
+inveigh,verb
  inveighed inveighing inveighs
-inveigle
+inveigle,verb
  inveigled inveigles inveigling
-inveigler
+inveigler,noun
  inveiglers
-invent
+invent,verb
  invented inventing invents
-invention
+invention,noun
  inventions
-inventive
+inventive,adjective
  inventively inventiveness
-inventor
+inventor,noun
  inventors
-inventory
+inventory,verb,noun
  inventoried inventories inventorying
-inverse
+inverse,adjective,noun
  inversely inverses
-inversion
+inversion,noun
  inversions
-invert
+invert,verb,noun
  inverted inverting inverts
-invertebrate
+invertebrate,adjective,noun
  invertebrates
-invest
+invest,verb
  invested investing invests
-investigate
+investigate,verb
  investigated investigates investigating
-investigation
+investigation,noun
  investigations
-investigative
-investigator
+investigative,adjective
+investigator,noun
  investigators
-investigatory
-investiture
+investigatory,adjective
+investiture,noun
  investitures
-investment
+investment,noun
  investments
-investor
+investor,noun
  investors
-inveteracy
-inveterate
-invidious
+inveteracy,noun
+inveterate,adjective
+invidious,adjective
  invidiously invidiousness
-invigilate
+invigilate,verb
  invigilated invigilates invigilating
-invigilation
-invigilator
+invigilation,noun
+invigilator,noun
  invigilators
-invigorate
+invigorate,verb
  invigorated invigorates invigorating invigoratingly
-invigoration
-invincible
+invigoration,noun
+invincible,adjective
  invincibility invincibly
-inviolable
+inviolable,adjective
  inviolability inviolably
-inviolate
-invisible
+inviolate,adjective
+invisible,adjective,noun
  invisibility invisibly
-invitation
+invitation,noun
  invitations
-invitational
+invitational,adjective,noun
  invitationals
-invite
+invite,verb,noun
  invited invites inviting invitingly
-invitee
+invitee,noun
  invitees
-invocation
+invocation,noun
  invocations
-invoice
+invoice,verb,noun
  invoiced invoices invoicing
-invoke
+invoke,verb
  invoked invokes invoking
-involuntary
+involuntary,adjective
  involuntarily involuntariness
-involution
-involve
+involution,noun
+involve,verb
  involved involves involving
-involvement
+involvement,noun
  involvements
-invulnerable
+invulnerable,adjective
  invulnerability invulnerably
-inward
+inward,adverb,adjective
  inwardly inwards
-in-your-face
-iodide
+in-your-face,adjective
+iodide,noun
  iodides
-iodine
-iodize
+iodine,noun
+iodize,verb
  iodise iodised iodises iodising iodized iodizes iodizing
-ion
+ion,noun
  ions
-ionic
-ionization
+ionic,adjective,noun
+ionization,noun
  ionisation
-ionize
+ionize,verb
  ionise ionised ionises ionising ionized ionizes ionizing
-ionizer
+ionizer,noun
  ioniser ionisers ionizers
-ionosphere
+ionosphere,noun
  ionospheres
-ionospheric
-iota
+ionospheric,adjective
+iota,noun
  iotas
-ipecac
+ipecac,noun
  ipecacs
-irascible
+irascible,adjective
  irascibility irascibly
-irate
+irate,adjective
  irately irateness
-ire
+ire,noun
  ireful
-irenic
-iridescence
-iridescent
+irenic,adjective,noun
+iridescence,noun
+iridescent,adjective
  iridescently
-iridium
-iris
+iridium,noun
+iris,propernoun,verb,noun
  irides irises
-irk
+irk,verb
  irked irking irks
-irksome
+irksome,adjective
  irksomely irksomeness
-iron
+iron,verb,noun
  ironed ironing irons
-ironclad
+ironclad,adjective,noun
  ironclads
-ironic
-ironical
+ironic,adjective
+ironical,adjective
  ironically
-ironmonger
+ironmonger,noun
  ironmongers
-ironmongery
-ironstone
-ironware
-ironwood
+ironmongery,noun
+ironstone,noun
+ironware,noun
+ironwood,noun
  ironwoods
-ironwork
+ironwork,noun
  ironworks
-irony
+irony,adjective,noun
  ironies
-irradiate
+irradiate,verb
  irradiated irradiates irradiating
-irradiation
-irrational
+irradiation,noun
+irrational,adjective,noun
  irrationally irrationals
-irrationality
-irreclaimable
-irreconcilable
+irrationality,noun
+irreclaimable,adjective
+irreconcilable,adjective,noun
  irreconcilability irreconcilably
-irrecoverable
+irrecoverable,adjective
  irrecoverably
-irredeemable
+irredeemable,adjective
  irredeemably
-irreducible
+irreducible,adjective
  irreducibly
-irrefutable
+irrefutable,adjective
  irrefutably
-irregardless
-irregular
+irregardless,adjective,adverb
+irregular,adjective,noun
  irregularly irregulars
-irregularity
+irregularity,noun
  irregularities
-irrelevance
+irrelevance,noun
  irrelevances irrelevancies irrelevancy
-irrelevant
+irrelevant,adjective
  irrelevantly
-irreligious
-irremediable
+irreligious,adjective
+irremediable,adjective
  irremediably
-irremovable
-irreparable
+irremovable,adjective
+irreparable,adjective
  irreparably
-irreplaceable
-irrepressible
+irreplaceable,adjective
+irrepressible,adjective
  irrepressibly
-irreproachable
+irreproachable,adjective
  irreproachably
-irresistible
+irresistible,adjective
  irresistibly
-irresolute
+irresolute,adjective
  irresolutely irresoluteness
-irresolution
-irrespective
-irresponsible
+irresolution,noun
+irrespective,adjective
+irresponsible,adjective
  irresponsibility irresponsibly
-irretrievable
+irretrievable,adjective
  irretrievably
-irreverence
-irreverent
+irreverence,noun
+irreverent,adjective
  irreverently
-irreversible
+irreversible,adjective
  irreversibly
-irrevocable
+irrevocable,adjective
  irrevocably
-irrigable
-irrigate
+irrigable,adjective
+irrigate,verb
  irrigated irrigates irrigating
-irrigation
-irritable
+irrigation,noun
+irritable,adjective
  irritability irritably
-irritant
+irritant,adjective,noun
  irritants
-irritate
+irritate,verb
  irritated irritates irritating irritatingly
-irritation
+irritation,noun
  irritations
-irrupt
+irrupt,verb
  irrupted irrupting irrupts
-irruption
+irruption,noun
  irruptions
-irruptive
-isinglass
-island
+irruptive,adjective
+isinglass,noun
+island,propernoun,noun
  islands
-islander
+islander,noun
  islanders
-isle
+isle,noun
  isles
-islet
+islet,noun
  islets
-ism
+ism,noun
  isms
-isobar
+isobar,noun
  isobars
-isobaric
-isolate
+isobaric,adjective
+isolate,verb,noun
  isolated isolates isolating
-isolation
-isolationism
-isolationist
+isolation,noun
+isolationism,noun
+isolationist,adjective,noun
  isolationists
-isomer
+isomer,noun
  isomers
-isomeric
-isomerism
-isometric
+isomeric,adjective
+isomerism,noun
+isometric,adjective
  isometrically isometrics
-isosceles
-isotherm
+isosceles,adjective
+isotherm,noun
  isotherms
-isotonic
-isotope
+isotonic,adjective
+isotope,noun
  isotopes
-isotopic
-issuance
-issue
+isotopic,adjective
+issuance,noun
+issue,verb,noun
  issued issues issuing
-issuer
+issuer,noun
  issuers
-isthmian
-isthmus
+isthmian,adjective
+isthmus,noun
  isthmi isthmuses
-it
-italic
+it,pronoun,noun
+italic,adjective,noun
  italics
-italicization
+italicization,noun
  italicisation
-italicize
+italicize,verb
  italicise italicised italicises italicising italicized italicizes italicizing
-itch
+itch,verb,noun
  itched itches itching
-itchy
+itchy,adjective
  itchier itchiest itchiness
-item
+item,adverb,noun
  items
-itemization
+itemization,noun
  itemisation
-itemize
+itemize,verb
  itemise itemised itemises itemising itemized itemizes itemizing
-iterate
+iterate,verb,noun
  iterated iterates iterating
-iteration
+iteration,noun
  iterations
-iterative
-itinerant
+iterative,adjective
+itinerant,adjective,noun
  itinerants
-itinerary
+itinerary,noun
  itineraries
-its
-itself
-ivory
+its,possessivedeterminer
+itself,pronoun
+ivory,noun
  ivories
-ivy
+ivy,noun
  ivied ivies

@@ -1,3337 +1,3337 @@
-rabbet
+rabbet,verb,noun
  rabbeted rabbeting rabbets
-rabbi
+rabbi,noun
  rabbis
-rabbinate
-rabbinic
-rabbinical
-rabbit
+rabbinate,noun
+rabbinic,adjective
+rabbinical,adjective
+rabbit,verb,noun
  rabbited rabbiting rabbits
-rabble
+rabble,noun
  rabbles
-rabid
+rabid,adjective
  rabidly rabidness
-rabies
-raccoon
+rabies,noun
+raccoon,noun
  raccoons racoon racoons
-race
+race,verb,noun
  raced races racing
-racecourse
+racecourse,noun
  racecourses
-racegoer
+racegoer,noun
  racegoers
-racehorse
+racehorse,noun
  racehorses
-raceme
+raceme,noun
  racemes
-racer
+racer,noun
  racers
-racetrack
+racetrack,noun
  racetracks
-raceway
+raceway,noun
  raceways
-racial
+racial,adjective
  racially
-racialism
-racialist
+racialism,noun
+racialist,noun,adjective
  racialists
-racism
-racist
+racism,noun
+racist,noun,adjective
  racists
-rack
+rack,verb,noun
  racked racking racks wrack -> [wrack] wracked wracking wracks
-racket
+racket,verb,noun
  racketed racketing rackets racquet racquets
-racketeer
+racketeer,noun
  racketeered racketeering racketeers
-raconteur
+raconteur,noun
  raconteurs
-racquetball
+racquetball,noun
  racquetballs
-racy
+racy,adjective
  racier raciest racily raciness
-rad
+rad,abbreviation,noun,adjective
  rads
-radar
+radar,noun
  radars
-radarscope
+radarscope,noun
  radarscopes
-raddled
-radial
+raddled,adjective
+radial,noun,adjective
  radially radials
-radian
+radian,noun
  radians
-radiance
-radiant
+radiance,noun
+radiant,noun,adjective
  radiantly
-radiate
+radiate,verb,adjective
  radiated radiates radiating
-radiation
+radiation,noun
  radiations
-radiator
+radiator,noun
  radiators
-radical
+radical,noun,adjective
  radically radicals
-radicalism
-radicalization
+radicalism,noun
+radicalization,noun
  radicalisation
-radicalize
+radicalize,verb
  radicalise radicalised radicalises radicalising radicalized radicalizes radicalizing
-radicchio
+radicchio,noun
  radicchios
-radio
+radio,verb,noun
  radioed radioing radios
-radioactive
+radioactive,adjective
  radioactively
-radioactivity
-radiocarbon
-radiogram
+radioactivity,noun
+radiocarbon,noun
+radiogram,noun
  radiograms
-radiographer
+radiographer,noun
  radiographers
-radiography
-radioisotope
+radiography,noun
+radioisotope,noun
  radioisotopes
-radiologist
+radiologist,noun
  radiologists
-radiology
-radioman
+radiology,noun
+radioman,noun
  radiomen
-radiometer
+radiometer,noun
  radiometers
-radiometric
-radiometry
-radiophone
+radiometric,adjective
+radiometry,noun
+radiophone,noun
  radiophones
-radioscopy
-radiosonde
+radioscopy,noun
+radiosonde,noun
  radiosondes
-radiotelegraph
+radiotelegraph,noun
  radiotelegraphed radiotelegraphing radiotelegraphs
-radiotelegraphy
-radiotelephone
+radiotelegraphy,noun
+radiotelephone,noun
  radiotelephones
-radiotherapist
+radiotherapist,noun
  radiotherapists
-radiotherapy
-radish
+radiotherapy,noun
+radish,noun
  radishes
-radium
-radius
+radium,noun
+radius,verb,noun
  radii radiuses
-radon
-raffia
-raffish
+radon,noun
+raffia,noun
+raffish,adjective
  raffishly raffishness
-raffle
+raffle,verb,noun
  raffled raffles raffling
-raft
+raft,verb,noun
  rafted rafting rafts
-rafter
+rafter,noun
  rafters
-rag
+rag,verb,noun
  ragged -> [ragged] ragging rags
-raga
+raga,noun
  ragas
-ragamuffin
+ragamuffin,noun
  ragamuffins
-ragbag
+ragbag,noun
  ragbags
-rage
+rage,verb,noun
  raged rages raging ragingly
-ragga
-ragged -> [rag]
+ragga,noun
+ragged,adjective
  raggeder raggedest raggedly raggedness
-raggedy
+raggedy,adjective
  raggedier raggediest
-raglan
+raglan,noun,adjective
  raglans
-ragout
+ragout,noun
  ragouts
-ragtag
-ragtime
-ragweed
-ragwort
-rah
-raid
+ragtag,noun,adjective
+ragtime,noun,adjective
+ragweed,noun
+ragwort,noun
+rah,noun,exclamation
+raid,verb,noun,abbreviation
  raided raiding raids
-raider
+raider,noun
  raiders
-rail
+rail,verb,noun
  railed railing -> [railing] rails
-railcard
+railcard,noun
  railcards
-railing -> [rail]
+railing,noun
  railings
-raillery
+raillery,noun
  railleries
-railroad
+railroad,verb,noun
  railroaded railroading railroads
-railroader
+railroader,noun
  railroaders
-railway
+railway,noun
  railways
-railwayman
+railwayman,noun
  railwaymen
-raiment
-rain
+raiment,noun
+rain,verb,noun
  rained raining rainless rains
-rainbow
+rainbow,noun
  rainbows
-raincheck
+raincheck!
  rainchecks
-raincoat
+raincoat,noun
  raincoats
-raindrop
+raindrop,noun
  raindrops
-rainfall
+rainfall,noun
  rainfalls
-rainforest
+rainforest,noun
  rainforests
-rainmaker
+rainmaker,noun
  rainmakers
-rainmaking
-rainproof
-rainstorm
+rainmaking,noun
+rainproof,adjective
+rainstorm,noun
  rainstorms
-rainwater
-rainy
+rainwater,noun
+rainy,adjective
  rainier rainiest
-raise
+raise,verb,noun
  raised raises raising
-raiser
+raiser,noun
  raisers
-raisin
+raisin,noun
  raisins
-rajah
+rajah,noun
  raja rajahs rajas
-rake
+rake,verb,noun
  raked rakes raking rakish rakishly rakishness
-rally
+rally,verb,noun
  rallied rallies rallying
-ram
+ram,verb,noun,abbreviation
  rammed ramming rams
-ramble
+ramble,verb,noun
  rambled rambles rambling -> [rambling]
-rambler
+rambler,noun
  ramblers
-rambling -> [ramble]
+rambling,noun,adjective
  ramblings
-rambunctious
+rambunctious,adjective
  rambunctiously rambunctiousness
-ramekin
+ramekin,noun
  ramekins ramequin ramequins
-ramie
-ramification
+ramie,noun
+ramification,noun
  ramifications
-ramify
+ramify,verb
  ramified ramifies ramifying
-ramjet
+ramjet,noun
  ramjets
-ramp
+ramp,verb,noun
  ramped ramping ramps
-rampage
+rampage,verb,noun
  rampaged rampages rampaging
-rampancy
-rampant
+rampancy,noun
+rampant,adjective
  rampantly
-rampart
+rampart,verb,noun
  ramparts
-ramrod
+ramrod,verb,noun
  ramrodded ramrodding ramrods
-ramshackle
-ranch
+ramshackle,adjective
+ranch,verb,noun
  ranched ranches ranching
-rancher
+rancher,noun
  ranchers
-rancid
+rancid,adjective
  rancidness
-rancidity
-rancor
+rancidity,noun
+rancor,noun
  rancour
-rancorous
+rancorous,adjective
  rancorously
-rand
-random
+rand,noun,propernoun
+random,noun,adjective
  randomly randomness
-randomization
+randomization,noun
  randomisation
-randomize
+randomize,verb
  randomise randomised randomises randomising randomized randomizes randomizing
-randy
+randy,adjective
  randier randiest randiness
-range
+range,verb,noun,adjective
  ranged ranges ranging
-rangefinder
+rangefinder,noun
  rangefinders
-ranger
+ranger,noun,propernoun
  rangers
-rangy
+rangy,adjective
  rangier rangiest ranginess
-rani
+rani,noun
  ranee ranees ranis
-rank
+rank,verb,noun,adjective
  ranked ranker rankest ranking -> [ranking] rankly rankness ranks
-ranking -> [rank]
+ranking,noun,adjective
  rankings
-rankle
+rankle,verb
  rankled rankles rankling
-ransack
+ransack,verb
  ransacked ransacking ransacks
-ransom
+ransom,verb,noun
  ransomed ransoming ransoms
-ransomer
+ransomer,noun
  ransomers
-rant
+rant,verb,noun
  ranted ranting -> [ranting] rants
-ranter
+ranter,noun
  ranters
-ranting -> [rant]
+ranting,noun,adjective
  rantings
-rap
+rap,verb,noun
  rapped rapping raps
-rapacious
+rapacious,adjective
  rapaciously rapaciousness
-rapacity
-rape
+rapacity,noun
+rape,verb,noun
  raped rapes raping
-raper
+raper,noun
  rapers
-rapeseed
-rapid
+rapeseed,noun
+rapid,noun,adjective
  rapider rapidest rapidly rapidness rapids
-rapid-fire
-rapidity
-rapier
+rapid-fire,adjective
+rapidity,noun
+rapier,noun
  rapiers
-rapine
-rapist
+rapine,noun
+rapist,noun
  rapists
-rappel
+rappel,verb,noun
  rappelled rappelling rappels
-rapper
+rapper,noun
  rappers
-rapport
+rapport,noun
  rapports
-rapporteur
+rapporteur,noun
  rapporteurs
-rapprochement
+rapprochement,noun
  rapprochements
-rapscallion
+rapscallion,noun
  rapscallions
-rapt
+rapt,adjective
  raptly raptness
-raptor
+raptor,noun
  raptors
-rapture
+rapture,verb,noun
  raptures
-rapturous
+rapturous,adjective
  rapturously
-rare
+rare,adjective
  rared rarely rareness rarer rares rarest raring
-rarebit
+rarebit,noun
  rarebits
-rarefaction
-rarefy
+rarefaction,noun
+rarefy,verb
  rarefied rarefies rarefying
-rarity
+rarity,noun
  rarities
-rascal
+rascal,noun
  rascally rascals
-rash
+rash,noun,adjective
  rasher -> [rasher] rashes rashest rashly rashness
-rasher -> [rash]
+rasher,noun
  rashers
-rasp
+rasp,verb,noun
  rasped rasping rasps
-raspberry
+raspberry,noun
  raspberries
-raspy
+raspy,adjective
  raspier raspiest
-rat
+rat,verb,noun,exclamation
  ratlike rats ratted ratting
-ratatouille
+ratatouille,noun
  ratatouilles
-ratbag
+ratbag,noun
  ratbags
-ratchet
+ratchet,verb,noun
  ratcheted ratcheting ratchets
-rate
+rate,verb,noun
  rated rates rating -> [rating]
-ratepayer
+ratepayer,noun
  ratepayers
-rater
+rater,noun
  raters
-rather
-rathskeller
+rather,exclamation,adverb
+rathskeller,noun
  rathskellers
-ratification
-ratifier
+ratification,noun
+ratifier,noun
  ratifiers
-ratify
+ratify,verb
  ratified ratifies ratifying
-rating -> [rate]
+rating,noun
  ratings
-ratio
+ratio,noun
  ratios
-ratiocinate
+ratiocinate,verb
  ratiocinated ratiocinates ratiocinating
-ratiocination
-ration
+ratiocination,noun
+ration,verb,noun
  rationed rationing rations
-rational
+rational,adjective
  rationally rationals
-rationale
+rationale,noun
  rationales
-rationalism
-rationalist
+rationalism,noun
+rationalist,noun,adjective
  rationalists
-rationalistic
-rationality
-rationalization
+rationalistic,adjective
+rationality,noun
+rationalization,noun
  rationalisation rationalisations rationalizations
-rationalize
+rationalize,verb
  rationalise rationalised rationalises rationalising rationalized rationalizes rationalizing
-ratline
+ratline,pluralnoun
  ratlin ratlines ratlins
-rattan
+rattan,noun
  rattans
-ratter
+ratter,noun
  ratters
-rattle
+rattle,verb,noun
  rattled rattles rattling
-rattlebrain
+rattlebrain,noun
  rattlebrained rattlebrains
-rattler
+rattler,noun
  rattlers
-rattlesnake
+rattlesnake,noun
  rattlesnakes
-rattletrap
+rattletrap,noun
  rattletraps
-rattly
-rattrap
+rattly,adjective
+rattrap,noun
  rattraps
-ratty
+ratty,adjective
  rattier rattiest
-raucous
+raucous,adjective
  raucously raucousness
-raunchy
+raunchy,adjective
  raunchier raunchiest raunchily raunchiness
-ravage
+ravage,verb,noun
  ravaged ravages ravaging
-ravager
+ravager,noun
  ravagers
-rave
+rave,verb,noun
  raved raves raving -> [raving]
-ravel
+ravel,verb,noun
  raveled raveling ravelled ravelling ravels
-raven
+raven,verb,noun,adjective
  ravened ravening ravens
-ravenous
+ravenous,adjective
  ravenously
-raver
+raver,noun
  ravers
-ravine
+ravine,noun
  ravines
-raving -> [rave]
+raving,noun,adjective
  ravings
-ravioli
+ravioli,noun
  raviolis
-ravish
+ravish,verb
  ravished ravishes ravishing ravishingly
-ravisher
+ravisher,noun
  ravishers
-ravishment
-raw
+ravishment,noun
+raw,adjective
  rawer rawest rawness
-rawboned
-rawhide
-ray
+rawboned,adjective
+rawhide,noun
+ray,verb,noun
  rays
-rayon
-raze
+rayon,noun
+raze,verb
  razed razes razing
-razor
+razor,verb,noun
  razors
-razorback
+razorback,noun
  razorbacks
-razor-sharp
-razz
+razor-sharp,adjective
+razz,verb,noun
  razzed razzes razzing
-razzle
-razzmatazz
+razzle,noun
+razzmatazz,noun
  razzamatazz
-re
-reabsorb
+re,preposition,noun,propernoun,abbreviation
+reabsorb,verb
  reabsorbed reabsorbing reabsorbs
-reach
+reach,verb,noun
  reached reaches reaching
-reachable
-reacquaint
+reachable,adjective
+reacquaint,verb
  reacquainted reacquainting reacquaints
-reacquire
+reacquire,verb
  reacquired reacquires reacquiring
-react
+react,verb
  reacted reacting reacts
-reactant
+reactant,noun
  reactants
-reaction
+reaction,noun
  reactions
-reactionary
+reactionary,noun,adjective
  reactionaries
-reactivate
+reactivate,verb
  reactivated reactivates reactivating
-reactivation
-reactive
-reactor
+reactivation,noun
+reactive,adjective
+reactor,noun
  reactors
-read
+read,verb,noun
  reading -> [reading] reads
-readability -> [readable]
+readability,noun
  readabilities
-readable
+readable,adjective
  readability -> [readability]
-readdress
+readdress,verb
  readdressed readdresses readdressing
-reader
+reader,noun
  readers
-readership
+readership,noun
  readerships
-reading -> [read]
+reading,noun,propernoun
  readings
-readjust
+readjust,verb
  readjusted readjusting readjusts
-readjustment
+readjustment,noun
  readjustments
-readmission
-readmit
+readmission,noun
+readmit,verb
  readmits readmitted readmitting
-readopt
+readopt,verb
  readopted readopting readopts
-readout
+readout,noun
  readouts
-ready
+ready,verb,noun,adjective
  readied readier readies readiest readily readiness readying
-ready-made
-reaffirm
+ready-made,noun,adjective
+reaffirm,verb
  reaffirmed reaffirming reaffirms
-reaffirmation
+reaffirmation,noun
  reaffirmations
-reafforestation
-reagent
+reafforestation,noun
+reagent,noun
  reagents
-real
+real,noun,adjective,adverb
  realer reales realest really realness
-realign
+realign,verb
  realigned realigning realigns
-realignment
+realignment,noun
  realignments
-realism
-realist
+realism,noun
+realist,noun,adjective
  realists
-realistic
+realistic,adjective
  realistically
-reality
+reality,noun
  realities
-realizable
+realizable,adjective
  realisable
-realization
+realization,noun
  realisation realisations realizations
-realize
+realize,verb
  realise realised realises realising realized realizes realizing
-real-life
-reallocate
+real-life,noun
+reallocate,verb
  reallocated reallocates reallocating
-reallocation
-realm
+reallocation,noun
+realm,noun
  realms
-realpolitik
-real-time
-realtor
+realpolitik,noun
+real-time,noun
+realtor,noun
  realtors
-realty
-ream
+realty,noun
+ream,verb,noun
  reamed reaming reams
-reamer
+reamer,noun
  reamers
-reanalysis
+reanalysis,noun
  reanalyses -> [reanalyze]
-reanalyze
+reanalyze,verb
  reanalyse reanalysed reanalyses -> [reanalysis] reanalysing reanalyzed reanalyzes reanalyzing
-reanimate
+reanimate,verb
  reanimated reanimates reanimating
-reanimation
-reap
+reanimation,noun
+reap,verb
  reaped reaping reaps
-reaper
+reaper,noun
  reapers
-reappear
+reappear,verb
  reappeared reappearing reappears
-reappearance
+reappearance,noun
  reappearances
-reapplication
+reapplication,noun
  reapplications
-reapply
+reapply,verb
  reapplied reapplies reapplying
-reappoint
+reappoint,verb
  reappointed reappointing reappoints
-reappointment
-reapportion
+reappointment,noun
+reapportion,verb
  reapportioned reapportioning reapportions
-reapportionment
-reappraisal
+reapportionment,noun
+reappraisal,noun
  reappraisals
-reappraise
+reappraise,verb
  reappraised reappraises reappraising
-rear
+rear,verb,noun,adjective
  reared rearing rearmost rears
-rearguard
+rearguard,noun
  rearguards
-rearm
+rearm,verb
  rearmed rearming rearms
-rearmament
-rearrange
+rearmament,noun
+rearrange,verb
  rearranged rearranges rearranging
-rearrangement
+rearrangement,noun
  rearrangements
-rearrest
+rearrest,verb,noun
  rearrested rearresting rearrests
-rearward
+rearward,noun,adjective,adverb
  rearwards
-reascend
+reascend,verb
  reascended reascending reascends
-reason
+reason,verb,noun
  reasoned reasoning reasons
-reasonable
+reasonable,adjective
  reasonableness reasonably
-reasoner
+reasoner,noun
  reasoners
-reassemble
+reassemble,verb
  reassembled reassembles reassembling
-reassembly
-reassert
+reassembly,noun
+reassert,verb
  reasserted reasserting reasserts
-reassertion
-reassess
+reassertion,noun
+reassess,verb
  reassessed reassesses reassessing
-reassessment
+reassessment,noun
  reassessments
-reassign
+reassign,verb
  reassigned reassigning reassigns
-reassignment
+reassignment,noun
  reassignments
-reassurance
+reassurance,noun
  reassurances
-reassure
+reassure,verb
  reassured reassures reassuring reassuringly
-reattach
+reattach,verb
  reattached reattaches reattaching
-reattachment
-reattain
+reattachment,noun
+reattain,verb
  reattained reattaining reattains
-reattempt
+reattempt,verb
  reattempted reattempting reattempts
-reauthorize
+reauthorize,verb
  reauthorise reauthorised reauthorises reauthorising reauthorized reauthorizes reauthorizing
-reawaken
+reawaken,verb
  reawakened reawakening reawakens
-rebate
+rebate,verb,noun
  rebated rebates rebating
-rebel
+rebel,verb,noun
  rebelled rebelling rebels
-rebellion
+rebellion,noun
  rebellions
-rebellious
+rebellious,adjective
  rebelliously rebelliousness
-rebid
+rebid,verb,noun
  rebidding rebids
-rebind
+rebind,verb
  rebinding rebinds rebound -> [rebound]
-rebirth
+rebirth,noun
  rebirths
-reboil
+reboil,verb
  reboiled reboiling reboils
-reboot
+reboot,verb,noun
  rebooted rebooting reboots
-reborn
-rebound -> [rebind]
+reborn,adjective
+rebound,verb,noun
  rebounded rebounding rebounds
-rebroadcast
+rebroadcast,verb,noun
  rebroadcasted rebroadcasting rebroadcasts
-rebuff
+rebuff,verb,noun
  rebuffed rebuffing rebuffs
-rebuild
+rebuild,verb,noun
  rebuilding rebuilds rebuilt
-rebuke
+rebuke,verb,noun
  rebuked rebukes rebuking rebukingly
-reburial
+reburial,noun
  reburials
-rebury
+rebury,verb
  reburied reburies reburying
-rebus
+rebus,noun
  rebuses
-rebut
+rebut,verb
  rebuts rebutted rebutting
-rebuttal
+rebuttal,noun
  rebuttals
-rec
-recalcitrance
-recalcitrant
-recalculate
+rec,abbreviation,noun
+recalcitrance,noun
+recalcitrant,noun,adjective
+recalculate,verb
  recalculated recalculates recalculating
-recalculation
+recalculation,noun
  recalculations
-recall
+recall,verb,noun
  recalled recalling recalls
-recant
+recant,verb
  recanted recanting recants
-recantation
+recantation,noun
  recantations
-recap
+recap,verb,noun
  recapped recapping recaps
-recapitalization
+recapitalization,noun
  recapitalisation
-recapitalize
+recapitalize,verb
  recapitalise recapitalised recapitalises recapitalising recapitalized recapitalizes recapitalizing
-recapitulate
+recapitulate,verb
  recapitulated recapitulates recapitulating
-recapitulation
+recapitulation,noun
  recapitulations
-recapture
+recapture,verb,noun
  recaptured recaptures recapturing
-recast
+recast,verb
  recasting -> [recasting] recasts
-recasting -> [recast]
+recasting,verb
  recastings
-recce
+recce,verb,noun
  recces
-recede
+recede,verb
  receded recedes receding
-receipt
+receipt,verb,noun
  receipted receipting receipts
-receivable
+receivable,pluralnoun,adjective
  receivables
-receive
+receive,verb
  received receives receiving
-receiver
+receiver,noun
  receivers
-receivership
-recent
+receivership,noun
+recent,noun,adjective
  recenter recentest recently recentness
-receptacle
+receptacle,noun
  receptacles
-reception
+reception,noun
  receptions
-receptionist
+receptionist,noun
  receptionists
-receptive
+receptive,adjective
  receptively receptiveness
-receptivity
-receptor
+receptivity,noun
+receptor,noun
  receptors
-recess
+recess,verb,noun
  recessed recesses recessing
-recession
+recession,noun
  recessions
-recessional
+recessional,noun,adjective
  recessionals
-recessionary
-recessive
+recessionary,adjective
+recessive,noun,adjective
  recessives
-recharge
+recharge,verb,noun
  recharged recharges recharging
-rechargeable
-recharter
+rechargeable,noun,adjective
+recharter,verb,noun
  rechartered rechartering recharters
-recheck
+recheck,verb,noun
  rechecked rechecking rechecks
-recherche
-rechristen
+recherche,adjective
+rechristen,verb
  rechristened rechristening rechristens
-recidivism
-recidivist
+recidivism,noun
+recidivist,noun,adjective
  recidivists
-recipe
+recipe,noun
  recipes
-recipient
+recipient,noun,adjective
  recipients
-reciprocal
+reciprocal,noun,adjective
  reciprocally reciprocals
-reciprocate
+reciprocate,verb
  reciprocated reciprocates reciprocating
-reciprocation
-reciprocity
-recirculate
+reciprocation,noun
+reciprocity,noun
+recirculate,verb
  recirculated recirculates recirculating
-recital
+recital,noun
  recitals
-recitalist
+recitalist,noun
  recitalists
-recitation
+recitation,noun
  recitations
-recitative
+recitative,noun
  recitatives
-recite
+recite,verb
  recited recites reciting
-reciter
+reciter,noun
  reciters
-reckless
+reckless,adjective
  recklessly recklessness
-reckon
+reckon,verb
  reckoned reckoning -> [reckoning] reckons
-reckoning -> [reckon]
+reckoning,noun
  reckonings
-reclaim
+reclaim,verb,noun
  reclaimed reclaiming reclaims
-reclaimable
-reclamation
-reclassification
-reclassify
+reclaimable,adjective
+reclamation,noun
+reclassification,noun
+reclassify,verb
  reclassified reclassifies reclassifying
-recline
+recline,verb
  reclined reclines reclining
-recliner
+recliner,noun
  recliners
-recluse
+recluse,noun,adjective
  recluses
-reclusive
-recognition
-recognizable
+reclusive,adjective
+recognition,noun
+recognizable,adjective
  recognisable recognisably recognizably
-recognizance
+recognizance,noun
  recognisance
-recognize
+recognize,verb
  recognise recognised recognises recognising recognized recognizes recognizing
-recoil
+recoil,verb,noun
  recoiled recoiling recoils
-recollect
+recollect,verb
  recollected recollecting recollects
-recollection
+recollection,noun
  recollections
-recolonization
+recolonization,noun
  recolonisation
-recolonize
+recolonize,verb
  recolonise recolonised recolonises recolonising recolonized recolonizes recolonizing
-recolor
+recolor,verb
  recolored recoloring recolors recolour recoloured recolouring recolours
-recombine
+recombine,verb
  recombined recombines recombining
-recommence
+recommence,verb
  recommenced recommences recommencing
-recommencement
-recommend
+recommencement,noun
+recommend,verb
  recommended recommending recommends
-recommendable
-recommendation
+recommendable,adjective
+recommendation,noun
  recommendations
-recommission
+recommission,verb
  recommissioned recommissioning recommissions
-recommit
+recommit,verb
  recommits recommitted recommitting
-recompense
+recompense,verb,noun
  recompensed recompenses recompensing
-recompose
+recompose,verb
  recomposed recomposes recomposing
-recompute
+recompute,verb
  recomputed recomputes recomputing
-recon
+recon,verb,noun
  recons
-reconcilable
-reconcile
+reconcilable,adjective
+reconcile,verb
  reconciled reconciles reconciling
-reconciliation
+reconciliation,noun
  reconciliations
-recondite
-recondition
+recondite,adjective
+recondition,verb
  reconditioned reconditioning reconditions
-reconfigure
+reconfigure,verb
  reconfigured reconfigures reconfiguring
-reconfirm
+reconfirm,verb
  reconfirmed reconfirming reconfirms
-reconfirmation
+reconfirmation,noun
  reconfirmations
-reconnaissance
+reconnaissance,noun
  reconnaissances
-reconnect
+reconnect,verb
  reconnected reconnecting reconnects
-reconnoiter
+reconnoiter,verb,noun
  reconnoitered reconnoitering reconnoiters reconnoitre reconnoitred reconnoitres reconnoitring
-reconquer
+reconquer,verb
  reconquered reconquering reconquers
-reconquest
-reconsecrate
+reconquest,noun
+reconsecrate,verb
  reconsecrated reconsecrates reconsecrating
-reconsecration
-reconsider
+reconsecration,noun
+reconsider,verb
  reconsidered reconsidering reconsiders
-reconsideration
-reconsign
+reconsideration,noun
+reconsign,verb
  reconsigned reconsigning reconsigns
-reconstitute
+reconstitute,verb
  reconstituted reconstitutes reconstituting
-reconstitution
-reconstruct
+reconstitution,noun
+reconstruct,verb
  reconstructed reconstructing reconstructs
-reconstruction
+reconstruction,noun
  reconstructions
-reconstructive
-recontact
+reconstructive,adjective
+recontact!
  recontacted recontacting recontacts
-recontaminate
+recontaminate!
  recontaminated recontaminates recontaminating
-reconvene
+reconvene,verb
  reconvened reconvenes reconvening
-reconvert
+reconvert,verb
  reconverted reconverting reconverts
-recook
+recook!
  recooked recooking recooks
-recopy
+recopy,verb
  recopied recopies recopying
-record
+record,verb,noun
  recorded recording -> [recording] records
-record-breaking
-recorder
+record-breaking,adjective
+recorder,noun
  recorders
-recording -> [record]
+recording,noun
  recordings
-recount
+recount,verb,noun
  recounted recounting recounts
-recoup
+recoup,verb
  recouped recouping recoups
-recourse
-recover
+recourse,noun
+recover,verb,noun
  recovered recovering recovers
-recoverable
-recovery
+recoverable,adjective
+recovery,noun
  recoveries
-recreant
+recreant,noun,adjective
  recreants
-recreate
+recreate,verb
  recreated recreates recreating
-recreation
+recreation,noun
  recreations
-recreational
-recriminate
+recreational,adjective
+recriminate,verb
  recriminated recriminates recriminating
-recrimination
+recrimination,noun
  recriminations
-recriminatory
-recross
+recriminatory,adjective
+recross,verb
  recrossed recrosses recrossing
-recrudesce
+recrudesce,verb
  recrudesced recrudesces recrudescing
-recrudescence
-recrudescent
-recruit
+recrudescence,noun
+recrudescent,adjective
+recruit,verb,noun
  recruited recruiting recruits
-recruiter
+recruiter,noun
  recruiters
-recruitment
-recrystallize
+recruitment,noun
+recrystallize,verb
  recrystallise recrystallised recrystallises recrystallising recrystallized recrystallizes recrystallizing
-rectal
+rectal,adjective
  rectally
-rectangle
+rectangle,noun
  rectangles
-rectangular
-rectifiable
-rectification
+rectangular,adjective
+rectifiable,adjective
+rectification,noun
  rectifications
-rectifier
+rectifier,noun
  rectifiers
-rectify
+rectify,verb
  rectified rectifies rectifying
-rectilinear
-rectitude
-recto
+rectilinear,adjective
+rectitude,noun
+recto,noun
  rectos
-rector
+rector,noun
  rectors
-rectory
+rectory,noun
  rectories
-rectum
+rectum,noun
  recta rectums
-recumbent
-recuperate
+recumbent,noun,adjective
+recuperate,verb
  recuperated recuperates recuperating
-recuperation
-recuperative
-recur
+recuperation,noun
+recuperative,adjective
+recur,verb
  recurred recurring recurs
-recurrence
+recurrence,noun
  recurrences
-recurrent
+recurrent,adjective
  recurrently
-recursive
-recyclable
+recursive,adjective
+recyclable,noun,adjective
  recyclables
-recycle
+recycle,verb
  recycled recycles recycling
-red
+red,noun,adjective
  redder reddest reddish redness reds
-redact
+redact,verb
  redacted redacting redacts
-redaction
-redactor
+redaction,noun
+redactor,noun
  redactors
-redbird
+redbird,noun
  redbirds
-redbreast
+redbreast,noun
  redbreasts
-redbrick
-redcap
+redbrick,adjective
+redcap,noun
  redcaps
-redcoat
+redcoat,noun
  redcoats
-redcurrant
+redcurrant,noun
  redcurrants
-redden
+redden,verb
  reddened reddening reddens
-redecorate
+redecorate,verb
  redecorated redecorates redecorating
-redecoration
-rededicate
+redecoration,noun
+rededicate,verb
  rededicated rededicates rededicating
-redeem
+redeem,verb
  redeemed redeeming redeems
-redeemable
-redeemer
+redeemable,adjective
+redeemer,noun
  redeemers
-redefine
+redefine,verb
  redefined redefines redefining
-redefinition
-redeliver
+redefinition,noun
+redeliver,verb
  redelivered redelivering redelivers
-redemption
+redemption,noun
  redemptions
-redemptive
-redeploy
+redemptive,adjective
+redeploy,verb
  redeployed redeploying redeploys
-redeployment
+redeployment,noun
  redeployments
-redeposit
+redeposit,verb
  redeposited redepositing redeposits
-redesign
+redesign,verb,noun
  redesigned redesigning redesigns
-redetermine
+redetermine,verb
  redetermined redetermines redetermining
-redevelop
+redevelop,verb
  redeveloped redeveloping redevelops
-redevelopment
+redevelopment,noun
  redevelopments
-red-faced
-redhead
+red-faced,adjective
+redhead,noun
  redheaded redheads
-red-hot
-redial
+red-hot,adjective
+redial,verb,noun
  redialed redialing redialled redialling redials
-redirect
+redirect,verb,noun
  redirected redirecting redirects
-redirection
-rediscover
+redirection,noun
+rediscover,verb
  rediscovered rediscovering rediscovers
-rediscovery
+rediscovery,noun
  rediscoveries
-redissolve
+redissolve,verb
  redissolved redissolves redissolving
-redistribute
+redistribute,verb
  redistributed redistributes redistributing
-redistribution
-redistrict
+redistribution,noun
+redistrict,verb
  redistricted redistricting redistricts
-redivide
+redivide,verb
  redivided redivides redividing
-redlining
-redneck
+redlining,verb,noun
+redneck,noun
  rednecks
-redo
+redo,verb,noun
  redid redoes redoing redone
-redolence
-redolent
-redouble
+redolence,noun
+redolent,adjective
+redouble,verb,noun
  redoubled redoubles redoubling
-redoubt
+redoubt,noun
  redoubts
-redoubtable
+redoubtable,adjective
  redoubtably
-redound
+redound,verb
  redounded redounding redounds
-redraft
+redraft,verb,noun
  redrafted redrafting redrafts
-redraw
+redraw,verb
  redrawing redrawn redraws redrew
-redress
+redress,verb,noun
  redressed redresses redressing
-redskin
+redskin,noun
  redskins
-reduce
+reduce,verb
  reduced reduces reducing
-reducer
+reducer,noun
  reducers
-reducible
-reduction
+reducible,adjective
+reduction,noun
  reductions
-reductionist
-reductive
-redundancy
+reductionist,noun,adjective
+reductive,adjective
+redundancy,noun
  redundancies
-redundant
+redundant,adjective
  redundantly
-reduplicate
+reduplicate,verb
  reduplicated reduplicates reduplicating
-reduplication
-redux
-redwood
+reduplication,noun
+redux,adjective
+redwood,noun
  redwoods
-redye
+redye,verb
  redyed redyeing redyes
-reecho
+reecho,verb
  reechoed reechoes reechoing
-reed
+reed,noun
  reeds
-reedit
+reedit,verb
  reedited reediting reedits
-reeducate
+reeducate,verb
  reeducated reeducates reeducating
-reeducation
-reedy
+reeducation,noun
+reedy,adjective
  reedier reediest reediness
-reef
+reef,verb,noun
  reefed reefing reefs
-reefer
+reefer,noun
  reefers
-reek
+reek,verb,noun
  reeked reeking reeks
-reel
+reel,verb,noun
  reeled reeling reels
-reelect
+reelect,verb
  reelected reelecting reelects
-reelection
+reelection,noun
  reelections
-reembark
+reembark,verb
  reembarked reembarking reembarks
-reembody
+reembody,verb
  reembodied reembodies reembodying
-reemerge
+reemerge,verb
  reemerged reemerges reemerging
-reemergence
-reemphasize
+reemergence,noun
+reemphasize,verb
  reemphasized reemphasizes reemphasizing
-reemploy
+reemploy,verb
  reemployed reemploying reemploys
-reemployment
-reenact
+reemployment,noun
+reenact,verb
  reenacted reenacting reenacts
-reenactment
+reenactment,noun
  reenactments
-reengage
+reengage,verb
  reengaged reengages reengaging
-reenlist
+reenlist,verb
  reenlisted reenlisting reenlists
-reenlistment
-reenter
+reenlistment,noun
+reenter,verb
  reentered reentering reenters
-reentry
+reentry,noun
  reentries
-reequip
+reequip,verb
  reequipped reequipping reequips
-reestablish
+reestablish,verb
  reestablished reestablishes reestablishing
-reestablishment
-reevaluate
+reestablishment,noun
+reevaluate,verb
  reevaluated reevaluates reevaluating
-reevaluation
+reevaluation,noun
  reevaluations
-reeve
+reeve,verb,noun
  reeved reeves reeving
-reexamination
+reexamination,noun
  reexaminations
-reexamine
+reexamine,verb
  reexamined reexamines reexamining
-reexplain
+reexplain!
  reexplained reexplaining reexplains
-reexport
+reexport,verb,noun
  reexported reexporting reexports
-ref
+ref,verb,noun
  reffed reffing refs
-reface
+reface,verb
  refaced refaces refacing
-refashion
+refashion,verb
  refashioned refashioning refashions
-refasten
+refasten,verb
  refastened refastening refastens
-refection
-refectory
+refection,noun
+refectory,noun
  refectories
-refer
+refer,verb
  referred referring refers
-referable
-referee
+referable,adjective
+referee,verb,noun
  refereed refereeing referees
-reference
+reference,verb,noun
  referenced references referencing
-referendum
+referendum,noun
  referenda referendums
-referent
+referent,noun
  referents
-referral
+referral,noun
  referrals
-referrer
+referrer,noun
  referrers
-refile
+refile,verb
  refiled refiles refiling
-refill
+refill,verb,noun
  refilled refilling refills
-refillable
-refinance
+refillable,adjective
+refinance,verb
  refinanced refinances refinancing
-refine
+refine,verb
  refined refines refining
-refinement
+refinement,noun
  refinements
-refiner
+refiner,noun
  refiners
-refinery
+refinery,noun
  refineries
-refinish
+refinish,verb,noun
  refinished refinishes refinishing
-refit
+refit,verb,noun
  refits refitted refitting
-reflate
+reflate,verb
  reflated reflates reflating
-reflation
+reflation,noun
  reflations
-reflationary
-reflect
+reflationary,adjective
+reflect,verb
  reflected reflecting reflects
-reflection
+reflection,noun
  reflections reflexion reflexions
-reflective
+reflective,adjective
  reflectively
-reflector
+reflector,noun
  reflectors
-reflex
+reflex,noun,adjective
  reflexes
-reflexive
+reflexive,noun,adjective
  reflexively reflexives
-reflexologist
+reflexologist,noun
  reflexologists
-reflexology
-reflux
-refocus
+reflexology,noun
+reflux,verb,noun
+refocus,verb
  refocused refocuses refocusing refocussed refocusses refocussing
-refold
+refold,verb
  refolded refolding refolds
-reforest
+reforest,verb
  reforested reforesting reforests
-reforestation
-reforge
+reforestation,noun
+reforge,verb
  reforged reforges reforging
-reform
+reform,verb,noun
  reformed reforming reforms
-reformation
+reformation,noun
  reformations
-reformative
-reformatory
+reformative,adjective
+reformatory,noun,adjective
  reformatories
-reformer
+reformer,noun
  reformers
-reformist
+reformist,noun,adjective
  reformists
-reformulate
+reformulate,verb
  reformulated reformulates reformulating
-reformulation
+reformulation,noun
  reformulations
-refortify
+refortify,verb
  refortified refortifies refortifying
-refract
+refract,verb
  refracted refracting refracts
-refraction
-refractive
-refractory
+refraction,noun
+refractive,adjective
+refractory,noun,adjective
  refractories
-refrain
+refrain,verb,noun
  refrained refraining refrains
-refreeze
+refreeze,verb
  refreezes refreezing refroze refrozen
-refresh
+refresh,verb,noun
  refreshed refreshes refreshing refreshingly
-refresher
+refresher,noun
  refreshers
-refreshment
+refreshment,noun
  refreshments
-refrigerant
+refrigerant,noun,adjective
  refrigerants
-refrigerate
+refrigerate,verb
  refrigerated refrigerates refrigerating
-refrigeration
-refrigerator
+refrigeration,noun
+refrigerator,noun
  refrigerators
-refuel
+refuel,verb
  refueled refueling refuelled refuelling refuels
-refuge
+refuge,noun
  refuges
-refugee
+refugee,noun
  refugees
-refulgence
-refulgent
-refund
+refulgence,noun
+refulgent,adjective
+refund,verb,noun
  refunded refunding refunds
-refundable
-refurbish
+refundable,adjective
+refurbish,verb
  refurbished refurbishes refurbishing
-refurbishment
+refurbishment,noun
  refurbishments
-refurnish
+refurnish,verb
  refurnished refurnishes refurnishing
-refusal
+refusal,noun
  refusals
-refuse
+refuse,verb,noun
  refused refuses refusing
-refutable
-refutation
+refutable,adjective
+refutation,noun
  refutations
-refute
+refute,verb
  refuted refutes refuting
-refuter
+refuter,noun
  refuters
-reg
+reg,noun
  regs
-regain
+regain,verb
  regained regaining regains
-regal
+regal,noun,adjective
  regally
-regale
+regale,verb
  regaled regales regaling
-regalement
-regalia
-regard
+regalement,noun
+regalia,pluralnoun
+regard,verb,noun
  regarded regarding regardless regards
-regather
+regather,verb
  regathered regathering regathers
-regatta
+regatta,noun
  regattas
-regency
+regency,noun,adjective
  regencies
-regeneracy
-regenerate
+regeneracy,noun
+regenerate,verb,adjective
  regenerated regenerates regenerating
-regeneration
-regenerative
-regent
+regeneration,noun
+regenerative,adjective
+regent,noun,adjective
  regents
-reggae
-regicide
+reggae,noun
+regicide,noun
  regicides
-regime
+regime,noun
  regimes
-regimen
+regimen,noun
  regimens
-regiment
+regiment,verb,noun
  regimented regimenting regiments
-regimental
-regimentation
-region
+regimental,adjective
+regimentation,noun
+region,noun
  regions
-regional
+regional,noun,adjective
  regionally
-regionalism
+regionalism,noun
  regionalisms
-register
+register,verb,noun
  registered registering registers
-registrant
+registrant,noun
  registrants
-registrar
+registrar,noun
  registrars
-registration
+registration,noun
  registrations
-registry
+registry,noun
  registries
-regnant
-regrade
+regnant,adjective
+regrade,verb
  regraded regrades regrading
-regress
+regress,verb,noun
  regressed regresses regressing
-regression
+regression,noun
  regressions
-regressive
-regret
+regressive,adjective
+regret,verb,noun
  regretful regretfully regrets regretted regretting
-regrettable
+regrettable,adjective
  regrettably
-regrind
+regrind,verb,noun
  regrinding regrinds reground
-regroup
+regroup,verb
  regrouped regrouping regroups
-regrow
+regrow,verb
  regrew regrowing regrown regrows
-regrowth
-regular
+regrowth,noun
+regular,noun,adjective
  regularly regulars
-regularity
+regularity,noun
  regularities
-regularization
+regularization,noun
  regularisation
-regularize
+regularize,verb
  regularise regularised regularises regularising regularized regularizes regularizing
-regulate
+regulate,verb
  regulated regulates regulating
-regulation
+regulation,noun
  regulations
-regulative
-regulator
+regulative,adjective
+regulator,noun
  regulators
-regulatory
-regurgitate
+regulatory,adjective
+regurgitate,verb
  regurgitated regurgitates regurgitating
-regurgitation
-rehab
+regurgitation,noun
+rehab,verb,noun
  rehabbed rehabbing rehabs
-rehabilitate
+rehabilitate,verb
  rehabilitated rehabilitates rehabilitating
-rehabilitation
-rehabilitative
-rehang
+rehabilitation,noun
+rehabilitative,adjective
+rehang,verb,noun
  rehanged rehanging rehangs rehung
-rehash
+rehash,verb,noun
  rehashed rehashes rehashing
-rehear
+rehear,verb
  reheard rehearing -> [rehearing] rehears
-rehearing -> [rehear]
+rehearing,verb
  rehearings
-rehearsal
+rehearsal,noun
  rehearsals
-rehearse
+rehearse,verb
  rehearsed rehearses rehearsing
-reheat
+reheat,verb,noun
  reheated reheating reheats
-rehire
+rehire,verb
  rehired rehires rehiring
-rehouse
+rehouse,verb
  rehoused rehouses rehousing
-reign
+reign,verb,noun
  reigned reigning reigns
-reignite
+reignite,verb
  reignited reignites reigniting
-reiki
-reimbursable
-reimburse
+reiki,noun
+reimbursable,adjective
+reimburse,verb
  reimbursed reimburses reimbursing
-reimbursement
+reimbursement,noun
  reimbursements
-reimpose
+reimpose,verb
  reimposed reimposes reimposing
-rein
+rein,verb,noun
  reined reining reins
-reincarnate
+reincarnate,verb,adjective
  reincarnated reincarnates reincarnating
-reincarnation
+reincarnation,noun
  reincarnations
-reincorporate
+reincorporate,verb
  reincorporated reincorporates reincorporating
-reincorporation
-reindeer
+reincorporation,noun
+reindeer,noun
  reindeers
-reinfect
+reinfect,verb
  reinfected reinfecting reinfects
-reinfection
+reinfection,noun
  reinfections
-reinforce
+reinforce,verb
  reenforce reenforced reenforces reenforcing reinforced reinforces reinforcing
-reinforcement
+reinforcement,noun
  reinforcements
-reinoculate
+reinoculate,verb
  reinoculated reinoculates reinoculating
-reinsert
+reinsert,verb
  reinserted reinserting reinserts
-reinsertion
-reinspect
+reinsertion,noun
+reinspect,verb
  reinspected reinspecting reinspects
-reinstate
+reinstate,verb
  reinstated reinstates reinstating
-reinstatement
-reinsurance
-reintegrate
+reinstatement,noun
+reinsurance,noun
+reintegrate,verb
  reintegrated reintegrates reintegrating
-reintegration
-reinterpret
+reintegration,noun
+reinterpret,verb
  reinterpreted reinterpreting reinterprets
-reinterpretation
+reinterpretation,noun
  reinterpretations
-reintroduce
+reintroduce,verb
  reintroduced reintroduces reintroducing
-reintroduction
+reintroduction,noun
  reintroductions
-reinvent
+reinvent,verb
  reinvented reinventing reinvents
-reinvention
+reinvention,noun
  reinventions
-reinvest
+reinvest,verb
  reinvested reinvesting reinvests
-reinvestment
-reinvigorate
+reinvestment,noun
+reinvigorate,verb
  reinvigorated reinvigorates reinvigorating
-reissue
+reissue,verb,noun
  reissued reissues reissuing
-reiterate
+reiterate,verb
  reiterated reiterates reiterating
-reiteration
+reiteration,noun
  reiterations
-reiterative
-reject
+reiterative,adjective
+reject,verb,noun
  rejected rejecting rejects
-rejection
+rejection,noun
  rejections
-rejig
+rejig,verb,noun
  rejigged rejigging rejigs
-rejigger
+rejigger,verb
  rejiggered rejiggering rejiggers
-rejoice
+rejoice,verb
  rejoiced rejoices rejoicing -> [rejoicing]
-rejoicing -> [rejoice]
+rejoicing,noun
  rejoicings
-rejoin
+rejoin,verb
  rejoined rejoining rejoins
-rejoinder
+rejoinder,noun
  rejoinders
-rejudge
+rejudge,verb
  rejudged rejudges rejudging
-rejuvenate
+rejuvenate,verb
  rejuvenated rejuvenates rejuvenating
-rejuvenation
-rekindle
+rejuvenation,noun
+rekindle,verb
  rekindled rekindles rekindling
-relabel
+relabel,verb
  relabeled relabeling relabelled relabelling relabels
-relapse
+relapse,verb,noun
  relapsed relapses relapsing
-relate
+relate,verb
  related relatedness relates relating
-relater
+relater,noun
  relaters
-relation
+relation,noun
  relations
-relational
-relationship
+relational,adjective
+relationship,noun
  relationships
-relative
+relative,noun,adjective
  relatively relatives
-relativism
-relativist
+relativism,noun
+relativist,noun
  relativists
-relativity
-relaunch
+relativity,noun
+relaunch,verb,noun
  relaunched relaunches relaunching
-relax
+relax,verb
  relaxed relaxes relaxing
-relaxant
+relaxant,noun,adjective
  relaxants
-relaxation
+relaxation,noun
  relaxations
-relaxer
+relaxer,noun
  relaxers
-relay
+relay,verb,noun
  relaid relayed relaying relays
-relearn
+relearn,verb
  relearned relearning relearns relearnt
-release
+release,verb,noun
  released releases releasing
-relegate
+relegate,verb
  relegated relegates relegating
-relegation
-relent
+relegation,noun
+relent,verb
  relented relenting relentless relentlessly relentlessness relents
-relevance
+relevance,noun
  relevancy
-relevant
+relevant,adjective
  relevantly
-reliable
+reliable,noun,adjective
  reliability reliably
-reliance
-reliant
-relic
+reliance,noun
+reliant,adjective
+relic,noun
  relics
-relief
+relief,noun
  reliefs
-relieve
+relieve,verb
  relieved relieves relieving
-reliever
+reliever,noun
  relievers
-relight
+relight,verb
  relighted relighting relights relit
-religion
+religion,noun
  religions
-religiosity
-religious
+religiosity,noun
+religious,noun,adjective
  religiously religiousness
-reline
+reline,verb
  relined relines relining
-relinquish
+relinquish,verb
  relinquished relinquishes relinquishing
-relinquishment
-reliquary
+relinquishment,noun
+reliquary,noun
  reliquaries
-relish
+relish,verb,noun
  relished relishes relishing
-relivable
-relive
+relivable,verb
+relive,verb
  relived relives reliving
-rellie
+rellie,noun
  rellies
-reload
+reload,verb
  reloaded reloading reloads
-relocate
+relocate,verb
  relocated relocates relocating
-relocation
+relocation,noun
  relocations
-reluctance
-reluctant
+reluctance,noun
+reluctant,adjective
  reluctantly
-rely
+rely,verb
  relied relies relying
-rem
+rem,noun
  rems
-remain
+remain,verb
  remained remaining remains
-remainder
+remainder,verb,noun
  remaindered remaindering remainders
-remake
+remake,verb,noun
  remade remakes remaking
-remand
+remand,verb,noun
  remanded remanding remands
-remap
+remap,verb
  remapped remapping remaps
-remark
+remark,verb,noun
  remarked remarking remarks
-remarkable
+remarkable,adjective
  remarkableness remarkably
-remarriage
+remarriage,noun
  remarriages
-remarry
+remarry,verb
  remarried remarries remarrying
-remaster
+remaster,verb
  remastered remastering remasters
-rematch
+rematch,noun
  rematches
-remeasure
+remeasure,verb
  remeasured remeasures remeasuring
-remediable
-remedial
+remediable,adjective
+remedial,adjective
  remedially
-remediate
+remediate,verb
  remediated remediates remediating
-remediation
-remedy
+remediation,noun
+remedy,verb,noun
  remedied remedies remedying
-remelt
+remelt,verb
  remelted remelting remelts
-remember
+remember,verb
  remembered remembering remembers
-remembrance
+remembrance,noun
  remembrances
-remigrate
+remigrate,verb
  remigrated remigrates remigrating
-remind
+remind,verb
  reminded reminding reminds
-reminder
+reminder,noun
  reminders
-reminisce
+reminisce,verb
  reminisced reminisces reminiscing
-reminiscence
+reminiscence,noun
  reminiscences
-reminiscent
+reminiscent,adjective
  reminiscently
-remiss
+remiss,adjective
  remissly remissness
-remission
+remission,noun
  remissions
-remit
+remit,verb,noun
  remits remitted remitting
-remittance
+remittance,noun
  remittances
-remix
+remix,verb,noun
  remixed remixes remixing
-remnant
+remnant,noun,adjective
  remnants
-remodel
+remodel,verb
  remodeled remodeling remodelled remodelling remodels
-remold
+remold,verb,noun
  remolded remolding remolds remould remoulded remoulding remoulds
-remonstrance
+remonstrance,noun
  remonstrances
-remonstrant
+remonstrant,noun
  remonstrants
-remonstrate
+remonstrate,verb
  remonstrated remonstrates remonstrating
-remorse
+remorse,noun
  remorseful remorsefully remorseless remorselessly remorselessness
-remortgage
+remortgage,verb,noun
  remortgaged remortgages remortgaging
-remote
+remote,noun,adjective
  remotely remoteness remoter remotes remotest
-remount
+remount,verb,noun
  remounted remounting remounts
-removable
-removal
+removable,adjective
+removal,noun
  removals
-remove
+remove,verb,noun
  removed removes removing
-remover
+remover,noun
  removers
-remunerate
+remunerate,verb
  remunerated remunerates remunerating
-remuneration
+remuneration,noun
  remunerations
-remunerative
-renaissance
+remunerative,adjective
+renaissance,noun
  renaissances
-renal
-rename
+renal,adjective
+rename,verb
  renamed renames renaming
-renascence
+renascence,noun
  renascences
-renascent
-rend
+renascent,adjective
+rend,verb
  rended rending rends rent -> [rent]
-render
+render,verb,noun
  rendered rendering -> [rendering] renders
-rendering -> [render]
+rendering,noun
  renderings
-rendezvous
+rendezvous,verb,noun
  rendezvoused rendezvouses rendezvousing
-rendition
+rendition,noun
  renditions
-renegade
+renegade,verb,noun,adjective
  renegades
-renege
+renege,verb
  reneged reneges reneging
-reneger
+reneger,noun
  renegers
-renegotiable
-renegotiate
+renegotiable,adjective
+renegotiate,verb
  renegotiated renegotiates renegotiating
-renegotiation
-renew
+renegotiation,noun
+renew,verb
  renewed renewing renews
-renewable
+renewable,noun,adjective
  renewables
-renewal
+renewal,noun
  renewals
-rennet
-rennin
-renominate
+rennet,noun
+rennin,noun
+renominate,verb
  renominated renominates renominating
-renomination
-renounce
+renomination,noun
+renounce,verb
  renounced renounces renouncing
-renouncement
-renovate
+renouncement,noun
+renovate,verb
  renovated renovates renovating
-renovation
+renovation,noun
  renovations
-renovator
+renovator,noun
  renovators
-renown
+renown,noun
  renowned
-rent -> [rend]
+rent,verb,noun
  rented renting rents
-rental
+rental,noun,adjective
  rentals
-renter
+renter,noun
  renters
-renumber
+renumber,verb
  renumbered renumbering renumbers
-renunciation
+renunciation,noun
  renunciations
-reoccupation
-reoccupy
+reoccupation,noun
+reoccupy,verb
  reoccupied reoccupies reoccupying
-reoccur
+reoccur,verb
  reoccurred reoccurring reoccurs
-reopen
+reopen,verb
  reopened reopening reopens
-reorder
+reorder,verb,noun
  reordered reordering reorders
-reorg!
+reorg,verb,noun
  reorged reorging reorgs
-reorganization
+reorganization,noun
  reorganisation reorganisations reorganizations
-reorganize
+reorganize,verb
  reorganise reorganised reorganises reorganising reorganized reorganizes reorganizing
-reorient
+reorient,verb
  reoriented reorienting reorients
-reorientation
-rep
+reorientation,noun
+rep,verb,noun
  reps
-repack
+repack,verb
  repacked repacking repacks
-repackage
+repackage,verb
  repackaged repackages repackaging
-repaint
+repaint,verb,noun
  repainted repainting repaints
-repair
+repair,verb,noun
  repaired repairing repairs
-repairable
-repairer
+repairable,adjective
+repairer,noun
  repairers
-repairman
+repairman,noun
  repairmen
-reparable
-reparation
+reparable,adjective
+reparation,noun
  reparations
-repartee
-repast
+repartee,noun
+repast,noun
  repasts
-repatriate
+repatriate,verb,noun
  repatriated repatriates repatriating
-repatriation
+repatriation,noun
  repatriations
-repave
+repave,verb
  repaved repaves repaving
-repay
+repay,verb
  repaid repaying repays
-repayable
-repayment
+repayable,adjective
+repayment,noun
  repayments
-repeal
+repeal,verb,noun
  repealed repealing repeals
-repeat
+repeat,verb,noun
  repeated repeatedly repeating repeats
-repeatable
-repeater
+repeatable,adjective
+repeater,noun
  repeaters
-repel
+repel,verb
  repelled repelling repels
-repellent
+repellent,noun,adjective
  repellant repellants repellents
-repent
+repent,verb
  repented repenting repents
-repentance
-repentant
+repentance,noun
+repentant,adjective
  repentantly
-repercussion
+repercussion,noun
  repercussions
-repertoire
+repertoire,noun
  repertoires
-repertory
+repertory,noun
  repertories
-repetition
+repetition,noun
  repetitions
-repetitious
+repetitious,adjective
  repetitiously repetitiousness
-repetitive
+repetitive,adjective
  repetitively repetitiveness
-rephotograph
+rephotograph!
  rephotographed rephotographing rephotographs
-rephrase
+rephrase,verb
  rephrased rephrases rephrasing
-repine
+repine,verb
  repined repines repining
-replace
+replace,verb
  replaced replaces replacing
-replaceable
-replacement
+replaceable,adjective
+replacement,noun
  replacements
-replant
+replant,verb
  replanted replanting replants
-replay
+replay,verb,noun
  replayed replaying replays
-replenish
+replenish,verb
  replenished replenishes replenishing
-replenishment
-replete
+replenishment,noun
+replete,adjective
  repleteness
-repletion
-replica
+repletion,noun
+replica,noun
  replicas
-replicate
+replicate,verb,noun,adjective
  replicated replicates replicating
-replication
+replication,noun
  replications
-reply
+reply,verb,noun
  replied replies replying
-repopulate
+repopulate,verb
  repopulated repopulates repopulating
-report
+report,verb,noun
  reported reportedly reporting reports
-reportage
-reporter
+reportage,noun
+reporter,noun
  reporters
-reportorial
-repose
+reportorial,adjective
+repose,verb,noun
  reposed reposeful reposes reposing
-repository
+repository,noun
  repositories
-repossess
+repossess,verb
  repossessed repossesses repossessing
-repossession
+repossession,noun
  repossessions
-repot
+repot,verb
  repots repotted repotting
-reprehend
+reprehend,verb
  reprehended reprehending reprehends
-reprehensible
+reprehensible,adjective
  reprehensibility reprehensibly
-reprehension
-represent
+reprehension,noun
+represent,verb
  represented representing represents
-representation
+representation,noun
  representations
-representational
-representative
+representational,adjective
+representative,noun,adjective
  representatives
-repress
+repress,verb
  repressed represses repressing
-repression
+repression,noun
  repressions
-repressive
+repressive,adjective
  repressively repressiveness
-reprice
+reprice,verb
  repriced reprices repricing
-reprieve
+reprieve,verb,noun
  reprieved reprieves reprieving
-reprimand
+reprimand,verb,noun
  reprimanded reprimanding reprimands
-reprint
+reprint,verb,noun
  reprinted reprinting reprints
-reprisal
+reprisal,noun
  reprisals
-reprise
+reprise,verb,noun
  reprised reprises reprising
-reproach
+reproach,verb,noun
  reproached reproaches reproachful reproachfully reproaching
-reproachable
-reprobate
+reproachable,adjective
+reprobate,verb,noun,adjective
  reprobates
-reprocess
+reprocess,verb
  reprocessed reprocesses reprocessing
-reproduce
+reproduce,verb
  reproduced reproduces reproducing
-reproducer
+reproducer,noun
  reproducers
-reproducible
-reproduction
+reproducible,adjective
+reproduction,noun
  reproductions
-reproductive
-reprogram
+reproductive,adjective
+reprogram,verb
  reprogramed reprograming reprogramme reprogrammed reprogrammes reprogramming reprograms
-reproof
+reproof,verb,noun
  reproofs
-reprove
+reprove,verb
  reproved reproves reproving reprovingly
-reptile
+reptile,noun,adjective
  reptiles
-reptilian
+reptilian,noun,adjective
  reptilians
-republic
+republic,noun
  republics
-republican
+republican,noun,adjective
  republicans
-republicanism
-republication
+republicanism,noun
+republication,noun
  republications
-republish
+republish,verb
  republished republishes republishing
-repudiate
+repudiate,verb
  repudiated repudiates repudiating
-repudiation
+repudiation,noun
  repudiations
-repudiator
+repudiator,noun
  repudiators
-repugnance
-repugnant
-repulse
+repugnance,noun
+repugnant,adjective
+repulse,verb,noun
  repulsed repulses repulsing
-repulsion
-repulsive
+repulsion,noun
+repulsive,adjective
  repulsively repulsiveness
-repurchase
+repurchase,verb,noun
  repurchased repurchases repurchasing
-repurpose
+repurpose,verb
  repurposed repurposes repurposing
-reputable
+reputable,adjective
  reputability reputably
-reputation
+reputation,noun
  reputations
-repute
+repute,verb,noun
  reputed reputedly reputes reputing
-request
+request,verb,noun
  requested requesting requests
-requiem
+requiem,noun
  requiems
-require
+require,verb
  required requires requiring
-requirement
+requirement,noun
  requirements
-requisite
+requisite,noun,adjective
  requisites
-requisition
+requisition,verb,noun
  requisitioned requisitioning requisitions
-requital
-requite
+requital,noun
+requite,verb
  requited requites requiting
-requiter
+requiter,noun
  requiters
-reread
+reread,verb,noun
  rereading rereads
-rerecord
+rerecord,verb
  rerecorded rerecording rerecords
-reroute
+reroute,verb
  rerouted reroutes rerouting
-rerun
+rerun,verb,noun
  reran rerunning reruns
-resalable
+resalable,adjective
  resaleable
-resale
+resale,noun
  resales
-reschedule
+reschedule,verb
  rescheduled reschedules rescheduling
-rescind
+rescind,verb
  rescinded rescinding rescinds
-rescission
-rescue
+rescission,noun
+rescue,verb,noun
  rescued rescues rescuing
-rescuer
+rescuer,noun
  rescuers
-reseal
+reseal,verb
  resealed resealing reseals
-resealable
-research
+resealable,adjective
+research,verb,noun
  researched researches researching
-researcher
+researcher,noun
  researchers
-resection
+resection,noun
  resections
-reseed
+reseed,verb
  reseeded reseeding reseeds
-resell
+resell,verb
  reselling resells resold
-resemblance
+resemblance,noun
  resemblances
-resemble
+resemble,verb
  resembled resembles resembling
-resent
+resent,verb
  resented resentful resentfully resentfulness resenting resents
-resentment
+resentment,noun
  resentments
-reserpine
-reservation
+reserpine,noun
+reservation,noun
  reservations
-reserve
+reserve,verb,noun
  reserved -> [reserved] reserves reserving
-reserved -> [reserve]
+reserved,adjective
  reservedly reservedness
-reservist
+reservist,noun
  reservists
-reservoir
+reservoir,noun
  reservoirs
-reset
+reset,verb
  resets resetting
-resettle
+resettle,verb
  resettled resettles resettling
-resettlement
-resew
+resettlement,noun
+resew,verb
  resewed resewing resewn resews
-reshape
+reshape,verb
  reshaped reshapes reshaping
-resharpen
+resharpen,verb
  resharpened resharpening resharpens
-reship
+reship,verb
  reshipped reshipping reships
-reshipment
-reshuffle
+reshipment,noun
+reshuffle,verb,noun
  reshuffled reshuffles reshuffling
-reside
+reside,verb
  resided resides residing
-residence
+residence,noun
  residences
-residency
+residency,noun
  residencies
-resident
+resident,noun,adjective
  residents
-residential
-residual
+residential,adjective
+residual,noun,adjective
  residuals
-residue
+residue,noun
  residues
-residuum
-resign
+residuum,noun
+resign,verb
  resigned resignedly resigning resigns
-resignation
+resignation,noun
  resignations
-resilience
+resilience,noun
  resiliency
-resilient
+resilient,adjective
  resiliently
-resin
+resin,verb,noun
  resins
-resinous
-resist
+resinous,adjective
+resist,verb,noun
  resisted resisting resistless resists
-resistance
+resistance,noun
  resistances
-resistant
-resister
+resistant,adjective
+resister,noun
  resisters
-resistible
-resistor
+resistible,adjective
+resistor,noun
  resistors
-resit
+resit,verb,noun
  resat resits resitting
-reskill
+reskill,verb
  reskilled reskilling reskills
-resole
+resole,verb
  resoled resoles resoling
-resolute
+resolute,adjective
  resolutely resoluteness
-resolution
+resolution,noun
  resolutions
-resolvable
-resolve
+resolvable,adjective
+resolve,verb,noun
  resolved resolves resolving
-resonance
+resonance,noun
  resonances
-resonant
+resonant,adjective
  resonantly
-resonate
+resonate,verb
  resonated resonates resonating
-resonator
+resonator,noun
  resonators
-resorption
-resort
+resorption,noun
+resort,verb,noun
  resorted resorting resorts
-resound
+resound,verb
  resounded resounding resoundingly resounds
-resource
+resource,verb,noun
  resourced resourceful resourcefully resourcefulness resources resourcing
-resow
+resow,verb
  resowed resowing resown resows
-respect
+respect,verb,noun
  respected respectful respectfully respectfulness respecting respects
-respectable
+respectable,adjective
  respectability respectably
-respecter
+respecter,noun
  respecters
-respective
+respective,adjective
  respectively
-respell
+respell,verb
  respelled respelling respells respelt
-respiration
-respirator
+respiration,noun
+respirator,noun
  respirators
-respiratory
-respire
+respiratory,adjective
+respire,verb
  respired respires respiring
-respite
+respite,verb,noun
  respites
-resplendence
-resplendent
+resplendence,noun
+resplendent,adjective
  resplendently
-respond
+respond,verb,noun
  responded responding responds
-respondent
+respondent,noun,adjective
  respondents
-response
+response,noun
  responses
-responsibility -> [responsible]
+responsibility,noun
  responsibilities
-responsible
+responsible,adjective
  responsibility -> [responsibility] responsibly
-responsive
+responsive,adjective
  responsively responsiveness
-respray
+respray,verb,noun
  resprayed respraying resprays
-rest
+rest,verb,noun
  rested restful restfuller restfullest restfully restfulness resting restless restlessly restlessness rests
-restaff
+restaff!
  restaffed restaffing restaffs
-restart
+restart,verb,noun
  restarted restarting restarts
-restate
+restate,verb
  restated restates restating
-restatement
+restatement,noun
  restatements
-restaurant
+restaurant,noun
  restaurants
-restaurateur
+restaurateur,noun
  restauranteur restauranteurs restaurateurs
-restitch
+restitch,verb
  restitched restitches restitching
-restitution
-restive
+restitution,noun
+restive,adjective
  restively restiveness
-restock
+restock,verb
  restocked restocking restocks
-restoration
+restoration,noun
  restorations
-restorative
+restorative,noun,adjective
  restoratives
-restore
+restore,verb
  restored restores restoring
-restorer
+restorer,noun
  restorers
-restrain
+restrain,verb
  restrained restraining restrains
-restrainer
+restrainer,noun
  restrainers
-restraint
+restraint,noun
  restraints
-restrengthen
+restrengthen,verb
  restrengthened restrengthening restrengthens
-restrict
+restrict,verb
  restricted restricting restricts
-restriction
+restriction,noun
  restrictions
-restrictive
+restrictive,adjective
  restrictively restrictiveness
-restring
+restring,verb
  restringing restrings restrung
-restroom
+restroom,noun
  restrooms
-restructure
+restructure,verb
  restructured restructures restructuring -> [restructuring]
-restructuring -> [restructure]
+restructuring,verb
  restructurings
-restudy
+restudy,verb,noun
  restudied restudies restudying
-restyle
+restyle,verb,noun
  restyled restyles restyling
-resubmit
+resubmit,verb
  resubmits resubmitted resubmitting
-resubscribe
+resubscribe,verb
  resubscribed resubscribes resubscribing
-result
+result,verb,noun
  resulted resulting results
-resultant
+resultant,noun,adjective
  resultants
-resume
+resume,verb,noun
  resumed resumes resuming
-resumption
+resumption,noun
  resumptions
-resupply
+resupply,verb,noun
  resupplied resupplies resupplying
-resurface
+resurface,verb
  resurfaced resurfaces resurfacing
-resurgence
+resurgence,noun
  resurgences
-resurgent
-resurrect
+resurgent,adjective
+resurrect,verb
  resurrected resurrecting resurrects
-resurrection
+resurrection,noun
  resurrections
-resurvey
+resurvey,verb,noun
  resurveyed resurveying resurveys
-resuscitate
+resuscitate,verb
  resuscitated resuscitates resuscitating
-resuscitation
-resuscitator
+resuscitation,noun
+resuscitator,noun
  resuscitators
-retail
+retail,verb,noun,adverb
  retailed retailing retails
-retailer
+retailer,noun
  retailers
-retain
+retain,verb
  retained retaining retains
-retainer
+retainer,noun
  retainers
-retake
+retake,verb,noun
  retaken retakes retaking retook
-retaliate
+retaliate,verb
  retaliated retaliates retaliating
-retaliation
+retaliation,noun
  retaliations
-retaliative
-retaliatory
-retard
+retaliative,adjective
+retaliatory,adjective
+retard,verb,noun
  retarded retarding retards
-retardant
+retardant,noun,adjective
  retardants
-retardation
-retarder
+retardation,noun
+retarder,noun
  retarders
-retch
+retch,verb,noun
  retched retches retching
-reteach
+reteach,verb
  retaught reteaches reteaching
-retell
+retell,verb
  retelling retells retold
-retention
-retentive
+retention,noun
+retentive,adjective
  retentively retentiveness
-retest
+retest,verb,noun
  retested retesting retests
-rethink
+rethink,verb,noun
  rethinking rethinks rethought
-reticence
-reticent
+reticence,noun
+reticent,adjective
  reticently
-reticulated
-reticulation
+reticulated,adjective
+reticulation,noun
  reticulations
-retie
+retie,verb
  retied reties retying
-retina
+retina,noun
  retinae retinas
-retinal
-retinue
+retinal,adjective
+retinue,noun
  retinues
-retire
+retire,verb,noun
  retired retires retiring
-retiree
+retiree,noun
  retirees
-retirement
+retirement,noun
  retirements
-retool
+retool,verb
  retooled retooling retools
-retort
+retort,verb,noun
  retorted retorting retorts
-retouch
+retouch,verb
  retouched retouches retouching
-retrace
+retrace,verb
  retraced retraces retracing
-retract
+retract,verb
  retracted retracting retracts
-retractable
-retractile
-retraction
+retractable,adjective
+retractile,adjective
+retraction,noun
  retractions
-retrain
+retrain,verb
  retrained retraining retrains
-retread
+retread,verb,noun
  retreaded retreading retreads retrod retrodden
-retreat
+retreat,verb,noun
  retreated retreating retreats
-retrench
+retrench,verb
  retrenched retrenches retrenching
-retrenchment
+retrenchment,noun
  retrenchments
-retrial
+retrial,noun
  retrials
-retribution
+retribution,noun
  retributions
-retributive
-retrievable
-retrieval
+retributive,adjective
+retrievable,adjective
+retrieval,noun
  retrievals
-retrieve
+retrieve,verb,noun
  retrieved retrieves retrieving
-retriever
+retriever,noun
  retrievers
-retro
+retro,noun,adjective
  retros
-retroactive
+retroactive,adjective
  retroactively
-retrofire
+retrofire,verb,noun
  retrofired retrofires retrofiring
-retrofit
+retrofit,verb,noun
  retrofits retrofitted retrofitting
-retroflex
-retrograde
+retroflex,adjective
+retrograde,verb,noun,adjective
  retrograded retrogrades retrograding
-retrogress
+retrogress,verb
  retrogressed retrogresses retrogressing
-retrogression
-retrogressive
-retrorocket
+retrogression,noun
+retrogressive,adjective
+retrorocket,noun
  retrorockets
-retrospect
+retrospect,noun
  retrospected retrospecting retrospects
-retrospection
-retrospective
+retrospection,noun
+retrospective,noun,adjective
  retrospectively retrospectives
-retrovirus
+retrovirus,noun
  retroviruses
-retry
+retry,verb,noun
  retried retries retrying
-retsina
+retsina,noun
  retsinas
-return
+return,verb,noun
  returned returning returns
-returnable
+returnable,adjective
  returnables
-returnee
+returnee,noun
  returnees
-returner
+returner,noun
  returners
-retweet!
+retweet,verb,noun
  retweeted retweeting retweets
-retype
+retype,verb
  retyped retypes retyping
-reunification
-reunify
+reunification,noun
+reunify,verb
  reunified reunifies reunifying
-reunion
+reunion,noun,propernoun
  reunions
-reunite
+reunite,verb
  reunited reunites reuniting
-reupholster
+reupholster,verb
  reupholstered reupholstering reupholsters
-reusable
-reuse
+reusable,noun,adjective
+reuse,verb,noun
  reused reuses reusing
-rev
+rev,verb,noun
  revs revved revving
-revaluation
+revaluation,noun
  revaluations
-revalue
+revalue,verb
  revalued revalues revaluing
-revamp
+revamp,verb,noun
  revamped revamping -> [revamping] revamps
-revamping -> [revamp]
+revamping,verb,noun
  revampings
-reveal
+reveal,verb,noun
  revealed revealing revealingly reveals
-reveille
-revel
+reveille,noun
+revel,verb,noun
  reveled reveling revelled revelling revels
-revelation
+revelation,noun
  revelations
-revelatory
-reveler
+revelatory,adjective
+reveler,noun
  revelers reveller revellers
-revelry
+revelry,noun
  revelries
-revenge
+revenge,verb,noun
  revenged revengeful revengefully revenges revenging
-revenue
+revenue,noun
  revenues
-revenuer
+revenuer,noun
  revenuers
-reverb
-reverberate
+reverb,noun
+reverberate,verb
  reverberated reverberates reverberating
-reverberation
+reverberation,noun
  reverberations
-revere
+revere,verb
  revered reveres revering
-reverence
+reverence,verb,noun
  reverenced reverences reverencing
-reverend
+reverend,noun,adjective
  reverends
-reverent
+reverent,adjective
  reverently
-reverential
+reverential,adjective
  reverentially
-reverie
+reverie,noun
  reveries revery
-revers
-reversal
+revers,noun
+reversal,noun
  reversals
-reverse
+reverse,verb,noun,adjective
  reversed reversely reverses reversing
-reversible
+reversible,adjective
  reversibility reversibly
-reversion
+reversion,noun
  reversions
-revert
+revert,verb,noun
  reverted reverting reverts
-revertible
-revetment
+revertible,adjective
+revetment,noun
  revetments
-review
+review,verb,noun
  reviewed reviewing reviews
-reviewer
+reviewer,noun
  reviewers
-revile
+revile,verb
  reviled reviles reviling
-revilement
-reviler
+revilement,noun
+reviler,noun
  revilers
-revise
+revise,verb,noun
  revised revises revising
-reviser
+reviser,noun
  revisers
-revision
+revision,noun
  revisions
-revisionism
-revisionist
+revisionism,noun
+revisionist,noun,adjective
  revisionists
-revisit
+revisit,verb
  revisited revisiting revisits
-revitalization
+revitalization,noun
  revitalisation
-revitalize
+revitalize,verb
  revitalise revitalised revitalises revitalising revitalized revitalizes revitalizing
-revival
+revival,noun
  revivals
-revivalism
-revivalist
+revivalism,noun
+revivalist,adjective,noun
  revivalists
-revive
+revive,verb
  revived revives reviving
-revivification
-revivify
+revivification,noun
+revivify,verb
  revivified revivifies revivifying
-revocable
+revocable,adjective
  revokable
-revocation
+revocation,noun
  revocations
-revoke
+revoke,verb
  revoked revokes revoking
-revolt
+revolt,verb,noun
  revolted revolting revoltingly revolts
-revolution
+revolution,noun
  revolutions
-revolutionary
+revolutionary,noun,adjective
  revolutionaries
-revolutionist
+revolutionist,noun
  revolutionists
-revolutionize
+revolutionize,verb
  revolutionise revolutionised revolutionises revolutionising revolutionized revolutionizes revolutionizing
-revolvable
-revolve
+revolvable,adjective
+revolve,verb
  revolved revolves revolving
-revolver
+revolver,noun
  revolvers
-revue
+revue,noun
  revues
-revulsion
-reward
+revulsion,noun
+reward,verb,noun
  rewarded rewarding rewards
-rewarm
+rewarm,verb
  rewarmed rewarming rewarms
-rewash
+rewash,verb
  rewashed rewashes rewashing
-reweave
+reweave,verb
  reweaved reweaves reweaving rewove rewoven
-rewed
+rewed,verb
  rewedded rewedding reweds
-reweigh
+reweigh,verb
  reweighed reweighing reweighs
-rewind
+rewind,verb,noun
  rewinding rewinds rewound
-rewire
+rewire,verb,noun
  rewired rewires rewiring
-reword
+reword,verb
  reworded rewording rewords
-rework
+rework,verb
  reworked reworking -> [reworking] reworks
-reworking -> [rework]
+reworking,verb
  reworkings
-rewritable
-rewrite
+rewritable,adjective
+rewrite,verb,noun
  rewrites rewriting rewritten rewrote
-rezone
+rezone,verb
  rezoned rezones rezoning
-rhapsodic
-rhapsodical
-rhapsodize
+rhapsodic,adjective
+rhapsodical,adjective
+rhapsodize,verb
  rhapsodise rhapsodised rhapsodises rhapsodising rhapsodized rhapsodizes rhapsodizing
-rhapsody
+rhapsody,noun
  rhapsodies
-rhea
+rhea,noun,propernoun
  rheas
-rhenium
-rheostat
+rhenium,noun
+rheostat,noun
  rheostats
-rhesus
+rhesus,adjective
  rhesuses
-rhetoric
-rhetorical
+rhetoric,noun
+rhetorical,adjective
  rhetorically
-rhetorician
+rhetorician,noun
  rhetoricians
-rheum
-rheumatic
+rheum,noun
+rheumatic,noun,adjective
  rheumatically rheumatics
-rheumatism
-rheumatoid
-rheumatology
-rheumy
+rheumatism,noun
+rheumatoid,adjective
+rheumatology,noun
+rheumy,adjective
  rheumier rheumiest
-rhinestone
+rhinestone,noun
  rhinestones
-rhinitis
-rhino
+rhinitis,noun
+rhino,noun
  rhinos
-rhinoceros
+rhinoceros,noun
  rhinoceri rhinoceroses
-rhizome
+rhizome,noun
  rhizomes
-rho
+rho,noun
  rhos
-rhodium
-rhododendron
+rhodium,noun
+rhododendron,noun
  rhododendrons
-rhomboid
+rhomboid,noun,adjective
  rhomboids
-rhomboidal
-rhombus
+rhomboidal,adjective
+rhombus,noun
  rhombi rhombuses
-rhotic
-rhubarb
+rhotic,adjective
+rhubarb,noun
  rhubarbs
-rhyme
+rhyme,verb,noun
  rhymed rhymes rhyming rime -> [rime] rimed rimes riming
-rhymer
+rhymer,noun
  rhymers rimer rimers
-rhymester
+rhymester,noun
  rhymesters rimester rimesters
-rhythm
+rhythm,noun
  rhythms
-rhythmic
-rhythmical
+rhythmic,adjective
+rhythmical,adjective
  rhythmically
-rial
+rial,noun
  rials
-rib
+rib,verb,noun
  ribbed ribbing ribs
-ribald
-ribaldry
-ribber
+ribald,adjective
+ribaldry,noun
+ribber,noun
  ribbers
-ribbon
+ribbon,verb,noun
  ribbons
-ribcage
+ribcage,noun
  ribcages
-riboflavin
-rice
+riboflavin,noun
+rice,verb,noun
  riced rices ricing
-ricepaper
-ricer
+ricepaper,noun
+ricer,noun
  ricers
-rich
+rich,adjective
  richer riches richest richly richness
-ricin
-rick
+ricin,noun
+rick,verb,noun
  ricked ricking ricks
-rickets
-rickety
+rickets,noun
+rickety,adjective
  ricketier ricketiest
-rickrack
-ricksha
+rickrack,noun
+ricksha,noun
  rickshas rickshaw rickshaws
-ricochet
+ricochet,verb,noun
  ricocheted ricocheting ricochets ricochetted ricochetting
-ricotta
-rid
+ricotta,noun
+rid,verb
  ridded ridding rids
-riddance
-ridden -> [ride]
-riddle
+riddance,noun
+ridden!
+riddle,verb,noun
  riddled riddles riddling
-ride
+ride,verb,noun
  ridden -> [ridden] rides riding rode
-rider
+rider,noun
  riderless riders
-ridership
-ridge
+ridership,noun
+ridge,verb,noun
  ridged ridges ridging
-ridgepole
+ridgepole,noun
  ridgepoles
-ridgy
+ridgy,adjective
  ridgier ridgiest
-ridicule
+ridicule,verb,noun
  ridiculed ridicules ridiculing
-ridiculous
+ridiculous,adjective
  ridiculously ridiculousness
-rife
+rife,adjective,adverb
  rifer rifest
-riff
+riff,verb,noun
  riffed riffing riffs
-riffle
+riffle,verb,noun
  riffled riffles riffling
-riffraff
-rifle
+riffraff,noun
+rifle,verb,noun
  rifled rifles rifling
-rifleman
+rifleman,noun
  riflemen
-rifler
+rifler,noun
  riflers
-rift
+rift,verb,noun
  rifted rifting rifts
-rig
+rig,verb,noun
  rigged rigging rigs
-rigatoni
-rigger
+rigatoni,noun
+rigger,noun
  riggers
-right
+right,verb,noun,exclamation,adjective,adverb
  righted righter rightest rightful rightfully rightfulness righting rightly rightmost rightness rights
-right-click
+right-click,verb
  right-clicked right-clicking right-clicks
-righteous
+righteous,adjective
  righteously righteousness
-right-hand
-right-handed
-right-hander
+right-hand,noun,adjective
+right-handed,adjective,adverb
+right-hander,noun
  right-handers
-rightism
-rightist
+rightism,noun
+rightist,noun,adjective
  rightists
-righto
-rightsize
+righto,exclamation
+rightsize,verb
  rightsized rightsizes rightsizing
-rightward
+rightward,adjective,adverb
  rightwards
-right-wing
-right-winger
+right-wing,noun,adjective
+right-winger,noun
  right-wingers
-rigid
+rigid,noun,adjective
  rigidly rigidness
-rigidity
-rigmarole
+rigidity,noun
+rigmarole,noun
  rigamarole rigamaroles rigmaroles
-rigor
+rigor,noun
  rigors rigour rigours
-rigorous
+rigorous,adjective
  rigorously rigorousness
-rile
+rile,verb
  riled riles riling
-rill
+rill,noun
  rills
-rim
+rim,verb,noun,abbreviation
  rimless rimmed rimming rims
-rime -> [rhyme]
-rind
+rime,verb,noun,noun,verb
+rind,verb,noun
  rinds
-ring
+ring,verb,noun
  rang ringed ringing ringlike rings rung -> [rung]
-ringer
+ringer,noun
  ringers
-ringgit
+ringgit,noun
  ringgits
-ringleader
+ringleader,noun
  ringleaders
-ringlet
+ringlet,noun
  ringlets
-ringmaster
+ringmaster,noun
  ringmasters
-ringside
-ringtone
+ringside,noun,adverb,adjective
+ringtone,noun
  ringtones
-ringtoss
-ringworm
-rink
+ringtoss,noun
+ringworm,noun
+rink,noun
  rinks
-rinse
+rinse,verb,noun
  rinsed rinses rinsing
-riot
+riot,verb,noun
  rioted rioting riots
-rioter
+rioter,noun
  rioters
-riotous
+riotous,adjective
  riotously riotousness
-rip
+rip,verb,noun,abbreviation
  ripped ripping rips
-riparian
-ripcord
+riparian,adjective
+ripcord,noun
  ripcords
-ripe
+ripe,adjective
  ripely ripeness riper ripest
-ripen
+ripen,verb
  ripened ripening ripens
-ripoff
+ripoff,noun
  ripoffs
-riposte
+riposte,verb,noun
  ripost riposted ripostes riposting riposts
-ripper
+ripper,noun,adjective
  rippers
-ripple
+ripple,verb,noun
  rippled ripples rippling
-ripply
-ripsaw
+ripply,adjective
+ripsaw,noun
  ripsaws
-riptide
+riptide,noun
  riptides
-rise
+rise,verb,noun
  risen rises rising -> [rising] rose -> [rose]
-riser
+riser,noun
  risers
-risible
+risible,adjective
  risibility
-rising -> [rise]
+rising,noun,adjective
  risings
-risk
+risk,verb,noun
  risked risking risks
-risk-taking
-risky
+risk-taking,noun,adjective
+risky,adjective
  riskier riskiest riskily riskiness
-risotto
+risotto,noun
  risottos
-risque
-rissole
+risque,adjective
+rissole,noun
  rissoles
-rite
+rite,noun
  rites
-ritual
+ritual,noun,adjective
  ritually rituals
-ritualism
-ritualistic
+ritualism,noun
+ritualistic,adjective
  ritualistically
-ritualized
+ritualized,verb
  ritualised
-ritzy
+ritzy,adjective
  ritzier ritziest
-rival
+rival,verb,noun
  rivaled rivaling rivalled rivalling rivals
-rivalry
+rivalry,noun
  rivalries
-rive
+rive,verb
  rived riven rives riving rove -> [rove]
-river
+river,noun
  rivers
-riverbank
+riverbank,noun
  riverbanks
-riverbed
+riverbed,noun
  riverbeds
-riverboat
+riverboat,noun
  riverboats
-riverfront
+riverfront,noun
  riverfronts
-riverside
+riverside,noun,propernoun
  riversides
-rivet
+rivet,verb,noun
  riveted riveting rivets
-riveter
+riveter,noun
  riveters
-riviera
+riviera,noun
  rivieras
-rivulet
+rivulet,noun
  rivulets
-riyal
+riyal,noun
  riyals
-roach
+roach,noun
  roaches
-road
+road,noun
  roads
-roadbed
+roadbed,noun
  roadbeds
-roadblock
+roadblock,noun
  roadblocked roadblocking roadblocks
-roadhog
+roadhog,noun
  roadhogs
-roadholding
-roadhouse
+roadholding,noun
+roadhouse,noun
  roadhouses
-roadie
+roadie,verb,noun
  roadies
-roadkill
-roadrunner
+roadkill,noun
+roadrunner,noun
  roadrunners
-roadshow
+roadshow,noun
  roadshows
-roadside
+roadside,noun
  roadsides
-roadster
+roadster,noun
  roadsters
-roadway
+roadway,noun
  roadways
-roadwork
+roadwork,noun
  roadworks
-roadworthy
-roam
+roadworthy,adjective
+roam,verb,noun
  roamed roaming roams
-roamer
+roamer,noun
  roamers
-roan
+roan,noun,adjective
  roans
-roar
+roar,verb,noun,abbreviation
  roared roaring roars
-roarer
+roarer,noun
  roarers
-roast
+roast,verb,noun,adjective
  roasted roasting -> [roasting] roasts
-roaster
+roaster,noun
  roasters
-roasting -> [roast]
+roasting,noun,adjective
  roastings
-rob
+rob,verb
  robbed robbing robs
-robber
+robber,noun
  robbers
-robbery
+robbery,noun
  robberies
-robe
+robe,verb,noun
  robed robes robing
-robin
+robin,noun
  robins
-robocall
+robocall,noun
  robocalled robocalling robocalls
-robot
+robot,noun
  robots
-robotic
+robotic,adjective
  robotics
-robotize
+robotize,verb
  robotise robotised robotises robotising robotized robotizes robotizing
-robust
+robust,adjective
  robuster robustest robustly robustness
-rock
+rock,verb,noun
  rocked rocking rocks
-rockabilly
-rock-and-roll
-rock-bottom
-rockbound
-rocker
+rockabilly,noun
+rock-and-roll,noun
+rock-bottom,noun,adjective
+rockbound,adjective
+rocker,noun
  rockers
-rockery
+rockery,noun
  rockeries
-rocket
+rocket,verb,noun
  rocketed rocketing rockets
-rocketry
-rockfall
+rocketry,noun
+rockfall,noun
  rockfalls
-rock-solid
-rocky
+rock-solid,adjective
+rocky,adjective
  rockier rockiest rockiness
-rococo
-rod
+rococo,noun,adjective
+rod,noun
  rods
-rodent
+rodent,noun
  rodents
-rodeo
+rodeo,verb,noun
  rodeos
-roe
+roe,abbreviation,noun
  roes
-roebuck
+roebuck,noun
  roebucks
-roentgen
+roentgen,noun
  roentgens rontgen rontgens
-roger
+roger,verb,exclamation
  rogered rogering rogers
-rogue
+rogue,verb,noun
  rogues roguish roguishly roguishness
-roguery
-roil
+roguery,noun
+roil,verb
  roiled roiling roils
-roister
+roister,verb
  roistered roistering roisters
-roisterer
+roisterer,noun
  roisterers
-role
+role,noun
  roles
-role-play
+role-play,verb,noun
  role-played role-playing role-plays
-roll
+roll,verb,noun
  rolled rolling rolls
-rollaway
+rollaway,noun
  rollaways
-rollback
+rollback,verb,noun
  rollbacks
-roller
+roller,noun
  rollers
-rollerblading
-rollercoaster
+rollerblading,verb,noun
+rollercoaster,noun
  rollercoasters
-rollerskating
-rollick
+rollerskating,noun
+rollick,verb
  rollicked rollicking -> [rollicking] rollicks
-rollicking -> [rollick]
+rollicking,noun,adjective
  rollickings
-rollmop
+rollmop,noun
  rollmops
-rollout
+rollout,noun
  rollouts
-rollover
+rollover,noun
  rollovers
-rollup
+rollup,noun,adjective
  rollups
-romaine
+romaine,noun
  romaines
-roman
-romance
+roman,noun,adjective
+romance,verb,noun,adjective
  romanced romances romancing
-romancer
+romancer,noun
  romancers
-romantic
+romantic,noun,adjective
  romantically romantics
-romanticism
-romanticist
+romanticism,noun
+romanticist,noun
  romanticists
-romanticize
+romanticize,verb
  romanticise romanticised romanticises romanticising romanticized romanticizes romanticizing
-romeo
+romeo,noun
  romeos
-romp
+romp,verb,noun
  romped romping romps
-romper
+romper,noun
  rompers
-rondo
+rondo,noun
  rondos
-roo
+roo,noun
  roos
-rood
+rood,noun
  roods
-roof
+roof,verb,noun
  roofed roofing roofless roofs rooves
-roofer
+roofer,noun
  roofers
-rooftop
+rooftop,noun
  rooftops
-rooibos
-rook
+rooibos,noun
+rook,verb,noun
  rooked rooking rooks
-rookery
+rookery,noun
  rookeries
-rookie
+rookie,noun
  rookies
-room
+room,verb,noun
  roomed roomful roomfuls rooming rooms roomsful
-roomer
+roomer,noun
  roomers
-roomette
+roomette,noun
  roomettes
-roomie
+roomie,noun
  roomies
-roommate
+roommate,noun
  roommates
-roomy
+roomy,adjective
  roomier roomiest roominess
-roost
+roost,verb,noun
  roosted roosting roosts
-rooster
+rooster,noun
  roosters
-root
+root,verb,noun
  rooted rooting rootless rootlessness roots
-rooter
+rooter,noun
  rooters
-rootlet
+rootlet,noun
  rootlets
-rope
+rope,verb,noun
  roped ropes roping
-roper
+roper,noun
  ropers
-ropy
+ropy,adjective
  ropey ropier ropiest
-rort
+rort,verb,noun
  rorted rorting rorts
-rosary
+rosary,noun
  rosaries
-rose -> [rise]
+rose,verb,noun
  roses
-roseate
-rosebud
+roseate,adjective
+rosebud,noun
  rosebuds
-rosebush
+rosebush,noun
  rosebushes
-rose-colored
+rose-colored,adjective
  rose-coloured
-rosehip
+rosehip,noun
  rosehips
-rosemary
-rosette
+rosemary,noun
+rosette,noun
  rosettes
-rosewater
-rosewood
+rosewater,noun
+rosewood,noun
  rosewoods
-rosin
+rosin,verb,noun
  rosined rosining rosins
-roster
+roster,verb,noun
  rostered rostering rosters
-rostrum
+rostrum,noun
  rostra rostrums
-rosy
+rosy,adjective
  rosier rosiest rosily rosiness
-rot
+rot,verb,noun
  rots rotted rotting
-rota
+rota,noun
  rotas
-rotary
+rotary,noun,propernoun,adjective
  rotaries
-rotate
+rotate,verb
  rotated rotates rotating
-rotation
+rotation,noun
  rotations
-rotational
-rotatory
-rote
-rotgut
-roti
+rotational,adjective
+rotatory,adjective
+rote,noun
+rotgut,noun
+roti,noun
  rotis
-rotisserie
+rotisserie,noun
  rotisseries
-rotogravure
+rotogravure,noun
  rotogravures
-rotor
+rotor,noun
  rotors
-rototiller
+rototiller,noun
  rototillers
-rotten
+rotten,adjective,adverb
  rottener rottenest rottenly rottenness
-rotter
+rotter,noun
  rotters
-rottweiler
+rottweiler,noun
  rottweilers
-rotund
+rotund,adjective
  rotundness
-rotunda
+rotunda,noun
  rotundas
-rotundity
-roue
+rotundity,noun
+roue,noun
  roues
-rouge
+rouge,verb,noun,adjective
  rouged rouges rouging
-rough
+rough,verb,noun,adjective,adverb
  roughed rougher roughest roughing roughly roughness roughs
-roughage
-rough-and-tumble
-roughcast
-roughen
+roughage,noun
+rough-and-tumble,noun
+roughcast,verb,noun,adjective
+roughen,verb
  roughened roughening roughens
-rough-hewn
-roughhouse
+rough-hewn,adjective
+roughhouse,verb,noun
  roughhoused roughhouses roughhousing
-roughneck
+roughneck,verb,noun
  roughnecked roughnecking roughnecks
-roughshod
-roulette
-round
+roughshod,adjective
+roulette,verb,noun
+round,preposition,noun,verb,adjective,adverb
  rounded rounder -> [rounder] roundest rounding roundish roundness rounds
-roundabout
+roundabout,noun,adjective
  roundabouts
-roundel
+roundel,noun
  roundels
-roundelay
+roundelay,noun
  roundelays
-rounder -> [round]
+rounder,noun
  rounders
-roundhouse
+roundhouse,noun
  roundhouses
-roundly
-roundtable
+roundly,adverb
+roundtable!
  roundtables
-round-trip
-roundup
+round-trip,noun
+roundup,noun
  roundups
-roundworm
+roundworm,noun
  roundworms
-rouse
+rouse,verb
  roused rouses rousing
-roust
+roust,verb
  rousted rousting rousts
-roustabout
+roustabout,noun
  roustabouts
-rout
+rout,verb,noun
  routed -> [route] routing -> [route] routs
-route
+route,verb,noun
  routed -> [rout] routes routing -> [rout]
-router
+router,noun
  routers
-routine
+routine,verb,noun,adjective
  routinely routines
-routinize
+routinize,verb
  routinise routinised routinises routinising routinized routinizes routinizing
-roux
-rove -> [rive]
+roux,noun
+rove,verb,noun
  roved roves roving
-rover
+rover,noun
  rovers
-row
+row,verb,noun
  rowed rowing rows
-rowan
+rowan,noun
  rowans
-rowboat
+rowboat,noun
  rowboats
-rowdy
+rowdy,noun,adjective
  rowdier rowdies rowdiest rowdily rowdiness
-rowdyism
-rowel
+rowdyism,noun
+rowel,verb,noun
  roweled roweling rowelled rowelling rowels
-rower
+rower,noun
  rowers
-rowhouse
+rowhouse,noun
  rowhouses
-rowlock
+rowlock,noun
  rowlocks
-royal
+royal,noun,adjective
  royally royals
-royalist
+royalist,noun,adjective
  royalists
-royalty
+royalty,noun
  royalties
-rub
+rub,verb,noun,abbreviation
  rubbed rubbing -> [rubbing] rubs
-rubato
+rubato,noun,adjective
  rubati rubatos
-rubber
+rubber,noun
  rubbers
-rubberize
+rubberize,verb
  rubberise rubberised rubberises rubberising rubberized rubberizes rubberizing
-rubberneck
+rubberneck,verb,noun
  rubbernecked rubbernecking rubbernecks
-rubbernecker
+rubbernecker,noun
  rubberneckers
-rubbery
+rubbery,adjective
  rubberier rubberiest
-rubbing -> [rub]
+rubbing,noun
  rubbings
-rubbish
+rubbish,verb,noun,adjective
  rubbished rubbishes rubbishing
-rubbishy
-rubble
-rubdown
+rubbishy,adjective
+rubble,noun
+rubdown,noun
  rubdowns
-rube
+rube,noun
  rubes
-rubella
-rubicund
-rubidium
-ruble
+rubella,noun
+rubicund,adjective
+rubidium,noun
+ruble,noun
  rouble roubles rubles
-rubric
+rubric,noun
  rubrics
-ruby
+ruby,noun
  rubier rubies rubiest
-ruched
-ruck
+ruched,adjective
+ruck,verb,noun
  rucked rucking rucks
-rucksack
+rucksack,noun
  rucksacks
-ruckus
+ruckus,noun
  ruckuses
-ructions
-rudder
+ructions,noun
+rudder,noun
  rudderless rudders
-ruddy
+ruddy,verb,adjective
  ruddier ruddiest ruddiness
-rude
+rude,adjective
  rudely rudeness ruder rudest
-rudiment
+rudiment,noun
  rudiments
-rudimentary
-rue
+rudimentary,adjective
+rue,verb,noun
  rued rueful ruefully ruefulness rueing rues ruing
-ruff
+ruff,verb,noun
  ruffed ruffing ruffs
-ruffian
+ruffian,noun
  ruffianly ruffians
-ruffle
+ruffle,verb,noun
  ruffled ruffles ruffling
-ruffly
-rug
+ruffly,adjective
+rug,noun
  rugs
-rugby
-rugged
+rugby,noun,propernoun
+rugged,adjective
  ruggeder ruggedest ruggedly ruggedness
-rugger
-rugrat
+rugger,noun
+rugrat,noun
  rugrats
-ruin
+ruin,verb,noun
  ruined ruining ruins
-ruination
-ruinous
+ruination,noun
+ruinous,adjective
  ruinously
-rule
+rule,verb,noun
  ruled rules ruling -> [ruling]
-rulebook
+rulebook,noun
  rulebooks
-ruler
+ruler,noun
  rulers
-ruling -> [rule]
+ruling,noun,adjective
  rulings
-rum
+rum,noun,adjective
  rummer rummest rums
-rumba
+rumba,verb,noun
  rhumba rhumbas rumbaed rumbaing rumbas
-rumble
+rumble,verb,noun
  rumbled rumbles rumbling -> [rumbling]
-rumbling -> [rumble]
+rumbling,noun,adjective
  rumblings
-rumbustious
-ruminant
+rumbustious,adjective
+ruminant,noun,adjective
  ruminants
-ruminate
+ruminate,verb
  ruminated ruminates ruminating
-rumination
+rumination,noun
  ruminations
-ruminative
+ruminative,adjective
  ruminatively
-rummage
+rummage,verb,noun
  rummaged rummages rummaging
-rummy
-rumor
+rummy,noun,adjective
+rumor,verb,noun
  rumored rumoring rumors rumour rumoured rumouring rumours
-rumormonger
+rumormonger,noun
  rumormongers rumourmonger rumourmongers
-rump
+rump,noun
  rumps
-rumple
+rumple,verb,noun
  rumpled rumples rumpling
-rumply
-rumpus
+rumply,adjective
+rumpus,noun
  rumpuses
-run
+run,verb,noun
  ran running runs
-runabout
+runabout,noun
  runabouts
-runaround
+runaround,noun
  runarounds
-runaway
+runaway,noun
  runaways
-rundown
+rundown,noun,adjective
  rundowns
-rune
+rune,noun
  runes
-rung -> [ring]
+rung,noun
  rungs
-runic
-run-in
+runic,adjective
+run-in,noun
  run-ins
-runlet
+runlet,noun
  runlets
-runnel
+runnel,noun
  runnels
-runner
+runner,noun
  runners
-runner-up
+runner-up,noun
  runners-up
-runny
+runny,adjective
  runnier runniest
-runoff
+runoff,noun
  runoffs
-run-of-the-mill
-runt
+run-of-the-mill,adjective
+runt,noun
  runts
-runty
+runty,adjective
  runtier runtiest
-run-up
+run-up,noun
  run-ups
-runway
+runway,noun
  runways
-rupee
+rupee,noun
  rupees
-rupiah
+rupiah,noun
  rupiahs
-rupture
+rupture,verb,noun
  ruptured ruptures rupturing
-rural
-ruse
+rural,adjective
+ruse,noun,propernoun
  ruses
-rush
+rush,verb,noun
  rushed rushes rushing
-rusher
+rusher,noun
  rushers
-rushy
-rusk
+rushy,adjective
+rusk,noun
  rusks
-russet
+russet,noun,adjective
  russets
-rust
+rust,verb,noun
  rusted rusting rusts
-rustbelt
-rustic
+rustbelt,noun
+rustic,noun,adjective
  rustically rustics
-rusticate
+rusticate,verb
  rusticated rusticates rusticating
-rustication
-rusticity
-rustle
+rustication,noun
+rusticity,noun
+rustle,verb,noun
  rustled rustles rustling -> [rustling]
-rustler
+rustler,noun
  rustlers
-rustling -> [rustle]
+rustling,verb,noun
  rustlings
-rustproof
+rustproof,verb,adjective
  rustproofed rustproofing rustproofs
-rusty
+rusty,adjective
  rustier rustiest rustiness
-rut
+rut,verb,noun
  ruts rutted rutting
-rutabaga
+rutabaga,noun
  rutabagas
-ruthenium
-rutherfordium
-ruthless
+ruthenium,noun
+rutherfordium,noun
+ruthless,adjective
  ruthlessly ruthlessness
-rutty
+rutty,adjective
  ruttier ruttiest
-rye
+rye,noun

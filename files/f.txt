@@ -629,7 +629,7 @@ feudalism,noun
 feudalistic,adjective
 fever,verb,noun
  fevered feverish feverishly feverishness fevers
-few,pronoun<spanclass="listSeparator">,</span>adjective<spanclass="listSeparator">,</span>,noun,determiner
+few,pronoun,adjective,noun,determiner
  fewer fewest fewness
 fey,adjective
 fez,propernoun,noun
@@ -2467,7 +2467,7 @@ furrow,verb,noun
  furrowed furrowing furrows
 furry,adjective,noun
  furrier -> [furrier] furriest furriness
-further,</span></h3><spanclass="transitivity"></span><ulclass="semb"><li><divclass="trg"><p><spanclass="iteration"></span></p><divclass="crossReference">usedascomparativeof<ahref="/definition/far">far</a></div></div></li></ul></section><divclass="banbox"><divclass="container"></div><divclass="containermpu"><divclass="banner"><divid="div-gpt-ad-1467382167665-1"><script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1467382167665-1');});</script></div></div></div></div><sectionclass="gramb"><h3class="pspos"><spanclass="pos">adverb,verb,adjective
+further,adverb,verb,adjective
  furthered furthering furthers
 furtherance,noun
 furthermore,adverb

@@ -982,7 +982,7 @@ godawful,adjective
 godchild,noun
  godchildren
 goddammit,exclamation,noun
-goddamn,adjective,adverb<spanclass="listSeparator">,</span>noun<spanclass="listSeparator">,</span>
+goddamn,adjective,adverb,noun
  goddam goddamned
 goddaughter,noun
  goddaughters

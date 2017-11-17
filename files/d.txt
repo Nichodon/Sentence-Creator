@@ -120,7 +120,7 @@ dandle,verb
 dandruff,noun
 dandy,noun,adjective
  dandier dandies dandiest
-dang,adjective,exclamation<spanclass="listSeparator">,</span>verb<spanclass="listSeparator">,</span>
+dang,adjective,exclamation,verb
  danged danging dangs
 danger,noun
  dangers
@@ -160,7 +160,7 @@ darkroom,noun
  darkrooms
 darling,noun,adjective
  darlings
-darn,noun,verb,adjective<spanclass="listSeparator">,</span>verb<spanclass="listSeparator">,</span>,exclamation
+darn,noun,verb,adjective,verb,exclamation
  darned darneder darnedest darning darns
 darner,noun
  darners
@@ -552,7 +552,7 @@ decree,noun,verb
  decreed decreeing decrees
 decrepit,adjective
 decrepitude,noun
-decrescendo,adjective<spanclass="listSeparator">,</span>noun<spanclass="listSeparator">,</span>,adverb
+decrescendo,adjective,noun,adverb
  decrescendi decrescendos
 decriminalization,noun
  decriminalisation
