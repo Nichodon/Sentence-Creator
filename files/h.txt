@@ -1,2263 +1,2263 @@
-ha
+ha,exclamation,abbreviation
  hah
-haberdasher
+haberdasher,noun
  haberdashers
-haberdashery
+haberdashery,noun
  haberdasheries
-habiliment
+habiliment,noun
  habiliments
-habit
+habit,noun,verb
  habits
-habitable
+habitable,adjective
  habitability
-habitat
+habitat,noun
  habitats
-habitation
+habitation,noun
  habitations
-habitual
+habitual,adjective
  habitually habitualness
-habituate
+habituate,verb
  habituated habituates habituating
-habituation
-habitue
+habituation,noun
+habitue,noun
  habitues
-hacienda
+hacienda,noun
  haciendas
-hack
+hack,noun,verb
  hacked hacking hacks
-hacker
+hacker,noun
  hackers
-hackle
+hackle,noun,verb
  hackles
-hackney
+hackney,noun
  hackneyed hackneying hackneys
-hacksaw
+hacksaw,noun,verb
  hacksaws
-hacktivist!
+hacktivist,noun
  hacktivists
-hackwork
-haddock
+hackwork,noun
+haddock,noun
  haddocks
-hades
-hafnium
-haft
+hades,propernoun
+hafnium,noun
+haft,noun,verb
  hafts
-hag
+hag,noun
  haggish hags
-haggard
+haggard,adjective,noun
  haggardly haggardness
-haggis
+haggis,noun
  haggises
-haggle
+haggle,noun,verb
  haggled haggles haggling
-haggler
+haggler,noun
  hagglers
-hagiographer
+hagiographer,noun
  hagiographers
-hagiography
+hagiography,noun
  hagiographies
-ha-ha
-hahnium
-haiku
+ha-ha,noun
+hahnium,noun
+haiku,noun
  haikus
-hail
+hail,noun,exclamation,verb
  hailed hailing hails
-hailstone
+hailstone,noun
  hailstones
-hailstorm
+hailstorm,noun
  hailstorms
-hair
+hair,noun
  haired hairless hairlike hairs
-hairball
+hairball,noun
  hairballs
-hairband
+hairband,noun
  hairbands
-hairbreadth
+hairbreadth,noun
  hairbreadths hairsbreadth hairsbreadths
-hairbrush
+hairbrush,noun
  hairbrushes
-haircloth
-haircut
+haircloth,noun
+haircut,noun
  haircuts
-hairdo
+hairdo,noun
  hairdos
-hairdresser
+hairdresser,noun
  hairdressers
-hairdressing
-hairdryer
+hairdressing,noun
+hairdryer,noun
  hairdrier hairdriers hairdryers
-hairgrip
+hairgrip,noun
  hairgrips
-hairline
+hairline,noun
  hairlines
-hairnet
+hairnet,noun
  hairnets
-hairpiece
+hairpiece,noun
  hairpieces
-hairpin
+hairpin,noun
  hairpins
-hair-raising
-hairslide
+hair-raising,adjective
+hairslide,noun
  hairslides
-hairsplitter
+hairsplitter,noun
  hairsplitters
-hairsplitting
-hairspray
+hairsplitting,adjective,noun
+hairspray,noun
  hairsprays
-hairspring
+hairspring,noun
  hairsprings
-hairstyle
+hairstyle,noun
  hairstyles
-hairstylist
+hairstylist,noun
  hairstylists
-hairy
+hairy,adjective
  hairier hairiest hairiness
-hajj
+hajj,noun
  hadj hadjes haj hajes hajjes
-hajji
+hajji,noun
  hadji hadjis hajjis
-hake
+hake,noun
  hakes
-halal
-halberd
+halal,adjective,noun
+halberd,noun
  halberds
-halcyon
-hale
+halcyon,adjective,noun
+hale,adjective,verb
  haled haler hales halest haling
-half
+half,noun,adverb,predeterminer<spanclass="listSeparator">,</span>adjective<spanclass="listSeparator">,</span>,pronoun
  halves -> [halve]
-half-and-half
-halfback
+half-and-half,noun,adjective,adverb
+halfback,noun
  halfbacks
-half-baked
-halfhearted
+half-baked,adjective
+halfhearted,adjective
  halfheartedly halfheartedness
-half-hour
+half-hour,noun
  half-hours
-half-life
+half-life,noun
  half-lives
-half-light
-halfpenny
+half-light,noun
+halfpenny,noun
  halfpence halfpennies
-half-sister
+half-sister,noun
  half-sisters
-halftime
+halftime,noun
  halftimes
-halftone
+halftone,noun
  halftones
-half-truth
+half-truth,noun
  half-truths
-halfway
-halfwit
+halfway,adjective,adverb
+halfwit,noun
  halfwits
-halibut
+halibut,noun
  halibuts
-halite
-halitosis
-hall
+halite,noun
+halitosis,noun
+hall,noun
  halls
-hallelujah
+hallelujah,noun,exclamation
  alleluia alleluias halleluiah halleluiahs hallelujahs
-halliard
+halliard!
  halliards
-hallmark
+hallmark,noun,verb
  hallmarked hallmarking hallmarks
-hallo
+hallo,noun,exclamation,verb
  halloo -> [halloo] halloos -> [halloo] hallos hullo hullos
-halloo -> [hallo]
+halloo,noun,exclamation,verb
  hallooed hallooing halloos -> [hallo]
-hallow
+hallow,noun,verb
  hallowed hallowing hallows
-hallucinate
+hallucinate,verb
  hallucinated hallucinates hallucinating
-hallucination
+hallucination,noun
  hallucinations
-hallucinatory
-hallucinogen
+hallucinatory,adjective
+hallucinogen,noun
  hallucinogens
-hallucinogenic
+hallucinogenic,adjective,noun
  hallucinogenics
-hallway
+hallway,noun
  hallways
-halo
+halo,noun,verb
  haloed haloes haloing halos
-halogen
+halogen,noun
  halogens
-halt
+halt,noun,adjective,verb
  halted halting haltingly halts
-halter
+halter,noun,verb
  haltered haltering halters
-halterneck
+halterneck,adjective,noun
  halternecks
-halve
+halve,verb
  halved halves -> [half] halving
-halyard
+halyard,noun
  halyards
-ham
+ham,noun,verb,propernoun
  hammed hamming hams
-hamburger
+hamburger,noun
  hamburg hamburgers hamburgs
-hamlet
+hamlet,noun,propernoun
  hamlets
-hammer
+hammer,noun,verb,propernoun
  hammered hammering -> [hammering] hammers
-hammerer
+hammerer,noun
  hammerers
-hammerhead
+hammerhead,noun
  hammerheads
-hammering -> [hammer]
+hammering,noun
  hammerings
-hammerlock
+hammerlock,noun
  hammerlocks
-hammertoe
+hammertoe,noun
  hammertoes
-hammock
+hammock,noun
  hammocks
-hammy
+hammy,adjective
  hammier hammiest
-hamper
+hamper,noun,verb
  hampered hampering hampers
-hamster
+hamster,noun
  hamsters
-hamstring
+hamstring,noun,verb
  hamstringing hamstrings hamstrung
-hand
+hand,noun,verb
  handed handful handfuls handing hands handsful
-handbag
+handbag,noun,verb
  handbags
-handball
+handball,noun
  handballs
-handbarrow
+handbarrow,noun
  handbarrows
-handbill
+handbill,noun
  handbills
-handbook
+handbook,noun
  handbooks
-handbrake
+handbrake,noun
  handbrakes
-handcar
+handcar,noun
  handcars
-handcart
+handcart,noun
  handcarts
-handclasp
+handclasp,noun
  handclasps
-handcraft
+handcraft,noun,verb
  handcrafted handcrafting handcrafts
-handcuff
+handcuff,noun,verb
  handcuffed handcuffing handcuffs
-handgun
+handgun,noun
  handguns
-handheld
+handheld,adjective,noun
  handhelds
-handhold
+handhold,noun,verb
  handholds
-handicap
+handicap,noun,verb
  handicapped handicapping handicaps
-handicapper
+handicapper,noun
  handicappers
-handicraft
+handicraft,noun
  handicrafts
-handiwork
-handjob
+handiwork,noun
+handjob,noun
  handjobs
-handkerchief
+handkerchief,noun
  handkerchiefs handkerchieves
-handle
+handle,noun,verb
  handled handles handling
-handlebar
+handlebar,noun
  handlebars
-handler
+handler,noun
  handlers
-handmade
-handmaid
+handmade,adjective
+handmaid,noun
  handmaiden handmaidens handmaids
-hand-me-down
+hand-me-down,noun
  hand-me-downs
-handout
+handout,noun
  handouts
-handover
+handover,noun
  handovers
-handpick
+handpick,verb
  handpicked handpicking handpicks
-handprint
+handprint,noun
  handprints
-handrail
+handrail,noun
  handrails
-handsaw
+handsaw,noun
  handsaws
-handset
+handset,noun
  handsets
-handshake
+handshake,noun
  handshakes
-hands-off
-handsome
+hands-off,phrase
+handsome,adjective
  handsomely handsomeness handsomer handsomest
-hands-on
-handspring
+hands-on,phrase
+handspring,noun
  handsprings
-handstand
+handstand,noun
  handstands
-hand-to-hand
-handwork
-handwoven
-handwringing
-handwriting
-handwritten
-handy
+hand-to-hand,adjective
+handwork,noun
+handwoven,adjective
+handwringing,noun
+handwriting,noun
+handwritten,adjective
+handy,adjective,noun
  handier handiest handily handiness
-handyman
+handyman,noun
  handymen
-hang
+hang,noun,exclamation,verb
  hanged hanging -> [hanging] hangs hung
-hangar
+hangar,noun,verb
  hangars
-hangdog
-hanger
+hangdog,adjective
+hanger,noun
  hangers
-hanging -> [hang]
+hanging,noun,adjective
  hangings
-hangman
+hangman,noun
  hangmen
-hangnail
+hangnail,noun
  hangnails
-hangout
+hangout,noun
  hangouts
-hangover
+hangover,noun
  hangovers
-hangup
+hangup,noun
  hangups
-hank
+hank,noun
  hanks
-hanker
+hanker,verb
  hankered hankering -> [hankering] hankers
-hankering -> [hanker]
+hankering,noun
  hankerings
-hankie
+hankie,noun
  hankies hanky
-hansom
+hansom,noun
  hansoms
-hap
+hap,noun,verb
  hapless haplessly haplessness haply
-haphazard
+haphazard,adjective
  haphazardly haphazardness
-haploid
+haploid,adjective,noun
  haploids
-happen
+happen,adverb,verb
  happened happening -> [happening] happens
-happening -> [happen]
+happening,noun,adjective
  happenings
-happenstance
+happenstance,noun
  happenstances
-happy
+happy,adjective
  happier happiest happily happiness
-harakiri
-harangue
+harakiri,noun
+harangue,noun,verb
  harangued harangues haranguing
-harass
+harass,verb
  harassed harasses harassing
-harasser
+harasser,noun
  harassers
-harassment
-harbinger
+harassment,noun
+harbinger,noun
  harbingers
-harbor
+harbor,noun,verb
  harbored harboring harbors harbour harboured harbouring harbours
-harbormaster
+harbormaster,noun
  harbormasters harbourmaster harbourmasters
-hard
+hard,adjective,adverb,noun
  harder hardest hardness
-hardback
+hardback,adjective,noun
  hardbacks
-hardball
-hardboard
-hard-boiled
-hardbound
-hardcore
-hardcover
+hardball,noun
+hardboard,noun
+hard-boiled,adjective
+hardbound,adjective
+hardcore,noun,adjective
+hardcover,adjective,noun
  hardcovers
-hard-earned
-hard-edged
-harden
+hard-earned,adjective
+hard-edged,adjective
+harden,verb
  hardened hardening hardens
-hardener
+hardener,noun
  hardeners
-hard-fought
-hardhat
+hard-fought,adjective
+hardhat!
  hardhats
-hardheaded
+hardheaded,adjective
  hardheadedly hardheadedness
-hardhearted
+hardhearted,adjective
  hardheartedly hardheartedness
-hard-hitting
-hardihood
-hardline
-hardliner
+hard-hitting,adjective
+hardihood,noun
+hardline,noun,adjective
+hardliner,noun
  hardliners
-hardly
-hard-nosed
-hard-pressed
-hardscrabble
-hardship
+hardly,adverb
+hard-nosed,adjective
+hard-pressed,adjective
+hardscrabble,adjective
+hardship,noun
  hardships
-hardstand
+hardstand,noun
  hardstands
-hardtack
-hardtop
+hardtack,noun
+hardtop,noun
  hardtops
-hardware
-hardwired
-hard-won
-hardwood
+hardware,noun
+hardwired,verb
+hard-won,adjective
+hardwood,noun
  hardwoods
-hardworking
-hardy
+hardworking,adjective
+hardy,adjective
  hardier hardiest hardily hardiness
-hare
+hare,noun,verb
  hared hares haring
-harebell
+harebell,noun
  harebells
-harebrained
-harelip
+harebrained,adjective
+harelip,noun
  harelipped harelips
-harem
+harem,noun
  harems
-haricot
+haricot,noun
  haricots
-hark
+hark,verb
  harked harking harks
-harlequin
+harlequin,noun,adjective
  harlequins
-harlot
+harlot,noun
  harlots
-harlotry
-harm
+harlotry,noun
+harm,noun,verb
  harmed harmful harmfully harmfulness harming harmless harmlessly harmlessness harms
-harmonic
+harmonic,adjective,noun
  harmonically harmonics
-harmonica
+harmonica,noun
  harmonicas
-harmonious
+harmonious,adjective
  harmoniously harmoniousness
-harmonium
+harmonium,noun
  harmoniums
-harmonization
+harmonization,noun
  harmonisation
-harmonize
+harmonize,verb
  harmonise harmonised harmonises harmonising harmonized harmonizes harmonizing
-harmonizer
+harmonizer,noun
  harmoniser harmonisers harmonizers
-harmony
+harmony,noun
  harmonies
-harness
+harness,noun,verb
  harnessed harnesses harnessing
-harp
+harp,noun,verb
  harped harping harps
-harpist
+harpist,noun
  harpists
-harpoon
+harpoon,noun,verb
  harpooned harpooning harpoons
-harpooner
+harpooner,noun
  harpooners
-harpsichord
+harpsichord,noun
  harpsichords
-harpsichordist
+harpsichordist,noun
  harpsichordists
-harpy
+harpy,noun
  harpies
-harridan
+harridan,noun
  harridans
-harrier
+harrier,noun
  harriers
-harrow
+harrow,noun,verb
  harrowed harrowing harrows
-harrumph
+harrumph,noun,verb
  harrumphed harrumphing harrumphs
-harry
+harry,verb
  harried harries harrying
-harsh
+harsh,adjective
  harsher harshest harshly harshness
-hart
+hart,noun
  harts
-harvest
+harvest,noun,verb
  harvested harvesting harvests
-harvester
+harvester,noun
  harvesters
-has-been
+has-been,noun
  has-beens
-hash
+hash,noun,verb
  hashed hashes hashing
-hashish
+hashish,noun
  hasheesh
-hashtag
+hashtag,noun
  hashtags
-hasp
+hasp,noun,verb
  hasps
-hassle
+hassle,noun,verb
  hassled hassles hassling
-hassock
+hassock,noun
  hassocks
-haste
+haste,noun,verb
  hasted hastes hasting
-hasten
+hasten,verb
  hastened hastening hastens
-hasty
+hasty,adjective
  hastier hastiest hastily hastiness
-hat
+hat,noun
  hats hatted hatting
-hatband
+hatband,noun
  hatbands
-hatbox
+hatbox,noun
  hatboxes
-hatch
+hatch,noun,verb
  hatched hatches hatching
-hatchback
+hatchback,noun
  hatchbacks
-hatcheck
+hatcheck,adjective
  hatchecks
-hatchery
+hatchery,noun
  hatcheries
-hatchet
+hatchet,noun
  hatchets
-hatchling
+hatchling,noun
  hatchlings
-hatchway
+hatchway,noun
  hatchways
-hate
+hate,noun,verb
  hated hateful hatefully hatefulness hates hating
-hatemonger
+hatemonger,noun
  hatemongers
-hater
+hater,noun
  haters
-hatpin
+hatpin,noun
  hatpins
-hatred
+hatred,noun
  hatreds
-hatstand
+hatstand,noun
  hatstands
-hatter
+hatter,noun
  hatters
-hauberk
+hauberk,noun
  hauberks
-haughty
+haughty,adjective
  haughtier haughtiest haughtily haughtiness
-haul
+haul,noun,verb
  hauled hauling hauls
-haulage
-hauler
+haulage,noun
+hauler,noun
  haulers haulier hauliers
-haunch
+haunch,noun
  haunches
-haunt
+haunt,noun,verb
  haunted haunting hauntingly haunts
-haunter
+haunter,noun
  haunters
-hauteur
-have
+hauteur,noun
+have,noun,verb,auxiliaryverb
  had hadst has hast hath haves having
-haven
+haven,noun
  havens
-haversack
+haversack,noun
  haversacks
-havoc
-haw
+havoc,noun,verb
+haw,noun
  hawed hawing haws
-hawk
+hawk,noun,verb
  hawked hawking hawkish hawkishness hawks
-hawker
+hawker,noun
  hawkers
-hawser
+hawser,noun
  hawsers
-hawthorn
+hawthorn,noun
  hawthorns
-hay
+hay,noun,verb
  hayed haying hays
-haycock
+haycock,noun
  haycocks
-hayloft
+hayloft,noun
  haylofts
-haymaking
-haymow
+haymaking,noun
+haymow,noun
  haymows
-hayrick
+hayrick,noun
  hayricks
-hayride
+hayride,noun
  hayrides
-hayseed
+hayseed,noun
  hayseeds
-haystack
+haystack,noun
  haystacks
-haywire
-hazard
+haywire,adjective
+hazard,noun,verb
  hazarded hazarding hazards
-hazardous
+hazardous,adjective
  hazardously
-haze
+haze,noun,verb
  hazed hazes hazing -> [hazing]
-hazel
+hazel,noun
  hazels
-hazelnut
+hazelnut,noun
  hazelnuts
-hazer
+hazer,noun
  hazers
-hazing -> [haze]
+hazing,noun,verb
  hazings
-hazmat!
-hazy
+hazmat,noun
+hazy,adjective
  hazier haziest hazily haziness
-he
+he,pronoun,noun,abbreviation
  hes him hims
-head
+head,noun,adjective,verb
  headed heading -> [heading] headless heads
-headache
+headache,noun
  headaches
-headband
+headband,noun
  headbands
-headbanger
+headbanger,noun
  headbangers
-headbanging
-headboard
+headbanging,noun
+headboard,noun
  headboards
-headbutt
+headbutt,noun,verb
  headbutted headbutting headbutts
-headcase
+headcase,noun
  headcases
-headcheese
-headcount
+headcheese,noun
+headcount,noun
  headcounts
-headdress
+headdress,noun
  headdresses
-header
+header,noun
  headers
-headfirst
-headgear
-headhunt
+headfirst!
+headgear,noun
+headhunt,verb
  headhunted headhunting headhunts
-headhunter
+headhunter,noun
  headhunters
-heading -> [head]
+heading,noun
  headings
-headlamp
+headlamp,noun
  headlamps
-headland
+headland,noun
  headlands
-headlight
+headlight,noun
  headlights
-headline
+headline,noun,verb
  headlined headlines headlining
-headliner
+headliner,noun
  headliners
-headlock
+headlock,noun
  headlocks
-headlong
-headman
+headlong,adverb,adjective
+headman,noun
  headmen
-headmaster
+headmaster,noun
  headmasters
-headmistress
+headmistress,noun
  headmistresses
-head-on
-headphone
+head-on,adjective,adverb
+headphone,pluralnoun
  headphones
-headpiece
+headpiece,noun
  headpieces
-headpin
+headpin!
  headpins
-headquarter
+headquarter,verb
  headquartered headquartering headquarters
-headrest
+headrest,noun
  headrests
-headroom
-headscarf
+headroom,noun
+headscarf,noun
  headscarves
-headset
+headset,noun
  headsets
-headship
+headship,noun
  headships
-headshrinker
+headshrinker,noun
  headshrinkers
-headsman
+headsman,noun
  headsmen
-headstall
+headstall,noun
  headstalls
-headstand
+headstand,noun
  headstands
-headstone
+headstone,noun
  headstones
-headstrong
-heads-up
+headstrong,adjective
+heads-up,noun,adjective
  heads-ups
-headteacher
+headteacher,noun
  headteachers
-head-to-head
-headwaiter
+head-to-head,adverb,noun,adjective
+headwaiter,noun
  headwaiters
-headwaters
-headway
-headwind
+headwaters,noun
+headway,noun
+headwind,noun
  headwinds
-headword
+headword,noun
  headwords
-heady
+heady,adjective
  headier headiest headily headiness
-heal
+heal,verb
  healed healing heals
-healer
+healer,noun
  healers
-health
+health,noun
  healthful healthfully healthfulness
-healthcare
-healthy
+healthcare,noun
+healthy,adjective
  healthier healthiest healthily healthiness
-heap
+heap,noun,adverb,verb
  heaped heaping heaps
-hear
+hear,verb
  heard hearing -> [hearing] hears
-hearer
+hearer,noun
  hearers
-hearing -> [hear]
+hearing,noun
  hearings
-hearken
+hearken,verb
  harken harkened harkening harkens hearkened hearkening hearkens
-hearsay
-hearse
+hearsay,noun
+hearse,noun
  hearses
-heart
+heart,noun,verb
  heartless heartlessly heartlessness hearts
-heartache
+heartache,noun
  heartaches
-heartbeat
+heartbeat,noun
  heartbeats
-heartbreak
+heartbreak,noun
  heartbreaks
-heartbreaking
-heartbroken
-heartburn
-hearten
+heartbreaking,adjective
+heartbroken,adjective
+heartburn,noun
+hearten,verb
  heartened heartening heartens
-heartfelt
-hearth
+heartfelt,adjective
+hearth,noun
  hearths
-hearthrug
+hearthrug,noun
  hearthrugs
-hearthstone
+hearthstone,noun
  hearthstones
-heartland
+heartland,noun
  heartlands
-heartrending
+heartrending,adjective
  heartrendingly
-heartsick
+heartsick,adjective
  heartsickness
-heart-stopping
-heartstrings
-heartthrob
+heart-stopping,adjective
+heartstrings,noun
+heartthrob,noun
  heartthrobs
-heart-to-heart
+heart-to-heart,adjective,noun
  heart-to-hearts
-heartwarming
-heartwood
-hearty
+heartwarming,adjective
+heartwood,noun
+hearty,adjective,noun
  heartier hearties heartiest heartily heartiness
-heat
+heat,noun,verb
  heated -> [heated] heating heats
-heated -> [heat]
+heated,adjective
  heatedly
-heater
+heater,noun
  heaters
-heath
+heath,noun
  heaths
-heathen
+heathen,noun,adjective
  heathenish heathens
-heathendom
-heathenism
-heather
+heathendom,noun
+heathenism,noun
+heather,noun
  heathers
-heatproof
+heatproof,adjective
  heatproofed heatproofing heatproofs
-heatstroke
-heatwave
+heatstroke,noun
+heatwave,noun
  heatwaves
-heave
+heave,noun,verb
  heaved heaves heaving hove
-heaven
+heaven,noun
  heavenlier heavenliest heavenly heavens
-heavenward
+heavenward,adjective,adverb
  heavenwards
-heaver
+heaver,noun
  heavers
-heavy
+heavy,adjective,noun,adverb
  heavier heavies heaviest heavily heaviness
-heavy-duty
-heavy-handed
-heavyhearted
-heavyset
-heavyweight
+heavy-duty,adjective
+heavy-handed,adjective
+heavyhearted,adjective
+heavyset,adjective
+heavyweight,noun,adjective
  heavyweights
-heck
-heckle
+heck,exclamation
+heckle,noun,verb
  heckled heckles heckling
-heckler
+heckler,noun
  hecklers
-hectare
+hectare,noun
  hectares
-hectic
+hectic,adjective,noun
  hectically
-hectogram
+hectogram,noun
  hectogramme hectogrammes hectograms
-hectometer
+hectometer,noun
  hectometers hectometre hectometres
-hector
+hector,verb,propernoun
  hectored hectoring hectors
-hedge
+hedge,noun,verb
  hedged hedges hedging
-hedgehog
+hedgehog,noun
  hedgehogs
-hedgehop
+hedgehop,verb
  hedgehopped hedgehopping hedgehops
-hedger
+hedger,noun
  hedgers
-hedgerow
+hedgerow,noun
  hedgerows
-hedonism
-hedonist
+hedonism,noun
+hedonist,noun
  hedonists
-hedonistic
-heed
+hedonistic,adjective
+heed,noun,verb
  heeded heedful heedfully heeding heedless heedlessly heedlessness heeds
-heehaw
+heehaw,noun,verb
  heehawed heehawing heehaws
-heel
+heel,noun,exclamation,verb
  heeled heeling heelless heels
-heft
+heft,noun,verb
  hefted hefting hefts
-hefty
+hefty,adjective
  heftier heftiest heftily heftiness
-hegemonic
-hegemony
-hegira
+hegemonic,adjective
+hegemony,noun
+hegira,noun
  hegiras
-heifer
+heifer,noun
  heifers
-height
+height,noun
  heights
-heighten
+heighten,verb
  heightened heightening heightens
-heinous
+heinous,adjective
  heinously heinousness
-heir
+heir,noun
  heirs
-heiress
+heiress,noun
  heiresses
-heirloom
+heirloom,noun
  heirlooms
-heist
+heist,noun,verb
  heisted heisting heists
-helical
-helicopter
+helical,adjective
+helicopter,noun,verb
  helicoptered helicoptering helicopters
-heliocentric
-heliotrope
+heliocentric,adjective
+heliotrope,noun
  heliotropes
-helipad
+helipad,noun
  helipads
-heliport
+heliport,noun
  heliports
-helium
-helix
+helium,noun
+helix,noun
  helices helixes
-hell
+hell,noun,exclamation
  hellish hellishly hellishness
-hellacious
-hellbent
-hellcat
+hellacious,adjective
+hellbent,adjective
+hellcat,noun
  hellcats
-hellebore
-hellfire
-hellhole
+hellebore,noun
+hellfire,noun
+hellhole,noun
  hellholes
-hellion
+hellion,noun
  hellions
-hello
+hello,noun,exclamation,verb
  hellos
-hellraiser
+hellraiser,noun
  hellraisers
-helluva
-helm
+helluva,contraction
+helm,noun,verb
  helms
-helmet
+helmet,noun
  helmeted helmets
-helmsman
+helmsman,noun
  helmsmen
-helot
+helot,noun
  helots
-help
+help,noun,exclamation,verb
  helped helpful helpfully helpfulness helping -> [helping] helpless helplessly helplessness helps
-helper
+helper,noun
  helpers
-helping -> [help]
+helping,noun
  helpings
-helpline
+helpline,noun
  helplines
-helpmate
+helpmate,noun
  helpmates helpmeet helpmeets
-helve
+helve,noun
  helves
-hem
+hem,noun,exclamation,verb
  hemmed hemming hems
-hematite
+hematite,noun
  haematite
-hematologic
+hematologic,adjective
  haematologic
-hematological
+hematological,adjective
  haematological
-hematologist
+hematologist,noun
  haematologist haematologists hematologists
-hematology
+hematology,noun
  haematology
-heme
+heme,noun
  haem
-hemisphere
+hemisphere,noun
  hemispheres
-hemispheric
-hemispherical
-hemline
+hemispheric,adjective
+hemispherical,adjective
+hemline,noun
  hemlines
-hemlock
+hemlock,noun
  hemlocks
-hemmer
+hemmer,adjective
  hemmers
-hemoglobin
+hemoglobin,noun
  haemoglobin
-hemophilia
+hemophilia,noun
  haemophilia
-hemophiliac
+hemophiliac,noun
  haemophiliac haemophiliacs hemophiliacs
-hemorrhage
+hemorrhage,noun,verb
  haemorrhage haemorrhaged haemorrhages haemorrhaging hemorrhaged hemorrhages hemorrhaging
-hemorrhagic
+hemorrhagic,adjective
  haemorrhagic
-hemorrhoid
+hemorrhoid,noun
  haemorrhoid haemorrhoids hemorrhoids
-hemostat
+hemostat,noun
  haemostat haemostats hemostats
-hemp
-hempen
-hemstitch
+hemp,noun
+hempen,adjective
+hemstitch,noun,verb
  hemstitched hemstitches hemstitching
-hen
+hen,noun
  hens
-hence
-henceforth
-henceforward
-henchman
+hence,adverb
+henceforth,adverb
+henceforward,adverb
+henchman,noun
  henchmen
-henhouse
+henhouse,noun
  henhouses
-henna
+henna,noun,verb
  hennaed hennaing hennas
-henpeck
+henpeck,verb
  henpecked henpecking henpecks
-hep
+hep,adjective,noun
  hepper heppest
-heparin
-hepatic
-hepatitis
-heptagon
+heparin,noun
+hepatic,adjective,noun
+hepatitis,noun
+heptagon,noun
  heptagons
-heptagonal
-heptathlon
+heptagonal,adjective
+heptathlon,noun
  heptathlons
-her -> [she]
+her,pronoun,possessivedeterminer
  hers -> [she]
-herald
+herald,noun,verb
  heralded heralding heralds
-heraldic
-heraldry
-herb
+heraldic,adjective
+heraldry,noun
+herb,noun
  herbs
-herbaceous
-herbage
-herbal
+herbaceous,adjective
+herbage,noun
+herbal,adjective,noun
  herbals
-herbalism
-herbalist
+herbalism,noun
+herbalist,noun
  herbalists
-herbicidal
-herbicide
+herbicidal!
+herbicide,noun
  herbicides
-herbivore
+herbivore,noun
  herbivores
-herbivorous
-herculean
-herd
+herbivorous,adjective
+herculean,adjective
+herd,noun,verb
  herded herding herds
-herder
+herder,noun
  herders
-herdsman
+herdsman,noun
  herdsmen
-here
-hereabout
+here,adverb,exclamation
+hereabout,adverb
  hereabouts
-hereafter
+hereafter,noun,adverb
  hereafters
-hereby
-hereditary
-heredity
-herein
-hereinafter
-hereof
-hereon
-heresy
+hereby,adverb
+hereditary,adjective
+heredity,noun
+herein,adverb
+hereinafter,adverb
+hereof,adverb
+hereon!
+heresy,noun
  heresies
-heretic
+heretic,noun
  heretics
-heretical
-hereto
-heretofore
-hereunto
-hereupon
-herewith
-heritable
-heritage
+heretical,adjective
+hereto,adverb
+heretofore,adverb
+hereunto,adverb
+hereupon,adverb
+herewith,adverb
+heritable,adjective
+heritage,noun
  heritages
-hermaphrodite
+hermaphrodite,noun,adjective
  hermaphrodites
-hermaphroditic
-hermetic
-hermetical
+hermaphroditic,adjective
+hermetic,adjective
+hermetical,noun
  hermetically
-hermit
+hermit,noun
  hermits
-hermitage
+hermitage,noun
  hermitages
-hernia
+hernia,noun
  herniae hernias
-hernial
-herniate
+hernial,adjective
+herniate,verb
  herniated herniates herniating
-herniation
-hero
+herniation,noun
+hero,noun,propernoun
  heroes heros
-heroic
+heroic,adjective,noun
  heroically heroics
-heroin
-heroine
+heroin,noun
+heroine,noun
  heroines
-heroism
-heron
+heroism,noun
+heron,noun
  herons
-herpes
-herpetologist
+herpes,noun
+herpetologist,noun
  herpetologists
-herpetology
-herring
+herpetology,noun
+herring,noun
  herrings
-herringbone
-herself
-hertz
+herringbone,noun,verb
+herself,pronoun
+hertz,noun
  hertzes
-hesitancy
+hesitancy,noun
  hesitance
-hesitant
+hesitant,adjective
  hesitantly
-hesitate
+hesitate,verb
  hesitated hesitates hesitating hesitatingly
-hesitation
+hesitation,noun
  hesitations
-hessian
-hetero
+hessian,noun,adjective
+hetero,noun,adjective
  heteros
-heterodox
-heterodoxy
-heterogeneity
-heterogeneous
+heterodox,adjective
+heterodoxy,noun
+heterogeneity,noun
+heterogeneous,adjective
  heterogeneously
-heterosexual
+heterosexual,adjective,noun
  heterosexually heterosexuals
-heterosexuality
-heterozygous
-heuristic
+heterosexuality,noun
+heterozygous,adjective
+heuristic,adjective,noun
  heuristically heuristics
-hew
+hew,abbreviation,verb
  hewed hewing hewn hews
-hewer
+hewer,noun
  hewers
-hex
+hex,noun,noun,adjective,verb
  hexed hexes hexing
-hexadecimal
-hexagon
+hexadecimal,adjective
+hexagon,noun
  hexagons
-hexagonal
-hexagram
+hexagonal,adjective
+hexagram,noun
  hexagrams
-hexameter
+hexameter,noun
  hexameters
-hey
-heyday
+hey,exclamation
+heyday,noun
  heydays
-hi
-hiatus
+hi,exclamation,abbreviation
+hiatus,noun
  hiatuses
-hibachi
+hibachi,noun
  hibachis
-hibernate
+hibernate,verb
  hibernated hibernates hibernating
-hibernation
-hibernator
+hibernation,noun
+hibernator,noun
  hibernators
-hibiscus
+hibiscus,noun
  hibiscuses
-hiccup
+hiccup,noun,verb
  hiccough hiccoughed hiccoughing hiccoughs hiccuped hiccuping hiccupped hiccupping hiccups
-hick
+hick,noun
  hicks
-hickey
+hickey,noun
  hickeys hickies
-hickory
+hickory,noun
  hickories
-hide
+hide,noun,verb
  hid hidden hided hides hiding -> [hiding]
-hide-and-seek
-hideaway
+hide-and-seek,noun
+hideaway,noun
  hideaways
-hidebound
-hideous
+hidebound,adjective
+hideous,adjective
  hideously hideousness
-hideout
+hideout,noun
  hideouts
-hider
+hider,noun
  hiders
-hiding -> [hide]
+hiding,noun
  hidings
-hie
+hie,verb
  hied hieing hies hying
-hierarchic
-hierarchical
+hierarchic,adjective
+hierarchical,adjective
  hierarchically
-hierarchy
+hierarchy,noun
  hierarchies
-hieroglyph
+hieroglyph,noun
  hieroglyphs
-hieroglyphic
+hieroglyphic,noun,adjective
  hieroglyphics
-hi-fi
+hi-fi,adjective,noun
  hi-fis
-high
+high,adjective,noun,adverb
  higher -> [higher] highest highly highness highs
-highball
+highball,noun,verb
  highballs
-highborn
-highboy
+highborn,adjective
+highboy,noun
  highboys
-highbrow
+highbrow,adjective,noun
  highbrows
-highchair
+highchair,noun
  highchairs
-high-class
-high-definition
-high-end
-higher -> [high]
+high-class,adjective
+high-definition,noun
+high-end,adjective
+higher,noun
  highers
-higher-up
+higher-up,noun
  higher-ups
-highfalutin
+highfalutin,adjective
  highfaluting
-high-five
+high-five,noun,verb
  high-fived high-fives high-fiving
-highflier
+highflier,noun
  highfliers
-high-flying
-high-grade
-highhanded
+high-flying,adjective
+high-grade,adjective
+highhanded,adjective
  highhandedly highhandedness
-high-heeled
-highland
+high-heeled,adjective
+highland,noun
  highlands
-highlander
+highlander,noun
  highlanders
-high-level
-highlight
+high-level,adjective
+highlight,noun,verb
  highlighted highlighting highlights
-highlighter
+highlighter,noun
  highlighters
-high-minded
-high-performance
-high-pitched
-high-powered
-high-pressure
-high-priced
-high-profile
-high-ranking
-highrise
+high-minded,adjective
+high-performance,adjective
+high-pitched,adjective
+high-powered,adjective
+high-pressure,noun,adjective
+high-priced,adjective
+high-profile,noun,adjective
+high-ranking,adjective
+highrise,adjective,noun
  highrises
-high-risk
-highroad
+high-risk,adjective
+highroad,noun
  highroads
-high-speed
-high-strung
-hightail
+high-speed,adjective
+high-strung,adjective
+hightail,verb
  hightailed hightailing hightails
-high-tech
+high-tech,adjective,noun
  hi-tech
-highway
+highway,noun
  highways
-highwayman
+highwayman,noun
  highwaymen
-hijab
+hijab,noun
  hijabs
-hijack
+hijack,noun,verb
  highjack highjacked highjacking -> [hijacking] highjacks hijacked hijacking -> [hijacking] hijacks
-hijacker
+hijacker,noun
  highjacker highjackers hijackers
-hijacking -> [hijack]
+hijacking,noun
  highjacking -> [hijack] highjackings hijackings
-hijinks
-hike
+hijinks!
+hike,noun,verb
  hiked hikes hiking
-hiker
+hiker,noun
  hikers
-hilarious
+hilarious,adjective
  hilariously hilariousness
-hilarity
-hill
+hilarity,noun
+hill,noun,verb
  hills
-hillbilly
+hillbilly,noun
  hillbillies
-hillock
+hillock,noun
  hillocks
-hillside
+hillside,noun
  hillsides
-hilltop
+hilltop,noun
  hilltops
-hilly
+hilly,adjective
  hillier hilliest hilliness
-hilt
+hilt,noun
  hilts
-himself
-hind
+himself,pronoun
+hind,adjective,noun
  hinds
-hinder
+hinder,adjective,verb
  hindered hindering hinders
-hindmost
-hindquarter
+hindmost,adjective
+hindquarter!
  hindquarters
-hindrance
+hindrance,noun
  hindrances
-hindsight
-hinge
+hindsight,noun
+hinge,noun,verb
  hinged hinges hinging
-hint
+hint,noun,verb
  hinted hinting hints
-hinter
+hinter,noun,verb
  hinters
-hinterland
+hinterland,noun
  hinterlands
-hip
+hip,noun,adjective,exclamation
  hipness hipped hipper hippest hipping hips
-hipbath
+hipbath!
  hipbaths
-hipbone
+hipbone,noun
  hipbones
-hip-hop
-hiphuggers
-hippie
+hip-hop,noun
+hiphuggers,pluralnoun
+hippie,adjective,</span></h3><spanclass="transitivity"></span><ulclass="semb"><li><divclass="trg"><p><spanclass="iteration"></span><spanclass="ind">(especiallyinthe1960s)apersonofunconventionalappearance,typicallyhavinglonghair,associatedwithasubcultureinvolvingarejectionofconventionalvaluesandthetakingofhallucinogenicdrugs.</span></p><divclass="exg"><divclass="ex"><em>&lsquo;hippiesandspiritualseekersmadetheirwaytoIndiainthesixtiesinsearchofenlightenment&rsquo;</em></div></div><divclass="crossReference"></div><divclass="exg"><divclass="ex"><em>&lsquo;shejoinedabandofhippiesintheWestCountryandhelpedtosetuptheGlastonburyfestival&rsquo;</em></div></div><divclass="synonyms"><divclass="moreInfo"><buttondata-behaviour="ga-event-synonyms"data-value="expand/collapse">Synonyms</button></div><divclass="exg"><divclass="exs"><strong>flowerchild</strong>,bohemian,dropout,freespirit,nonconformist,unconventionalperson</div><adata-behaviour="ga-event-synonyms"data-value="viewsynonyms"href="/thesaurus/hippy">Viewsynonyms</a></div></div></div></li></ul></section><divclass="banbox"><divclass="container"></div><divclass="containermpu"></div></div><sectionclass="gramb"><h3class="pspos"><spanclass="pos">adjective
  hippies hippy
-hippo
+hippo,noun
  hippos
-hippodrome
+hippodrome,noun
  hippodromes
-hippopotamus
+hippopotamus,noun
  hippopotami hippopotamuses
-hipster
+hipster,noun,adjective
  hipsters
-hire
+hire,noun,verb
  hired hires hiring
-hireling
+hireling,noun
  hirelings
-hirsute
+hirsute,adjective
  hirsuteness
-his
-hiss
+his,possessivedeterminer,possessivepronoun
+hiss,noun,verb
  hissed hisses hissing
-hist
-histamine
+hist,exclamation
+histamine,noun
  histamines
-histogram
+histogram,noun
  histograms
-histologist
+histologist,noun
  histologists
-histology
-historian
+histology,noun
+historian,noun
  historians
-historic
-historical
+historic,adjective
+historical,adjective
  historically
-historicity
-historiographer
+historicity,noun
+historiographer,noun
  historiographers
-historiography
-history
+historiography,noun
+history,noun
  histories
-histrionic
+histrionic,adjective,noun
  histrionically histrionics
-hit
+hit,noun,verb
  hitless hits hitting
-hit-and-run
+hit-and-run,adjective
  hit-and-runs
-hitch
+hitch,noun,verb
  hitched hitches hitching
-hitcher
+hitcher,noun
  hitchers
-hitchhike
+hitchhike,noun,verb
  hitchhiked hitchhikes hitchhiking
-hitchhiker
+hitchhiker,noun
  hitchhikers
-hither
-hitherto
-hitman
+hither,adjective,adverb
+hitherto,adverb
+hitman,noun
  hitmen
-hitter
+hitter,noun
  hitters
-hive
+hive,noun,verb
  hived hives hiving
-hiya
-hmm
+hiya,exclamation
+hmm,exclamation
  hm
-ho
+ho,noun,exclamation
  hos
-hoagie
+hoagie,noun
  hoagies hoagy
-hoard
+hoard,noun,verb
  hoarded hoarding -> [hoarding] hoards
-hoarder
+hoarder,noun
  hoarders
-hoarding -> [hoard]
+hoarding,noun
  hoardings
-hoarfrost
-hoarse
+hoarfrost,noun
+hoarse,adjective
  hoarsely hoarseness hoarser hoarsest
-hoary
+hoary,adjective
  hoarier hoariest hoariness
-hoax
+hoax,noun,verb
  hoaxed hoaxes hoaxing
-hoaxer
+hoaxer,noun
  hoaxers
-hob
+hob,noun
  hobs
-hobble
+hobble,noun,verb
  hobbled hobbles hobbling
-hobbler
+hobbler,noun
  hobblers
-hobby
+hobby,noun
  hobbies
-hobbyhorse
+hobbyhorse,noun
  hobbyhorses
-hobbyist
+hobbyist,noun
  hobbyists
-hobgoblin
+hobgoblin,noun
  hobgoblins
-hobnail
+hobnail,noun
  hobnailed hobnailing hobnails
-hobnob
+hobnob,verb
  hobnobbed hobnobbing hobnobs
-hobo
+hobo,noun
  hoboes hobos
-hock
+hock,noun,verb
  hocked hocking hocks
-hockey
-hockshop
+hockey,noun
+hockshop!
  hockshops
-hod
+hod,noun
  hods
-hodgepodge
+hodgepodge,noun
  hodgepodges hotchpotch hotchpotches
-hoe
+hoe,noun,verb
  hoed hoeing hoes
-hoecake
+hoecake,noun
  hoecakes
-hoedown
+hoedown,noun
  hoedowns
-hoer
+hoer,noun
  hoers
-hog
+hog,noun,verb
  hogged hogging hoggish hoggishly hogs
-hogan
+hogan,noun
  hogans
-hogback
+hogback,noun
  hogbacks
-hogshead
+hogshead,noun
  hogsheads
-hogtie
+hogtie,verb
  hogtied hogtieing hogties hogtying
-hogwash
-hoick
+hogwash,noun
+hoick,noun,verb
  hoicked hoicking hoicks
-hoist
+hoist,noun,verb
  hoisted hoisting hoists
-hoke
+hoke,verb
  hoked hokes hoking
-hokey
+hokey,adjective
  hokier hokiest
-hokum
-hold
+hokum,noun
+hold,noun,verb
  held holding -> [holding] holds
-holdall
+holdall,noun
  holdalls
-holder
+holder,noun
  holders
-holding -> [hold]
+holding,noun
  holdings
-holdout
+holdout,noun
  holdouts
-holdover
+holdover,noun
  holdovers
-holdup
+holdup,noun
  holdups
-hole
+hole,noun,verb
  holed holes holing
-holey
+holey,adjective
  holier -> [holy] holiest -> [holy]
-holiday
+holiday,noun,verb
  holidayed holidaying holidays
-holidaymaker
+holidaymaker,noun
  holidaymakers
-holism
-holistic
+holism,noun
+holistic,adjective
  holistically
-hollandaise
-holler
+hollandaise,noun
+holler,noun,verb
  hollered hollering hollers
-hollow
+hollow,adjective,noun,verb
  hollowed hollower hollowest hollowing hollowly hollowness hollows
-holly
+holly,noun
  hollies
-hollyhock
+hollyhock,noun
  hollyhocks
-holmium
-holocaust
+holmium,noun
+holocaust,noun
  holocausts
-hologram
+hologram,noun
  holograms
-holograph
+holograph,noun
  holographs
-holographic
-holography
-hols
-holster
+holographic,adjective
+holography,noun
+hols,pluralnoun
+holster,noun,verb
  holstered holstering holsters
-holy
+holy,adjective
  holier -> [holey] holiest -> [holey] holiness
-homage
+homage,noun
  homages
-hombre
+hombre,noun
  hombres
-homburg
+homburg,noun
  homburgs
-home
+home,noun,adjective,adverb,verb
  homed homeless homelessness homelike homes homing
-homebody
+homebody,noun
  homebodies
-homeboy
+homeboy,noun
  homeboys
-homebuyer
+homebuyer,noun
  homebuyers
-homecoming
+homecoming,noun
  homecomings
-homegirl
+homegirl,noun
  homegirls
-homegrown
-homeland
+homegrown,adjective
+homeland,noun
  homelands
-homely
+homely,adjective
  homelier homeliest homeliness
-homemade
-homemaker
+homemade,adjective
+homemaker,noun
  homemakers
-homemaking
-homeopath
+homemaking,noun
+homeopath,noun
  homeopaths homoeopath homoeopaths
-homeopathic
+homeopathic,adjective
  homoeopathic
-homeopathy
+homeopathy,noun
  homoeopathy
-homeostasis
+homeostasis,noun
  homoeostasis
-homeostatic
+homeostatic,adjective
  homoeostatic
-homeowner
+homeowner,noun
  homeowners
-homepage
+homepage!
  homepages
-homer
+homer,noun,verb,propernoun
  homered homering homers
-homeroom
+homeroom,noun
  homerooms
-homeschool
+homeschool,verb
  homeschooled homeschooling homeschools
-homesick
+homesick,adjective
  homesickness
-homespun
-homestead
+homespun,adjective,noun
+homestead,noun
  homesteaded homesteading homesteads
-homesteader
+homesteader,noun
  homesteaders
-homestretch
+homestretch,noun
  homestretches
-hometown
+hometown,noun
  hometowns
-homeward
+homeward,adjective,adverb
  homewards
-homework
-homeworker
+homework,noun
+homeworker,noun
  homeworkers
-homeworking
-homey
+homeworking,noun
+homey,adjective,noun
  homeyness homeys homie homier homies homiest hominess homy
-homicidal
-homicide
+homicidal,adjective
+homicide,noun
  homicides
-homiletic
-homily
+homiletic,adjective,noun
+homily,noun
  homilies
-hominid
+hominid,noun
  hominids
-hominy
-homo
+hominy,noun
+homo,noun,adjective
  homos
-homoerotic
-homogeneity
-homogeneous
+homoerotic,adjective
+homogeneity,noun
+homogeneous,adjective
  homogeneously
-homogenization
+homogenization,noun
  homogenisation
-homogenize
+homogenize,verb
  homogenise homogenised homogenises homogenising homogenized homogenizes homogenizing
-homogenous
-homograph
+homogenous,adjective
+homograph,noun
  homographs
-homologous
-homonym
+homologous,adjective
+homonym,noun
  homonyms
-homophobia
-homophobic
-homophone
+homophobia,noun
+homophobic,adjective
+homophone,noun
  homophones
-homosexual
+homosexual,adjective,noun
  homosexuals
-homosexuality
-homozygous
-hon
+homosexuality,noun
+homozygous,adjective
+hon,noun
  hons
-honcho
+honcho,noun,verb
  honchos
-hone
+hone,noun,verb
  honed hones honing
-honer
+honer,noun
  honers
-honest
+honest,adjective,adverb
  honester honestest honestly
-honesty
-honey
+honesty,noun
+honey,noun
  honeyed honeying honeys honied
-honeybee
+honeybee,noun
  honeybees
-honeycomb
+honeycomb,noun,verb
  honeycombed honeycombing honeycombs
-honeydew
+honeydew,noun
  honeydews
-honeylocust
+honeylocust,noun
  honeylocusts
-honeymoon
+honeymoon,noun,verb
  honeymooned honeymooning honeymoons
-honeymooner
+honeymooner,noun
  honeymooners
-honeypot
+honeypot,noun
  honeypots
-honeysuckle
+honeysuckle,noun
  honeysuckles
-honk
+honk,noun,verb
  honked honking honks
-honker
+honker,noun
  honkers
-honky
+honky,noun
  honkie honkies
-honor
+honor,noun,verb
  honored honoring honors honour honoured honouring honours
-honorable
+honorable,adjective
  honorableness honorably honourable honourableness honourably
-honorarium
+honorarium,noun
  honoraria honorariums
-honorary
+honorary,adjective
  honorarily honourary
-honoree
+honoree,noun
  honorees honouree honourees
-honorer
+honorer,adjective
  honorers honourer honourers
-honorific
+honorific,adjective,noun
  honorifics
-hooch
+hooch,noun
  hootch
-hood
+hood,noun,verb
  hooded hooding hoods
-hoodie
+hoodie,noun
  hoodies hoody
-hoodlum
+hoodlum,noun
  hoodlums
-hoodoo
+hoodoo,noun,verb
  hoodooed hoodooing hoodoos
-hoodwink
+hoodwink,verb
  hoodwinked hoodwinking hoodwinks
-hooey
-hoof
+hooey,noun
+hoof,noun,verb
  hoofed hoofing hoofs hooves
-hoofer
+hoofer,noun
  hoofers
-hook
+hook,noun,verb
  hooked hooking hooks
-hookah
+hookah,noun
  hooka hookahs hookas
-hooker
+hooker,noun
  hookers
-hookup
+hookup,noun
  hookups
-hookworm
+hookworm,noun
  hookworms
-hooky
+hooky,noun,adjective
  hookey
-hooligan
+hooligan,noun
  hooligans
-hooliganism
-hoop
+hooliganism,noun
+hoop,noun,verb
  hooped hooping hoops
-hoopla
-hoosegow
+hoopla,noun
+hoosegow,noun
  hoosegows
-hoot
+hoot,noun,verb
  hooted hooting hoots
-hootenanny
+hootenanny,noun
  hootenannies
-hooter
+hooter,noun
  hooters
-hoover
+hoover,noun,verb,propernoun
  hoovered hoovering hoovers
-hop
+hop,noun,verb
  hopped hopping hops
-hope
+hope,noun,verb
  hoped hopeful -> [hopeful] hopefully hopefulness hopeless hopelessly hopelessness hopes hoping
-hoped-for
-hopeful -> [hope]
+hoped-for,phrase
+hopeful,adjective,noun
  hopefuls
-hopper
+hopper,noun
  hoppers
-hopscotch
+hopscotch,noun,verb
  hopscotched hopscotches hopscotching
-hora
+hora,noun
  horas
-horde
+horde,noun
  horded hordes hording
-horehound
+horehound,noun
  horehounds
-horizon
+horizon,noun
  horizons
-horizontal
+horizontal,adjective,noun
  horizontally horizontals
-hormonal
-hormone
+hormonal,adjective
+hormone,noun
  hormones
-horn
+horn,noun,verb
  horned horning hornless hornlike horns
-hornblende
-hornet
+hornblende,noun
+hornet,noun
  hornets
-hornpipe
+hornpipe,noun
  hornpipes
-horny
+horny,adjective
  hornier horniest
-horologic
-horological
-horologist
+horologic,adjective
+horological,adjective
+horologist,noun
  horologists
-horology
-horoscope
+horology,noun
+horoscope,noun
  horoscopes
-horrendous
+horrendous,adjective
  horrendously
-horrible
+horrible,adjective
  horribleness horribly
-horrid
+horrid,adjective
  horrider horridest horridly
-horrific
+horrific,adjective
  horrifically
-horrify
+horrify,verb
  horrified horrifies horrifying horrifyingly
-horror
+horror,noun
  horrors
-horse
+horse,noun,verb
  horsed horseless horses horsing
-horseback
-horsebox
+horseback,adverb,adjective
+horsebox,noun
  horseboxes
-horse-drawn
-horseflesh
-horsefly
+horse-drawn,adjective
+horseflesh,noun
+horsefly,noun
  horseflies
-horsehair
-horsehide
-horselaugh
+horsehair,noun
+horsehide,noun
+horselaugh,noun
  horselaughs
-horseman
+horseman,noun
  horsemen
-horsemanship
-horsemeat
-horseplay
-horsepower
-horseracing
-horseradish
+horsemanship,noun
+horsemeat,noun
+horseplay,noun
+horsepower,noun
+horseracing,noun
+horseradish,noun
  horseradishes
-horseshit
-horseshoe
+horseshit,noun
+horseshoe,noun
  horseshoed horseshoeing horseshoes
-horsetail
+horsetail,noun
  horsetails
-horsetrading
-horsewhip
+horsetrading,verb
+horsewhip,noun,verb
  horsewhipped horsewhipping horsewhips
-horsewoman
+horsewoman,noun
  horsewomen
-horsey
+horsey,adjective
  horsier horsiest horsy
-hortatory
-horticultural
-horticulture
-horticulturist
+hortatory,adjective
+horticultural,adjective
+horticulture,noun
+horticulturist,noun
  horticulturalist horticulturalists horticulturists
-hosanna
+hosanna,noun,exclamation
  hosannas
-hose
+hose,noun,verb
  hosed hoses hosing
-hosepipe
+hosepipe,noun
  hosepipes
-hosier
+hosier,noun
  hosiers
-hosiery
-hospice
+hosiery,noun
+hospice,noun
  hospices
-hospitable
+hospitable,adjective
  hospitably
-hospital
+hospital,noun
  hospitals
-hospitality
-hospitalization
+hospitality,noun
+hospitalization,noun
  hospitalisation hospitalisations hospitalizations
-hospitalize
+hospitalize,verb
  hospitalise hospitalised hospitalises hospitalising hospitalized hospitalizes hospitalizing
-host
+host,noun,verb
  hosted hosting hosts
-hostage
+hostage,noun
  hostages
-hostel
+hostel,noun
  hosteled hosteling hostelled hostelling hostels
-hosteler
+hosteler,noun
  hostelers hosteller hostellers
-hostelry
+hostelry,noun
  hostelries
-hostess
+hostess,noun
  hostessed hostesses hostessing
-hostile
+hostile,adjective
  hostilely hostiles
-hostility
+hostility,noun
  hostilities
-hostler
+hostler,noun
  hostlers
-hot
+hot,adjective,verb
  hotly hotness hots hotted hotter hottest hotting
-hotbed
+hotbed,noun
  hotbeds
-hotblooded
-hotbox
+hotblooded,adjective
+hotbox!
  hotboxes
-hot-button
-hotcake
+hot-button,noun
+hotcake,noun
  hotcakes
-hotdog
+hotdog,noun,exclamation,verb
  hotdogged hotdogging hotdogs
-hotel
+hotel,noun
  hotels
-hotelier
+hotelier,noun
  hoteliers
-hotfix
+hotfix,noun
  hotfixes
-hotfoot
+hotfoot,adverb,verb
  hotfooted hotfooting hotfoots
-hothead
+hothead,noun
  hotheaded hotheadedly hotheadedness hotheads
-hothouse
+hothouse,noun,verb
  hothoused hothouses hothousing
-hotline
+hotline,noun
  hotlines
-hotlink
+hotlink,noun,verb
  hotlinks
-hotplate
+hotplate,noun
  hotplates
-hotpot
+hotpot,noun
  hotpots
-hotrod
+hotrod,noun,verb
  hotrods
-hotshot
+hotshot,noun
  hotshots
-hotspot
+hotspot,noun
  hotspots
-hottie
+hottie,noun
  hotties
-hound
+hound,noun,verb
  hounded hounding hounds
-hour
+hour,noun
  hourly hours
-hourglass
+hourglass,noun
  hourglasses
-houri
+houri,noun
  houris
-house
+house,noun,adjective,verb
  housed houseful housefuls houses housing -> [housing]
-houseboat
+houseboat,noun
  houseboats
-housebound
-houseboy
+housebound,adjective
+houseboy,noun
  houseboys
-housebreak
+housebreak,verb
  housebreaking housebreaks housebroke housebroken
-housebreaker
+housebreaker,noun
  housebreakers
-houseclean
+houseclean,verb
  housecleaned housecleaning housecleans
-housecoat
+housecoat,noun
  housecoats
-housefly
+housefly,noun
  houseflies
-houseguest
+houseguest,noun
  houseguests
-household
+household,noun
  households
-householder
+householder,noun
  householders
-househusband
+househusband,noun
  househusbands
-housekeeper
+housekeeper,noun
  housekeepers
-housekeeping
-houselights
-housemaid
+housekeeping,noun
+houselights!
+housemaid,noun
  housemaids
-houseman
+houseman,noun
  housemen
-housemaster
+housemaster,noun
  housemasters
-housemate
+housemate,noun
  housemates
-housemistress
+housemistress,noun
  housemistresses
-housemother
+housemother,noun
  housemothers
-houseparent
+houseparent,noun
  houseparents
-houseplant
+houseplant,noun
  houseplants
-houseproud
-houseroom
-housesit
+houseproud,adjective
+houseroom,noun
+housesit,verb
  housesat housesits housesitting
-housesitter
+housesitter,noun
  housesitters
-housetop
+housetop,noun
  housetops
-housewares
-housewarming
+housewares,pluralnoun
+housewarming,noun
  housewarmings
-housewife
+housewife,noun
  housewifely housewives
-housework
-housing -> [house]
+housework,noun
+housing,noun
  housings
-hovel
+hovel,noun
  hovels
-hover
+hover,noun,verb
  hovered hovering hovers
-hovercraft
+hovercraft,noun
  hovercrafts
-how
+how,adverb,exclamation
  hows
-howbeit
-howdah
+howbeit,adverb
+howdah,noun
  howdahs
-howdy
-however
-howitzer
+howdy,exclamation
+however,adverb
+howitzer,noun
  howitzers
-howl
+howl,noun,verb
  howled howling howls
-howler
+howler,noun
  howlers
-howsoever
-how-to
+howsoever,adverb,conjunction
+how-to,adjective,noun
  how-tos
-howzit
-hoyden
+howzit,exclamation
+hoyden,noun
  hoydenish hoydens
-huarache
+huarache,noun
  huaraches
-hub
+hub,noun
  hubs
-hubbub
+hubbub,noun
  hubbubs
-hubby
+hubby,noun
  hubbies
-hubcap
+hubcap,noun
  hubcaps
-hubris
-huckleberry
+hubris,noun
+huckleberry,noun
  huckleberries
-huckster
+huckster,noun,verb
  huckstered huckstering hucksters
-hucksterism
-huddle
+hucksterism,noun
+huddle,noun,verb
  huddled huddles huddling
-hue
+hue,noun,propernoun
  hued hues
-huff
+huff,noun,verb
  huffed huffing huffs
-huffy
+huffy,adjective
  huffier huffiest huffily huffiness
-hug
+hug,noun,verb
  hugged hugging hugs
-huge
+huge,adjective
  hugely hugeness huger hugest
-huh
-hula
+huh,exclamation
+hula,noun
  hulas
-hulk
+hulk,noun
  hulking hulks
-hull
+hull,noun,verb,propernoun
  hulled hulling hulls
-hullabaloo
+hullabaloo,noun
  hullabaloos
-huller
+huller,adjective
  hullers
-hum
+hum,noun,exclamation,verb
  hummed humming hums
-human
+human,adjective,noun
  humaner -> [humane] humanest -> [humane] humanly humanness humans
-humane
+humane,adjective
  humanely humaneness humaner -> [human] humanest -> [human]
-humanism
-humanist
+humanism,noun
+humanist,noun,adjective
  humanists
-humanistic
-humanitarian
+humanistic,adjective
+humanitarian,adjective,noun
  humanitarians
-humanitarianism
-humanity
+humanitarianism,noun
+humanity,noun
  humanities
-humanization
+humanization,noun
  humanisation
-humanize
+humanize,verb
  humanise humanised humanises humanising humanized humanizes humanizing
-humanizer
+humanizer,noun
  humaniser humanisers humanizers
-humankind
-humanoid
+humankind,noun
+humanoid,adjective,noun
  humanoids
-humble
+humble,adjective,verb
  humbled humbleness humbler -> [humbler] humbles humblest humbling humbly
-humbler -> [humble]
+humbler,adjective,verb
  humblers
-humbug
+humbug,noun,verb
  humbugged humbugging humbugs
-humdinger
+humdinger,noun
  humdingers
-humdrum
-humeral
-humerus
+humdrum,adjective,noun
+humeral,adjective
+humerus,noun
  humeri
-humid
+humid,adjective
  humider humidest humidly
-humidification
-humidifier
+humidification,noun
+humidifier,noun
  humidifiers
-humidify
+humidify,verb
  humidified humidifies humidifying
-humidity
-humidor
+humidity,noun
+humidor,noun
  humidors
-humiliate
+humiliate,verb
  humiliated humiliates humiliating humiliatingly
-humiliation
+humiliation,noun
  humiliations
-humility
-hummer
+humility,noun
+hummer,noun
  hummers
-hummingbird
+hummingbird,noun
  hummingbirds
-hummock
+hummock,noun
  hummocks
-hummocky
-hummus
+hummocky,adjective
+hummus,noun
  houmous houmus humus -> [humus]
-humongous
+humongous,adjective
  humungous
-humor
+humor,noun,verb
  humored humoring humorless humorlessly humorlessness humors humour humoured humouring humourless humourlessly humourlessness humours
-humorist
+humorist,noun
  humorists
-humorous
+humorous,adjective
  humorously humorousness
-hump
+hump,noun,verb
  humped humping humps
-humpback
+humpback,noun
  humpbacked humpbacks
-humph
+humph,exclamation
  humphed humphing humphs
-humus -> [hummus]
-hunch
+humus,noun
+hunch,noun,verb
  hunched hunches hunching
-hunchback
+hunchback,noun
  hunchbacked hunchbacks
-hundred
+hundred,noun,cardinalnumber
  hundreds
-hundredfold
-hundredth
+hundredfold,adverb,adjective
+hundredth,ordinalnumber
  hundredths
-hundredweight
+hundredweight,noun
  hundredweights
-hunger
+hunger,noun,verb
  hungered hungering hungers
-hungover
-hungry
+hungover,adjective
+hungry,adjective
  hungrier hungriest hungrily hungriness
-hunk
+hunk,noun
  hunks
-hunker
+hunker,verb
  hunkered hunkering hunkers
-hunky
+hunky,adjective
  hunkier hunkiest
-hunt
+hunt,noun,verb
  hunted hunting hunts
-hunter
+hunter,noun
  hunters
-hunter-gatherer
+hunter-gatherer,noun
  hunter-gatherers
-huntress
+huntress,noun
  huntresses
-huntsman
+huntsman,noun
  huntsmen
-hurdle
+hurdle,noun,verb
  hurdled hurdles hurdling
-hurdler
+hurdler,noun
  hurdlers
-hurl
+hurl,noun,verb
  hurled hurling hurls
-hurler
+hurler,noun
  hurlers
-hurrah
+hurrah,noun,exclamation,verb
  hooray hoorayed hooraying hoorays hurrahed hurrahing hurrahs hurray hurrayed hurraying hurrays
-hurricane
+hurricane,noun,propernoun
  hurricanes
-hurry
+hurry,noun,verb
  hurried hurriedly hurries hurrying
-hurt
+hurt,adjective,noun,verb
  hurtful hurtfully hurtfulness hurting hurts
-hurtle
+hurtle,verb
  hurtled hurtles hurtling
-husband
+husband,noun,verb
  husbanded husbanding husbands
-husbandman
+husbandman,noun
  husbandmen
-husbandry
-hush
+husbandry,noun
+hush,noun,verb
  hushed hushes hushing
-husk
+husk,noun,verb
  husked husking husks
-husker
+husker,noun,verb
  huskers
-husky
+husky,adjective,noun
  huskier huskies huskiest huskily huskiness
-hussar
+hussar,noun
  hussars
-hussy
+hussy,noun
  hussies
-hustings
-hustle
+hustings,noun
+hustle,noun,verb
  hustled hustles hustling
-hustler
+hustler,noun
  hustlers
-hut
+hut,noun,verb
  huts
-hutch
+hutch,noun
  hutches
-huzzah
+huzzah,exclamation,verb
  huzza huzzaed huzzahed huzzahing huzzahs huzzaing huzzas
-hyacinth
+hyacinth,noun
  hyacinths
-hybrid
+hybrid,noun,adjective
  hybrids
-hybridism
-hybridization
+hybridism,noun
+hybridization,noun
  hybridisation
-hybridize
+hybridize,verb
  hybridise hybridised hybridises hybridising hybridized hybridizes hybridizing
-hydra
+hydra,noun,propernoun
  hydrae hydras
-hydrangea
+hydrangea,noun
  hydrangeas
-hydrant
+hydrant,noun
  hydrants
-hydrate
+hydrate,noun,verb
  hydrated hydrates hydrating
-hydration
-hydraulic
+hydration,noun
+hydraulic,adjective
  hydraulically hydraulics
-hydro
-hydrocarbon
+hydro,noun
+hydrocarbon,noun
  hydrocarbons
-hydrocephalus
-hydrocephaly
-hydrodynamic
+hydrocephalus,noun
+hydrocephaly,noun
+hydrodynamic,adjective
  hydrodynamics
-hydroelectric
+hydroelectric,adjective
  hydroelectrically
-hydroelectricity
-hydrofoil
+hydroelectricity,noun
+hydrofoil,noun
  hydrofoils
-hydrogen
-hydrogenate
+hydrogen,noun
+hydrogenate,verb
  hydrogenated hydrogenates hydrogenating
-hydrogenation
-hydrogenous
-hydrologist
+hydrogenation,noun
+hydrogenous,adjective
+hydrologist,noun
  hydrologists
-hydrology
-hydrolysis
-hydrolyze
+hydrology,noun
+hydrolysis,noun
+hydrolyze,verb
  hydrolyse hydrolysed hydrolyses hydrolysing hydrolyzed hydrolyzes hydrolyzing
-hydrometer
+hydrometer,noun
  hydrometers
-hydrometry
-hydrophobia
-hydrophobic
-hydrophone
+hydrometry,noun
+hydrophobia,noun
+hydrophobic,adjective
+hydrophone,noun
  hydrophones
-hydroplane
+hydroplane,noun,verb
  hydroplaned hydroplanes hydroplaning
-hydroponic
+hydroponic,adjective
  hydroponically hydroponics
-hydrosphere
-hydrotherapy
-hydrous
-hydroxide
+hydrosphere,noun
+hydrotherapy,noun
+hydrous,adjective
+hydroxide,noun
  hydroxides
-hyena
+hyena,noun
  hyaena hyaenas hyenas
-hygiene
-hygienic
+hygiene,noun
+hygienic,adjective
  hygienically
-hygienist
+hygienist,noun
  hygienists
-hygrometer
+hygrometer,noun
  hygrometers
-hymen
+hymen,noun
  hymens
-hymeneal
-hymn
+hymeneal,adjective
+hymn,noun,verb
  hymned hymning hymns
-hymnal
+hymnal,noun,adjective
  hymnals
-hymnbook
+hymnbook,noun
  hymnbooks
-hype
+hype,noun,verb
  hyped hypes hyping
-hyper
-hyperactive
-hyperactivity
-hyperbola
+hyper,adjective
+hyperactive,adjective
+hyperactivity,noun
+hyperbola,noun
  hyperbolae hyperbolas
-hyperbole
+hyperbole,noun
  hyperboles
-hyperbolic
-hypercritical
+hyperbolic,adjective
+hypercritical,adjective
  hypercritically
-hyperglycemia
+hyperglycemia,noun
  hyperglycaemia
-hyperinflation
-hyperlink
+hyperinflation,noun
+hyperlink,noun,verb
  hyperlinked! hyperlinking! hyperlinks
-hypermarket
+hypermarket,noun
  hypermarkets
-hypermedia
-hypersensitive
+hypermedia,noun
+hypersensitive,adjective
  hypersensitiveness
-hypersensitivity
+hypersensitivity,noun
  hypersensitivities
-hypertension
-hypertensive
+hypertension,noun
+hypertensive,adjective,noun
  hypertensives
-hypertext
-hyperthyroid
-hyperthyroidism
-hypertrophy
+hypertext,noun
+hyperthyroid,adjective
+hyperthyroidism,noun
+hypertrophy,noun
  hypertrophied hypertrophies hypertrophying
-hyperventilate
+hyperventilate,verb
  hyperventilated hyperventilates hyperventilating
-hyperventilation
-hyphen
+hyperventilation,noun
+hyphen,noun
  hyphened hyphening hyphens
-hyphenate
+hyphenate,noun,verb
  hyphenated hyphenates hyphenating
-hyphenation
-hypnosis
-hypnotherapist
+hyphenation,noun
+hypnosis,noun
+hypnotherapist,noun
  hypnotherapists
-hypnotherapy
-hypnotic
+hypnotherapy,noun
+hypnotic,adjective,noun
  hypnotically hypnotics
-hypnotism
-hypnotist
+hypnotism,noun
+hypnotist,noun
  hypnotists
-hypnotize
+hypnotize,verb
  hypnotise hypnotised hypnotises hypnotising hypnotized hypnotizes hypnotizing
-hypo
+hypo,noun
  hypos
-hypoallergenic
-hypochondria
-hypochondriac
+hypoallergenic,adjective
+hypochondria,noun
+hypochondriac,noun,adjective
  hypochondriacs
-hypocrisy
+hypocrisy,noun
  hypocrisies
-hypocrite
+hypocrite,noun
  hypocrites
-hypocritical
+hypocritical,adjective
  hypocritically
-hypodermic
+hypodermic,adjective,noun
  hypodermics
-hypoglycemia
+hypoglycemia,noun
  hypoglycaemia
-hypoglycemic
+hypoglycemic,adjective
  hypoglycaemic hypoglycaemics hypoglycemics
-hypotenuse
+hypotenuse,noun
  hypotenuses
-hypothalamus
+hypothalamus,noun
  hypothalami
-hypothermia
-hypothesis
+hypothermia,noun
+hypothesis,noun
  hypotheses
-hypothesize
+hypothesize,verb
  hypothesise hypothesised hypothesises hypothesising hypothesized hypothesizes hypothesizing
-hypothetical
+hypothetical,adjective,noun
  hypothetically
-hypothyroid
-hypothyroidism
-hyssop
-hysterectomy
+hypothyroid,adjective,noun
+hypothyroidism,noun
+hyssop,noun
+hysterectomy,noun
  hysterectomies
-hysteria
-hysteric
+hysteria,noun
+hysteric,noun,adjective
  hysterics
-hysterical
+hysterical,adjective
  hysterically
