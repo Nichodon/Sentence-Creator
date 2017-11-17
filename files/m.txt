@@ -1,3249 +1,3249 @@
-ma
+ma,abbreviation,noun
  mas
-mac
+mac,noun
  mack macks macs
-macabre
-macadam
-macadamia
+macabre,adjective
+macadam,noun
+macadamia,noun
  macadamias
-macadamize
+macadamize,verb
  macadamise macadamised macadamises macadamising macadamized macadamizes macadamizing
-macaque
+macaque,noun
  macaques
-macaroni
+macaroni,noun
  macaronies macaronis
-macaroon
+macaroon,noun
  macaroons
-macaw
+macaw,noun
  macaws
-mace
+mace,verb,noun
  maced maces macing
-macerate
+macerate,verb
  macerated macerates macerating
-maceration
-mach
-machete
+maceration,noun
+mach,noun
+machete,noun
  machetes
-machinate
+machinate,verb
  machinated machinates machinating
-machination
+machination,noun
  machinations
-machine
+machine,verb,noun
  machined machines machining
-machine-gun
+machine-gun,verb,noun
  machine-gunned machine-gunning machine-guns
-machinery
-machinist
+machinery,noun
+machinist,noun
  machinists
-machismo
-macho
-mackerel
+machismo,noun
+macho,adjective,noun
+mackerel,noun
  mackerels
-mackinaw
+mackinaw,noun
  mackinaws
-mackintosh
+mackintosh,noun
  macintosh macintoshes mackintoshes
-macrame
-macro
+macrame,noun
+macro,adjective,noun
  macros
-macrobiotic
+macrobiotic,adjective,pluralnoun
  macrobiotics
-macrocosm
+macrocosm,noun
  macrocosms
-macroeconomic
+macroeconomic,adjective
  macroeconomics
-macron
+macron,noun
  macrons
-macroscopic
-mad
+macroscopic,adjective
+mad,adjective,abbreviation,verb,adverb
  madder -> [madder] maddest madly madness mads
-madam
+madam,noun
  madams mesdames -> [madame]
-madame
+madame,noun
  mesdames -> [madam]
-madcap
+madcap,adjective,noun
  madcaps
-madden
+madden,verb
  maddened maddening maddeningly maddens
-madder -> [mad]
+madder,noun
  madders
-madding
-mademoiselle
+madding,adjective
+mademoiselle,noun
  mademoiselles mesdemoiselles
-made-up
-madhouse
+made-up,adjective
+madhouse,noun
  madhouses
-madman
+madman,noun
  madmen
-madonna
+madonna,noun,propernoun
  madonnas
-madras
+madras,noun,propernoun
  madrases
 madrassa!
  madrasa madrasah madrasahs madrasas madrassas
-madrigal
+madrigal,noun
  madrigals
-madwoman
+madwoman,noun
  madwomen
-maelstrom
+maelstrom,noun
  maelstroms
-maestro
+maestro,noun
  maestri maestros
-mafia
+mafia,noun
  mafias
-mafioso
+mafioso,noun
  mafiosi mafiosos
-mag
+mag,verb,noun
  mags
-magazine
+magazine,noun
  magazines
-magenta
-maggot
+magenta,noun
+maggot,noun
  maggots
-maggoty
-magic
+maggoty,adjective
+magic,adjective,verb,noun
  magicked magicking magics
-magical
+magical,adjective
  magically
-magician
+magician,noun
  magicians
-magisterial
+magisterial,adjective
  magisterially
-magistracy
-magistrate
+magistracy,noun
+magistrate,noun
  magistrates
-magma
-magnanimity
-magnanimous
+magma,noun
+magnanimity,noun
+magnanimous,adjective
  magnanimously
-magnate
+magnate,noun
  magnates
-magnesia
-magnesium
-magnet
+magnesia,noun
+magnesium,noun
+magnet,noun
  magnets
-magnetic
+magnetic,adjective
  magnetically
-magnetism
-magnetite
-magnetizable
+magnetism,noun
+magnetite,noun
+magnetizable,adjective
  magnetisable
-magnetization
+magnetization,noun
  magnetisation
-magnetize
+magnetize,verb
  magnetise magnetised magnetises magnetising magnetized magnetizes magnetizing
-magneto
+magneto,noun
  magnetos
-magnetometer
+magnetometer,noun
  magnetometers
-magnification
+magnification,noun
  magnifications
-magnificence
-magnificent
+magnificence,noun
+magnificent,adjective
  magnificently
-magnifier
+magnifier,noun
  magnifiers
-magnify
+magnify,verb
  magnified magnifies magnifying
-magniloquence
-magniloquent
-magnitude
+magniloquence,noun
+magniloquent,adjective
+magnitude,noun
  magnitudes
-magnolia
+magnolia,noun
  magnolias
-magnum
+magnum,noun
  magnums
-magpie
+magpie,noun
  magpies
-magus
+magus,noun
  magi
-maharajah
+maharajah,noun
  maharaja maharajahs maharajas
-maharanee
+maharanee,noun
  maharanees maharani maharanis
-maharishi
+maharishi,noun
  maharishis
-mahatma
+mahatma,noun
  mahatmas
-mahimahi
-mahjong
+mahimahi,noun
+mahjong,noun
  mahjongg
-mahogany
+mahogany,noun
  mahoganies
-mahout
+mahout,noun
  mahouts
-maid
+maid,noun
  maids
-maiden
+maiden,adjective,noun
  maidenly maidens
-maidenhair
+maidenhair,noun
  maidenhairs
-maidenhead
+maidenhead,noun,propernoun
  maidenheads
-maidenhood
-maidservant
+maidenhood,noun
+maidservant,noun
  maidservants
-mail
+mail,verb,noun
  mailed mailing -> [mailing] mails
-mailbag
+mailbag,noun
  mailbags
-mailbox
+mailbox,noun
  mailboxes
-mailer
+mailer,noun
  mailers
-mailing -> [mail]
+mailing,noun
  mailings
-maillot
+maillot,noun
  maillots
-mailman
+mailman,noun
  mailmen
-mail-order
-mailroom
+mail-order,noun
+mailroom,noun
  mailrooms
-mailshot
+mailshot,verb,noun
  mailshots
-maim
+maim,verb
  maimed maiming maims
-main
+main,adjective,noun,propernoun
  mainly mains
-mainframe
+mainframe,noun
  mainframes
-mainland
+mainland,noun,propernoun
  mainlands
-mainline
+mainline,verb,noun
  mainlined mainlines mainlining
-mainmast
+mainmast,noun
  mainmasts
-mainsail
+mainsail,noun
  mainsails
-mainspring
+mainspring,noun
  mainsprings
-mainstay
+mainstay,noun
  mainstays
-mainstream
+mainstream,adjective,verb,noun
  mainstreamed mainstreaming mainstreams
-maintain
+maintain,verb
  maintained maintaining maintains
-maintainable
-maintenance
-maintop
+maintainable,adjective
+maintenance,noun
+maintop,noun
  maintops
-maisonette
+maisonette,noun
  maisonettes
-maize
-majestic
+maize,noun
+majestic,adjective
  majestically
-majesty
+majesty,noun
  majesties
-majolica
+majolica,noun
  maiolica
-major
+major,adjective,verb,noun
  majored majoring majorly majors
-majordomo
+majordomo,noun
  majordomos
-majorette
+majorette,noun
  majorettes
-majority
+majority,noun
  majorities
-major-league
-make
+major-league,noun
+make,verb,noun
  made makes making -> [making]
-make-believe
-makeover
+make-believe,adjective,verb,noun
+makeover,noun
  makeovers
-maker
+maker,noun
  makers
-makeshift
+makeshift,adjective,noun
  makeshifts
-makeup
+makeup,noun
  makeups
-makeweight
+makeweight,noun
  makeweights
-makework
-making -> [make]
+makework,adjective,noun
+making,noun
  makings
-malachite
-maladjusted
-maladjustment
-maladministration
-maladroit
+malachite,noun
+maladjusted,adjective
+maladjustment,noun
+maladministration,noun
+maladroit,adjective
  maladroitly maladroitness
-malady
+malady,noun
  maladies
-malaise
-malamute
+malaise,noun
+malamute,noun
  malamutes
-malapropism
+malapropism,noun
  malapropisms
-malaria
-malarial
-malarkey
-malathion
-malcontent
+malaria,noun
+malarial,adjective
+malarkey,noun
+malathion,noun
+malcontent,adjective,noun
  malcontents
-male
+male,adjective,noun,propernoun
  maleness males
-malediction
+malediction,noun
  maledictions
-malefaction
-malefactor
+malefaction,noun
+malefactor,noun
  malefactors
-malefic
-maleficence
-maleficent
-malevolence
-malevolent
+malefic,adjective
+maleficence,noun
+maleficent,adjective
+malevolence,noun
+malevolent,adjective
  malevolently
-malfeasance
-malformation
+malfeasance,noun
+malformation,noun
  malformations
-malformed
-malfunction
+malformed,adjective
+malfunction,verb,noun
  malfunctioned malfunctioning malfunctions
-malice
-malicious
+malice,noun
+malicious,adjective
  maliciously maliciousness
-malign
+malign,adjective,verb
  maligned maligning maligns
-malignancy
+malignancy,noun
  malignancies
-malignant
+malignant,adjective
  malignantly
-malignity
-malinger
+malignity,noun
+malinger,verb
  malingered malingering malingers
-malingerer
+malingerer,noun
  malingerers
-mall
+mall,noun
  malls
-mallard
+mallard,noun
  mallards
-malleable
+malleable,adjective
  malleability
-mallet
+mallet,noun
  mallets
-mallow
+mallow,noun
  mallows
-mallrat
+mallrat,noun
  mallrats
-malnourished
-malnutrition
-malocclusion
-malodorous
-malpractice
+malnourished,adjective
+malnutrition,noun
+malocclusion,noun
+malodorous,adjective
+malpractice,noun
  malpractices
-malt
+malt,verb,noun
  malted -> [malted] malting malts
-malted -> [malt]
+malted,adjective
  malteds
-maltose
-maltreat
+maltose,noun
+maltreat,verb
  maltreated maltreating maltreats
-maltreatment
-malty
+maltreatment,noun
+malty,adjective
  maltier maltiest
-malware
-mama
+malware,noun
+mama,noun
  mamas mamma mammas momma mommas
-mamba
+mamba,noun
  mambas
-mambo
+mambo,verb,noun
  mamboed mamboing mambos
-mammal
+mammal,noun
  mammals
-mammalian
+mammalian,adjective
  mammalians
-mammary
-mammogram
+mammary,adjective,noun
+mammogram,noun
  mammograms
-mammography
-mammon
-mammoth
+mammography,noun
+mammon,noun
+mammoth,adjective,noun
  mammoths
-mammy
+mammy,noun
  mammies
-man
+man,exclamation,verb,noun
  manlier manliest manlike manliness manly manned manning mannish mannishly mannishness mans men
-manacle
+manacle,verb,noun
  manacled manacles manacling
-manage
+manage,verb
  managed manages managing
-manageable
+manageable,adjective
  manageability
-management
+management,noun
  managements
-manager
+manager,noun
  managers
-manageress
+manageress,noun
  manageresses
-managerial
-manana
+managerial,adjective
+manana,adverb
  mananas
-manatee
+manatee,noun
  manatees
-mandala
+mandala,noun
  mandalas
-mandamus
+mandamus,noun
  mandamuses
-mandarin
+mandarin,noun
  mandarins
-mandate
+mandate,verb,noun
  mandated mandates mandating
-mandatory
-mandible
+mandatory,adjective,noun
+mandible,noun
  mandibles
-mandibular
-mandolin
+mandibular,adjective
+mandolin,noun
  mandolins
-mandrake
+mandrake,noun
  mandrakes
-mandrel
+mandrel,noun
  mandrels mandril mandrils
-mandrill
+mandrill,noun
  mandrills
-mane
+mane,noun
  maned manes
-maneater
+maneater,noun
  maneaters
-manege
-maneuver
+manege,noun
+maneuver,verb,noun
  maneuvered maneuvering -> [maneuvering] maneuvers manoeuvre manoeuvred manoeuvres manoeuvring -> [maneuvering]
-maneuverable
+maneuverable,adjective
  maneuverability manoeuvrability manoeuvrable
-maneuvering -> [maneuver]
+maneuvering,verb,noun
  maneuverings manoeuvring -> [maneuver] manoeuvrings
-manful
+manful,adjective
  manfully
-manga
+manga,noun
  mangas
-manganese
-mange
-manger
+manganese,noun
+mange,noun
+manger,noun
  mangers
-mangetout
+mangetout,noun
  mangetouts
-mangle
+mangle,verb,noun
  mangled mangles mangling
-mango
+mango,noun
  mangoes mangos
-mangrove
+mangrove,noun
  mangroves
-mangy
+mangy,adjective
  mangier mangiest manginess
-manhandle
+manhandle,verb
  manhandled manhandles manhandling
-manhole
+manhole,noun
  manholes
-manhood
-manhunt
+manhood,noun
+manhunt,noun
  manhunts
-mania
+mania,noun
  manias
-maniac
+maniac,noun
  maniacs
-maniacal
+maniacal,adjective
  maniacally
-manic
+manic,adjective
  manically manics
-manicure
+manicure,verb,noun
  manicured manicures manicuring
-manicurist
+manicurist,noun
  manicurists
-manifest
+manifest,adjective,verb,noun
  manifested manifesting manifestly manifests
-manifestation
+manifestation,noun
  manifestations
-manifesto
+manifesto,noun
  manifestoes manifestos
-manifold
+manifold,adjective,noun
  manifolded manifolding manifolds
-manikin
+manikin,noun
  manikins mannikin mannikins
-manila
+manila,noun,propernoun
  manilla
-manioc
+manioc,noun
  maniocs
-manipulable
-manipulate
+manipulable,adjective
+manipulate,verb
  manipulated manipulates manipulating
-manipulation
+manipulation,noun
  manipulations
-manipulative
+manipulative,adjective
  manipulatively
-manipulator
+manipulator,noun
  manipulators
-mankind
-manky
-man-made
-manna
-mannequin
+mankind,noun
+manky,adjective
+man-made,adjective
+manna,noun
+mannequin,noun
  mannequins
-manner
+manner,noun
  mannered mannerly manners
-mannerism
+mannerism,noun
  mannerisms
-manometer
+manometer,noun
  manometers
-manor
+manor,noun
  manors
-manorial
-manpower
-manque
-mansard
+manorial,adjective
+manpower,noun
+manque,adjective
+mansard,noun
  mansards
-manse
+manse,noun
  manses
-manservant
+manservant,noun
  menservants
-mansion
+mansion,noun
  mansions
-manslaughter
-manta
+manslaughter,noun
+manta,noun
  mantas
-mantel
+mantel,noun
  mantels
-mantelpiece
+mantelpiece,noun
  mantelpieces
-mantelshelf
+mantelshelf,verb,noun
  mantelshelves
-mantilla
+mantilla,noun
  mantillas
-mantis
+mantis,noun
  mantes mantises
-mantissa
+mantissa,noun
  mantissas
-mantle
+mantle,verb,noun
  mantled mantles mantling
-mantlepiece
+mantlepiece,noun
  mantlepieces
-man-to-man
-mantra
+man-to-man,phrase
+mantra,noun
  mantras
-manual
+manual,adjective,noun
  manually manuals
-manufacture
+manufacture,verb,noun
  manufactured manufactures manufacturing
-manufacturer
+manufacturer,noun
  manufacturers
-manumission
+manumission,noun
  manumissions
-manumit
+manumit,verb
  manumits manumitted manumitting
-manure
+manure,verb,noun
  manured manures manuring
-manuscript
+manuscript,noun
  manuscripts
-many
-map
+many,noun,adjective,pronoun<spanclass="listSeparator">,</span>determiner<spanclass="listSeparator">,</span>
+map,verb,noun
  mapped mapping maps
-maple
+maple,noun
  maples
-mapmaker
+mapmaker,noun
  mapmakers
-mapper
+mapper,noun
  mappers
-mar
+mar,verb
  marred marring mars
-marabou
+marabou,noun
  marabous marabout marabouts
-maraca
+maraca,pluralnoun
  maracas
-maraschino
+maraschino,noun
  maraschinos
-marathon
+marathon,noun
  marathons
-marathoner
+marathoner,noun
  marathoners
-maraud
+maraud,verb
  marauded marauding marauds
-marauder
+marauder,noun
  marauders
-marble
+marble,verb,noun
  marbled marbles marbling
-marbleize
+marbleize,verb
  marbleise marbleised marbleises marbleising marbleized marbleizes marbleizing
-march
+march,pluralnoun,verb,noun
  marched marches marching
-marcher
+marcher,noun
  marchers
-marchioness
+marchioness,noun
  marchionesses
-mare
+mare,noun
  mares maria
-margarine
+margarine,noun
  margarines
-margarita
+margarita,adjective,noun,noun,propernoun
  margaritas
-marge
-margin
+marge,noun
+margin,verb,noun
  margins
-marginal
+marginal,adjective,noun
  marginally marginals
-marginalia
-marginalization
+marginalia,pluralnoun
+marginalization,noun
  marginalisation
-marginalize
+marginalize,verb
  marginalise marginalised marginalises marginalising marginalized marginalizes marginalizing
-mariachi
+mariachi,noun
  mariachis
-marigold
+marigold,noun
  marigolds
-marijuana
+marijuana,noun
  marihuana
-marimba
+marimba,noun
  marimbas
-marina
+marina,noun
  marinas
-marinade
+marinade,verb,noun
  marinaded marinades marinading
-marinara
-marinate
+marinara,adjective
+marinate,verb
  marinated marinates marinating
-marination
-marine
+marination,noun
+marine,adjective,noun
  marines
-mariner
+mariner,noun,propernoun
  mariners
-marionette
+marionette,noun
  marionettes
-marital
+marital,adjective
  maritally
-maritime
-marjoram
-mark
+maritime,adjective
+marjoram,noun
+mark,verb,noun
  marked -> [marked] marking -> [marking] marks
-markdown
+markdown,noun
  markdowns
-marked -> [mark]
+marked,adjective
  markedly
-marker
+marker,noun
  markers
-market
+market,verb,noun
  marketed marketing markets
-marketable
+marketable,adjective
  marketability
-marketer
+marketer,noun
  marketeer marketeers marketers
-marketplace
+marketplace,noun
  marketplaces
-marking -> [mark]
+marking,noun
  markings
-markka
+markka,noun
  markkaa markkas
-marksman
+marksman,noun
  marksmen
-marksmanship
-markup
+marksmanship,noun
+markup,noun
  markups
-marl
-marlin
+marl,verb,noun
+marlin,noun
  marlins
-marlinespike
+marlinespike,noun
  marlinespikes marlinspike marlinspikes
-marmalade
+marmalade,noun
  marmalades
-marmoreal
-marmoset
+marmoreal,adjective
+marmoset,noun
  marmosets
-marmot
+marmot,noun
  marmots
-maroon
+maroon,adjective,verb,noun
  marooned marooning maroons
-marque
+marque,noun
  marques
-marquee
+marquee,noun
  marquees
-marquess
+marquess,noun
  marquesses
-marquetry
-marquis
+marquetry,noun
+marquis,noun
  marquises -> [marquise]
-marquise
+marquise,noun
  marquises -> [marquis]
-marquisette
-marriage
+marquisette,noun
+marriage,noun
  marriages
-marriageable
+marriageable,adjective
  marriageability
-married -> [marry]
+married,adjective,pluralnoun
  marrieds
-marrow
+marrow,noun
  marrows
-marrowbone
+marrowbone,noun
  marrowbones
-marry
+marry,exclamation,verb
  married -> [married] marries marrying
-marsh
+marsh,noun
  marshes
-marshal
+marshal,verb,noun
  marshaled marshaling marshalled marshalling marshals
-marshland
+marshland,noun
  marshlands
-marshmallow
+marshmallow,noun
  marshmallows
-marshy
+marshy,adjective
  marshier marshiest
-marsupial
+marsupial,adjective,noun
  marsupials
-mart
+mart,noun
  marts
-marten
+marten,noun
  martens
-martial
+martial,adjective,propernoun
  martially
-martin
+martin,noun
  martins
-martinet
+martinet,noun
  martinets
-martingale
+martingale,noun
  martingales
-martini
+martini,noun
  martinis
-martyr
+martyr,verb,noun
  martyred martyring martyrs
-martyrdom
-marvel
+martyrdom,noun
+marvel,verb,noun
  marveled marveling marvelled marvelling marvels
-marvelous
+marvelous,adjective
  marvellous marvellously marvelously
-marzipan
-mascara
+marzipan,verb,noun
+mascara,noun
  mascaraed mascaraing mascaras
-mascot
+mascot,noun
  mascots
-masculine
+masculine,adjective,noun
  masculines
-masculinity
-maser
+masculinity,noun
+maser,noun
  masers
-mash
+mash,verb,noun
  mashed mashes mashing
-masher
+masher,noun
  mashers
-mashup
+mashup,noun
  mashups
-mask
+mask,verb,noun
  masked masking masks
-masker
+masker,noun
  maskers
-masochism
-masochist
+masochism,noun
+masochist,noun
  masochists
-masochistic
+masochistic,adjective
  masochistically
-mason
+mason,verb,noun
  masons
-masonry
-masque
+masonry,noun
+masque,noun
  masques
-masquerade
+masquerade,verb,noun
  masqueraded masquerades masquerading
-masquerader
+masquerader,noun
  masqueraders
-mass
+mass,adjective,verb,noun
  massed masses massing
-massacre
+massacre,verb,noun
  massacred massacres massacring
-massage
+massage,verb,noun
  massaged massages massaging
-masseur
+masseur,noun
  masseurs
-masseuse
+masseuse,noun
  masseuses
-massif
+massif,noun
  massifs
-massive
+massive,adjective,noun
  massively massiveness
-mass-market
-mass-produced
-mast
+mass-market,verb,noun
+mass-produced,verb
+mast,noun
  masted masts
-mastectomy
+mastectomy,noun
  mastectomies
-master
+master,adjective,verb,noun
  mastered masterful masterfully mastering masterly masters
-masterclass
+masterclass,noun
  masterclasses
-mastermind
+mastermind,verb,noun
  masterminded masterminding masterminds
-masterpiece
+masterpiece,noun
  masterpieces
-masterstroke
+masterstroke,noun
  masterstrokes
-masterwork
+masterwork,noun
  masterworks
-mastery
-masthead
+mastery,noun
+masthead,verb,noun
  mastheads
-mastic
-masticate
+mastic,noun
+masticate,verb
  masticated masticates masticating
-mastication
-mastiff
+mastication,noun
+mastiff,noun
  mastiffs
-mastitis
-mastodon
+mastitis,noun
+mastodon,noun
  mastodons
-mastoid
+mastoid,adjective,noun
  mastoids
-masturbate
+masturbate,verb
  masturbated masturbates masturbating
-masturbation
-masturbatory
-mat -> [matte]
+masturbation,noun
+masturbatory,adjective
+mat,verb,noun
  mats -> [matte] matted -> [matte] matting -> [matte]
-matador
+matador,noun
  matadors
-match
+match,verb,noun
  matched matches matching matchless
-matchbook
+matchbook,noun
  matchbooks
-matchbox
+matchbox,noun
  matchboxes
-matchlock
+matchlock,noun
  matchlocks
-matchmaker
+matchmaker,noun
  matchmakers
-matchmaking
-matchstick
+matchmaking,noun
+matchstick,noun
  matchsticks
-matchwood
-mate
+matchwood,noun
+mate,verb,verb,noun,noun
  mated mates mating
-mater
+mater,noun
  maters
-material
+material,adjective,noun
  materially materials
-materialism
-materialist
+materialism,noun
+materialist,adjective,noun
  materialists
-materialistic
+materialistic,adjective
  materialistically
-materialization
+materialization,noun
  materialisation
-materialize
+materialize,verb
  materialise materialised materialises materialising materialized materializes materializing
-materiel
-maternal
+materiel,noun
+maternal,adjective
  maternally
-maternity
-matey
+maternity,noun
+matey,adjective,noun
  mateys matier matiest
-math
+math,noun
  maths
-mathematical
+mathematical,adjective
  mathematically
-mathematician
+mathematician,noun
  mathematicians
-mathematics
-matinee
+mathematics,pluralnoun
+matinee,noun
  matinees
-matins
+matins,noun
  mattins
-matriarch
+matriarch,noun
  matriarchs
-matriarchal
-matriarchy
+matriarchal,adjective
+matriarchy,noun
  matriarchies
-matricidal
-matricide
+matricidal,adjective
+matricide,noun
  matricides
-matriculate
+matriculate,verb,noun
  matriculated matriculates matriculating
-matriculation
-matrimonial
-matrimony
-matrix
+matriculation,noun
+matrimonial,adjective
+matrimony,noun
+matrix,noun
  matrices matrixes
-matron
+matron,noun
  matronly matrons
-matte
+matte,verb,noun,adjective<spanclass="listSeparator">,</span>noun<spanclass="listSeparator">,</span>
  mat -> [mat] mats -> [mat] matt matted -> [mat] mattes matting -> [mat] matts
-matter
+matter,verb,noun
  mattered mattering matters
-matter-of-fact
+matter-of-fact,adjective,noun
  matter-of-factly
-mattock
+mattock,noun
  mattocks
-mattress
+mattress,noun
  mattresses
-maturate
+maturate,verb
  maturated maturates maturating
-maturation
-mature
+maturation,noun
+mature,adjective,verb
  matured maturely maturer matures maturest maturing
-maturity
+maturity,noun
  maturities
-matzo
+matzo,noun
  matzoh matzohs matzos matzot matzoth
-maudlin
-maul
+maudlin,adjective
+maul,verb,noun
  mauled mauling mauls
-mauler
+mauler,noun
  maulers
-maunder
+maunder,verb
  maundered maundering maunders
-mausoleum
+mausoleum,noun
  mausolea mausoleums
-mauve
+mauve,adjective,noun
  mauver mauves mauvest
-maven
+maven,noun
  mavens mavin mavins
-maverick
+maverick,adjective,noun
  mavericks
-maw
+maw,noun
  maws
-mawkish
+mawkish,adjective
  mawkishly mawkishness
-max
+max,verb,noun,adverb
  maxed maxes maxing
-maxi
+maxi,noun
  maxis
-maxilla
+maxilla,noun
  maxillae maxillas
-maxillary
-maxim
+maxillary,adjective
+maxim,noun
  maxims
-maximal
+maximal,adjective
  maximally
-maximization
+maximization,noun
  maximisation
-maximize
+maximize,verb
  maximise maximised maximises maximising maximized maximizes maximizing
-maximum
+maximum,adjective,noun,adverb
  maxima maximums
-may
+may,noun,modalverb
  mayest mayst
-maybe
+maybe,noun,adverb
  maybes
-mayday
+mayday,noun
  maydays
-mayflower
+mayflower,noun,propernoun
  mayflowers
-mayfly
+mayfly,noun
  mayflies
-mayhem
-mayo
-mayonnaise
-mayor
+mayhem,noun
+mayo,noun,propernoun
+mayonnaise,noun
+mayor,noun
  mayors
-mayoral
-mayoralty
-mayoress
+mayoral,adjective
+mayoralty,noun
+mayoress,noun
  mayoresses
-maypole
+maypole,noun
  maypoles
-maze
+maze,verb,noun
  mazes
-mazurka
+mazurka,noun
  mazourka mazourkas mazurkas
-mead
-meadow
+mead,noun
+meadow,noun
  meadows
-meadowlark
+meadowlark,noun
  meadowlarks
-meager
+meager,adjective,noun
  meagerer meagerest meagerly meagerness meagre meagrely meagreness meagrer meagrest
-meal
+meal,noun
  meals
-mealtime
+mealtime,noun
  mealtimes
-mealy
+mealy,adjective
  mealier mealiest mealiness
-mealybug
+mealybug,noun
  mealybugs
-mealymouthed
-mean
+mealymouthed,adjective
+mean,adjective,verb,noun
  meaner meanest meaning -> [meaning] meanly meanness means -> [means] meant
-meander
+meander,verb,noun
  meandered meandering -> [meandering] meanders
-meandering -> [meander]
+meandering,adjective,noun
  meanderings
-meanie
+meanie,noun
  meanies meany
-meaning -> [mean]
+meaning,adjective,noun
  meaningful meaningfully meaningfulness meaningless meaninglessly meaninglessness meanings
-means -> [mean]
-meantime
-meanwhile
-measles
-measly
+means,pluralnoun
+meantime,adverb
+meanwhile,adverb
+measles,pluralnoun
+measly,adjective
  measlier measliest
-measurable
+measurable,adjective,noun
  measurably
-measure
+measure,verb,noun
  measured measureless measures measuring
-measurement
+measurement,noun
  measurements
-meat
+meat,noun
  meatless meats
-meatball
+meatball,noun
  meatballs
-meatloaf
+meatloaf,noun
  meatloaves
-meatpacking
-meaty
+meatpacking,noun
+meaty,adjective
  meatier meatiest meatiness
-mecca
+mecca,propernoun
  meccas
-mechanic
+mechanic,noun
  mechanics
-mechanical
+mechanical,adjective,noun
  mechanically
-mechanism
+mechanism,noun
  mechanisms
-mechanistic
+mechanistic,adjective
  mechanistically
-mechanization
+mechanization,noun
  mechanisation
-mechanize
+mechanize,verb
  mechanise mechanised mechanises mechanising mechanized mechanizes mechanizing
-med
+med,adjective,pluralnoun,noun,abbreviation
  meds
-medal
+medal,verb,noun
  medaled medaling medalled medalling medals
-medalist
+medalist,noun
  medalists medallist medallists
-medallion
+medallion,noun
  medallions
-meddle
+meddle,verb
  meddled meddles meddling
-meddler
+meddler,noun
  meddlers
-meddlesome
-media -> [medium]
+meddlesome,adjective
+media,noun,propernoun
  medias
-medial
+medial,adjective
  medially
-median
+median,adjective,noun
  medians
-mediate
+mediate,adjective,verb
  mediated mediates mediating
-mediation
-mediator
+mediation,noun
+mediator,noun
  mediators
-medic
+medic,noun
  medics
-medicaid
-medical
+medicaid,propernoun
+medical,adjective,noun
  medically medicals
-medicament
-medicare
-medicate
+medicament,noun
+medicare,propernoun
+medicate,verb
  medicated medicates medicating
-medication
+medication,noun
  medications
-medicinal
+medicinal,adjective,noun
  medicinally
-medicine
+medicine,noun
  medicines
-medico
+medico,noun
  medicos
-medieval
+medieval,adjective
  mediaeval
-medievalist
+medievalist,noun
  mediaevalist mediaevalists medievalists
-mediocre
-mediocrity
+mediocre,adjective
+mediocrity,noun
  mediocrities
-meditate
+meditate,verb
  meditated meditates meditating
-meditation
+meditation,noun
  meditations
-meditative
+meditative,adjective
  meditatively
-medium
+medium,adjective,noun
  media -> [media] mediums
-medium-size
+medium-size,adjective
  medium-sized
-medium-term
-medley
+medium-term,adjective
+medley,adjective,verb,noun
  medleys
-medulla
+medulla,noun
  medullae medullas
-meed
-meek
+meed,noun
+meek,adjective
  meeker meekest meekly meekness
-meerkat
+meerkat,noun
  meerkats
-meerschaum
+meerschaum,noun
  meerschaums
-meet
+meet,adjective,verb,noun
  meeting -> [meeting] meets met
-meeting -> [meet]
+meeting,noun
  meetings
-meetinghouse
+meetinghouse,noun
  meetinghouses
-meg
+meg,noun
  megs
-mega
-megabit
+mega,adjective,adverb
+megabit,noun
  megabits
-megabucks
-megabyte
+megabucks,pluralnoun
+megabyte,noun
  megabytes
-megacycle
+megacycle,noun
  megacycles
-megachurch!
+megachurch,noun
  megachurches
-megadeath
+megadeath,noun
  megadeaths
-megahertz
+megahertz,noun
  megahertzes
-megalith
+megalith,noun
  megaliths
-megalithic
-megalomania
-megalomaniac
+megalithic,adjective
+megalomania,noun
+megalomaniac,adjective,noun
  megalomaniacs
-megalopolis
+megalopolis,noun
  megalopolises
-megaphone
+megaphone,verb,noun
  megaphoned megaphones megaphoning
-megapixel
+megapixel,noun
  megapixels
-megastar
+megastar,noun
  megastars
-megastore
+megastore,noun
  megastores
-megaton
+megaton,noun
  megatons
-megawatt
+megawatt,noun
  megawatts
-meh
-meiosis
-meiotic
-melamine
-melancholia
-melancholic
-melancholy
-melange
+meh,exclamation,adjective
+meiosis,noun
+meiotic,adjective
+melamine,noun
+melancholia,noun
+melancholic,adjective
+melancholy,adjective,noun
+melange,noun
  melanges
-melanin
-melanoma
+melanin,noun
+melanoma,noun
  melanomas melanomata
-melatonin
-meld
+melatonin,noun
+meld,verb,noun
  melded melding melds
-melee
+melee,noun
  melees
-meliorate
+meliorate,verb
  meliorated meliorates meliorating
-melioration
-meliorative
-mellifluous
+melioration,noun
+meliorative,adjective
+mellifluous,adjective
  mellifluously mellifluousness
-mellow
+mellow,adjective,verb
  mellowed mellower mellowest mellowing mellowly mellowness mellows
-melodic
+melodic,adjective
  melodically
-melodious
+melodious,adjective
  melodiously melodiousness
-melodrama
+melodrama,noun
  melodramas
-melodramatic
+melodramatic,adjective
  melodramatically melodramatics
-melody
+melody,noun
  melodies
-melon
+melon,noun
  melons
-melt
+melt,verb,noun
  melted melting melts
-meltdown
+meltdown,noun
  meltdowns
-member
+member,noun
  members
-membership
+membership,noun
  memberships
-membrane
+membrane,noun
  membranes
-membranous
-meme
+membranous,adjective
+meme,noun
  memes
-memento
+memento,noun
  mementoes mementos
-memo
+memo,noun
  memos
-memoir
+memoir,noun
  memoirs
-memorabilia
-memorable
+memorabilia,pluralnoun
+memorable,adjective
  memorability memorably
-memorandum
+memorandum,noun
  memoranda memorandums
-memorial
+memorial,noun
  memorials
-memorialize
+memorialize,verb
  memorialise memorialised memorialises memorialising memorialized memorializes memorializing
-memorization
+memorization,noun
  memorisation
-memorize
+memorize,verb
  memorise memorised memorises memorising memorized memorizes memorizing
-memory
+memory,noun
  memories
-memsahib
+memsahib,noun
  memsahibs
-menace
+menace,verb,noun
  menaced menaces menacing menacingly
-menage
+menage,noun
  menages
-menagerie
+menagerie,noun
  menageries
-mend
+mend,verb,noun
  mended mending mends
-mendacious
+mendacious,adjective
  mendaciously
-mendacity
-mendelevium
-mender
+mendacity,noun
+mendelevium,noun
+mender,noun
  menders
-mendicancy
-mendicant
+mendicancy,noun
+mendicant,adjective,noun
  mendicants
-menfolk
+menfolk,pluralnoun
  menfolks
-menhaden
+menhaden,noun
  menhadens
-menial
+menial,adjective,noun
  menially menials
-meningeal
-meningitis
-meninx
+meningeal,adjective
+meningitis,noun
+meninx!
  meninges
-meniscus
+meniscus,noun
  menisci meniscuses
-menopausal
-menopause
-menorah
+menopausal,adjective
+menopause,noun
+menorah,noun
  menorahs
-mensch
+mensch,noun
  mensches
-menses
-menstrual
-menstruate
+menses,pluralnoun
+menstrual,adjective
+menstruate,verb
  menstruated menstruates menstruating
-menstruation
-mensurable
-mensuration
-menswear
-mental
+menstruation,noun
+mensurable,adjective
+mensuration,noun
+menswear,noun
+mental,adjective
  mentally
-mentalist
+mentalist,adjective,noun
  mentalists
-mentality
+mentality,noun
  mentalities
-menthol
-mentholated
-mention
+menthol,noun
+mentholated,adjective
+mention,verb,noun
  mentioned mentioning mentions
-mentor
+mentor,verb,noun
  mentored mentoring mentors
-menu
+menu,noun
  menus
-meow
+meow,verb,noun
  meowed meowing meows miaow miaowed miaowing miaows
-mercantile
-mercantilism
-mercenary
+mercantile,adjective
+mercantilism,noun
+mercenary,adjective,noun
  mercenaries
-mercer
+mercer,noun
  mercers
-mercerize
+mercerize,verb
  mercerise mercerised mercerises mercerising mercerized mercerizes mercerizing
-merchandise
+merchandise,verb,noun
  merchandised merchandises merchandising merchandize merchandized merchandizes merchandizing
-merchandiser
+merchandiser,noun
  merchandisers merchandizer merchandizers
-merchant
+merchant,adjective,noun
  merchants
-merchantable
-merchantman
+merchantable,adjective
+merchantman,noun
  merchantmen
-mercurial
+mercurial,adjective,noun
  mercurially
-mercuric
-mercury
-mercy
+mercuric,adjective
+mercury,noun,propernoun
+mercy,exclamation,noun
  mercies merciful mercifully merciless mercilessly mercilessness
-mere
+mere,adjective,noun
  merely meres merest
-meretricious
+meretricious,adjective
  meretriciously meretriciousness
-merganser
+merganser,noun
  mergansers
-merge
+merge,verb
  merged merges merging
-merger
+merger,noun
  mergers
-meridian
+meridian,adjective,noun
  meridians
-meringue
+meringue,noun
  meringues
-merino
+merino,noun
  merinos
-merit
+merit,verb,noun
  merited meriting merits
-meritocracy
+meritocracy,noun
  meritocracies
-meritocratic
-meritorious
+meritocratic,adjective
+meritorious,adjective
  meritoriously meritoriousness
-mermaid
+mermaid,noun
  mermaids
-merman
+merman,noun
  mermen
-merriment
-merry
+merriment,noun
+merry,adjective
  merrier merriest merrily merriness
-merry-go-round
+merry-go-round,noun
  merry-go-rounds
-merrymaker
+merrymaker,noun
  merrymakers
-merrymaking
-mesa
+merrymaking,noun
+mesa,noun
  mesas
-mescal
+mescal,noun
  mescals
-mescaline
+mescaline,noun
  mescalin
-mesh
+mesh,verb,noun
  meshed meshes meshing
-mesmeric
-mesmerism
-mesmerize
+mesmeric,adjective
+mesmerism,noun
+mesmerize,verb
  mesmerise mesmerised mesmerises mesmerising mesmerized mesmerizes mesmerizing
-mesmerizer
+mesmerizer,noun
  mesmeriser mesmerisers mesmerizers
-mesomorph
+mesomorph,noun
  mesomorphs
-meson
+meson,noun
  mesons
-mesosphere
+mesosphere,noun
  mesospheres
-mesquite
+mesquite,noun
  mesquit mesquites mesquits
-mess
+mess,verb,noun
  messed messes messing
-message
+message,verb,noun
  messaged messages messaging
-messenger
+messenger,verb,noun
  messengers
-messiah
+messiah,noun
  messiahs
-messianic
-messmate
+messianic,adjective
+messmate,noun
  messmates
-messy
+messy,adjective
  messier messiest messily messiness
-mestizo
+mestizo,noun
  mestizoes mestizos
-metabolic
+metabolic,adjective
  metabolically
-metabolism
+metabolism,noun
  metabolisms
-metabolite
+metabolite,noun
  metabolites
-metabolize
+metabolize,verb
  metabolise metabolised metabolises metabolising metabolized metabolizes metabolizing
-metacarpal
+metacarpal,adjective,noun
  metacarpals
-metacarpus
+metacarpus,noun
  metacarpi
-metadata
-metal
+metadata,noun
+metal,verb,noun
  metalled metals
-metalanguage
+metalanguage,noun
  metalanguages
-metallic
-metalloid
+metallic,adjective,noun
+metalloid,noun
  metalloids
-metallurgic
-metallurgical
-metallurgist
+metallurgic,adjective
+metallurgical,adjective
+metallurgist,noun
  metallurgists
-metallurgy
-metalwork
-metalworker
+metallurgy,noun
+metalwork,noun
+metalworker,noun
  metalworkers
-metalworking
-metamorphic
-metamorphism
-metamorphose
+metalworking,noun
+metamorphic,adjective
+metamorphism,noun
+metamorphose,verb
  metamorphosed metamorphoses -> [metamorphosis] metamorphosing
-metamorphosis
+metamorphosis,noun
  metamorphoses -> [metamorphose]
-metaphor
+metaphor,noun
  metaphors
-metaphoric
-metaphorical
+metaphoric,adjective
+metaphorical,adjective
  metaphorically
-metaphysical
+metaphysical,adjective,noun
  metaphysically
-metaphysics
-metastasis
+metaphysics,pluralnoun
+metastasis,noun
  metastases
-metastasize
+metastasize,verb
  metastasise metastasised metastasises metastasising metastasized metastasizes metastasizing
-metastatic
-metatarsal
+metastatic,adjective
+metatarsal,noun
  metatarsals
-metatarsus
+metatarsus,noun
  metatarsi
-metathesis
+metathesis,noun
  metatheses
-mete
+mete,verb,noun
  meted metes meting
-metempsychosis
-meteor
+metempsychosis,noun
+meteor,noun
  meteors
-meteoric
+meteoric,adjective
  meteorically
-meteorite
+meteorite,noun
  meteorites
-meteoroid
+meteoroid,noun
  meteoroids
-meteorologic
-meteorological
-meteorologist
+meteorologic,adjective
+meteorological,adjective
+meteorologist,noun
  meteorologists
-meteorology
-meter
+meteorology,noun
+meter,verb,noun
  metered metering meters metre metred metres metring
-meth
-methadone
+meth,noun
+methadone,noun
  methadon
-methamphetamine
-methane
-methanol
-methinks
+methamphetamine,noun
+methane,noun
+methanol,noun
+methinks,verb
  methought
-method
+method,noun
  methods
-methodical
+methodical,adjective
  methodically methodicalness
-methodological
+methodological,adjective
  methodologically
-methodology
+methodology,noun
  methodologies
-meths
-methyl
-meticulous
+meths,noun
+methyl,noun
+meticulous,adjective
  meticulously meticulousness
-metier
+metier,noun
  metiers
-metonymy
-metric
-metrical
+metonymy,noun
+metric,adjective,noun
+metrical,adjective
  metrically
-metricate
+metricate,verb
  metricated metricates metricating
-metrication
-metricize
+metrication,noun
+metricize,verb
  metricise metricised metricises metricising metricized metricizes metricizing
-metro
+metro,adjective,noun
  metros
-metronome
+metronome,noun
  metronomes
-metropolis
+metropolis,noun
  metropolises
-metropolitan
-metrosexual
+metropolitan,adjective,noun
+metrosexual,noun
  metrosexuals
-mettle
-mettlesome
-mew
+mettle,noun
+mettlesome,adjective
+mew,verb,noun
  mewed mewing mews -> [mews]
-mewl
+mewl,verb
  mewled mewling mewls
-mews -> [mew]
-mezzanine
+mews,noun
+mezzanine,adjective,noun
  mezzanines
-mezzo
+mezzo,noun
  mezzos
-mi
-miasma
+mi,abbreviation
+miasma,noun
  miasmas miasmata
-mica
-mick
+mica,noun
+mick,noun
  micks
-mickey
+mickey,noun
  mickeys
-micro
+micro,adjective,noun
  micros
-microaggression!
+microaggression,noun
  microaggressions
-microbe
+microbe,noun
  microbes
-microbial
-microbiological
-microbiologist
+microbial,adjective
+microbiological,adjective
+microbiologist,noun
  microbiologists
-microbiology
-microblog
+microbiology,noun
+microblog,noun
  microblogs
-microbrew
+microbrew,noun
  microbrews
-microbrewery
+microbrewery,noun
  microbreweries
-microchip
+microchip,verb,noun
  microchips
-microcircuit
+microcircuit,noun
  microcircuits
-microclimate
+microclimate,noun
  microclimates
-microcomputer
+microcomputer,noun
  microcomputers
-microcosm
+microcosm,noun
  microcosms
-microcosmic
-microdot
+microcosmic,adjective
+microdot,noun
  microdots
-microeconomic
+microeconomic,adjective
  microeconomics
-microelectronic
+microelectronic,adjective
  microelectronics
-microfiber
+microfiber,noun
  microfibers microfibre microfibres
-microfiche
+microfiche,verb,noun
  microfiches
-microfilm
+microfilm,verb,noun
  microfilmed microfilming microfilms
-microgroove
+microgroove,noun
  microgrooves
-microlight
+microlight,noun
  microlights
-microloan!
+microloan,noun
  microloans
-micromanage
+micromanage,verb
  micromanaged micromanages micromanaging
-micromanagement
-micromanager
+micromanagement,noun
+micromanager,noun
  micromanagers
-micrometeorite
+micrometeorite,noun
  micrometeorites
-micrometer
+micrometer,noun
  micrometers micrometre micrometres
-micron
+micron,noun
  micra microns
-microorganism
+microorganism,noun
  microorganisms
-microphone
+microphone,noun
  microphones
-microprocessor
+microprocessor,noun
  microprocessors
-microscope
+microscope,noun
  microscopes
-microscopic
-microscopical
+microscopic,adjective
+microscopical,adjective
  microscopically
-microscopy
-microsecond
+microscopy,noun
+microsecond,noun
  microseconds
-microsurgery
-microwavable
+microsurgery,noun
+microwavable,adjective
  microwaveable
-microwave
+microwave,verb,noun
  microwaved microwaves microwaving
-mid
+mid,adjective,preposition
  midmost
-midafternoon
-midair
-midday
-midden
+midafternoon,adjective,noun,adverb
+midair,noun
+midday,noun
+midden,noun
  middens
-middle
+middle,adjective,verb,noun
  middlemost middles
-middle-aged
-middlebrow
+middle-aged,adjective
+middlebrow,adjective,noun
  middlebrows
-middle-class
-middleman
+middle-class,adjective,noun
+middleman,noun
  middlemen
-middleweight
+middleweight,noun
  middleweights
-middling
-middy
+middling,adjective,noun,adverb
+middy,noun
  middies
-midfield
+midfield,noun
  midfields
-midfielder
+midfielder,noun
  midfielders
-midge
+midge,noun
  midges
-midget
+midget,adjective,noun
  midgets
-midi
+midi,noun,propernoun
  midis
-midland
+midland,adjective,noun
  midlands
-midlife
-midmorning
-midnight
-midpoint
+midlife,noun
+midmorning,adjective,noun
+midnight,noun
+midpoint,noun
  midpoints
-mid-range
-midrib
+mid-range,adjective,noun
+midrib,noun
  midribs
-midriff
+midriff,noun
  midriffs
-midsection
+midsection,noun
  midsections
-midshipman
+midshipman,noun
  midshipmen
-midships
-midsize
+midships,adjective,adverb
+midsize,adjective
  midsized
-midst
-midstream
-midsummer
-midterm
+midst,preposition,noun
+midstream,adjective,noun
+midsummer,noun
+midterm,noun
  midterms
-midtown
-midway
+midtown,noun
+midway,adjective,noun,adverb
  midways
-midweek
+midweek,adjective,noun,adverb
  midweeks
-midwife
+midwife,verb,noun
  midwifed midwifes midwifing midwived midwives midwiving
-midwifery
+midwifery,noun
  midwiferies
-midwinter
-midyear
+midwinter,noun
+midyear,adjective,noun,adverb
  midyears
-mien
+mien,noun
  miens
-miff
+miff,verb,noun
  miffed miffing miffs
-might
-mighty
+might,noun,modalverb
+mighty,adjective,adverb
  mightier mightiest mightily mightiness
-mignonette
+mignonette,noun
  mignonettes
-migraine
+migraine,noun
  migraines
-migrant
+migrant,adjective,noun
  migrants
-migrate
+migrate,verb
  migrated migrates migrating
-migration
+migration,noun
  migrations
-migratory
-mikado
+migratory,adjective
+mikado,noun
  mikados
-mike
+mike,verb,noun
  mic mics miked mikes miking
-mil
+mil,abbreviation,noun
  mils
-milady
+milady,noun
  miladies
-milch
-mild
+milch,adjective
+mild,adjective,noun
  milder mildest mildly mildness
-mildew
+mildew,verb,noun
  mildewed mildewing mildews
-mild-mannered
-mile
+mild-mannered,adjective
+mile,noun,adverb
  miles
-mileage
+mileage,noun
  mileages
-milepost
+milepost,noun
  mileposts
-miler
+miler,noun
  milers
-milestone
+milestone,noun
  milestones
-milf!
+milf,noun
  milfs
-milieu
+milieu,noun
  milieus milieux
-militancy
-militant
+militancy,noun
+militant,adjective,noun
  militantly militants
-militarism
-militarist
+militarism,noun
+militarist,adjective,noun
  militarists
-militaristic
-militarization
+militaristic,adjective
+militarization,noun
  militarisation
-militarize
+militarize,verb
  militarise militarised militarises militarising militarized militarizes militarizing
-military
+military,adjective,noun
  militaries militarily
-militate
+militate,verb
  militated militates militating
-militia
+militia,noun
  militias
-militiaman
+militiaman,noun
  militiamen
-milk
+milk,verb,noun
  milked milking milks
-milker
+milker,noun
  milkers
-milkmaid
+milkmaid,noun
  milkmaids
-milkman
+milkman,noun
  milkmen
-milkshake
+milkshake,noun
  milkshakes
-milksop
+milksop,noun
  milksops
-milkweed
+milkweed,noun
  milkweeds
-milky
+milky,adjective
  milkier milkiest milkiness
-mill
+mill,verb,noun
  milled milling -> [milling] mills
-millage
-millennial
+millage,noun
+millennial,adjective,noun
  millennials!
-millennium
+millennium,noun
  millennia millenniums
-miller
+miller,noun
  millers
-millet
-milliard
+millet,noun
+milliard,noun
  milliards
-millibar
+millibar,noun
  millibars
-milligram
+milligram,noun
  milligramme milligrammes milligrams
-milliliter
+milliliter,noun
  milliliters millilitre millilitres
-millimeter
+millimeter,noun
  millimeters millimetre millimetres
-milliner
+milliner,noun
  milliners
-millinery
-milling -> [mill]
+millinery,noun
+milling,verb,noun
  millings
-million
+million,cardinalnumber
  millions
-millionaire
+millionaire,noun
  millionaires millionnaire millionnaires
-millionairess
+millionairess,noun
  millionairesses
-millionth
+millionth,ordinalnumber
  millionths
-millipede
+millipede,noun
  millepede millepedes millipedes
-millisecond
+millisecond,noun
  milliseconds
-millpond
+millpond,noun
  millponds
-millrace
+millrace,noun
  millraces
-millstone
+millstone,noun
  millstones
-millstream
+millstream,noun
  millstreams
-millwright
+millwright,noun
  millwrights
-milometer
+milometer,noun
  mileometer mileometers milometers
-milquetoast
+milquetoast,noun
  milquetoasts
-milt
+milt,noun
  milted milting milts
-mime
+mime,verb,noun
  mimed mimes miming
-mimeograph
+mimeograph,verb,noun
  mimeographed mimeographing mimeographs
-mimetic
-mimic
+mimetic,adjective
+mimic,adjective,verb,noun
  mimicked mimicking mimics
-mimicker
+mimicker,noun
  mimickers
-mimicry
+mimicry,noun
  mimicries
-mimosa
+mimosa,noun
  mimosas
-minaret
+minaret,noun
  minarets
-minatory
-mince
+minatory,adjective
+mince,verb,noun
  minced minces mincing
-mincemeat
-mincer
+mincemeat,noun
+mincer,noun
  mincers
-mind
+mind,verb,noun
  minded minding mindless mindlessly mindlessness minds
-mind-blowing
-mind-body
-mind-boggling
-minder
+mind-blowing,adjective
+mind-body,adjective,noun
+mind-boggling,adjective
+minder,noun
  minders
-mindful
+mindful,adjective
  mindfully mindfulness
-mind-numbing
-mindset
+mind-numbing,adjective
+mindset,noun
  mindsets
-mine -> [my]
+mine,noun,verb,possessivedeterminer,possessivepronoun
  mined mines mining
-minefield
+minefield,noun
  minefields
-miner
+miner,noun
  miners
-mineral
+mineral,adjective,noun
  minerals
-mineralogical
-mineralogist
+mineralogical,adjective
+mineralogist,noun
  mineralogists
-mineralogy
-mineshaft
+mineralogy,noun
+mineshaft,noun
  mineshafts
-minestrone
+minestrone,noun
  minestrones
-minesweeper
+minesweeper,noun
  minesweepers
-minger
+minger,noun
  mingers
-minging
-mingle
+minging,adjective
+mingle,verb
  mingled mingles mingling
-mingy
+mingy,adjective
  mingier mingiest
-mini
+mini,adjective,noun
  minis
-miniature
+miniature,adjective,verb,noun
  miniatures
-miniaturist
+miniaturist,noun
  miniaturists
-miniaturization
+miniaturization,noun
  miniaturisation
-miniaturize
+miniaturize,verb
  miniaturise miniaturised miniaturises miniaturising miniaturized miniaturizes miniaturizing
-minibar
+minibar,noun
  minibars
-minibike
+minibike,noun
  minibikes
-minibreak
+minibreak,noun
  minibreaks
-minibus
+minibus,noun
  minibuses minibusses
-minicab
+minicab,noun
  minicabs
-minicam
+minicam,noun
  minicams
-minicomputer
+minicomputer,noun
  minicomputers
-minidisc
+minidisc,noun
  minidiscs
-minim
+minim,noun
  minims
-minimal
+minimal,adjective
  minimally
-minimalism
-minimalist
+minimalism,noun
+minimalist,adjective,noun
  minimalists
-minimization
+minimization,noun
  minimisation
-minimize
+minimize,verb
  minimise minimised minimises minimising minimized minimizes minimizing
-minimum
+minimum,adjective,noun
  minima minimums
-minion
+minion,noun
  minions
-miniseries
-miniskirt
+miniseries,noun
+miniskirt,noun
  miniskirts
-minister
+minister,verb,noun
  ministered ministering ministers
-ministerial
-ministrant
+ministerial,adjective
+ministrant,noun
  ministrants
-ministration
+ministration,noun
  ministrations
-ministry
+ministry,noun
  ministries
-minivan
+minivan,noun
  minivans
-mink
+mink,noun
  minks
-minnesinger
+minnesinger,noun
  minnesingers
-minnow
+minnow,noun
  minnows
-minor
+minor,adjective,verb,noun
  minored minoring minors
-minority
+minority,noun
  minorities
-minor-league
-minoxidil
-minster
+minor-league,noun
+minoxidil,noun
+minster,noun
  minsters
-minstrel
+minstrel,noun
  minstrels
-minstrelsy
-mint
+minstrelsy,noun
+mint,adjective,verb,noun
  minted minting mints
-mintage
-minter
+mintage,noun
+minter,noun
  minters
-minty
+minty,adjective
  mintier mintiest
-minuend
+minuend,noun
  minuends
-minuet
+minuet,verb,noun
  minuets
-minus
+minus,adjective,preposition,noun
  minuses
-minuscule
+minuscule,adjective,noun
  miniscule miniscules minuscules
-minute
+minute,adjective,verb,noun
  minuted minutely minuteness minuter minutes minutest minuting
-minuteman
+minuteman,noun
  minutemen
-minutia
+minutia,pluralnoun
  minutiae
-minx
+minx,noun
  minxes
-miracle
+miracle,noun
  miracles
-miraculous
+miraculous,adjective
  miraculously
-mirage
+mirage,noun
  mirages
-mire
+mire,verb,noun
  mired mires miring
-mirror
+mirror,verb,noun
  mirrored mirroring mirrors
-mirrorball
+mirrorball,noun
  mirrorballs
-mirth
+mirth,noun
  mirthful mirthfully mirthfulness mirthless mirthlessly
-miry
+miry,adjective
  mirier miriest
-misaddress
+misaddress,verb
  misaddressed misaddresses misaddressing
-misadventure
+misadventure,noun
  misadventures
-misaligned
-misalignment
-misalliance
+misaligned,adjective
+misalignment,noun
+misalliance,noun
  misalliances
-misanthrope
+misanthrope,noun
  misanthropes
-misanthropic
+misanthropic,adjective
  misanthropically
-misanthropist
+misanthropist,noun
  misanthropists
-misanthropy
-misapplication
+misanthropy,noun
+misapplication,noun
  misapplications
-misapply
+misapply,verb
  misapplied misapplies misapplying
-misapprehend
+misapprehend,verb
  misapprehended misapprehending misapprehends
-misapprehension
+misapprehension,noun
  misapprehensions
-misappropriate
+misappropriate,verb
  misappropriated misappropriates misappropriating
-misappropriation
+misappropriation,noun
  misappropriations
-misbegotten
-misbehave
+misbegotten,adjective
+misbehave,verb
  misbehaved misbehaves misbehaving
-misbehavior
+misbehavior,noun
  misbehaviour
-miscalculate
+miscalculate,verb
  miscalculated miscalculates miscalculating
-miscalculation
+miscalculation,noun
  miscalculations
-miscall
+miscall,verb
  miscalled miscalling miscalls
-miscarriage
+miscarriage,noun
  miscarriages
-miscarry
+miscarry,verb
  miscarried miscarries miscarrying
-miscast
+miscast,verb
  miscasting miscasts
-miscegenation
-miscellaneous
+miscegenation,noun
+miscellaneous,adjective
  miscellaneously
-miscellany
+miscellany,noun
  miscellanies
-mischance
+mischance,noun
  mischances
-mischief
-mischievous
+mischief,noun
+mischievous,adjective
  mischievously mischievousness
-miscible
+miscible,adjective
  miscibility
-misconceive
+misconceive,verb
  misconceived misconceives misconceiving
-misconception
+misconception,noun
  misconceptions
-misconduct
+misconduct,verb,noun
  misconducted misconducting misconducts
-misconstruction
+misconstruction,noun
  misconstructions
-misconstrue
+misconstrue,verb
  misconstrued misconstrues misconstruing
-miscount
+miscount,verb,noun
  miscounted miscounting miscounts
-miscreant
+miscreant,adjective,noun
  miscreants
-miscue
+miscue,verb,noun
  miscued miscues miscuing
-misdeal
+misdeal,verb,noun
  misdealing misdeals misdealt
-misdeed
+misdeed,noun
  misdeeds
-misdemeanor
+misdemeanor,noun
  misdemeanors misdemeanour misdemeanours
-misdiagnose
+misdiagnose,verb
  misdiagnosed misdiagnoses -> [misdiagnosis] misdiagnosing
-misdiagnosis
+misdiagnosis,noun
  misdiagnoses -> [misdiagnose]
-misdirect
+misdirect,verb
  misdirected misdirecting misdirects
-misdirection
-misdo
+misdirection,noun
+misdo,verb
  misdid misdoes misdoing -> [misdoing] misdone
-misdoing -> [misdo]
+misdoing,noun
  misdoings
-miser
+miser,noun
  miserliness miserly misers
-miserable
+miserable,adjective
  miserableness miserably
-misery
+misery,noun
  miseries
-misfeasance
-misfile
+misfeasance,noun
+misfile,verb
  misfiled misfiles misfiling
-misfire
+misfire,verb,noun
  misfired misfires misfiring
-misfit
+misfit,noun
  misfits misfitted misfitting
-misfortune
+misfortune,noun
  misfortunes
-misgiving
+misgiving,noun
  misgivings
-misgovern
+misgovern,verb
  misgoverned misgoverning misgoverns
-misgovernment
-misguidance
-misguide
+misgovernment,noun
+misguidance,noun
+misguide,verb
  misguided misguidedly misguides misguiding
-mishandle
+mishandle,verb
  mishandled mishandles mishandling
-mishap
+mishap,noun
  mishaps
-mishear
+mishear,verb
  misheard mishearing mishears
-mishit
+mishit,verb,noun
  mishits mishitting
-mishmash
+mishmash,noun
  mishmashes
-misidentify
+misidentify,verb
  misidentified misidentifies misidentifying
-misinform
+misinform,verb
  misinformed misinforming misinforms
-misinformation
-misinterpret
+misinformation,noun
+misinterpret,verb
  misinterpreted misinterpreting misinterprets
-misinterpretation
+misinterpretation,noun
  misinterpretations
-misjudge
+misjudge,verb
  misjudged misjudges misjudging
-misjudgment
+misjudgment,noun
  misjudgement misjudgements misjudgments
-mislabel
+mislabel,verb
  mislabeled mislabeling mislabelled mislabelling mislabels
-mislay
+mislay,verb
  mislaid mislaying mislays
-mislead
+mislead,verb
  misleading misleadingly misleads misled
-mismanage
+mismanage,verb
  mismanaged mismanages mismanaging
-mismanagement
-mismatch
+mismanagement,noun
+mismatch,verb,noun
  mismatched mismatches mismatching
-misname
+misname,verb
  misnamed misnames misnaming
-misnomer
+misnomer,noun
  misnomers
-miso
-misogamist
+miso,noun
+misogamist,noun
  misogamists
-misogamy
-misogynist
+misogamy,noun
+misogynist,adjective,noun
  misogynists
-misogynistic
-misogynous
-misogyny
-misplace
+misogynistic,adjective
+misogynous,adjective
+misogyny,noun
+misplace,verb
  misplaced misplaces misplacing
-misplacement
-misplay
+misplacement,noun
+misplay,verb,noun
  misplayed misplaying misplays
-misprint
+misprint,verb,noun
  misprinted misprinting misprints
-misprision
-mispronounce
+misprision,noun
+mispronounce,verb
  mispronounced mispronounces mispronouncing
-mispronunciation
+mispronunciation,noun
  mispronunciations
-misquotation
+misquotation,noun
  misquotations
-misquote
+misquote,verb,noun
  misquoted misquotes misquoting
-misread
+misread,verb
  misreading -> [misreading] misreads
-misreading -> [misread]
+misreading,verb
  misreadings
-misreport
+misreport,verb,noun
  misreported misreporting misreports
-misrepresent
+misrepresent,verb
  misrepresented misrepresenting misrepresents
-misrepresentation
+misrepresentation,noun
  misrepresentations
-misrule
+misrule,verb,noun
  misruled misrules misruling
-miss
+miss,verb,noun
  missed misses missing -> [missing]
-missal
+missal,noun
  missals
-misshape
+misshape,verb,noun
  misshaped misshapen misshapes misshaping
-missile
+missile,noun
  missiles
-missilery
+missilery,noun
  missilry
-missing -> [miss]
-mission
+missing,adjective
+mission,noun
  missions
-missionary
+missionary,adjective,noun
  missionaries
-missioner
+missioner,noun
  missioners
-missive
+missive,noun
  missives
-misspeak
+misspeak,verb
  misspeaking misspeaks misspoke misspoken
-misspell
+misspell,verb
  misspelled misspelling -> [misspelling] misspells misspelt
-misspelling -> [misspell]
+misspelling,noun
  misspellings
-misspend
+misspend,verb
  misspending misspends misspent
-misstate
+misstate,verb
  misstated misstates misstating
-misstatement
+misstatement,noun
  misstatements
-misstep
+misstep,noun
  missteps
-missus
+missus,noun
  missis missises missuses
-mist
+mist,verb,noun
  misted misting mists
-mistakable
-mistake
+mistakable,adjective
+mistake,verb,noun
  mistaken mistakenly mistakes mistaking mistook
-mister
+mister,noun
  misters
-mistime
+mistime,verb
  mistimed mistimes mistiming
-mistletoe
-mistral
+mistletoe,noun
+mistral,noun
  mistrals
-mistreat
+mistreat,verb
  mistreated mistreating mistreats
-mistreatment
-mistress
+mistreatment,noun
+mistress,noun
  mistresses
-mistrial
+mistrial,noun
  mistrials
-mistrust
+mistrust,verb,noun
  mistrusted mistrustful mistrustfully mistrusting mistrusts
-misty
+misty,adjective
  mistier mistiest mistily mistiness
-misunderstand
+misunderstand,verb
  misunderstanding -> [misunderstanding] misunderstands misunderstood
-misunderstanding -> [misunderstand]
+misunderstanding,noun
  misunderstandings
-misuse
+misuse,verb,noun
  misused misuses misusing
-mite
+mite,noun,adverb
  mites
-miter
+miter,verb,noun
  mitered mitering miters mitre mitred mitres mitring
-mitigate
+mitigate,verb
  mitigated mitigates mitigating
-mitigation
-mitochondrion
+mitigation,noun
+mitochondrion,noun
  mitochondria
-mitosis
-mitotic
-mitt
+mitosis,noun
+mitotic,adjective
+mitt,noun
  mitts
-mitten
+mitten,noun
  mittens
-mix
+mix,verb,noun
  mixed mixes mixing mixt
-mixable
-mixer
+mixable,adjective
+mixer,noun
  mixers
-mixture
+mixture,noun
  mixtures
-mix-up
+mix-up,noun
  mix-ups
-mizzen
+mizzen,noun
  mizzens
-mizzenmast
+mizzenmast,noun
  mizzenmasts
-mnemonic
+mnemonic,adjective,noun
  mnemonically mnemonics
-mo
-moan
+mo,abbreviation,noun
+moan,verb,noun
  moaned moaning moans
-moaner
+moaner,noun
  moaners
-moat
+moat,verb,noun
  moated moats
-mob
+mob,verb,noun
  mobbed mobbing mobs
-mobile
+mobile,adjective,noun,propernoun
  mobiles
-mobility
-mobilization
+mobility,noun
+mobilization,noun
  mobilisation mobilisations mobilizations
-mobilize
+mobilize,verb
  mobilise mobilised mobilises mobilising mobilized mobilizes mobilizing
-mobilizer
+mobilizer,noun
  mobiliser mobilisers mobilizers
-mobster
+mobster,noun
  mobsters
-moccasin
+moccasin,noun
  moccasins
-mocha
+mocha,noun
  mochas
-mock
+mock,adjective,verb,noun
  mocked mocking mockingly mocks
-mocker
+mocker,verb,noun
  mockers
-mockery
+mockery,noun
  mockeries
-mockingbird
+mockingbird,noun
  mockingbirds
-mockup
+mockup,noun
  mockups
-mod
+mod,abbreviation,adjective,verb,noun,preposition
  mods
-modal
+modal,adjective,noun
  modals
-mode
+mode,noun
  modes modish modishly modishness
-model
+model,verb,noun
  modeled modeling modelled modelling models
-modeler
+modeler,noun
  modelers modeller modellers
-modem
+modem,verb,noun
  modems
-moderate
+moderate,adjective,verb,noun
  moderated moderately moderateness moderates moderating
-moderation
-moderator
+moderation,noun
+moderator,noun
  moderators
-modern
+modern,adjective,noun
  modernly modernness moderns
-modern-day
-modernism
-modernist
+modern-day,adjective
+modernism,noun
+modernist,adjective,noun
  modernists
-modernistic
-modernity
-modernization
+modernistic,adjective
+modernity,noun
+modernization,noun
  modernisation
-modernize
+modernize,verb
  modernise modernised modernises modernising modernized modernizes modernizing
-modernizer
+modernizer,noun
  moderniser modernisers modernizers
-modest
+modest,adjective
  modestly
-modesty
-modicum
+modesty,noun
+modicum,noun
  modicums
-modification
+modification,noun
  modifications
-modifier
+modifier,noun
  modifiers
-modify
+modify,verb
  modified modifies modifying
-modular
-modulate
+modular,adjective
+modulate,verb
  modulated modulates modulating
-modulation
+modulation,noun
  modulations
-modulator
+modulator,noun
  modulators
-module
+module,noun
  modules
-moggy
+moggy,noun
  moggie moggies
-mogul
+mogul,noun
  moguls
-mohair
-mohawk
+mohair,noun
+mohawk,adjective,noun
  mohawks
-mohican
+mohican,adjective,noun,noun
  mohicans
-moi
-moiety
+moi,exclamation
+moiety,noun
  moieties
-moil
+moil,verb,noun
  moiled moiling moils
-moire
+moire,adjective,noun
  moires
-moist
+moist,adjective
  moister moistest moistly moistness
-moisten
+moisten,verb
  moistened moistening moistens
-moistener
+moistener,noun
  moisteners
-moisture
-moisturize
+moisture,noun
+moisturize,verb
  moisturise moisturised moisturises moisturising moisturized moisturizes moisturizing
-moisturizer
+moisturizer,noun
  moisturiser moisturisers moisturizers
-mojo
+mojo,noun
  mojoes mojos
-molar
+molar,adjective,noun
  molars
-molasses
-mold
+molasses,noun
+mold,propernoun
  molded molding -> [molding] molds mould moulded moulding -> [molding] moulds
-moldboard
+moldboard,noun
  moldboards
-molder
+molder,verb,noun
  moldered moldering molders moulder mouldered mouldering moulders
-molding -> [mold]
+molding,propernoun
  moldings moulding -> [mold] mouldings
-moldy
+moldy,adjective
  moldier moldiest moldiness mouldier mouldiest mouldiness mouldy
-mole
+mole,noun
  moles
-molecular
-molecularity
-molecule
+molecular,adjective
+molecularity,noun
+molecule,noun
  molecules
-molehill
+molehill,noun
  molehills
-moleskin
-molest
+moleskin,noun
+molest,verb
  molested molesting molests
-molestation
-molester
+molestation,noun
+molester,noun
  molesters
-moll
+moll,noun
  molls
-mollification
-mollify
+mollification,noun
+mollify,verb
  mollified mollifies mollifying
-mollusk
+mollusk,noun
  mollusc molluscs mollusks
-molluskan
+molluskan,adjective
  molluscan molluscans molluskans
-molly
+molly,noun
  mollies
-mollycoddle
+mollycoddle,verb,noun
  mollycoddled mollycoddles mollycoddling
-molt
+molt,verb,noun
  molted molting molts moult moulted moulting moults
-molten
-molter
+molten,adjective
+molter,verb,noun
  molters moulter moulters
-molybdenum
-mom
+molybdenum,noun
+mom,noun
  mam mams moms mum -> [mum] mums -> [mum]
-mom-and-pop
-moment
+mom-and-pop,adjective
+moment,noun
  moments
-momentary
+momentary,adjective
  momentarily momentariness
-momentous
+momentous,adjective
  momentously momentousness
-momentum
-mommy
+momentum,noun
+mommy,noun
  mommie mommies mummies -> [mummy] mummy -> [mummy]
-monarch
+monarch,noun
  monarchs
-monarchic
-monarchical
-monarchism
-monarchist
+monarchic,adjective
+monarchical,adjective
+monarchism,noun
+monarchist,adjective,noun
  monarchists
-monarchistic
-monarchy
+monarchistic,adjective
+monarchy,noun
  monarchies
-monastery
+monastery,noun
  monasteries
-monastic
+monastic,adjective,noun
  monastics
-monastical
+monastical,adjective
  monastically
-monasticism
-monaural
-monetarism
-monetarist
+monasticism,noun
+monaural,adjective
+monetarism,noun
+monetarist,adjective,noun
  monetarists
-monetary
+monetary,adjective
  monetarily
-monetize
+monetize,verb
  monetise monetised monetises monetising monetized monetizes monetizing
-money
+money,noun
  moneyed moneys monied monies
-moneybag
+moneybag!
  moneybags
-moneybox
+moneybox,noun
  moneyboxes
-moneygrubber
+moneygrubber,noun
  moneygrubbers
-moneygrubbing
-moneylender
+moneygrubbing,adjective
+moneylender,noun
  moneylenders
-moneymaker
+moneymaker,noun
  moneymakers
-moneymaking
-moneyspinner
+moneymaking,adjective,noun
+moneyspinner,noun
  moneyspinners
-monger
+monger,combiningform
  mongered mongering mongers
-mongol
+mongol,adjective,noun
  mongols
-mongolism
-mongoloid
+mongolism,noun
+mongoloid,adjective,noun
  mongoloids
-mongoose
+mongoose,noun
  mongeese mongooses
-mongrel
+mongrel,noun
  mongrels
-moniker
+moniker,noun
  monicker monickers monikers
-monism
-monist
+monism,noun
+monist,adjective,noun
  monists
-monition
+monition,noun
  monitions
-monitor
+monitor,verb,noun
  monitored monitoring monitors
-monitory
-monk
+monitory,adjective,noun
+monk,noun
  monkish monks
-monkey
+monkey,verb,noun
  monkeyed monkeying monkeys
-monkeyshine
+monkeyshine,noun
  monkeyshines
-monkshood
+monkshood,noun
  monkshoods
-mono
-monochromatic
-monochrome
+mono,adjective,noun
+monochromatic,adjective
+monochrome,adjective,noun
  monochromes
-monocle
+monocle,noun
  monocled monocles
-monoclonal
-monocotyledon
+monoclonal,adjective
+monocotyledon,noun
  monocotyledons
-monocotyledonous
-monocular
-monodic
-monodist
+monocotyledonous,adjective
+monocular,adjective,noun
+monodic,adjective
+monodist,noun
  monodists
-monody
+monody,noun
  monodies
-monogamist
+monogamist,noun
  monogamists
-monogamous
+monogamous,adjective
  monogamously
-monogamy
-monogram
+monogamy,noun
+monogram,verb,noun
  monogrammed monogramming monograms
-monograph
+monograph,verb,noun
  monographs
-monolingual
+monolingual,adjective,noun
  monolinguals
-monolith
+monolith,noun
  monoliths
-monolithic
-monologue
+monolithic,adjective
+monologue,noun
  monolog monologs monologues
-monologuist
+monologuist,noun
  monologist monologists monologuists
-monomania
-monomaniac
+monomania,noun
+monomaniac,adjective,noun
  monomaniacs
-monomaniacal
-monomer
+monomaniacal,adjective
+monomer,noun
  monomers
-mononucleosis
-monophonic
-monoplane
+mononucleosis,noun
+monophonic,adjective
+monoplane,noun
  monoplanes
-monopolist
+monopolist,noun
  monopolists
-monopolistic
-monopolization
+monopolistic,adjective
+monopolization,noun
  monopolisation
-monopolize
+monopolize,verb
  monopolise monopolised monopolises monopolising monopolized monopolizes monopolizing
-monopolizer
+monopolizer,noun
  monopoliser monopolisers monopolizers
-monopoly
+monopoly,noun
  monopolies
-monorail
+monorail,noun
  monorails
-monosyllabic
-monosyllable
+monosyllabic,adjective
+monosyllable,noun
  monosyllables
-monotheism
-monotheist
+monotheism,noun
+monotheist,adjective,noun
  monotheists
-monotheistic
-monotone
+monotheistic,adjective
+monotone,adjective,noun
  monotones
-monotonous
+monotonous,adjective
  monotonously monotonousness
-monotony
-monounsaturated
-monoxide
+monotony,noun
+monounsaturated,adjective
+monoxide,noun
  monoxides
-monseigneur
+monseigneur,noun
  messeigneurs
-monsieur
+monsieur,noun
  messieurs
-monsignor
+monsignor,noun
  monsignori monsignors
-monsoon
+monsoon,noun
  monsoons
-monsoonal
-monster
+monsoonal,adjective
+monster,verb,noun
  monsters
-monstrance
+monstrance,noun
  monstrances
-monstrosity
+monstrosity,noun
  monstrosities
-monstrous
+monstrous,adjective
  monstrously
-montage
+montage,noun
  montages
-month
+month,noun
  monthly -> [monthly] months
-monthlong
-monthly -> [month]
+monthlong,adjective
+monthly,adjective,noun,adverb
  monthlies
-monument
+monument,noun
  monuments
-monumental
+monumental,adjective
  monumentally
-moo
+moo,verb,noun
  mooed mooing moos
-mooch
+mooch,verb,noun
  mooched mooches mooching
-moocher
+moocher,noun
  moochers
-mood
+mood,noun
  moods
-moody
+moody,adjective
  moodier moodiest moodily moodiness
-moon
+moon,verb,noun
  mooned mooning moonless moons
-moonbeam
+moonbeam,noun
  moonbeams
-moonlight
+moonlight,verb,noun
  moonlighted moonlighting moonlights
-moonlighter
+moonlighter,noun
  moonlighters
-moonlit
-moonroof
+moonlit,adjective
+moonroof,noun
  moonroofs
-moonscape
+moonscape,noun
  moonscapes
-moonshine
-moonshiner
+moonshine,noun
+moonshiner,noun
  moonshiners
-moonshot
+moonshot,noun
  moonshots
-moonstone
+moonstone,noun
  moonstones
-moonstruck
-moonwalk
+moonstruck,adjective
+moonwalk,verb,noun
  moonwalks
-moor
+moor,verb,noun
  moored mooring -> [mooring] moors
-moorhen
+moorhen,noun
  moorhens
-mooring -> [moor]
+mooring,noun
  moorings
-moorland
+moorland,noun
  moorlands
-moose
-moot
+moose,noun
+moot,adjective,verb,noun
  mooted mooting moots
-mop
+mop,abbreviation,verb,noun
  mopped mopping mops
-mope
+mope,verb,noun
  moped -> [moped] mopes moping mopish
-moped -> [mope]
+moped,noun
  mopeds
-moper
+moper,noun
  mopers
-mopey
+mopey,adjective
  mopier mopiest mopy
-moppet
+moppet,noun
  moppets
-moraine
+moraine,noun
  moraines
-moral
+moral,adjective,noun
  morally morals
-morale
-moralist
+morale,noun
+moralist,noun
  moralists
-moralistic
+moralistic,adjective
  moralistically
-morality
+morality,noun
  moralities
-moralization
+moralization,noun
  moralisation
-moralize
+moralize,verb
  moralise moralised moralises moralising moralized moralizes moralizing
-moralizer
+moralizer,noun
  moraliser moralisers moralizers
-morass
+morass,noun
  morasses
-moratorium
+moratorium,noun
  moratoria moratoriums
-moray
+moray,noun,propernoun
  morays
-morbid
+morbid,adjective
  morbidly morbidness
-morbidity
-mordancy
-mordant
+morbidity,noun
+mordancy,noun
+mordant,adjective,verb,noun
  mordantly mordants
-more -> [much]
-moreish
-morel
+more,noun,pronoun,determiner,adverb
+moreish,adjective
+morel,noun
  morels
-moreover
-mores
-morgue
+moreover,adverb
+mores,pluralnoun
+morgue,noun
  morgues
-moribund
-morn
+moribund,adjective
+morn,noun
  morns
-morning
+morning,exclamation,noun,adverb
  mornings
-morocco
-moron
+morocco,noun,propernoun
+moron,noun
  morons
-moronic
+moronic,adjective
  moronically
-morose
+morose,adjective
  morosely moroseness
-morph
+morph,verb,noun
  morphed morphing morphs
-morpheme
+morpheme,noun
  morphemes
-morphemic
-morphia
-morphine
-morphological
-morphology
-morrow
+morphemic,adjective
+morphia,noun
+morphine,noun
+morphological,adjective
+morphology,noun
+morrow,noun
  morrows
-morsel
+morsel,noun
  morsels
-mortal
+mortal,adjective,noun
  mortally mortals
-mortality
+mortality,noun
  mortalities
-mortar
+mortar,verb,noun
  mortared mortaring mortars
-mortarboard
+mortarboard,noun
  mortarboards
-mortgage
+mortgage,verb,noun
  mortgaged mortgages mortgaging
-mortgagee
+mortgagee,noun
  mortgagees
-mortgagor
+mortgagor,noun
  mortgager mortgagers mortgagors
-mortician
+mortician,noun
  morticians
-mortification
-mortify
+mortification,noun
+mortify,verb
  mortified mortifies mortifying
-mortise
+mortise,verb,noun
  mortice morticed mortices morticing mortised mortises mortising
-mortuary
+mortuary,adjective,noun
  mortuaries
-mosaic
+mosaic,adjective,verb,noun
  mosaics
-mosey
+mosey,verb,noun
  moseyed moseying moseys
-mosh
+mosh,verb
  moshed moshes moshing
-moshpit
+moshpit,noun
  moshpits
-mosque
+mosque,noun
  mosques
-mosquito
+mosquito,noun
  mosquitoes mosquitos
-moss
+moss,verb,noun
  mosses
-mossback
+mossback,noun
  mossbacks
-mossy
+mossy,adjective
  mossier mossiest
-most -> [much]
-mostly
-mot
+most,pronoun,determiner,adverb
+mostly,adverb
+mot,noun
  mots
-mote
+mote,noun
  motes
-motel
+motel,noun
  motels
-motet
+motet,noun
  motets
-moth
+moth,noun
  moths
-mothball
+mothball,verb,noun
  mothballed mothballing mothballs
-mother
+mother,verb,noun
  mothered mothering motherless motherliness motherly mothers
-motherboard
+motherboard,noun
  motherboards
-motherfucker
+motherfucker,noun
  motherfuckers
-motherfucking
-motherhood
-mother-in-law
+motherfucking,adjective,adverb
+motherhood,noun
+mother-in-law,noun
  mothers-in-law
-motherland
+motherland,noun
  motherlands
-mother-of-pearl
-motif
+mother-of-pearl,noun
+motif,noun
  motifs
-motile
-motility
-motion
+motile,adjective
+motility,noun
+motion,verb,noun
  motioned motioning motionless motionlessly motionlessness motions
-motivate
+motivate,verb
  motivated motivates motivating
-motivation
+motivation,noun
  motivations
-motivational
-motivator
+motivational,adjective
+motivator,noun
  motivators
-motive
+motive,adjective,noun
  motiveless motives
-motley
+motley,adjective,noun
  motlier motliest
-motocross
+motocross,noun
  motocrosses
-motor
+motor,adjective,verb,noun
  motored motoring motors
-motorbike
+motorbike,noun
  motorbiked motorbikes motorbiking
-motorboat
+motorboat,noun
  motorboated motorboating motorboats
-motorcade
+motorcade,noun
  motorcades
-motorcar
+motorcar,noun
  motorcars
-motorcycle
+motorcycle,noun
  motorcycled motorcycles motorcycling
-motorcyclist
+motorcyclist,noun
  motorcyclists
-motorhome
+motorhome,noun
  motorhomes
-motorist
+motorist,noun
  motorists
-motorization
+motorization,noun
  motorisation
-motorize
+motorize,verb
  motorise motorised motorises motorising motorized motorizes motorizing
-motorman
+motorman,noun
  motormen
-motormouth
+motormouth,noun
  motormouths
-motorway
+motorway,noun
  motorways
-mottle
+mottle,verb,noun
  mottled mottles mottling
-motto
+motto,noun
  mottoes mottos
-moue
+moue,noun
  moues
-mound
+mound,verb,noun
  mounded mounding mounds
-mount
+mount,verb,noun
  mounted mounting -> [mounting] mounts
-mountable
-mountain
+mountable,adjective
+mountain,noun
  mountains
-mountainboarding
-mountaineer
+mountainboarding,verb,noun
+mountaineer,noun
  mountaineered mountaineering mountaineers
-mountainous
-mountainside
+mountainous,adjective
+mountainside,noun
  mountainsides
-mountaintop
+mountaintop,noun
  mountaintops
-mountebank
+mountebank,noun
  mountebanks
-mounter
+mounter,noun
  mounters
-mounting -> [mount]
+mounting,noun
  mountings
-mourn
+mourn,verb
  mourned mournful mournfully mournfulness mourning mourns
-mourner
+mourner,noun
  mourners
-mouse
+mouse,verb,noun
  mice moused mouses mousing
-mousemat
+mousemat!
  mousemats
-mousepad
+mousepad,noun
  mousepads
-mouser
+mouser,noun
  mousers
-mousetrap
+mousetrap,verb,noun
  mousetrapped mousetrapping mousetraps
-moussaka
+moussaka,noun
  moussakas
-mousse
+mousse,verb,noun
  moussed mousses moussing
-mousy
+mousy,adjective
  mousey mousier mousiest mousiness
-mouth
+mouth,verb,noun
  mouthed mouthful mouthfuls mouthing mouths
-mouthguard
+mouthguard,noun
  mouthguards
-mouthpiece
+mouthpiece,noun
  mouthpieces
-mouthwash
+mouthwash,noun
  mouthwashes
-mouthwatering
-mouthy
+mouthwatering,adjective
+mouthy,adjective
  mouthier mouthiest mouthiness
-mouton
-movable
+mouton,noun
+movable,adjective,noun
  movables moveable moveables
-move
+move,verb,noun
  moved moves moving movingly
-movement
+movement,noun
  movements
-mover
+mover,noun
  movers
-movie
+movie,noun
  movies
-moviegoer
+moviegoer,noun
  moviegoers
-moviemaker
+moviemaker,noun
  moviemakers
-mow
+mow,verb,noun
  mowed mowing mown mows
-mower
+mower,noun
  mowers
-moxie
-mozzarella
-mu
+moxie,noun
+mozzarella,noun
+mu,noun
  mus
-much
+much,pronoun,determiner,adverb
  more -> [more] most -> [most] muchness
-mucilage
-mucilaginous
-muck
+mucilage,noun
+mucilaginous,adjective
+muck,verb,noun
  mucked mucking mucks
-muckrake
+muckrake,verb
  muckraked muckrakes muckraking
-muckraker
+muckraker,noun
  muckrakers
-mucky
+mucky,adjective
  muckier muckiest
-mucous
-mucus
-mud
-muddle
+mucous,adjective
+mucus,noun
+mud,noun
+muddle,verb,noun
  muddled muddles muddling
-muddleheaded
-muddy
+muddleheaded,adjective
+muddy,adjective,verb
  muddied muddier muddies muddiest muddily muddiness muddying
-mudflap
+mudflap,noun
  mudflaps
-mudflat
+mudflat,noun
  mudflats
-mudguard
+mudguard,noun
  mudguards
-mudpack
+mudpack,noun
  mudpacks
-mudroom
+mudroom,noun
  mudrooms
-mudslide
+mudslide,noun
  mudslides
-mudslinger
+mudslinger,noun
  mudslingers
-mudslinging
-muenster
-muesli
-muezzin
+mudslinging,noun
+muenster,noun
+muesli,noun
+muezzin,noun
  muezzins
-muff
+muff,verb,noun
  muffed muffing muffs
-muffin
+muffin,noun
  muffins
-muffle
+muffle,verb,noun
  muffled muffles muffling
-muffler
+muffler,noun
  mufflers
-mufti
+mufti,noun
  muftis
-mug
+mug,verb,noun
  mugful mugfuls mugged mugging -> [mugging] mugs
-mugger
+mugger,noun
  muggers
-mugging -> [mug]
+mugging,noun
  muggings
-muggins
-muggle!
+muggins,noun
+muggle,noun
  mugggles
-muggy
+muggy,adjective
  muggier muggiest mugginess
-mugshot
+mugshot,noun
  mugshots
-mugwump
+mugwump,noun
  mugwumps
-mujahedin
+mujahedin,pluralnoun
  mujaheddin mujahideen
-mukluk
+mukluk,noun
  mukluks
-mulatto
+mulatto,noun
  mulattoes mulattos
-mulberry
+mulberry,noun
  mulberries
-mulch
+mulch,verb,noun
  mulched mulches mulching
-mulct
+mulct,verb,noun
  mulcted mulcting mulcts
-mule
+mule,noun
  mules mulish mulishly mulishness
-muleskinner
+muleskinner!
  muleskinners
-muleteer
+muleteer,noun
  muleteers
-mull
+mull,verb,noun,propernoun
  mulled mulling mulls
-mullah
+mullah,noun
  mullahs
-mullein
-mullet
+mullein,noun
+mullet,noun
  mullets
-mulligan
+mulligan,noun
  mulligans
-mulligatawny
-mullion
+mulligatawny,noun
+mullion,noun
  mullioned mullions
-multicellular
-multicolored
+multicellular,adjective
+multicolored,adjective
  multicoloured
-multicultural
-multiculturalism
-multidimensional
-multidisciplinary
-multiethnic
-multifaceted
-multifamily
-multifarious
+multicultural,adjective
+multiculturalism,noun
+multidimensional,adjective
+multidisciplinary,adjective
+multiethnic,adjective
+multifaceted,adjective
+multifamily,adjective
+multifarious,adjective
  multifariously multifariousness
-multiform
-multifunctional
-multigrain
-multigym
+multiform,adjective
+multifunctional,adjective
+multigrain,adjective
+multigym,noun
  multigyms
-multilateral
+multilateral,adjective
  multilaterally
-multilevel
-multilingual
-multilingualism
-multimedia
-multimillionaire
+multilevel,adjective
+multilingual,adjective
+multilingualism,noun
+multimedia,adjective,noun
+multimillionaire,noun
  multimillionaires
-multinational
+multinational,adjective,noun
  multinationals
-multiparty
-multiplayer
-multiple
+multiparty,adjective
+multiplayer,adjective,noun
+multiple,adjective,noun
  multiples multiply -> [multiply]
-multiple-choice
-multiplex
+multiple-choice,adjective
+multiplex,adjective,verb,noun
  multiplexed multiplexes multiplexing
-multiplexer
+multiplexer,noun
  multiplexers multiplexor multiplexors
-multiplicand
+multiplicand,noun
  multiplicands
-multiplication
+multiplication,noun
  multiplications
-multiplicity
+multiplicity,noun
  multiplicities
-multiplier
+multiplier,noun
  multipliers
-multiply -> [multiple]
+multiply,verb,adverb
  multiplied multiplies multiplying
-multiprocessor
+multiprocessor,noun
  multiprocessors
-multipurpose
-multiracial
-multistage
-multistory
+multipurpose,adjective
+multiracial,adjective
+multistage,adjective
+multistory,adjective,noun
  multistorey multistoreys
-multitask
+multitask,verb
  multitasked multitasks
-multitasking
-multitude
+multitasking,verb
+multitude,noun
  multitudes
-multitudinous
-multiuser
-multiverse!
+multitudinous,adjective
+multiuser,adjective
+multiverse,noun
  multiverses
-multivitamin
+multivitamin,adjective,noun
  multivitamins
-mum -> [mom]
+mum,adjective,verb,noun
  mums -> [mom]
-mumble
+mumble,verb,noun
  mumbled mumbles mumbling -> [mumbling]
-mumbler
+mumbler,noun
  mumblers
-mumbletypeg
-mumbling -> [mumble]
+mumbletypeg,noun
+mumbling,adjective
  mumblings
-mummer
+mummer,noun
  mummers
-mummery
-mummification
-mummify
+mummery,noun
+mummification,noun
+mummify,verb
  mummified mummifies mummifying
-mummy -> [mommy]
+mummy,noun
  mummies -> [mommy]
-mumps
-munch
+mumps,pluralnoun
+munch,verb
  munched munches munching
-munchies
-munchkin
+munchies,pluralnoun
+munchkin,noun
  munchkins
-mundane
+mundane,adjective
  mundanely
-municipal
+municipal,adjective
  municipally municipals
-municipality
+municipality,noun
  municipalities
-munificence
-munificent
+munificence,noun
+munificent,adjective
  munificently
-munition
+munition,pluralnoun,verb
  munitioned munitioning munitions
-muppet
+muppet,noun
  muppets
-mural
+mural,adjective,noun
  murals
-muralist
+muralist,noun
  muralists
-murder
+murder,verb,noun
  murdered murdering murders
-murderer
+murderer,noun
  murderers
-murderess
+murderess,noun
  murderesses
-murderous
+murderous,adjective
  murderously
-murk
-murky
+murk,adjective,noun
+murky,adjective
  murkier murkiest murkily murkiness
-murmur
+murmur,verb,noun
  murmured murmuring -> [murmuring] murmurs
-murmurer
+murmurer,noun
  murmurers
-murmuring -> [murmur]
+murmuring,noun
  murmurings
-murmurous
-murrain
-muscat
+murmurous,adjective
+murrain,noun
+muscat,noun,propernoun
  muscats
-muscatel
+muscatel,noun
  muscatels
-muscle
+muscle,verb,noun
  muscled muscles muscling
-musclebound
-muscleman
+musclebound,adjective
+muscleman,noun
  musclemen
-muscly
-muscular
+muscly,adjective
+muscular,adjective
  muscularly
-muscularity
-musculature
-muse
+muscularity,noun
+musculature,noun
+muse,verb,noun
  mused muses musing -> [musing]
-musette
+musette,noun
  musettes
-museum
+museum,noun
  museums
-mush
+mush,exclamation,verb,noun
  mushed mushes mushing
-musher
+musher,noun
  mushers
-mushroom
+mushroom,verb,noun
  mushroomed mushrooming mushrooms
-mushy
+mushy,adjective
  mushier mushiest mushiness
-music
-musical
+music,noun
+musical,adjective,noun
  musically musicals
-musicale
+musicale,noun
  musicales
-musicality
-musician
+musicality,noun
+musician,noun
  musicianly musicians
-musicianship
-musicological
-musicologist
+musicianship,noun
+musicological,adjective
+musicologist,noun
  musicologists
-musicology
-musing -> [muse]
+musicology,noun
+musing,adjective,noun
  musingly musings
-musk
-muskeg
+musk,noun
+muskeg,noun
  muskegs
-muskellunge
+muskellunge,noun
  muskellunges
-musket
+musket,noun
  muskets
-musketeer
+musketeer,noun
  musketeers
-musketry
-muskie
+musketry,noun
+muskie,propernoun
  muskies musky -> [musky]
-muskmelon
+muskmelon,noun
  muskmelons
-muskox
+muskox,noun
  muskoxen
-muskrat
+muskrat,noun
  muskrats
-musky -> [muskie]
+musky,adjective
  muskier muskiest muskiness
-muslin
-muso
+muslin,noun
+muso,noun
  musos
-muss
+muss,verb,noun
  mussed musses mussing
-mussel
+mussel,noun
  mussels
-mussy
+mussy,adjective
  mussier mussiest
-must
+must,adjective,noun,modalverb
  musts
-mustache
+mustache,noun
  moustache moustached moustaches mustached mustaches
-mustachio
+mustachio,pluralnoun
  moustachio moustachioed moustachios mustachioed mustachios
-mustang
+mustang,noun
  mustangs
-mustard
+mustard,noun
  mustards
-muster
+muster,verb,noun
  mustered mustering musters
-must-have
+must-have,adjective,noun
  must-haves
-musty
+musty,adjective
  mustier mustiest mustily mustiness
-mutable
+mutable,adjective
  mutability mutably
-mutagen
+mutagen,noun
  mutagens
-mutant
+mutant,adjective,noun
  mutants
-mutate
+mutate,verb
  mutated mutates mutating
-mutation
+mutation,noun
  mutations
-mutational
-mutative
-mute
+mutational,adjective
+mutative,adjective
+mute,adjective,verb,noun
  muted mutely muteness muter mutes mutest muting
-muti
-mutilate
+muti,noun
+mutilate,verb
  mutilated mutilates mutilating
-mutilation
+mutilation,noun
  mutilations
-mutilator
+mutilator,noun
  mutilators
-mutineer
+mutineer,noun
  mutineers
-mutinous
+mutinous,adjective
  mutinously
-mutiny
+mutiny,verb,noun
  mutinied mutinies mutinying
-mutt
+mutt,noun
  mutts
-mutter
+mutter,verb,noun
  muttered muttering -> [muttering] mutters
-mutterer
+mutterer,noun
  mutterers
-muttering -> [mutter]
+muttering,noun
  mutterings
-mutton
-muttonchops
-muttony
-mutual
+mutton,noun
+muttonchops,pluralnoun
+muttony,adjective
+mutual,adjective,noun
  mutually
-mutuality
-muumuu
+mutuality,noun
+muumuu,noun
  muumuus
-muzak
-muzzle
+muzak,noun
+muzzle,verb,noun
  muzzled muzzles muzzling
-muzzy
+muzzy,adjective
  muzzily muzziness
-my
+my,abbreviation,possessivedeterminer
  mine -> [mine]
-mycologist
+mycologist,noun
  mycologists
-mycology
-myelitis
-myna
+mycology,noun
+myelitis,noun
+myna,noun
  mynah mynahs mynas
-myopia
-myopic
+myopia,noun
+myopic,adjective
  myopically
-myriad
+myriad,adjective,noun
  myriads
-myrmidon
+myrmidon,noun
  myrmidons
-myrrh
-myrtle
+myrrh,noun
+myrtle,noun
  myrtles
-myself
-mysterious
+myself,pronoun
+mysterious,adjective
  mysteriously mysteriousness
-mystery
+mystery,noun
  mysteries
-mystic
+mystic,adjective,noun
  mystics
-mystical
+mystical,adjective
  mystically
-mysticism
-mystification
-mystify
+mysticism,noun
+mystification,noun
+mystify,verb
  mystified mystifies mystifying
-mystique
-myth
+mystique,noun
+myth,noun
  myths
-mythic
-mythical
-mythological
-mythologist
+mythic,adjective
+mythical,adjective
+mythological,adjective
+mythologist,noun
  mythologists
-mythologize
+mythologize,verb
  mythologise mythologised mythologises mythologising mythologized mythologizes mythologizing
-mythology
+mythology,noun
  mythologies
-myxomatosis
+myxomatosis,noun
