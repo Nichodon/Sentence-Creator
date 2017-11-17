@@ -2919,7 +2919,7 @@ tussle,verb,noun
 tussock,noun
  tussocks
 tussocky,adjective
-tut,verb,noun<spanclass="listSeparator">,</span>exclamation<spanclass="listSeparator">,</span>
+tut,verb,noun,exclamation
  tuts tutted tutting
 tutelage,noun
 tutelary,adjective

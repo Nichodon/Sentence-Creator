@@ -2633,7 +2633,7 @@ simultaneous,adjective
  simultaneously
 sin,abbreviation,verb,noun
  sinful sinfully sinfulness sinless sinned sinning sins
-since,conjunction,adverb<spanclass="listSeparator">,</span>preposition<spanclass="listSeparator">,</span>
+since,conjunction,adverb,preposition
 sincere,adjective
  sincerely sincerer sincerest
 sincerity,noun
@@ -5863,7 +5863,7 @@ succulent,adjective,noun
  succulents
 succumb,verb
  succumbed succumbing succumbs
-such,pronoun<spanclass="listSeparator">,</span>determiner<spanclass="listSeparator">,</span>,predeterminer
+such,pronoun,determiner,predeterminer
 suchlike,determiner,pronoun
 suck,exclamation,verb,noun
  sucked sucking sucks

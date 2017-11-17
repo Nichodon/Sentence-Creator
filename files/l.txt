@@ -1619,7 +1619,7 @@ lowbrow,noun,adjective
 low-cut,adjective
 lowdown,noun,adjective
 low-end,adjective
-lower,</span></h3><spanclass="transitivity"></span><ulclass="semb"><li><divclass="trg"><p><spanclass="iteration"></span></p><divclass="crossReference">comparativeof<ahref="/definition/low">low</a></div></div></li></ul></section><divclass="banbox"><divclass="container"></div><divclass="containermpu"></div></div><sectionclass="gramb"><h3class="pspos"><spanclass="pos">adjective,noun,adverb,verb,verb
+lower,adjective,noun,adverb,verb,verb
  lour loured louring lours lowered lowering lowermost lowers
 lowercase,noun
 lower-class,noun,adjective
