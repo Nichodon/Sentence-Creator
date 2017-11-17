@@ -1,1529 +1,1527 @@
-oaf
+oaf,noun
  oafish oafishly oafishness oafs
-oak
+oak,noun
  oaks
-oaken
-oakum
-oar
+oaken,adjective
+oakum,noun
+oar,verb,noun
  oared oaring oars
-oarlock
+oarlock,noun
  oarlocks
-oarsman
+oarsman,noun
  oarsmen
-oarswoman
+oarswoman,noun
  oarswomen
-oasis
+oasis,noun
  oases
-oat
+oat,noun
  oats
-oatcake
+oatcake,noun
  oatcakes
-oaten
-oath
+oaten,adjective
+oath,noun
  oaths
-oatmeal
-obbligato
+oatmeal,noun
+obbligato,noun
  obbligati obbligatos
-obduracy
-obdurate
+obduracy,noun
+obdurate,adjective
  obdurately obdurateness
-obedience
-obedient
+obedience,noun
+obedient,adjective
  obediently
-obeisance
+obeisance,noun
  obeisances
-obeisant
-obelisk
+obeisant,adjective
+obelisk,noun
  obelisks
-obese
-obesity
-obey
+obese,adjective
+obesity,noun
+obey,verb
  obeyed obeying obeys
-obfuscate
+obfuscate,verb
  obfuscated obfuscates obfuscating
-obfuscation
+obfuscation,noun
  obfuscations
-obi
+obi,noun
  obis
-obit
+obit,noun
  obits
-obituary
+obituary,noun
  obituaries
-object
+object,verb,noun
  objected objecting objects
-objectification
-objectify
+objectification,noun
+objectify,verb
  objectified objectifies objectifying
-objection
+objection,noun
  objections
-objectionable
+objectionable,adjective
  objectionably
-objective
+objective,adjective,noun
  objectively objectiveness objectives
-objectivity
-objector
+objectivity,noun
+objector,noun
  objectors
-object-oriented
-objurgate
+object-oriented,adjective
+objurgate,verb
  objurgated objurgates objurgating
-objurgation
+objurgation,noun
  objurgations
-oblate
-oblation
+oblate,adjective,noun
+oblation,noun
  oblations
-obligate
+obligate,adjective,verb
  obligated obligates obligating
-obligation
+obligation,noun
  obligations
-obligatory
+obligatory,adjective
  obligatorily
-oblige
+oblige,verb
  obliged obliges obliging obligingly
-oblique
+oblique,adjective,noun
  obliquely obliqueness obliques
-obliquity
-obliterate
+obliquity,noun
+obliterate,verb
  obliterated obliterates obliterating
-obliteration
-oblivion
-oblivious
+obliteration,noun
+oblivion,noun
+oblivious,adjective
  obliviously obliviousness
-oblong
+oblong,adjective,noun
  oblongs
-obloquy
-obnoxious
+obloquy,noun
+obnoxious,adjective
  obnoxiously obnoxiousness
-oboe
+oboe,noun
  oboes
-oboist
+oboist,noun
  oboists
-obscene
+obscene,adjective
  obscenely obscener obscenest
-obscenity
+obscenity,noun
  obscenities
-obscurantism
-obscurantist
+obscurantism,noun
+obscurantist,adjective,noun
  obscurantists
-obscure
+obscure,adjective,verb
  obscured obscurely obscurer obscures obscurest obscuring
-obscurity
+obscurity,noun
  obscurities
-obsequious
+obsequious,adjective
  obsequiously obsequiousness
-obsequy
+obsequy!
  obsequies
-observable
+observable,adjective
  observably
-observance
+observance,noun
  observances
-observant
+observant,adjective,noun
  observantly
-observation
+observation,noun
  observations
-observational
-observatory
+observational,adjective
+observatory,noun
  observatories
-observe
+observe,verb
  observed observes observing
-observer
+observer,noun
  observers
-obsess
+obsess,verb
  obsessed obsesses obsessing
-obsession
+obsession,noun
  obsessions
-obsessional
+obsessional,adjective
  obsessionally
-obsessive
+obsessive,adjective,noun
  obsessively obsessiveness obsessives
-obsessive-compulsive
- obsessive-compulsives
-obsidian
-obsolesce
+obsidian,noun
+obsolesce,verb
  obsolesced obsolesces obsolescing
-obsolescence
-obsolescent
-obsolete
+obsolescence,noun
+obsolescent,adjective
+obsolete,adjective,verb
  obsoleted obsoletes obsoleting
-obstacle
+obstacle,noun
  obstacles
-obstetric
+obstetric,adjective
  obstetrics
-obstetrical
-obstetrician
+obstetrical,adjective
+obstetrician,noun
  obstetricians
-obstinacy
-obstinate
+obstinacy,noun
+obstinate,adjective
  obstinately
-obstreperous
+obstreperous,adjective
  obstreperously obstreperousness
-obstruct
+obstruct,verb
  obstructed obstructing obstructs
-obstruction
+obstruction,noun
  obstructions
-obstructionism
-obstructionist
+obstructionism,noun
+obstructionist,adjective,noun
  obstructionists
-obstructive
+obstructive,adjective
  obstructively obstructiveness
-obtain
+obtain,verb
  obtained obtaining obtains
-obtainable
-obtainment
-obtrude
+obtainable,adjective
+obtainment,noun
+obtrude,verb
  obtruded obtrudes obtruding
-obtrusion
-obtrusive
+obtrusion,noun
+obtrusive,adjective
  obtrusively obtrusiveness
-obtuse
+obtuse,adjective
  obtusely obtuseness obtuser obtusest
-obverse
+obverse,adjective,noun
  obverses
-obviate
+obviate,verb
  obviated obviates obviating
-obviation
-obvious
+obviation,noun
+obvious,adjective
  obviously obviousness
-ocarina
+ocarina,noun
  ocarinas
-occasion
+occasion,verb,noun
  occasioned occasioning occasions
-occasional
+occasional,adjective
  occasionally
-occidental
+occidental,adjective,noun
  occidentals
-occlude
+occlude,verb
  occluded occludes occluding
-occlusion
+occlusion,noun
  occlusions
-occlusive
-occult
-occultism
-occultist
+occlusive,adjective
+occult,adjective,verb,noun
+occultism,noun
+occultist,noun
  occultists
-occupancy
-occupant
+occupancy,noun
+occupant,noun
  occupants
-occupation
+occupation,adjective,noun
  occupations
-occupational
+occupational,adjective
  occupationally
-occupier
+occupier,noun
  occupiers
-occupy
+occupy,verb
  occupied occupies occupying
-occur
+occur,verb
  occurred occurring occurs
-occurrence
+occurrence,noun
  occurrences
-ocean
+ocean,noun
  oceans
-oceanfront
+oceanfront,noun
  oceanfronts
-oceangoing
-oceanic
-oceanographer
+oceangoing,adjective
+oceanic,adjective
+oceanographer,noun
  oceanographers
-oceanographic
-oceanography
-oceanology
-ocelot
+oceanographic,adjective
+oceanography,noun
+oceanology,noun
+ocelot,noun
  ocelots
-och
-ocher
+och,exclamation
+ocher,noun
  ochre
-ocker
+ocker,noun
  ockers
-octagon
+octagon,noun
  octagons
-octagonal
-octane
+octagonal,adjective
+octane,noun
  octanes
-octave
+octave,noun
  octaves
-octavo
+octavo,noun
  octavos
-octet
+octet,noun
  octets octette octettes
-octogenarian
+octogenarian,noun
  octogenarians
-octopus
+octopus,noun
  octopi octopuses
-ocular
+ocular,adjective,noun
  oculars
-oculist
+oculist,noun
  oculists
-odalisque
+odalisque,noun
  odalisques
-odd
+odd,adjective
  odder oddest oddly oddness
-oddball
+oddball,adjective,noun
  oddballs
-oddity
+oddity,noun
  oddities
-oddment
+oddment,noun
  oddments
-odds
-ode
+odds,pluralnoun
+ode,noun
  odes
-odious
+odious,adjective
  odiously odiousness
-odium
-odometer
+odium,noun
+odometer,noun
  odometers
-odor
+odor,noun
  odored odorless odors odour odoured odourless odours
-odoriferous
-odorous
-odyssey
+odoriferous,adjective
+odorous,adjective
+odyssey,propernoun
  odysseys
-oedipal
-oenology
-oenophile
+oedipal,adjective
+oenology,noun
+oenophile,noun
  oenophiles
-oeuvre
+oeuvre,noun
  oeuvres
-of
-off
+of,preposition
+off,adjective,preposition,verb,noun,adverb
  offed offing -> [offing] offs
-offal
-off-balance
-offbeat
+offal,noun
+off-balance,adjective
+offbeat,adjective,noun
  offbeats
-off-center
+off-center,adjective,adverb
  off-centre
-offcut
+offcut,noun
  offcuts
-off-duty
-offend
+off-duty,adjective,noun,adverb
+offend,verb
  offended offending offends
-offender
+offender,noun
  offenders
-offense
+offense,noun
  offence offences offenses
-offensive
+offensive,adjective,noun
  offensively offensiveness offensives
-offer
+offer,verb,noun
  offered offering -> [offering] offers
-offering -> [offer]
+offering,noun
  offerings
-offertory
+offertory,noun
  offertories
-offhand
+offhand,adjective,adverb
  offhanded offhandedly offhandedness
-office
+office,noun
  offices
-officeholder
+officeholder,noun
  officeholders
-officer
+officer,verb,noun
  officers
-official
+official,adjective,noun
  officially officials
-officialdom
-officialese
-officialism
-officiant
+officialdom,noun
+officialese,noun
+officialism,noun
+officiant,noun
  officiants
-officiate
+officiate,verb
  officiated officiates officiating
-officiator
+officiator,noun
  officiators
-officious
+officious,adjective
  officiously officiousness
-offing -> [off]
+offing,noun
  offings
-offish
-off-limits
-offline
-offload
+offish,adjective
+off-limits,phrase
+offline,adjective,adverb
+offload,verb
  offloaded offloading offloads
-offprint
+offprint,noun
  offprints
-off-putting
-off-road
-offscreen
-offset
+off-putting,adjective
+off-road,adjective,adverb
+offscreen,adjective,adverb
+offset,verb,noun
  offsets offsetting
-offshoot
+offshoot,noun
  offshoots
-offshore
-offshoring
-offside
-off-site
-offspring
+offshore,verb,adjective,adverb
+offshoring,noun
+offside,adjective,noun,adverb
+off-site,adjective,adverb
+offspring,noun
  offsprings
-offstage
-off-the-shelf
-offtrack
-off-white
-oft
-often
+offstage,adjective,adverb
+off-the-shelf,phrase
+offtrack,adjective
+off-white,noun
+oft,abbreviation,adverb
+often,adverb
  oftener oftenest
-oftentimes
-ofttimes
-ogle
+oftentimes,adverb
+ofttimes,adverb
+ogle,verb,noun
  ogled ogles ogling
-ogler
+ogler,noun
  oglers
-ogre
+ogre,noun
  ogreish ogres
-ogress
+ogress,noun
  ogresses
-oh
+oh,exclamation,abbreviation,noun
  O -> [O] ohs
-ohm
+ohm,noun
  ohms
-ohmmeter
+ohmmeter,noun
  ohmmeters
-oho
-oi
-oik
+oho,exclamation
+oi,exclamation
+oik,noun
  oiks
-oil
+oil,verb,noun
  oiled oiling oils
-oilcan
+oilcan,noun
  oilcans
-oilcloth
+oilcloth,noun
  oilcloths
-oilfield
+oilfield,noun
  oilfields
-oilman
+oilman,noun
  oilmen
-oilskin
+oilskin,noun
  oilskins
-oily
+oily,adjective
  oilier oiliest oiliness
-oink
+oink,verb,noun
  oinked oinking oinks
-ointment
+ointment,noun
  ointments
-okapi
+okapi,noun
  okapis
-okay
+okay,exclamation,adjective,verb,noun,adverb,abbreviation
  mkay! okayed okaying okays
-okeydoke
+okeydoke!
  okeydokey
-okra
+okra,noun
  okras
-old
+old,adjective
  elder -> [elder] eldest olde older oldest oldish oldness
-olden
-old-fashioned
-oldie
+olden,adjective
+old-fashioned,adjective,noun
+oldie,noun
  oldies
-old-line
-old-school
-oldster
+old-line,adjective
+old-school,adjective,noun
+oldster,noun
  oldsters
-old-style
-old-time
-old-timer
+old-style,noun
+old-time,adjective
+old-timer,noun
  old-timers
-ole
+ole,adjective,exclamation,abbreviation
  oles
-oleaginous
-oleander
+oleaginous,adjective
+oleander,noun
  oleanders
-oleo
-oleomargarine
+oleo,noun
+oleomargarine,noun
  oleomargarin
-olfactory
+olfactory,adjective
  olfactories
-oligarch
+oligarch,noun
  oligarchs
-oligarchic
-oligarchical
-oligarchy
+oligarchic,adjective
+oligarchical,adjective
+oligarchy,noun
  oligarchies
-oligopoly
+oligopoly,noun
  oligopolies
-olive
+olive,adjective,noun
  olives
-om
+om,abbreviation,noun
  oms
-ombudsman
+ombudsman,noun
  ombudsmen
-omega
+omega,noun
  omegas
-omelet
+omelet,noun
  omelets omelette omelettes
-omen
+omen,noun
  omens
-omicron
+omicron,noun
  omicrons
-ominous
+ominous,adjective
  ominously ominousness
-omission
+omission,noun
  omissions
-omit
+omit,verb
  omits omitted omitting
-omnibus
+omnibus,adjective,noun
  omnibuses omnibusses
-omnipotence
-omnipotent
-omnipresence
-omnipresent
-omniscience
-omniscient
-omnivore
+omnipotence,noun
+omnipotent,adjective
+omnipresence,noun
+omnipresent,adjective
+omniscience,noun
+omniscient,adjective
+omnivore,noun
  omnivores
-omnivorous
+omnivorous,adjective
  omnivorously omnivorousness
-on
-on-air
-onboard
-once
-oncogene
+on,abbreviation,preposition,noun,adverb
+on-air,adjective,adverb
+onboard,adjective,verb
+once,conjunction,adverb
+oncogene,noun
  oncogenes
-oncologist
+oncologist,noun
  oncologists
-oncology
-oncoming
-one
+oncology,noun
+oncoming,adjective,noun
+one,cardinalnumber,pronoun
  oneness ones
-one-dimensional
-one-liner
+one-dimensional,adjective
+one-liner,noun
  one-liners
-one-man
-one-of-a-kind
-one-off
+one-man,adjective
+one-of-a-kind,phrase
+one-off,adjective,noun
  one-offs
-one-on-one
-one-piece
+one-on-one,adjective,noun,adverb
+one-piece,adjective,noun
  one-pieces
-onerous
+onerous,adjective
  onerously onerousness
-oneself
-one-shot
-one-sided
-one-size-fits-all
-one-stop
-onetime
-one-to-one
-one-way
-one-woman
-ongoing
-onion
+oneself,pronoun
+one-shot,adjective
+one-sided,adjective
+one-size-fits-all,adjective
+one-stop,adjective
+onetime,adjective,adverb
+one-to-one,adjective,noun,adverb
+one-way,adjective
+one-woman,adjective
+ongoing,adjective
+onion,noun
  onions
-onionskin
-online
-onlooker
+onionskin,noun
+online,adjective,adverb
+onlooker,noun
  onlookers
-onlooking
-only
-onomatopoeia
-onomatopoeic
+onlooking,adjective
+only,adjective,conjunction,adverb
+onomatopoeia,noun
+onomatopoeic,adjective
  onomatopoetic
-onrush
+onrush,noun
  onrushes
-onrushing
-onscreen
-onset
+onrushing,adjective
+onscreen,adjective,adverb
+onset,noun
  onsets
-onshore
-onside
-on-site
-onslaught
+onshore,adjective,verb,adverb
+onside,adjective,adverb
+on-site,adjective,adverb
+onslaught,noun
  onslaughts
-onstage
-on-the-job
-onto
-ontogeny
-ontological
-ontology
-onus
+onstage,adjective,adverb
+on-the-job,phrase
+onto,preposition
+ontogeny,noun
+ontological,adjective
+ontology,noun
+onus,noun
  onuses
-onward
+onward,adjective,adverb
  onwards
-onyx
+onyx,noun
  onyxes
-oodles
-ooh
+oodles,pluralnoun
+ooh,exclamation,verb,noun
  oohed oohing oohs
-oomph
-oops
+oomph,noun
+oops,exclamation
  whoops -> [whoop]
-ooze
+ooze,verb,noun
  oozed oozes oozing
-oozy
+oozy,adjective
  oozier ooziest
-op
+op,abbreviation,noun
  ops
-opacity
-opal
+opacity,noun
+opal,noun
  opals
-opalescence
-opalescent
-opaque
+opalescence,noun
+opalescent,adjective
+opaque,adjective,noun
  opaqued opaquely opaqueness opaquer opaques opaquest opaquing
-ope
+ope,adjective,verb
  oped opes oping
-open
+open,adjective,verb,noun
  opened opener -> [opener] openest opening -> [opening] openly openness opens
-open-air
-opencast
-open-ended
-opener -> [open]
+open-air,adjective,noun
+opencast,adjective,noun
+open-ended,adjective
+opener,noun
  openers
-openhanded
+openhanded,adjective
  openhandedness
-openhearted
-opening -> [open]
+openhearted,adjective
+opening,adjective,noun
  openings
-open-minded
-open-mouthed
-open-source
-openwork
-opera -> [opus]
+open-minded,adjective
+open-mouthed,adjective
+open-source,adjective
+openwork,noun
+opera,noun
  operas
-operable
-operate
+operable,adjective
+operate,verb
  operated operates operating
-operatic
+operatic,adjective
  operatically
-operation
+operation,noun
  operations
-operational
+operational,adjective
  operationally
-operative
+operative,adjective,noun
  operatives
-operator
+operator,noun
  operators
-operetta
+operetta,noun
  operettas
-ophthalmic
-ophthalmologist
+ophthalmic,adjective
+ophthalmologist,noun
  ophthalmologists
-ophthalmology
-opiate
+ophthalmology,noun
+opiate,adjective,verb,noun
  opiates
-opine
+opine,verb
  opined opines opining
-opinion
+opinion,noun
  opinions
-opinionated
-opium
-opossum
+opinionated,adjective
+opium,noun
+opossum,noun
  opossums possum possums
-opponent
+opponent,noun
  opponents
-opportune
+opportune,adjective
  opportunely
-opportunism
-opportunist
+opportunism,noun
+opportunist,adjective,noun
  opportunists
-opportunistic
+opportunistic,adjective
  opportunistically
-opportunity
+opportunity,noun
  opportunities
-oppose
+oppose,verb
  opposed opposes opposing
-opposite
+opposite,adjective,preposition,noun,adverb
  oppositely opposites
-opposition
+opposition,noun
  oppositions
-oppress
+oppress,verb
  oppressed oppresses oppressing
-oppression
-oppressive
+oppression,noun
+oppressive,adjective
  oppressively oppressiveness
-oppressor
+oppressor,noun
  oppressors
-opprobrious
+opprobrious,adjective
  opprobriously
-opprobrium
-opt
+opprobrium,noun
+opt,verb
  opted opting opts
-optic
+optic,adjective,noun
  optics
-optical
+optical,adjective,noun
  optically
-optician
+optician,noun
  opticians
-optimal
+optimal,adjective
  optimally
-optimism
-optimist
+optimism,noun
+optimist,noun
  optimists
-optimistic
+optimistic,adjective
  optimistically
-optimization
+optimization,noun
  optimisation
-optimize
+optimize,verb
  optimise optimised optimises optimising optimized optimizes optimizing
-optimum
+optimum,adjective,noun
  optima optimums
-option
+option,verb,noun
  optioned optioning options
-optional
+optional,adjective
  optionally
-optometrist
+optometrist,noun
  optometrists
-optometry
-opulence
-opulent
+optometry,noun
+opulence,noun
+opulent,adjective
  opulently
-opus
+opus,noun
  opera -> [opera] opuses
-or
-oracle
+or,abbreviation,conjunction,noun
+oracle,noun
  oracles
-oracular
-oral
+oracular,adjective
+oral,adjective,noun
  orally orals
-orange
+orange,adjective,noun,propernoun
  orangeness oranger oranges orangest
-orangeade
+orangeade,noun
  orangeades
-orangery
+orangery,noun
  orangeries
-orangutan
+orangutan,noun
  orangutang orangutangs orangutans
-orate
+orate,verb
  orated orates orating
-oration
+oration,noun
  orations
-orator
+orator,noun
  orators
-oratorical
+oratorical,adjective
  oratorically
-oratorio
+oratorio,noun
  oratorios
-oratory
+oratory,noun
  oratories
-orb
+orb,noun
  orbs
-orbicular
-orbit
+orbicular,adjective
+orbit,verb,noun
  orbited orbiting orbits
-orbital
+orbital,adjective,noun
  orbitals
-orbiter
+orbiter,noun
  orbiters
-orc!
+orc,noun
  orcs
-orca
+orca,noun
  orcas
-orchard
+orchard,noun
  orchards
-orchestra
+orchestra,noun
  orchestras
-orchestral
-orchestrate
+orchestral,adjective
+orchestrate,verb
  orchestrated orchestrates orchestrating
-orchestration
+orchestration,noun
  orchestrations
-orchid
+orchid,noun
  orchids
-ordain
+ordain,verb
  ordained ordaining ordains
-ordainment
-ordeal
+ordainment,noun
+ordeal,noun
  ordeals
-order
+order,verb,noun
  ordered ordering orderliness orderly -> [orderly] orders
-orderly -> [order]
+orderly,adjective,noun
  orderlies
-ordinal
+ordinal,adjective,noun
  ordinals
-ordinance
+ordinance,noun
  ordinances
-ordinary
+ordinary,adjective,noun
  ordinarily ordinariness
-ordinate
+ordinate,noun
  ordinates
-ordination
+ordination,noun
  ordinations
-ordnance
-ordure
-ore
+ordnance,noun
+ordure,noun
+ore,noun
  ores
-oregano
-organ
+oregano,noun
+organ,noun
  organs
-organdy
+organdy,noun
  organdie organdies
-organelle
+organelle,noun
  organelles
-organic
+organic,adjective,noun
  organically organics
-organigram
+organigram,noun
  organigrams organogram organograms
-organism
+organism,noun
  organisms
-organismic
-organist
+organismic,adjective
+organist,noun
  organists
-organization
+organization,noun
  organisation organisations organizations
-organizational
+organizational,adjective
  organisational organisationally organizationally
-organize
+organize,verb
  organise organised organises organising organized organizes organizing
-organizer
+organizer,noun
  organiser organisers organizers
-organophosphate
+organophosphate,noun
  organophosphates
-organza
-orgasm
+organza,noun
+orgasm,verb,noun
  orgasmed orgasming orgasms
-orgasmic
-orgiastic
-orgy
+orgasmic,adjective
+orgiastic,adjective
+orgy,noun
  orgies
-oriel
+oriel,noun
  oriels
-orient
+orient,adjective,verb,noun
  oriented orienting orients
-oriental
+oriental,adjective,noun
  orientals
-orientalist
+orientalist,adjective,noun
  orientalists
-orientate
+orientate,verb
  orientated orientates orientating
-orientation
+orientation,noun
  orientations
-orienteering
-orifice
+orienteering,noun
+orifice,noun
  orifices
-origami
-origin
+origami,noun
+origin,noun
  origins
-original
+original,adjective,noun
  originally originals
-originality
-originate
+originality,noun
+originate,verb
  originated originates originating
-origination
-originator
+origination,noun
+originator,noun
  originators
-oriole
+oriole,noun
  orioles
-orison
+orison,noun
  orisons
-ormolu
-ornament
+ormolu,noun
+ornament,verb,noun
  ornamented ornamenting ornaments
-ornamental
-ornamentation
-ornate
+ornamental,adjective,noun
+ornamentation,noun
+ornate,adjective
  ornately ornateness
-ornery
+ornery,adjective
  ornerier orneriest orneriness
-ornithological
-ornithologist
+ornithological,adjective
+ornithologist,noun
  ornithologists
-ornithology
-orotund
-orotundity
+ornithology,noun
+orotund,adjective
+orotundity,noun
  orotundities
-orphan
+orphan,verb,noun
  orphaned orphaning orphans
-orphanage
+orphanage,noun
  orphanages
-orris
+orris,noun
  orrises
-orthodontia
-orthodontic
+orthodontia,pluralnoun
+orthodontic,adjective
  orthodontics
-orthodontist
+orthodontist,noun
  orthodontists
-orthodox
-orthodoxy
+orthodox,adjective
+orthodoxy,noun
  orthodoxies
-orthographic
+orthographic,adjective
  orthographically
-orthography
+orthography,noun
  orthographies
-orthopedic
+orthopedic,adjective
  orthopaedic orthopaedics orthopedics
-orthopedist
+orthopedist,noun
  orthopaedist orthopaedists orthopedists
-orzo
-oscillate
+orzo,noun
+oscillate,verb
  oscillated oscillates oscillating
-oscillation
+oscillation,noun
  oscillations
-oscillator
+oscillator,noun
  oscillators
-oscillatory
-oscilloscope
+oscillatory,adjective
+oscilloscope,noun
  oscilloscopes
-osculate
+osculate,verb
  osculated osculates osculating
-osculation
+osculation,noun
  osculations
-osier
+osier,noun
  osiers
-osmium
-osmosis
-osmotic
-osprey
+osmium,noun
+osmosis,noun
+osmotic,adjective
+osprey,noun
  ospreys
-ossification
-ossify
+ossification,noun
+ossify,verb
  ossified ossifies ossifying
-ostensible
+ostensible,adjective
  ostensibly
-ostentation
-ostentatious
+ostentation,noun
+ostentatious,adjective
  ostentatiously
-osteoarthritis
-osteopath
+osteoarthritis,noun
+osteopath,noun
  osteopaths
-osteopathic
-osteopathy
-osteoporosis
-ostler
+osteopathic,adjective
+osteopathy,noun
+osteoporosis,noun
+ostler,noun
  ostlers
-ostracism
-ostracize
+ostracism,noun
+ostracize,verb
  ostracise ostracised ostracises ostracising ostracized ostracizes ostracizing
-ostrich
+ostrich,noun
  ostriches
-other
+other,adjective,verb,pronoun
  otherness others
-otherwise
-otherworldly
-otiose
-otter
+otherwise,adjective,adverb
+otherworldly,adjective
+otiose,adjective
+otter,noun
  otters
-ottoman
+ottoman,adjective,noun
  ottomans
-oubliette
+oubliette,noun
  oubliettes
-ought -> [aught]
-ounce
+ought,noun,modalverb,pronoun
+ounce,noun
  ounces
-our
+our,possessivedeterminer
  ours
-ourselves
-oust
+ourselves,pronoun
+oust,verb
  ousted ousting ousts
-ouster
+ouster,noun
  ousters
-out
+out,adjective,preposition,verb,noun,adverb
  outed outing -> [outing] outs
-outage
+outage,noun
  outages
-outargue
+outargue,verb
  outargued outargues outarguing
-outback
+outback,noun
  outbacks
-outbalance
+outbalance,verb
  outbalanced outbalances outbalancing
-outbid
+outbid,verb
  outbidding outbids
-outboard
+outboard,adjective,noun,adverb
  outboards
-outboast
+outboast!
  outboasted outboasting outboasts
-outbound
-outbox
+outbound,adjective,adverb
+outbox,verb,noun
  outboxed outboxes outboxing
-outbreak
+outbreak,noun
  outbreaks
-outbuilding
+outbuilding,noun
  outbuildings
-outburst
+outburst,noun
  outbursts
-outcast
+outcast,adjective,noun
  outcasts
-outclass
+outclass,verb
  outclassed outclasses outclassing
-outcome
+outcome,noun
  outcomes
-outcrop
+outcrop,verb,noun
  outcropped outcropping -> [outcropping] outcrops
-outcropping -> [outcrop]
+outcropping,noun
  outcroppings
-outcry
+outcry,noun
  outcries
-outdated
-outdistance
+outdated,adjective
+outdistance,verb
  outdistanced outdistances outdistancing
-outdo
+outdo,verb
  outdid outdoes outdoing outdone
-outdoor
+outdoor,adjective
  outdoors
-outdoorsy
-outdraw
+outdoorsy,adjective
+outdraw,verb
  outdrawing outdrawn outdraws outdrew
-outer
+outer,adjective,noun
  outermost
-outerwear
-outface
+outerwear,noun
+outface,verb
  outfaced outfaces outfacing
-outfall
+outfall,noun
  outfalls
-outfield
+outfield,noun
  outfields
-outfielder
+outfielder,noun
  outfielders
-outfight
+outfight,verb
  outfighting outfights outfought
-outfit
+outfit,verb,noun
  outfits outfitted outfitting
-outfitter
+outfitter,noun
  outfitters
-outflank
+outflank,verb
  outflanked outflanking outflanks
-outflow
+outflow,noun
  outflows
-outfox
+outfox,verb
  outfoxed outfoxes outfoxing
-outgo
+outgo,verb,noun
  outgoes
-outgoing
+outgoing,adjective,noun
  outgoings
-outgrow
+outgrow,verb
  outgrew outgrowing outgrown outgrows
-outgrowth
+outgrowth,noun
  outgrowths
-outguess
+outguess,verb
  outguessed outguesses outguessing
-outgun
+outgun,verb
  outgunned outgunning outguns
-outhit
+outhit,verb
  outhits outhitting
-outhouse
+outhouse,verb,noun
  outhouses
-outing -> [out]
+outing,noun
  outings
-outlandish
+outlandish,adjective
  outlandishly outlandishness
-outlast
+outlast,verb
  outlasted outlasting outlasts
-outlaw
+outlaw,verb,noun
  outlawed outlawing outlaws
-outlay
+outlay,noun
  outlaid outlaying outlays
-outlet
+outlet,noun
  outlets
-outline
+outline,verb,noun
  outlined outlines outlining
-outlive
+outlive,verb
  outlived outlives outliving
-outlook
+outlook,noun
  outlooks
-outlying
-outmaneuver
+outlying,adjective
+outmaneuver,verb
  outmaneuvered outmaneuvering outmaneuvers outmanoeuvre outmanoeuvred outmanoeuvres outmanoeuvring
-outmatch
+outmatch,verb
  outmatched outmatches outmatching
-outmoded
-outnumber
+outmoded,adjective
+outnumber,verb
  outnumbered outnumbering outnumbers
-out-of-date
-out-of-pocket
-out-of-state
-out-of-the-way
-out-of-town
-outpace
+out-of-date,adjective
+out-of-pocket,phrase
+out-of-state,adjective
+out-of-the-way,phrase
+out-of-town,adjective
+outpace,verb
  outpaced outpaces outpacing
-outpatient
+outpatient,noun
  outpatients
-outperform
+outperform,verb
  outperformed outperforming outperforms
-outplace
+outplace,verb
  outplaced outplaces outplacing
-outplacement
-outplay
+outplacement,noun
+outplay,verb
  outplayed outplaying outplays
-outpoint
+outpoint,verb
  outpointed outpointing outpoints
-outpost
+outpost,noun
  outposts
-outpouring
+outpouring,noun
  outpourings
-outproduce
+outproduce!
  outproduced outproduces outproducing
-output
+output,verb,noun
  outputs outputted outputting
-outrace
+outrace,verb
  outraced outraces outracing
-outrage
+outrage,verb,noun
  outraged outrages outraging
-outrageous
+outrageous,adjective
  outrageously
-outrank
+outrank,verb
  outranked outranking outranks
-outre
-outreach
+outre,adjective
+outreach,verb,noun
  outreached outreaches outreaching
-outrider
+outrider,noun
  outriders
-outrigger
+outrigger,noun
  outriggers
-outright
-outrun
+outright,adjective,adverb
+outrun,verb
  outran outrunning outruns
-outscore
+outscore,verb
  outscored outscores outscoring
-outsell
+outsell,verb
  outselling outsells outsold
-outset
+outset,noun
  outsets
-outshine
+outshine,verb
  outshined outshines outshining outshone
-outshout
+outshout,verb
  outshouted outshouting outshouts
-outside
+outside,adjective,noun,preposition,adverb
  outsides
-outsider
+outsider,noun
  outsiders
-outsize
+outsize,adjective,noun
  outsized outsizes
-outskirt
+outskirt,adjective
  outskirts
-outsmart
+outsmart,verb
  outsmarted outsmarting outsmarts
-outsource
+outsource,verb
  outsourced outsources outsourcing
-outspend
+outspend,verb
  outspending outspends outspent
-outspoken
+outspoken,adjective
  outspokenly outspokenness
-outspread
+outspread,adjective,verb
  outspreading outspreads
-outstanding
+outstanding,adjective
  outstandingly
-outstation
+outstation,noun
  outstations
-outstay
+outstay,verb
  outstayed outstaying outstays
-outstretch
+outstretch,verb
  outstretched outstretches outstretching
-outstrip
+outstrip,verb
  outstripped outstripping outstrips outstript
-outta
-outtake
+outta,preposition
+outtake,noun
  outtakes
-outvote
+outvote,verb
  outvoted outvotes outvoting
-outward
+outward,adjective,adverb
  outwardly outwards
-outwear
+outwear,verb
  outwearing outwears outwore outworn
-outweigh
+outweigh,verb
  outweighed outweighing outweighs
-outwit
+outwit,verb
  outwits outwitted outwitting
-outwith
-outwork
+outwith,preposition
+outwork,verb,noun
  outworked outworking outworks
-outworker
+outworker,noun
  outworkers
-ouzo
+ouzo,noun
  ouzos
-oval
+oval,adjective,noun
  ovals
-ovarian
-ovary
+ovarian,adjective
+ovary,noun
  ovaries
-ovate
-ovation
+ovate,adjective,noun
+ovation,noun
  ovations
-oven
+oven,noun
  ovens
-ovenbird
+ovenbird,noun
  ovenbirds
-ovenproof
-ovenware
-over
+ovenproof,adjective
+ovenware,noun
+over,preposition,noun,adverb
  overly overs
-overabundance
-overabundant
-overachieve
+overabundance,noun
+overabundant,adjective
+overachieve,verb
  overachieved overachieves overachieving
-overachiever
+overachiever,noun
  overachievers
-overact
+overact,verb
  overacted overacting overacts
-overactive
-overage
+overactive,adjective
+overage,adjective,noun
  overages
-overaggressive
-overall
-overalls
-overambitious
-overanxious
-overarching
-overarm
+overaggressive!
+overall,adjective,noun,adverb
+overalls,adjective,noun,adverb
+overambitious,adjective
+overanxious,adjective
+overarching,adjective
+overarm,adjective,adverb
  overarmed overarming overarms
-overattentive
-overawe
+overattentive!
+overawe,verb
  overawed overawes overawing
-overbalance
+overbalance,verb,noun
  overbalanced overbalances overbalancing
-overbear
+overbear,verb
  overbearing overbearingly overbears overbore overborne
-overbid
+overbid,verb,noun
  overbidding overbids
-overbite
+overbite,noun
  overbites
-overblown
-overboard
-overbold
-overbook
+overblown,adjective
+overboard,adverb
+overbold,adjective
+overbook,verb
  overbooked overbooking overbooks
-overbuild
+overbuild,verb
  overbuilding overbuilds overbuilt
-overburden
+overburden,verb,noun
  overburdened overburdening overburdens
-overbuy
+overbuy,verb
  overbought overbuying overbuys
-overcapacity
-overcapitalize
+overcapacity,noun
+overcapitalize,verb
  overcapitalise overcapitalised overcapitalises overcapitalising overcapitalized overcapitalizes overcapitalizing
-overcareful
-overcast
+overcareful,adjective
+overcast,adjective,verb,noun
  overcasting overcasts
-overcautious
-overcharge
+overcautious,adjective
+overcharge,verb,noun
  overcharged overcharges overcharging
-overcloud
+overcloud,verb
  overclouded overclouding overclouds
-overcoat
+overcoat,noun
  overcoats
-overcome
+overcome,verb
  overcame overcomes overcoming
-overcompensate
+overcompensate,verb
  overcompensated overcompensates overcompensating
-overcompensation
-overconfidence
-overconfident
-overconscientious
-overcook
+overcompensation,noun
+overconfidence,noun
+overconfident,adjective
+overconscientious!
+overcook,verb
  overcooked overcooking overcooks
-overcritical
-overcrowd
+overcritical,adjective
+overcrowd,verb
  overcrowded overcrowding overcrowds
-overdecorate
+overdecorate,adjective
  overdecorated overdecorates overdecorating
-overdependent
-overdevelop
+overdependent,adjective
+overdevelop,verb
  overdeveloped overdeveloping overdevelops
-overdo
+overdo,verb
  overdid overdoes overdoing overdone
-overdose
+overdose,verb,noun
  overdosed overdoses overdosing
-overdraft
+overdraft,noun
  overdrafts
-overdraw
+overdraw,verb
  overdrawing overdrawn overdraws overdrew
-overdress
+overdress,verb,noun
  overdressed overdresses overdressing
-overdrive
+overdrive,verb,noun
  overdrives
-overdub
+overdub,verb,noun
  overdubbed overdubbing overdubs
-overdue
-overeager
-overeat
+overdue,adjective
+overeager,adjective
+overeat,verb
  overate overeaten overeating overeats
-overemotional
-overemphasis
-overemphasize
+overemotional,adjective
+overemphasis,noun
+overemphasize,verb
  overemphasise overemphasised overemphasises overemphasising overemphasized overemphasizes overemphasizing
-overenthusiastic
-overestimate
+overenthusiastic,adjective
+overestimate,verb,noun
  overestimated overestimates overestimating
-overestimation
+overestimation,noun
  overestimations
-overexcite
+overexcite,verb
  overexcited overexcites overexciting
-overexercise
+overexercise,verb
  overexercised overexercises overexercising
-overexert
+overexert,verb
  overexerted overexerting overexerts
-overexertion
-overexpose
+overexertion,noun
+overexpose,verb
  overexposed overexposes overexposing
-overexposure
-overextend
+overexposure,noun
+overextend,verb
  overextended overextending overextends
-overfeed
+overfeed,verb
  overfed overfeeding overfeeds
-overfill
+overfill,verb
  overfilled overfilling overfills
-overfishing
-overflight
+overfishing,verb
+overflight,noun
  overflights
-overflow
+overflow,verb,noun
  overflowed overflowing overflows
-overfly
+overfly,verb
  overflew overflies overflown overflying
-overfond
-overfull
-overgeneralize
+overfond,adjective
+overfull,adjective
+overgeneralize,verb
  overgeneralise overgeneralised overgeneralises overgeneralising overgeneralized overgeneralizes overgeneralizing
-overgenerous
-overgraze
+overgenerous,adjective
+overgraze,verb
  overgrazed overgrazes overgrazing
-overground
-overgrow
+overground,adjective,adverb
+overgrow,verb
  overgrew overgrowing overgrown overgrows
-overgrowth
-overhand
+overgrowth,noun
+overhand,adjective,adverb
  overhanded overhands
-overhang
+overhang,verb,noun
  overhanging overhangs overhung
-overhasty
-overhaul
+overhasty,adjective
+overhaul,verb,noun
  overhauled overhauling overhauls
-overhead
+overhead,adjective,noun,adverb
  overheads
-overhear
+overhear,verb
  overheard overhearing overhears
-overheat
+overheat,verb
  overheated overheating overheats
-overindulge
+overindulge,verb
  overindulged overindulges overindulging
-overindulgence
-overindulgent
-overinflated
-overjoy
+overindulgence,noun
+overindulgent,adjective
+overinflated,adjective
+overjoy,verb,noun
  overjoyed overjoying overjoys
-overkill
-overladen
-overland
-overlap
+overkill,noun
+overladen,adjective
+overland,adjective,verb,adverb
+overlap,verb,noun
  overlapped overlapping overlaps
-overlarge
-overlay -> [overlie]
+overlarge,adjective
+overlay,verb,noun
  overlaid overlaying overlays
-overleaf
-overlie
+overleaf,adverb
+overlie,verb
  overlain overlay -> [overlay] overlies overlying
-overload
+overload,verb,noun
  overloaded overloading overloads
-overlong
-overlook
+overlong,adjective,adverb
+overlook,verb,noun
  overlooked overlooking overlooks
-overlord
+overlord,noun
  overlords
-overmanned
-overmanning
-overmaster
+overmanned,verb,noun
+overmanning,verb,noun
+overmaster,verb
  overmastered overmastering overmasters
-overmodest
-overmuch
-overnice
-overnight
+overmodest,adjective
+overmuch,determiner,pronoun<spanclass="listSeparator">,</span>adverb<spanclass="listSeparator">,</span>
+overnice,adjective
+overnight,adjective,verb,noun,adverb
  overnighted overnighting overnights
-overnighter
+overnighter,noun
  overnighters
-overoptimism
-overoptimistic
-overparticular
-overpass
+overoptimism,noun
+overoptimistic,adjective
+overparticular,adjective
+overpass,verb,noun
  overpasses
-overpay
+overpay,verb
  overpaid overpaying overpays
-overplay
+overplay,verb
  overplayed overplaying overplays
-overpopulate
+overpopulate,verb
  overpopulated overpopulates overpopulating
-overpopulation
-overpower
+overpopulation,noun
+overpower,verb
  overpowered overpowering overpoweringly overpowers
-overpraise
+overpraise,verb
  overpraised overpraises overpraising
-overprecise
-overprice
+overprecise,adjective
+overprice,verb
  overpriced overprices overpricing
-overprint
+overprint,verb,noun
  overprinted overprinting overprints
-overproduce
+overproduce,verb
  overproduced overproduces overproducing
-overproduction
-overprotect
+overproduction,noun
+overprotect,verb
  overprotected overprotecting overprotects
-overprotective
-overqualified
-overrate
+overprotective,adjective
+overqualified,adjective
+overrate,verb
  overrated overrates overrating
-overreach
+overreach,verb,noun
  overreached overreaches overreaching
-overreact
+overreact,verb
  overreacted overreacting overreacts
-overreaction
+overreaction,noun
  overreactions
-overrefined
-override
+overrefined,verb
+override,verb,noun
  overridden overrides overriding overrode
-overripe
-overrule
+overripe,adjective
+overrule,verb
  overruled overrules overruling
-overrun
+overrun,verb,noun
  overran overrunning overruns
-oversea
+oversea,adjective,adverb
  overseas
-oversee
+oversee,verb
  oversaw overseeing overseen oversees
-overseer
+overseer,noun
  overseers
-oversell
+oversell,verb
  overselling oversells oversold
-oversensitive
+oversensitive,adjective
  oversensitiveness
-oversexed
-overshadow
+oversexed,adjective
+overshadow,verb
  overshadowed overshadowing overshadows
-overshare!
+overshare,verb
  overshared overshares oversharing
-overshoe
+overshoe,noun
  overshoes
-overshoot
+overshoot,verb,noun
  overshooting overshoots overshot
-oversight
+oversight,noun
  oversights
-oversimple
-oversimplification
+oversimple,adjective
+oversimplification,noun
  oversimplifications
-oversimplify
+oversimplify,verb
  oversimplified oversimplifies oversimplifying
-oversize
+oversize,adjective
  oversized
-oversleep
+oversleep,verb
  oversleeping oversleeps overslept
-overspecialization
+overspecialization,noun
  overspecialisation
-overspecialize
+overspecialize,verb
  overspecialise overspecialised overspecialises overspecialising overspecialized overspecializes overspecializing
-overspend
+overspend,verb,noun
  overspending overspends overspent
-overspill
+overspill,noun
  overspilled overspilling overspills overspilt
-overspread
+overspread,verb
  overspreading overspreads
-overstaffed
-overstate
+overstaffed,verb
+overstate,verb
  overstated overstates overstating
-overstatement
+overstatement,noun
  overstatements
-overstay
+overstay,verb
  overstayed overstaying overstays
-overstep
+overstep,verb
  overstepped overstepping oversteps
-overstimulate
+overstimulate,verb
  overstimulated overstimulates overstimulating
-overstimulation
-overstock
+overstimulation,noun
+overstock,verb,noun
  overstocked overstocking overstocks
-overstretch
+overstretch,verb
  overstretched overstretches overstretching
-overstrict
-overstrung
-overstuffed
-oversubscribe
+overstrict,adjective
+overstrung,adjective
+overstuffed,verb
+oversubscribe,verb
  oversubscribed oversubscribes oversubscribing
-oversubtle
-oversupply
+oversubtle,adjective
+oversupply,verb,noun
  oversupplied oversupplies oversupplying
-oversuspicious
-overt
+oversuspicious,adjective
+overt,adjective
  overtly
-overtake
+overtake,verb
  overtaken overtakes overtaking overtook
-overtax
+overtax,verb
  overtaxed overtaxes overtaxing
-over-the-counter
-over-the-top
-overthink!
+over-the-counter,phrase
+over-the-top,adjective,adverb
+overthink,verb
  overthinking overthinks overthought
-overthrow
+overthrow,verb,noun
  overthrew overthrowing overthrown overthrows
-overtime
+overtime,noun,adverb
  overtimes
-overtire
+overtire,verb
  overtired -> [overtired] overtires overtiring
-overtired -> [overtire]
-overtone
+overtired,adjective
+overtone,noun
  overtones
-overture
+overture,noun
  overtures
-overturn
+overturn,verb,noun
  overturned overturning overturns
-overuse
+overuse,verb,noun
  overused overuses overusing
-overvaluation
+overvaluation,noun
  overvaluations
-overvalue
+overvalue,verb
  overvalued overvalues overvaluing
-overview
+overview,verb,noun
  overviews
-overweening
+overweening,adjective
  overweeningly
-overweight
-overwhelm
+overweight,adjective,verb,noun
+overwhelm,verb
  overwhelmed overwhelming overwhelmingly overwhelms
-overwinter
+overwinter,verb
  overwintered overwintering overwinters
-overwork
+overwork,verb,noun
  overworked overworking overworks
-overwrite
+overwrite,verb
  overwrites overwriting overwritten overwrote
-overwrought
-overzealous
-oviduct
+overwrought,adjective
+overzealous,adjective
+oviduct,noun
  oviducts
-oviparous
-ovoid
+oviparous,adjective
+ovoid,adjective,noun
  ovoids
-ovular
-ovulate
+ovular,adjective
+ovulate,verb
  ovulated ovulates ovulating
-ovulation
-ovule
+ovulation,noun
+ovule,noun
  ovules
-ovum
+ovum,noun
  ova
-ow
+ow,exclamation
  ouch yeow yow
-owe
+owe,verb
  owed owes owing
-owl
+owl,noun
  owlish owlishly owls
-owlet
+owlet,noun
  owlets
-own
+own,verb,adjective,pronoun
  owned owning owns
-owner
+owner,noun
  owners
-ownership
-ox
+ownership,noun
+ox,noun
  oxen
-oxblood
-oxbow
+oxblood,adjective,noun
+oxbow,noun
  oxbows
-oxcart
+oxcart,noun
  oxcarts
-oxford
+oxford,noun,propernoun
  oxfords
-oxidant
+oxidant,noun
  oxidants
-oxidation
-oxide
+oxidation,noun
+oxide,noun
  oxides
-oxidization
+oxidization,noun
  oxidisation
-oxidize
+oxidize,verb
  oxidise oxidised oxidises oxidising oxidized oxidizes oxidizing
-oxidizer
+oxidizer,noun
  oxidiser oxidisers oxidizers
-oxtail
+oxtail,noun
  oxtails
-oxyacetylene
-oxygen
-oxygenate
+oxyacetylene,adjective
+oxygen,noun
+oxygenate,verb
  oxygenated oxygenates oxygenating
-oxygenation
-oxymoron
+oxygenation,noun
+oxymoron,noun
  oxymora oxymorons
-oyez
-oyster
+oyez,exclamation
+oyster,verb,noun
  oysters
-oystercatcher
+oystercatcher,noun
  oystercatchers
-ozone
+ozone,noun
