@@ -1,447 +1,447 @@
-kabuki
-kaddish
+kabuki,noun
+kaddish,noun
  kaddishes
-kaffeeklatsch
+kaffeeklatsch,noun
  kaffeeklatch kaffeeklatches kaffeeklatsches
-kaiser
+kaiser,noun
  kaisers
-kaizen
-kale
-kaleidoscope
+kaizen,noun
+kale,noun
+kaleidoscope,noun
  kaleidoscopes
-kaleidoscopic
+kaleidoscopic,adjective
  kaleidoscopically
-kameez
+kameez,noun
  kameezes
-kamikaze
+kamikaze,adjective,noun
  kamikazes
-kangaroo
+kangaroo,noun
  kangaroos
-kanji
-kaolin
-kapok
-kappa
+kanji,noun
+kaolin,noun
+kapok,noun
+kappa,noun
  kappas
-kaput
-karakul
+kaput,adjective
+karakul,noun
  caracul
-karaoke
+karaoke,noun
  karaokes
-karat
+karat,noun
  karats
-karate
-karma
-karmic
-kart
+karate,noun
+karma,noun
+karmic,adjective
+kart,noun
  karts
-katydid
+katydid,noun
  katydids
-kayak
+kayak,verb,noun
  kayaked kayaking kayaks
-kayo
+kayo,verb,noun
  kayoed kayoing kayos
-kazoo
+kazoo,noun
  kazoos
-kebab
+kebab,noun
  kabob kabobs kebabs kebob kebobs
-kedgeree
-keel
+kedgeree,noun
+keel,verb,noun
  keeled keeling keels
-keelhaul
+keelhaul,verb
  keelhauled keelhauling keelhauls
-keen
+keen,verb,adjective,noun
  keened keener keenest keening keenly keenness keens
-keep
+keep,verb,noun
  keeping keeps kept
-keeper
+keeper,noun
  keepers
-keepsake
+keepsake,noun
  keepsakes
-keg
+keg,noun
  kegs
-kegger
+kegger,noun
  keggers
-kelp
-kelvin
+kelp,noun
+kelvin,noun
  kelvins
-ken
+ken,verb,noun
  kenned kenning kens kent
-kennel
+kennel,verb,noun
  kenneled kenneling kennelled kennelling kennels
-keno
-kepi
+keno,noun
+kepi,noun
  kepis
-keratin
-kerchief
+keratin,noun
+kerchief,noun
  kerchiefs kerchieves
-kerfuffle
+kerfuffle,noun
  kerfuffles
-kernel
+kernel,noun
  kernels
-kerosene
+kerosene,noun
  kerosine
-kestrel
+kestrel,noun
  kestrels
-ketch
+ketch,noun
  ketches
-ketchup
+ketchup,noun
  catchup catchups catsup catsups ketchups
-kettle
+kettle,verb,noun
  kettles
-kettledrum
+kettledrum,noun
  kettledrums
-key
+key,verb,adjective,noun
  keyed keying keys
-keyboard
+keyboard,verb,noun
  keyboarded keyboarding keyboards
-keyboarder
+keyboarder,noun
  keyboarders
-keyboardist
+keyboardist,noun
  keyboardists
-keycard
+keycard,noun
  keycards
-keyhole
+keyhole,noun
  keyholes
-keylogger
+keylogger,noun
  keyloggers
-keynote
+keynote,noun
  keynoted keynotes keynoting
-keynoter
+keynoter,noun
  keynoters
-keypad
+keypad,noun
  keypads
-keypunch
+keypunch,verb,noun
  keypunched keypunches keypunching
-keypuncher
+keypuncher,noun
  keypunchers
-keyring
+keyring,noun
  keyrings
-keystone
+keystone,propernoun,noun
  keystones
-keystroke
+keystroke,noun
  keystrokes
-keyword
+keyword,noun
  keywords
-khaki
+khaki,noun
  khakis
-khan
+khan,noun
  khans
-kibble
+kibble,verb,noun
  kibbled kibbles kibbling
-kibbutz
+kibbutz,noun
  kibbutzes kibbutzim
-kibitz
+kibitz,verb
  kibitzed kibitzes kibitzing
-kibitzer
+kibitzer,noun
  kibitzers
-kibosh
-kick
+kibosh,noun
+kick,verb,noun
  kicked kicking kicks
-kickass
-kickback
+kickass,adjective
+kickback,noun
  kickbacks
-kickball
-kickboxing
-kicker
+kickball,noun
+kickboxing,noun
+kicker,noun
  kickers
-kickoff
+kickoff,noun
  kickoffs
-kickstand
+kickstand,noun
  kickstands
-kickstart
+kickstart,verb,noun
  kickstarted kickstarting kickstarts
-kicky
+kicky,adjective
  kickier kickiest
-kid
+kid,verb,noun
  kidded kidding kiddish kids
-kidder
+kidder,noun
  kidders
-kiddie
+kiddie,noun
  kiddies kiddy
-kiddo
+kiddo,noun
  kiddoes kiddos
-kidnap
+kidnap,verb,noun
  kidnaped kidnaping -> [kidnapping] kidnapped kidnapping -> [kidnapping] kidnaps
-kidnapper
+kidnapper,noun
  kidnaper kidnapers kidnappers
-kidnapping -> [kidnap]
+kidnapping,noun
  kidnaping -> [kidnap] kidnapings kidnappings
-kidney
+kidney,noun
  kidneys
-kidskin
-kidult
+kidskin,noun
+kidult,noun
  kidults
-kielbasa
+kielbasa,noun
  kielbasas kielbasi kielbasy
-kike
+kike,noun
  kikes
-kill
+kill,verb,noun
  killed killing -> [killing] kills
-killdeer
+killdeer,noun
  killdeers
-killer
+killer,adjective,noun
  killers
-killing -> [kill]
+killing,adjective,noun
  killings
-killjoy
+killjoy,noun
  killjoys
-kiln
+kiln,noun
  kilned kilning kilns
-kilo
+kilo,noun
  kilos
-kilobyte
+kilobyte,noun
  kilobytes
-kilocycle
+kilocycle,noun
  kilocycles
-kilogram
+kilogram,noun
  kilogramme kilogrammes kilograms
-kilohertz
+kilohertz,noun
  kilohertzes
-kiloliter
+kiloliter,noun
  kiloliters kilolitre kilolitres
-kilometer
+kilometer,noun
  kilometers kilometre kilometres
-kiloton
+kiloton,noun
  kilotons
-kilowatt
+kilowatt,noun
  kilowatts
-kilowatt-hour
+kilowatt-hour,noun
  kilowatt-hours
-kilt
+kilt,verb,noun
  kilted kilts
-kilter
-kimono
+kilter,noun
+kimono,noun
  kimonos
-kin
-kind
+kin,adjective,noun
+kind,adjective,noun
  kinder kindest kindlier kindliest kindliness kindly kindness -> [kindness] kinds
-kinda
-kindergarten
+kinda,contraction
+kindergarten,noun
  kindergartens
-kindergartner
+kindergartner,noun
  kindergartener kindergarteners kindergartners
-kindhearted
+kindhearted,adjective
  kindheartedly kindheartedness
-kindle
+kindle,verb,noun
  kindled kindles kindling
-kindness -> [kind]
+kindness,noun
  kindnesses
-kindred
-kinematic
+kindred,adjective,noun
+kinematic,adjective
  kinematics
-kinetic
+kinetic,adjective
  kinetically kinetics
-kinfolk
+kinfolk,pluralnoun
  kinfolks kinsfolk kinsfolks
-king
+king,verb,noun
  kinglier kingliest kingly kings
-kingdom
+kingdom,noun
  kingdoms
-kingfisher
+kingfisher,noun
  kingfishers
-kingmaker
+kingmaker,noun
  kingmakers
-kingpin
+kingpin,noun
  kingpins
-kingship
-king-size
+kingship,noun
+king-size,adjective
  king-sized
-kink
+kink,verb,noun
  kinked kinking kinks
-kinky
+kinky,adjective
  kinkier kinkiest kinkily kinkiness
-kinship
-kinsman
+kinship,noun
+kinsman,noun
  kinsmen
-kinswoman
+kinswoman,noun
  kinswomen
-kiosk
+kiosk,noun
  kiosks
-kip
+kip,verb,noun
  kipped kipping kips
-kipper
+kipper,verb,noun
  kippered kippering kippers
-kirk
+kirk,noun
  kirks
-kirsch
+kirsch,noun
  kirsches
-kismet
-kiss
+kismet,noun
+kiss,verb,noun
  kissed kisses kissing
-kissable
-kissagram
+kissable,adjective
+kissagram,noun
  kissagrams kissogram kissograms
-kisser
+kisser,noun
  kissers
-kissoff
+kissoff,noun
  kissoffs
-kit
+kit,verb,noun
  kits kitted kitting
-kitbag
+kitbag,noun
  kitbags
-kitchen
+kitchen,noun
  kitchens
-kitchenette
+kitchenette,noun
  kitchenettes
-kitchenware
-kite
+kitchenware,noun
+kite,verb,noun
  kited kites kiting
-kith
-kitsch
-kitschy
+kith,noun
+kitsch,adjective,noun
+kitschy,adjective
  kitschier kitschiest
-kitten
+kitten,verb,noun
  kittenish kittens
-kitty
+kitty,noun
  kitties
-kiwi
+kiwi,noun
  kiwis
-kiwifruit
+kiwifruit,noun
  kiwifruits
-klaxon
+klaxon,noun
  klaxons
-kleptocracy
+kleptocracy,noun
  kleptocracies
-kleptomania
-kleptomaniac
+kleptomania,noun
+kleptomaniac,adjective,noun
  kleptomaniacs
-kludge
+kludge,verb,noun
  kludges
-kludgy
-klutz
+kludgy,adjective
+klutz,noun
  klutzes
-klutzy
+klutzy,adjective
  klutzier klutziest klutziness
-knack
+knack,noun
  knacks
-knacker
+knacker,verb,noun
  knackered knackering knackers
-knackwurst
+knackwurst,noun
  knackwursts knockwurst knockwursts
-knapsack
+knapsack,noun
  knapsacks
-knave
+knave,noun
  knaves knavish knavishly
-knavery
-knead
+knavery,noun
+knead,verb
  kneaded kneading kneads
-kneader
+kneader,noun
  kneaders
-knee
+knee,verb,noun
  kneed kneeing knees
-kneecap
+kneecap,verb,noun
  kneecapped kneecapping kneecaps
-knee-deep
-knee-high
-knee-jerk
-kneel
+knee-deep,adverb,adjective
+knee-high,adjective,adverb,noun
+knee-jerk,adjective,noun
+kneel,verb
  kneeled kneeling kneels knelt
-knell
+knell,verb,noun
  knelled knelling knells
-knicker
+knicker!
  knickers
-knickerbockers
-knickknack
+knickerbockers,noun
+knickknack,noun
  knickknacks nicknack nicknacks
-knife
+knife,verb,noun
  knifed knifes knifing knives
-knifepoint
-knight
+knifepoint,noun
+knight,verb,noun
  knighted knighting knightlier knightliest knightliness knightly knights
-knighthood
+knighthood,noun
  knighthoods
-knish
+knish,noun
  knishes
-knit
+knit,verb,adjective,noun
  knits knitted knitting
-knitter
+knitter,noun
  knitters
-knitwear
-knob
+knitwear,noun
+knob,verb,noun
  knobs
-knobbly
-knobby
+knobbly,adjective
+knobby,adjective
  knobbier knobbiest
-knock
+knock,verb,noun
  knocked knocking knocks
-knockabout
-knockback
+knockabout,adjective,noun
+knockback,noun
  knockbacks
-knockdown
+knockdown,adjective,noun
  knockdowns
-knocker
+knocker,noun
  knockers
-knockoff
+knockoff,noun
  knockoffs
-knockout
+knockout,noun
  knockouts
-knoll
+knoll,noun,noun,verb
  knolls
-knot
+knot,verb,noun
  knots knotted knotting
-knothole
+knothole,noun
  knotholes
-knotty
+knotty,adjective
  knottier knottiest
-know
+know,verb
  knew knowing knowingly known knows
-knowable
-know-how
-know-it-all
+knowable,adjective
+know-how,noun
+know-it-all,noun
  know-it-alls
-knowledge
-knowledgeable
+knowledge,noun
+knowledgeable,adjective
  knowledgeably
-knuckle
+knuckle,verb,noun
  knuckled knuckles knuckling
-knuckleduster
+knuckleduster,noun
  knuckledusters
-knucklehead
+knucklehead,noun
  knuckleheads
-knurl
+knurl,noun
  knurled knurling knurls
-koala
+koala,noun
  koalas
-kohl
-kohlrabi
+kohl,noun
+kohlrabi,noun
  kohlrabies
-kombi
+kombi,noun
  kombis
-kook
+kook,noun
  kooks
-kookaburra
+kookaburra,noun
  kookaburras
-kooky
+kooky,adjective
  kookie kookier kookiest kookiness
-kopeck
+kopeck,noun
  kopecks kopek kopeks
-korma
+korma,noun
  kormas
-kosher
+kosher,verb,adjective
  koshered koshering koshers
-kowtow
+kowtow,verb,noun
  kowtowed kowtowing kowtows
-kraal
+kraal,verb,noun
  kraals
-kraut
+kraut,noun
  krauts
-krill
-krona
+krill,noun
+krona,noun
  kronor kronur
-krone
+krone,noun
  kroner
-krypton
-kuchen
+krypton,noun
+kuchen,noun
  kuchens
-kudos
-kudzu
+kudos,noun
+kudzu,noun
  kudzus
-kumquat
+kumquat,noun
  cumquat cumquats kumquats
-kurta
+kurta,noun
  kurtas
-kvetch
+kvetch,verb,noun
  kvetched kvetches kvetching
-kvetcher
+kvetcher!
  kvetchers
-kwashiorkor
+kwashiorkor,noun

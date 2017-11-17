@@ -1,1837 +1,1837 @@
-la
+la,abbreviation
  lah lahs las
-lab
+lab,noun
  labs
-label
+label,verb,noun
  labeled labeling labelled labelling labels
-labial
+labial,noun,adjective
  labials
-labile
-labiodental
+labile,adjective
+labiodental,adjective
  labiodentals
-labium
+labium,noun
  labia
-labor
+labor,verb,noun
  labored laboring labors labour laboured labouring labours
-laboratory
+laboratory,noun
  laboratories
-laborer
+laborer,noun
  laborers labourer labourers
-labor-intensive
+labor-intensive,adjective
  labour-intensive
-laborious
+laborious,adjective
  laboriously laboriousness
-laborsaving
-laburnum
+laborsaving,adjective
+laburnum,noun
  laburnums
-labyrinth
+labyrinth,noun
  labyrinths
-labyrinthine
-lac
-lace
+labyrinthine,adjective
+lac,noun,adjective,abbreviation
+lace,verb,noun
  laced laces lacing
-lacerate
+lacerate,verb
  lacerated lacerates lacerating
-laceration
+laceration,noun
  lacerations
-lacewing
+lacewing,noun
  lacewings
-lacework
-lachrymal -> [lacrimal]
-lachrymose
-lack
+lacework,noun
+lachrymal,noun,adjective
+lachrymose,adjective
+lack,verb,noun
  lacked lacking lacks
-lackadaisical
+lackadaisical,adjective
  lackadaisically
-lackey
+lackey,verb,noun
  lackeys
-lackluster
+lackluster,adjective
  lacklustre
-laconic
+laconic,adjective
  laconically
-lacquer
+lacquer,verb,noun
  lacquered lacquering lacquers
-lacrimal
+lacrimal,noun,adjective
  lachrymal -> [lachrymal]
-lacrosse
-lactate
+lacrosse,noun
+lactate,verb,noun
  lactated lactates lactating
-lactation
-lacteal
-lactic
-lactose
-lacuna
+lactation,noun
+lacteal,pluralnoun,adjective
+lactic,adjective
+lactose,noun
+lacuna,noun
  lacunae lacunas
-lacy
+lacy,adjective
  lacier laciest
-lad
+lad,noun
  laddish laddishness lads
-ladder
+ladder,verb,noun
  laddered laddering ladders
-laddie
+laddie,noun
  laddies
-lade
+lade,verb,noun
  laded laden -> [laden] lades lading -> [lading]
-laden -> [lade]
-ladette
+laden,adjective
+ladette,noun
  ladettes
-lading -> [lade]
+lading,noun
  ladings
-ladle
+ladle,verb,noun
  ladled ladles ladling
-lady
+lady,noun
  ladies ladylike
-ladybird
+ladybird,noun
  ladybirds
-ladybug
+ladybug,noun
  ladybugs
-ladyfinger
+ladyfinger,noun
  ladyfingers
-ladykiller
+ladykiller,noun
  ladykillers
-ladylove
+ladylove,noun
  ladyloves
-ladyship
+ladyship,noun
  ladyships
-laetrile
-lag
+laetrile,noun
+lag,verb,noun
  lagged lagging lags
-lager
+lager,noun
  lagers
-laggard
+laggard,noun,adjective
  laggardly laggards
-lagniappe
+lagniappe,noun
  lagnappe lagnappes lagniappes
-lagoon
+lagoon,noun
  lagoons
-laid-back
-lair
+laid-back,adjective
+lair,verb,noun
  lairs
-laird
+laird,noun
  lairds
-lairy
-laissez-faire
-laity
-lake
+lairy,adjective
+laissez-faire,noun
+laity,noun
+lake,noun
  lakes
-lakefront
-lakeside
-lakh
+lakefront,noun
+lakeside,noun
+lakh,noun
  lakhs
-lallygag
+lallygag,verb
  lallygagged lallygagging lallygags lollygag lollygagged lollygagging lollygags
-lam
+lam,verb,noun
  lammed lamming lams
-lama
+lama,noun
  lamas
-lamasery
+lamasery,noun
  lamaseries
-lamb
+lamb,verb,noun
  lambed lambing lambs
-lambada
+lambada,noun
  lambadas
-lambaste
+lambaste,verb
  lambast lambasted lambastes lambasting lambasts
-lambda
+lambda,noun
  lambdas
-lambency
-lambent
+lambency,noun
+lambent,adjective
  lambently
-lambkin
+lambkin,noun
  lambkins
-lambskin
+lambskin,noun
  lambskins
-lambswool
-lame
+lambswool,noun
+lame,verb,noun,adjective
  lamed lamely lameness lamer lames lamest laming
-lamebrain
+lamebrain,noun
  lamebrained lamebrains
-lament
+lament,verb,noun
  lamented lamenting laments
-lamentable
+lamentable,adjective
  lamentably
-lamentation
+lamentation,noun
  lamentations
-lamina
+lamina,noun
  laminae laminas
-laminar
-laminate
+laminar,adjective
+laminate,verb,noun,adjective
  laminated laminates laminating
-lamination
-lamp
+lamination,noun
+lamp,verb,noun
  lamps
-lampblack
-lamplight
-lamplighter
+lampblack,noun
+lamplight,noun
+lamplighter,noun
  lamplighters
-lampoon
+lampoon,verb,noun
  lampooned lampooning lampoons
-lamppost
+lamppost,noun
  lampposts
-lamprey
+lamprey,noun
  lampreys
-lampshade
+lampshade,noun
  lampshades
-lanai
+lanai,noun
  lanais
-lance
+lance,verb,noun
  lanced lances lancing
-lancer
+lancer,noun
  lancers
-lancet
+lancet,noun
  lancets
-land
+land,verb,noun
  landed landing -> [landing] landless lands
-landau
+landau,noun
  landaus
-landfall
+landfall,noun
  landfalls
-landfill
+landfill,verb,noun
  landfills
-landform
+landform,noun
  landforms
-landholder
+landholder,noun
  landholders
-landholding
+landholding,noun
  landholdings
-landing -> [land]
+landing,noun
  landings
-landlady
+landlady,noun
  landladies
-landline
+landline,noun
  landlines
-landlocked
-landlord
+landlocked,adjective
+landlord,noun
  landlords
-landlubber
+landlubber,noun
  landlubbers
-landmark
+landmark,noun
  landmarks
-landmass
+landmass,noun
  landmasses
-landmine
+landmine,noun
  landmines
-landowner
+landowner,noun
  landowners
-landownership
-landowning
-landscape
+landownership,noun
+landowning,noun,adjective
+landscape,verb,noun
  landscaped landscapes landscaping
-landscaper
+landscaper,noun
  landscapers
-landslide
+landslide,noun
  landslid landslidden landslides landsliding
-landslip
+landslip,noun
  landslips
-landsman
+landsman,noun
  landsmen
-landward
+landward,adverb,adjective
  landwards
-lane
+lane,noun
  lanes
-langoustine
+langoustine,noun
  langoustines
-language
+language,noun
  languages
-languid
+languid,adjective
  languidly languidness
-languish
+languish,verb
  languished languishes languishing
-languor
-languorous
+languor,noun
+languorous,adjective
  languorously
-lank
+lank,adjective
  lanker lankest lankly lankness
-lanky
+lanky,adjective
  lankier lankiest lankiness
-lanolin
-lantern
+lanolin,noun
+lantern,noun
  lanterns
-lanthanum
-lanyard
+lanthanum,noun
+lanyard,noun
  lanyards
-lap
+lap,verb,noun
  lapped lapping laps
-lapboard
+lapboard!
  lapboards
-lapdance
+lapdance,noun
  lapdances lapdancing
-lapdancer
+lapdancer,noun
  lapdancers
-lapdog
+lapdog,noun
  lapdogs
-lapel
+lapel,noun
  lapels
-lapidary
+lapidary,noun,adjective
  lapidaries
-lapin
+lapin!
  lapins
-lappet
+lappet,noun
  lappets
-lapse
+lapse,verb,noun
  lapsed lapses lapsing
-laptop
+laptop,noun
  laptops
-lapwing
+lapwing,noun
  lapwings
-larboard
+larboard,noun
  larboards
-larcenist
+larcenist,noun
  larcenists
-larcenous
-larceny
+larcenous,adjective
+larceny,noun
  larcenies
-larch
+larch,noun
  larches
-lard
+lard,verb,noun
  larded larding lards
-larder
+larder,noun
  larders
-lardy
+lardy,adjective
  lardier lardiest
-large
+large,verb,adverb,adjective
  larged largely largeness larger larges largest larging largish
-largehearted
-large-scale
-largess
+largehearted,adjective
+large-scale,adjective
+largess,noun
  largesse
-largo
+largo,noun,adverb,adjective
  largos
-lariat
+lariat,noun
  lariats
-lark
+lark,verb,noun
  larked larking larks
-larkspur
+larkspur,noun
  larkspurs
-larva
+larva,noun
  larvae larvas
-larval
-laryngeal
-laryngitis
-larynx
+larval,adjective
+laryngeal,adjective
+laryngitis,noun
+larynx,noun
  larynges larynxes
-lasagna
+lasagna,noun
  lasagnas lasagne lasagnes
-lascivious
+lascivious,adjective
  lasciviously lasciviousness
-laser
+laser,verb,noun
  lasers
-laserdisc
+laserdisc,noun
  laserdiscs laserdisk laserdisks
-lash
+lash,verb,noun
  lashed lashes lashing -> [lashing]
-lashing -> [lash]
+lashing,noun
  lashings
-lass
+lass,noun
  lasses
-lassi
-lassie
+lassi,noun
+lassie,noun
  lassies
-lassitude
-lasso
+lassitude,noun
+lasso,verb,noun
  lassoed lassoes lassoing lassos
-last
+last,verb,adverb,noun,adjective
  lasted lasting lastingly lastly lasts
-last-ditch
-last-minute
-latch
+last-ditch,adjective
+last-minute,adjective
+latch,verb,noun
  latched latches latching
-latchkey
+latchkey,noun
  latchkeys
-late
+late,adverb,noun,adjective
  lateness later latest latish
-latecomer
+latecomer,noun
  latecomers
-lately
-latency
-late-night
-latent
-lateral
+lately,adverb
+latency,noun
+late-night,adjective
+latent,adjective
+lateral,noun,adjective
  lateraled lateraling lateralled lateralling laterally laterals
-latex
-lath
+latex,noun
+lath,verb,noun
  laths
-lathe
+lathe,verb,noun
  lathed lathes lathing
-lather
+lather,verb,noun
  lathered lathering lathers
-lathery
-lathi
+lathery,adjective
+lathi,noun
  lathis
-latino
+latino,noun,adjective
  latinos
-latitude
+latitude,noun
  latitudes
-latitudinal
-latitudinarian
+latitudinal,adjective
+latitudinarian,noun,adjective
  latitudinarians
-latrine
+latrine,noun
  latrines
-latte
+latte,noun
  lattes
-latter
+latter,adjective
  latterly
-latter-day
-lattice
+latter-day,adjective
+lattice,noun
  latticed lattices
-latticework
+latticework,noun
  latticeworks
-laud
+laud,verb,noun
  lauded lauding lauds
-laudable
+laudable,adjective
  laudably
-laudanum
-laudatory
-laugh
+laudanum,noun
+laudatory,adjective
+laugh,verb,noun
  laughed laughing laughingly laughs
-laughable
+laughable,adjective
  laughably
-laughingstock
+laughingstock,noun
  laughingstocks
-laughter
-launch
+laughter,noun
+launch,verb,noun
  launched launches launching
-launcher
+launcher,noun
  launchers
-launchpad
+launchpad,noun
  launchpads
-launder
+launder,verb,noun
  laundered laundering launders
-launderer
+launderer,noun
  launderers
-launderette
+launderette,noun
  launderettes laundrette laundrettes
-laundress
+laundress,noun
  laundresses
-laundromat
+laundromat,noun
  laundromats
-laundry
+laundry,noun
  laundries
-laundryman
+laundryman,noun
  laundrymen
-laundrywoman
+laundrywoman!
  laundrywomen
-laureate
+laureate,noun,adjective
  laureates
-laureateship
-laurel
+laureateship,noun
+laurel,verb,noun
  laurels
-lav
+lav,noun
  lavs
-lava
-lavage
-lavaliere
+lava,noun
+lavage,noun
+lavaliere!
  lavalier lavalieres lavaliers
-lavatorial
-lavatory
+lavatorial,adjective
+lavatory,noun
  lavatories
-lave
+lave,verb
  laved laves laving
-lavender
+lavender,verb,noun
  lavenders
-lavish
+lavish,verb,adjective
  lavished lavisher lavishes lavishest lavishing lavishly lavishness
-law
+law,noun
  lawful lawfully lawfulness lawless lawlessly lawlessness laws
-law-abiding
-lawbreaker
+law-abiding,adjective
+lawbreaker,noun
  lawbreakers
-lawbreaking
-lawgiver
+lawbreaking,adjective,noun
+lawgiver,noun
  lawgivers
-lawmaker
+lawmaker,noun
  lawmakers
-lawmaking
-lawman
+lawmaking,noun,adjective
+lawman,noun
  lawmen
-lawn
+lawn,noun
  lawns
-lawnmower
+lawnmower,noun
  lawnmowers
-lawrencium
-lawsuit
+lawrencium,noun
+lawsuit,noun
  lawsuits
-lawyer
+lawyer,verb,noun
  lawyers
-lax
+lax,noun,adjective
  laxer laxest laxly laxness
-laxative
+laxative,noun,adjective
  laxatives
-laxity
-lay -> [lie]
+laxity,noun
+lay,verb,noun,adjective
  laid laying lays
-layabout
+layabout,noun
  layabouts
-layaway
-layer
+layaway,noun
+layer,verb,noun
  layered layering layers
-layette
+layette,noun
  layettes
-layman
+layman,noun
  laymen
-layoff
+layoff,noun
  layoffs
-layout
+layout,noun
  layouts
-layover
+layover,noun
  layovers
-layperson
+layperson,noun
  laypeople laypersons
-layup
+layup,noun
  layups
-laywoman
+laywoman,noun
  laywomen
-laze
+laze,verb,noun
  lazed lazes lazing
-lazy
+lazy,adjective
  lazied lazier lazies laziest lazily laziness lazying
-lazybones
-lea
+lazybones,noun
+lea,noun
  leas
-leach
+leach,verb
  leached leaches leaching
-lead
+lead,verb,noun
  leaded leading leads led
-leaden
-leader
+leaden,adjective
+leader,noun
  leaderless leaders
-leadership
+leadership,noun
  leaderships
-leadoff
-leaf
+leadoff,adjective
+leaf,verb,noun
  leafed leafing leafless leafs leaves -> [leave]
-leafage
-leaflet
+leafage,noun
+leaflet,verb,noun
  leafleted leafleting leaflets leafletted leafletting
-leafstalk
+leafstalk,noun
  leafstalks
-leafy
+leafy,adjective
  leafier leafiest
-league
+league,verb,noun
  leagued leagues leaguing
-leak
+leak,verb,noun
  leaked leaking leaks
-leakage
+leakage,noun
  leakages
-leaky
+leaky,adjective
  leakier leakiest leakiness
-lean
+lean,verb,noun,adjective
  leaned leaner leanest leaning -> [leaning] leanness leans leant
-leaning -> [lean]
+leaning,noun
  leanings
-lean-to
+lean-to,noun
  lean-tos
-leap
+leap,verb,noun
  leaped leaping leaps leapt lept
-leaper
+leaper,noun
  leapers
-leapfrog
+leapfrog,verb,noun
  leapfrogged leapfrogging leapfrogs
-learn
+learn,verb
  learned learnedly learning learns learnt
-learner
+learner,noun
  learners
-lease
+lease,verb,noun
  leased leases leasing
-leaseback
+leaseback,noun
  leasebacks
-leasehold
+leasehold,noun
  leaseholds
-leaseholder
+leaseholder,noun
  leaseholders
-leaser
+leaser,noun
  leasers
-leash
+leash,verb,noun
  leashed leashes leashing
-leastwise
+leastwise,adverb
  leastways
-leather
+leather,verb,noun
  leathers
-leatherette
-leatherneck
+leatherette,noun
+leatherneck,noun
  leathernecks
-leathery
-leave
+leathery,adjective
+leave,verb,noun
  leaved leaves -> [leaf] leaving -> [leaving] left -> [left]
-leaven
+leaven,verb,noun
  leavened leavening leavens
-leaver
+leaver,noun
  leavers
-leaving -> [leave]
+leaving,verb,noun
  leavings
-lech
+lech,verb,noun
  leched leches leching letch letches
-lecher
+lecher,noun
  lechers
-lecherous
+lecherous,adjective
  lecherously lecherousness
-lechery
-lecithin
-lectern
+lechery,noun
+lecithin,noun
+lectern,noun
  lecterns
-lecture
+lecture,verb,noun
  lectured lectures lecturing
-lecturer
+lecturer,noun
  lecturers
-lectureship
+lectureship,noun
  lectureships
-ledge
+ledge,noun
  ledges
-ledger
+ledger,verb,noun
  ledgers
-lee
+lee,noun
  lees -> [lees]
-leech
+leech,verb,noun
  leeched leeches leeching
-leek
+leek,noun
  leeks
-leer
+leer,verb,noun
  leered leering leers
-leery
+leery,adjective
  leerier leeriest leeriness
-lees -> [lee]
-leeward
+lees,pluralnoun
+leeward,adjective,adverb,noun
  leewards
-leeway
-left -> [leave]
+leeway,noun
+left,adverb,noun,adjective
  lefter leftest leftmost lefts
-left-hand
-left-handed
-left-hander
+left-hand,noun,adjective
+left-handed,adverb,adjective
+left-hander,noun
  left-handers
-leftism
-leftist
+leftism,noun
+leftist,noun,adjective
  leftists
-leftover
+leftover,noun,adjective
  leftovers
-leftward
+leftward,adverb,adjective
  leftwards
-left-wing
-lefty
+left-wing,noun,adjective
+lefty,noun
  leftie lefties
-leg
+leg,verb,noun
  legged legging -> [legging] legless legs
-legacy
+legacy,noun,adjective
  legacies
-legal
+legal,adjective
  legally legals
-legalese
-legalism
+legalese,noun
+legalism,noun
  legalisms
-legalistic
+legalistic,adjective
  legalistically
-legality
+legality,noun
  legalities
-legalization
+legalization,noun
  legalisation
-legalize
+legalize,verb
  legalise legalised legalises legalising legalized legalizes legalizing
-legate
+legate,noun
  legates
-legatee
+legatee,noun
  legatees
-legation
+legation,noun
  legations
-legato
+legato,noun,adverb,adjective
  legatos
-legend
+legend,noun,adjective
  legends
-legendary
+legendary,adjective
  legendarily
-legerdemain
-legging -> [leg]
+legerdemain,noun
+legging,verb,noun
  leggin leggings leggins
-leggy
+leggy,adjective
  leggier leggiest legginess
-leghorn
+leghorn,noun,propernoun
  leghorns
-legible
+legible,adjective
  legibility legibly
-legion
+legion,noun,adjective
  legions
-legionary
+legionary,noun,adjective
  legionaries
-legionnaire
+legionnaire,noun
  legionnaires
-legislate
+legislate,verb
  legislated legislates legislating
-legislation
-legislative
+legislation,noun
+legislative,adjective
  legislatively
-legislator
+legislator,noun
  legislators
-legislature
+legislature,noun
  legislatures
-legit
-legitimacy
-legitimate
+legit,adverb,adjective
+legitimacy,noun
+legitimate,verb,adjective
  legitimated legitimately legitimates legitimating
-legitimization
+legitimization,noun
  legitimisation
-legitimize
+legitimize,verb
  legitimatise legitimatised legitimatises legitimatising legitimatize legitimatized legitimatizes legitimatizing legitimise legitimised legitimises legitimising legitimized legitimizes legitimizing
-legman
+legman,noun
  legmen
-legroom
+legroom,noun
  legrooms
-legume
+legume,noun
  legumes
-leguminous
-legwarmer
+leguminous,adjective
+legwarmer!
  legwarmers
-legwork
-lei
+legwork,noun
+lei,noun
  leis
-leisure
+leisure,noun
  leisured leisureliness leisurely
-leisurewear
-leitmotif
+leisurewear,noun
+leitmotif,noun
  leitmotifs leitmotiv leitmotivs
-lekker
-lemming
+lekker,adverb,adjective
+lemming,noun
  lemmings
-lemon
+lemon,noun
  lemons
-lemonade
+lemonade,noun
  lemonades
-lemongrass
-lemony
-lemur
+lemongrass,noun
+lemony,adjective
+lemur,noun
  lemurs
-lend
+lend,verb
  lending lends lent
-lender
+lender,noun
  lenders
-length
+length,noun
  lengths
-lengthen
+lengthen,verb
  lengthened lengthening lengthens
-lengthwise
+lengthwise,adverb,adjective
  lengthways
-lengthy
+lengthy,adjective
  lengthier lengthiest lengthily lengthiness
-leniency
+leniency,noun
  lenience
-lenient
+lenient,adjective
  leniently
-lenitive
-lens
+lenitive,noun,adjective
+lens,noun
  lenses
-lenten
-lentil
+lenten,adjective
+lentil,noun
  lentils
-lento
-leonine
-leopard
+lento,adjective,adverb,noun
+leonine,pluralnoun,adjective
+leopard,noun
  leopards
-leopardess
+leopardess,noun
  leopardesses
-leotard
+leotard,noun
  leotards
-leper
+leper,noun
  lepers
-leprechaun
+leprechaun,noun
  leprechauns
-leprosy
-leprous
-lepton
+leprosy,noun
+leprous,adjective
+lepton,noun
  lepta leptons
-lesbian
+lesbian,noun,adjective
  lesbians
-lesbianism
-lesion
+lesbianism,noun
+lesion,noun
  lesions
-less -> [little]
-lessee
+less,preposition,determiner,pronoun,adverb,adjective
+lessee,noun
  lessees
-lessen
+lessen,verb
  lessened lessening lessens
-lesson
+lesson,verb,noun
  lessons
-lessor
+lessor,noun
  lessors
-lest
-let
+lest,conjunction
+let,verb,noun
  lets letting -> [letting]
-letdown
+letdown,noun
  letdowns
-lethal
+lethal,adjective
  lethally
-lethargic
+lethargic,adjective
  lethargically
-lethargy
-letter
+lethargy,noun
+letter,verb,noun
  lettered lettering letters
-letterbox
+letterbox,verb,noun
  letterboxes
-letterer
+letterer,noun
  letterers
-letterhead
+letterhead,noun
  letterheads
-letterpress
-letting -> [let]
+letterpress,noun
+letting,noun
  lettings
-lettuce
+lettuce,noun
  lettuces
-letup
+letup,noun
  letups
-leucotomy
+leucotomy,noun
  leucotomies
-leukemia
+leukemia,noun
  leukaemia
-leukemic
+leukemic,adjective
  leukaemic leukaemics leukemics
-leukocyte
+leukocyte,noun
  leucocyte leucocytes leukocytes
-levee
+levee,noun
  levees
-level
+level,verb,noun,adjective
  leveled leveling levelled levelling levelly levelness levels
-leveler
+leveler,noun
  levelers leveller levellers
-levelheaded
+levelheaded,adjective
  levelheadedness
-lever
+lever,verb,noun
  levered levering levers
-leverage
+leverage,verb,noun
  leveraged leverages leveraging
-leviathan
+leviathan,noun
  leviathans
-levier
+levier,verb,noun
  leviers
-levitate
+levitate,verb
  levitated levitates levitating
-levitation
-levity
-levy
+levitation,noun
+levity,noun
+levy,verb,noun
  levied levies levying
-lewd
+lewd,adjective
  lewder lewdest lewdly lewdness
-lexeme
+lexeme,noun
  lexemes
-lexical
-lexicographer
+lexical,adjective
+lexicographer,noun
  lexicographers
-lexicographic
-lexicographical
-lexicography
-lexicology
-lexicon
+lexicographic,adjective
+lexicographical,adjective
+lexicography,noun
+lexicology,noun
+lexicon,noun
  lexica lexicons
-lexis
-liability -> [liable]
+lexis,noun
+liability,noun
  liabilities
-liable
+liable,adjective
  liability -> [liability]
-liaise
+liaise,verb
  liaised liaises liaising
-liaison
+liaison,noun
  liaisons
-liar
+liar,noun
  liars
-lib
-libation
+lib,noun
+libation,noun
  libations
-libber
+libber,noun
  libbers
-libel
+libel,verb,noun
  libeled libeling libelled libelling libels
-libeler
+libeler,noun
  libelers libeller libellers
-libelous
+libelous,adjective
  libellous
-liberal
+liberal,noun,adjective
  liberally liberalness liberals
-liberalism
-liberality
-liberalization
+liberalism,noun
+liberality,noun
+liberalization,noun
  liberalisation liberalisations liberalizations
-liberalize
+liberalize,verb
  liberalise liberalised liberalises liberalising liberalized liberalizes liberalizing
-liberate
+liberate,verb
  liberated liberates liberating
-liberation
-liberator
+liberation,noun
+liberator,noun
  liberators
-libertarian
+libertarian,noun
  libertarians
-libertine
+libertine,noun,adjective
  libertines
-liberty
+liberty,noun
  liberties
-libidinal
-libidinous
-libido
+libidinal,adjective
+libidinous,adjective
+libido,noun
  libidos
-librarian
+librarian,noun
  librarians
-librarianship
-library
+librarianship,noun
+library,noun
  libraries
-librettist
+librettist,noun
  librettists
-libretto
+libretto,noun
  libretti librettos
-license
+license,verb
  licence licenced licences licencing licensed licenses licensing
-licensee
+licensee,noun
  licencee licencees licensees
-licentiate
+licentiate,noun
  licentiates
-licentious
+licentious,adjective
  licentiously licentiousness
-lichen
+lichen,noun
  lichens
-licit
+licit,adjective
  licitly
-lick
+lick,verb,noun
  licked licking -> [licking] licks
-licking -> [lick]
+licking,noun
  lickings
-licorice
+licorice,noun
  licorices
-lid
+lid,noun
  lidded lidless lids
-lido
+lido,noun,propernoun
  lidos
-lie
+lie,verb,noun
  lain lay -> [lay] lied -> [lied] lies lying
-lied -> [lie]
+lied,noun
  lieder
-lief
+lief,adverb
  liefer liefest
-liege
+liege,propernoun,adjective,noun
  lieges
-lien
+lien,noun
  liens
-lieu
-lieutenancy
-lieutenant
+lieu,noun
+lieutenancy,noun
+lieutenant,noun
  lieutenants
-life
+life,noun
  lifeless lifelessly lifelessness lifelike lives -> [live]
-life-and-death
-lifebelt
+life-and-death,adjective
+lifebelt,noun
  lifebelts
-lifeblood
-lifeboat
+lifeblood,noun
+lifeboat,noun
  lifeboats
-lifebuoy
+lifebuoy,noun
  lifebuoys
-life-giving
-lifeguard
+life-giving,adjective
+lifeguard,noun
  lifeguards
-lifejacket
+lifejacket,noun
  lifejackets
-lifeline
+lifeline,noun
  lifelines
-lifelong
-lifer
+lifelong,adjective
+lifer,noun
  lifers
-lifesaver
+lifesaver,noun
  lifesavers
-lifesaving
-life-size
+lifesaving,noun,adjective
+life-size,adjective
  life-sized
-lifespan
+lifespan,noun
  lifespans
-lifestyle
+lifestyle,noun
  lifestyles
-life-threatening
-lifetime
+life-threatening,adjective
+lifetime,noun
  lifetimes
-lifework
+lifework,noun
  lifeworks
-lift
+lift,verb,noun
  lifted lifting lifts
-lifter
+lifter,noun
  lifters
-liftoff
+liftoff,noun
  liftoffs
-ligament
+ligament,noun
  ligaments
-ligate
+ligate,verb
  ligated ligates ligating
-ligation
-ligature
+ligation,noun
+ligature,verb,noun
  ligatured ligatures ligaturing
-light
+light,verb,noun,adjective
  lighted lighter -> [lighter] lightest lighting lightly lightness lights lit
-lighten
+lighten,verb
  lightened lightening lightens
-lightener
+lightener,noun
  lighteners
-lighter -> [light]
+lighter,noun
  lighters
-lightface
+lightface,noun
  lightfaced
-lightheaded
-lighthearted
+lightheaded,adjective
+lighthearted,adjective
  lightheartedly lightheartedness
-lighthouse
+lighthouse,noun
  lighthouses
-lightning
+lightning,noun,adjective
  lightninged lightnings
-lightproof
-lightship
+lightproof,adjective
+lightship,noun
  lightships
-lightweight
+lightweight,noun,adjective
  lightweights
-ligneous
-lignite
-likable
+ligneous,adjective
+lignite,noun
+likable,adjective
  likability likableness likeability likeable likeableness
-like
+like,preposition,verb,conjunction,adjective,adverb,noun
  liked likeness -> [likeness] liker likes likest liking
-likelihood
+likelihood,noun
  likelihoods
-likely
+likely,adverb,adjective
  likelier likeliest likeliness
-like-minded
-liken
+like-minded,adjective
+liken,verb
  likened likening likens
-likeness -> [like]
+likeness,noun
  likenesses
-likewise
-lilac
+likewise,adverb
+lilac,noun
  lilacs
-lilliputian
-lilo
+lilliputian,noun,adjective
+lilo,noun
  lilos
-lilt
+lilt,verb,noun
  lilted lilting lilts
-lily
+lily,noun
  lilies
-limb
+limb,noun
  limbless limbs
-limber
+limber,verb,noun,adjective
  limbered limbering limberness limbers
-limbo
+limbo,verb,noun
  limbos
-lime
+lime,verb,noun
  limed limes liming
-limeade
+limeade,noun
  limeades
-limelight
-limerick
+limelight,noun
+limerick,noun,propernoun
  limericks
-limescale
-limestone
-limey
+limescale,noun
+limestone,noun
+limey,noun
  limeys
-limit
+limit,verb,noun
  limited limiting limitless limitlessness limits
-limitation
+limitation,noun
  limitations
-limiter
+limiter,noun
  limiters
-limn
+limn,verb
  limned limning limns
-limo
+limo,noun
  limos
-limousine
+limousine,noun
  limousines
-limp
+limp,verb,noun,adjective
  limped limper limpest limping limply limpness limps
-limpet
+limpet,noun
  limpets
-limpid
+limpid,adjective
  limpidly limpidness
-limpidity
-limy
+limpidity,noun
+limy,adjective
  limier limiest
-linage
+linage,noun
  lineage -> [lineage]
-linchpin
+linchpin,noun
  linchpins lynchpin lynchpins
-linctus
-linden
+linctus,noun
+linden,noun
  lindens
-line
+line,verb,noun
  lined lines lining -> [lining]
-lineage -> [linage]
+lineage,noun
  lineages
-lineal
+lineal,adjective
  lineally
-lineament
+lineament,noun
  lineaments
-linear
+linear,adjective
  linearly
-linearity
-linebacker
+linearity,noun
+linebacker,noun
  linebackers
-lineman
+lineman,noun
  linemen
-linen
+linen,noun
  linens
-lineout
+lineout,noun
  lineouts
-liner
+liner,noun
  liners
-linesman
+linesman,noun
  linesmen
-lineup
+lineup,noun
  lineups
-ling
+ling,noun
  lings
-linger
+linger,verb
  lingered lingering lingeringly lingers
-lingerer
+lingerer,noun
  lingerers
-lingerie
-lingo
+lingerie,noun
+lingo,noun
  lingoes lingos
-lingual
-linguine
+lingual,adjective
+linguine,noun
  linguini
-linguist
+linguist,noun
  linguists
-linguistic
+linguistic,adjective
  linguistically linguistics
-liniment
+liniment,noun
  liniments
-lining -> [line]
+lining,noun
  linings
-link
+link,verb,noun
  linked linking links
-linkage
+linkage,noun
  linkages
-linkman
+linkman,noun
  linkmen
-linkup
+linkup,noun
  linkups
-linnet
+linnet,noun
  linnets
-lino
-linoleum
-linseed
-lint
-lintel
+lino,noun
+linoleum,noun
+linseed,noun
+lint,noun
+lintel,noun
  lintels
-linty
+linty,adjective
  lintier lintiest
-lion
+lion,noun
  lions
-lioness
+lioness,noun
  lionesses
-lionhearted
-lionization
+lionhearted,adjective
+lionization,noun
  lionisation
-lionize
+lionize,verb
  lionise lionised lionises lionising lionized lionizes lionizing
-lip
+lip,verb,noun
  lipped lips
-lipgloss
+lipgloss,noun
  lipglosses
-lipid
+lipid,noun
  lipids
-liposuction
-lippy
+liposuction,noun
+lippy,noun,adjective
  lippier lippies lippiest
-lipread
+lipread,verb
  lipreading lipreads
-lipreader
+lipreader,noun
  lipreaders
-lipstick
+lipstick,noun
  lipsticks
-liquefaction
-liquefy
+liquefaction,noun
+liquefy,verb
  liquefied liquefies liquefying liquified liquifies liquify liquifying
-liqueur
+liqueur,noun
  liqueurs
-liquid
+liquid,noun,adjective
  liquids
-liquidate
+liquidate,verb
  liquidated liquidates liquidating
-liquidation
+liquidation,noun
  liquidations
-liquidator
+liquidator,noun
  liquidators
-liquidity
-liquidize
+liquidity,noun
+liquidize,verb
  liquidise liquidised liquidises liquidising liquidized liquidizes liquidizing
-liquidizer
+liquidizer,noun
  liquidiser liquidisers liquidizers
-liquor
+liquor,verb,noun
  liquored liquoring liquors
-liquorice
+liquorice,noun
  liquorices
-lira
+lira,noun
  liras lire
-lisle
-lisp
+lisle,noun
+lisp,verb,noun
  lisped lisping lisps
-lisper
+lisper,noun
  lispers
-lissome
+lissome,adjective
  lissom
-list
+list,verb,noun
  listed listing -> [listing] lists
-listen
+listen,verb,noun
  listened listening listens
-listenable
-listener
+listenable,adjective
+listener,noun
  listeners
-listeria
-listing -> [list]
+listeria,noun
+listing,noun
  listings
-listless
+listless,adjective
  listlessly listlessness
-litany
+litany,noun
  litanies
-litchi
+litchi,noun
  lichee lichees litchis lychee lychees
-lite
-liter
+lite,noun,adjective
+liter,noun
  liters litre litres
-literacy
-literal
+literacy,noun
+literal,noun,adjective
  literally literalness literals
-literary
+literary,adjective
  literariness
-literate
+literate,noun,adjective
  literately literates
-literati
-literature
+literati,pluralnoun
+literature,noun
  literatures
-lithe
+lithe,adjective
  lithely litheness lither lithest
-lithesome
-lithium
-lithograph
+lithesome,adjective
+lithium,noun
+lithograph,verb,noun
  lithographed lithographing lithographs
-lithographer
+lithographer,noun
  lithographers
-lithographic
+lithographic,adjective
  lithographically
-lithography
-lithosphere
+lithography,noun
+lithosphere,noun
  lithospheres
-litigant
+litigant,noun,adjective
  litigants
-litigate
+litigate,verb
  litigated litigates litigating
-litigation
-litigator
+litigation,noun
+litigator,noun
  litigators
-litigious
+litigious,adjective
  litigiousness
-litmus
-litotes
-litter
+litmus,noun
+litotes,noun
+litter,verb,noun
  littered littering litters
-litterateur
+litterateur,noun
  litterateurs
-litterbug
+litterbug,noun
  litterbugs
-litterer
+litterer,noun
  litterers
-little
+little,pronoun,adverb,adjective,determiner
  least less -> [less] lesser littleness littler littlest
-littoral
+littoral,noun,adjective
  littorals
-liturgical
+liturgical,adjective
  liturgically
-liturgist
+liturgist,noun
  liturgists
-liturgy
+liturgy,noun
  liturgies
-livable
+livable,adjective
  livability liveability liveable
-live
+live,verb,adverb,adjective
  lived liver -> [liver] lives -> [life] livest living -> [living]
-live-in
-livelihood
+live-in,noun,adjective
+livelihood,noun
  livelihoods
-livelong
-lively
+livelong,noun,adjective
+lively,adjective
  livelier liveliest liveliness
-liven
+liven,verb
  livened livening livens
-liver -> [live]
+liver,noun
  liverish livers
-liverwort
+liverwort,noun
  liverworts
-liverwurst
-livery
+liverwurst,noun
+livery,noun,adjective
  liveried liveries
-liveryman
+liveryman,noun
  liverymen
-livestock
-livid
+livestock,noun
+livid,adjective
  lividly
-living -> [live]
+living,noun,adjective
  livings
-lizard
+lizard,noun,propernoun
  lizards
-llama
+llama,noun
  llamas
-llano
+llano,noun
  llanos
-lo
-load
+lo,exclamation,noun
+load,verb,noun
  loaded loading loads
-loader
+loader,noun
  loaders
-loaf
+loaf,verb,noun
  loafed loafing loafs loaves
-loafer
+loafer,noun
  loafers
-loam
-loamy
+loam,noun
+loamy,adjective
  loamier loamiest
-loan
+loan,verb,noun
  loaned loaning loans
-loaner
+loaner,noun
  loaners
-loansharking
-loanword
+loansharking,noun
+loanword,noun
  loanwords
-loath
+loath,adjective
  loth
-loathe
+loathe,verb
  loathed loathes loathing -> [loathing]
-loather
+loather,noun
  loathers
-loathing -> [loathe]
+loathing,noun
  loathings
-loathsome
+loathsome,adjective
  loathsomely loathsomeness
-lob
+lob,verb,noun
  lobbed lobbing lobs
-lobar
-lobber
+lobar,adjective
+lobber,verb,noun
  lobbers
-lobby
+lobby,verb,noun
  lobbied lobbies lobbying
-lobbyist
+lobbyist,noun
  lobbyists
-lobe
+lobe,noun
  lobed lobes
-lobotomize
+lobotomize,verb
  lobotomise lobotomised lobotomises lobotomising lobotomized lobotomizes lobotomizing
-lobotomy
+lobotomy,noun
  lobotomies
-lobster
+lobster,verb,noun
  lobsters
-lobsterpot
+lobsterpot!
  lobsterpots
-local
+local,noun,adjective
  locally locals
-locale
+locale,noun
  locales
-locality
+locality,noun
  localities
-localization
+localization,noun
  localisation
-localize
+localize,verb
  localise localised localises localising localized localizes localizing
-locate
+locate,verb
  located locates locating
-location
+location,noun
  locations
-locative
-locator
+locative,noun,adjective
+locator,noun
  locators
-locavore!
+locavore,noun
  locavores
-loch
+loch,noun
  lochs
-lock
+lock,verb,noun
  locked locking locks
-lockable
-locker
+lockable,adjective
+locker,noun
  lockers
-locket
+locket,noun
  lockets
-lockjaw
-lockout
+lockjaw,noun
+lockout,noun
  lockouts
-locksmith
+locksmith,noun
  locksmiths
-lockstep
-lockup
+lockstep,noun
+lockup,noun
  lockups
-loco
+loco,noun,adjective
  locos
-locomotion
-locomotive
+locomotion,noun
+locomotive,noun,adjective
  locomotives
-locoweed
+locoweed,noun
  locoweeds
-locum
+locum,noun
  locums
-locus
+locus,noun
  loci
-locust
+locust,noun
  locusts
-locution
+locution,noun
  locutions
-lode
+lode,noun
  lodes
-lodestar
+lodestar,noun
  loadstar loadstars lodestars
-lodestone
+lodestone,noun
  loadstone loadstones lodestones
-lodge
+lodge,verb,noun
  lodged lodges lodging -> [lodging]
-lodger
+lodger,noun
  lodgers
-lodging -> [lodge]
+lodging,noun
  lodgings
-loft
+loft,verb,noun
  lofted lofting lofts
-lofty
+lofty,adjective
  loftier loftiest loftily loftiness
-log
+log,verb,noun
  logged logging logs
-loganberry
+loganberry,noun
  loganberries
-logarithm
+logarithm,noun
  logarithms
-logarithmic
-logbook
+logarithmic,adjective
+logbook,noun
  logbooks
-loge
+loge,noun
  loges
-logger
+logger,noun
  loggers
-loggerhead
+loggerhead,noun
  loggerheads
-loggia
+loggia,noun
  loggias
-logic
-logical
+logic,noun
+logical,adjective
  logically
-logicality
-logician
+logicality,noun
+logician,noun
  logicians
-login
+login,noun
  logins
-logistic
+logistic,adjective
  logistics
-logistical
+logistical,adjective
  logistically
-logjam
+logjam,noun
  logjams
-logo
+logo,noun
  logos
-logoff!
+logoff,noun
  logoffs
-logon!
+logon,noun
  logons
-logotype
+logotype,noun
  logotypes
-logout!
+logout,noun
  logouts
-logrolling
-logy
+logrolling,noun
+logy,adjective
  logier logiest
-loin
+loin,noun
  loins
-loincloth
+loincloth,noun
  loincloths
-loiter
+loiter,verb
  loitered loitering loiters
-loiterer
+loiterer,noun
  loiterers
-lolcat!
+lolcat,noun
  lolcats
-loll
+loll,verb
  lolled lolling lolls
-lollipop
+lollipop,noun
  lollipops lollypop lollypops
-lollop
+lollop,verb
  lolloped lolloping lollops
-lolly
+lolly,noun
  lollies
-lone
-lonely
+lone,adjective
+lonely,adjective
  lonelier loneliest loneliness
-loner
+loner,noun
  loners
-lonesome
+lonesome,adjective
  lonesomely lonesomeness
-long
+long,verb,adverb,noun,adjective
  longed longer longest longing -> [longing] longish longs
-long-awaited
-longboat
+long-awaited,adjective
+longboat,noun
  longboats
-longbow
+longbow,noun
  longbows
-long-distance
-longevity
-longhair
+long-distance,adverb,adjective
+longevity,noun
+longhair,noun
  longhairs
-longhand
-longhorn
+longhand,noun
+longhorn,noun
  longhorns
-longhouse
+longhouse,noun
  longhouses
-longing -> [long]
+longing,noun,adjective
  longingly longings
-longitude
+longitude,noun
  longitudes
-longitudinal
+longitudinal,adjective
  longitudinally
-long-lasting
-long-lived
-long-lost
-long-range
-long-running
-longshoreman
+long-lasting,adjective
+long-lived,adjective
+long-lost,adjective
+long-range,adjective
+long-running,adjective
+longshoreman,noun
  longshoremen
-longsighted
-longstanding
-long-suffering
-long-term
-longtime
-longueur
+longsighted,adjective
+longstanding,adjective
+long-suffering,adjective
+long-term,adjective
+longtime,adjective
+longueur,noun
  longueurs
-longwinded
-longwise
+longwinded,adjective
+longwise,adverb
  longways
-loo
+loo,noun
  loos
-loofah
+loofah,noun
  loofahs
-look
+look,exclamation,verb,noun
  looked looking looks
-lookalike
+lookalike,noun
  lookalikes
-looker
+looker,noun
  lookers
-lookout
+lookout,noun
  lookouts
-loom
+loom,verb,noun
  loomed looming looms
-loon
+loon,verb,noun
  loons
-loonie!
+loonie,noun
  loonies -> [loony]
-loony
+loony,noun,adjective
  looney looneys loonier loonies -> [loonie!] looniest
-loop
+loop,verb,noun
  looped looping loops
-loophole
+loophole,verb,noun
  loopholes
-loopy
+loopy,adjective
  loopier loopiest
-loose
+loose,verb,noun,adjective
  loosed loosely looseness looser looses loosest loosing
-loose-fitting
-loosen
+loose-fitting,adjective
+loosen,verb
  loosened loosening loosens
-loot
+loot,verb,noun
  looted looting loots
-looter
+looter,noun
  looters
-lop
+lop,verb,noun
  lopped lopping lops
-lope
+lope,verb,noun
  loped lopes loping
-lopsided
+lopsided,adjective
  lopsidedly lopsidedness
-loquacious
+loquacious,adjective
  loquaciously loquaciousness
-loquacity
-lord
+loquacity,noun
+lord,exclamation,verb,noun
  lorded lording lordlier lordliest lordliness lordly lords
-lordship
+lordship,noun
  lordships
-lore
-lorgnette
+lore,noun
+lorgnette,noun
  lorgnettes
-loris
+loris,noun
  lorises
-lorn
-lorry
+lorn,adjective
+lorry,noun
  lorries
-lose
+lose,verb
  loses losing -> [losing] lost
-loser
+loser,noun
  losers
-losing -> [lose]
+losing,verb
  losings
-loss
+loss,noun
  losses
-lot
+lot,pronoun,verb,adverb,noun,propernoun
  lots
-lotion
+lotion,noun
  lotions
-lottery
+lottery,noun
  lotteries
-lotto
+lotto,noun
  lottos
-lotus
+lotus,noun
  lotuses
-louche
-loud
+louche,adjective
+loud,adverb,adjective
  louder loudest loudly loudness
-loudhailer
+loudhailer,noun
  loudhailers
-loudmouth
+loudmouth,noun
  loudmouthed loudmouths
-loudspeaker
+loudspeaker,noun
  loudspeakers
-lough
+lough,noun
  loughs
-lounge
+lounge,verb,noun
  lounged lounges lounging
-lounger
+lounger,noun
  loungers
-louse
+louse,verb,noun
  lice loused louses lousing
-lousy
+lousy,adjective
  lousier lousiest lousily lousiness
-lout
+lout,noun
  loutish loutishly loutishness louts
-louver
+louver,noun,propernoun
  louvered louvers louvre louvred louvres
-lovable
+lovable,adjective
  lovableness lovably loveable loveableness loveably
-love
+love,verb,noun
  loved loveless loves loving lovingly luv luvs
-lovebird
+lovebird,noun
  lovebirds
-lovebite
+lovebite!
  lovebites
-lovechild
+lovechild,noun
  lovechildren
-lovelorn
-lovely
+lovelorn,adjective
+lovely,noun,adjective
  lovelier lovelies loveliest loveliness
-lovemaking
-lover
+lovemaking,noun
+lover,noun
  lovers
-loveseat
+loveseat,noun
  loveseats
-lovesick
-lovey
+lovesick,adjective
+lovey,noun
  loveys luvvie luvvies
-low
+low,verb,adverb,noun,adjective
  lowed lower -> [lower] lowest lowing lowlier lowliest lowliness lowly lowness lows
-lowborn
-lowboy
+lowborn,adjective
+lowboy,noun
  lowboys
-lowbrow
+lowbrow,noun,adjective
  lowbrows
-low-cut
-lowdown
-low-end
-lower -> [low]
+low-cut,adjective
+lowdown,noun,adjective
+low-end,adjective
+lower,</span></h3><spanclass="transitivity"></span><ulclass="semb"><li><divclass="trg"><p><spanclass="iteration"></span></p><divclass="crossReference">comparativeof<ahref="/definition/low">low</a></div></div></li></ul></section><divclass="banbox"><divclass="container"></div><divclass="containermpu"></div></div><sectionclass="gramb"><h3class="pspos"><spanclass="pos">adjective,noun,adverb,verb,verb
  lour loured louring lours lowered lowering lowermost lowers
-lowercase
-lower-class
-low-fat
-low-grade
-low-key
-lowland
+lowercase,noun
+lower-class,noun,adjective
+low-fat,adjective
+low-grade,adjective
+low-key,adjective
+lowland,noun
  lowlands
-lowlander
+lowlander,noun
  lowlanders
-low-level
-lowlife
+low-level,adjective
+lowlife,noun
  lowlifes lowlives
-lowlights
-low-lying
-low-paid
-low-pressure
-low-slung
-low-tech
-lox
-loyal
+lowlights,noun
+low-lying,adjective
+low-paid,adjective
+low-pressure,noun,adjective
+low-slung,adjective
+low-tech,noun,adjective
+lox,noun
+loyal,adjective
  loyaler loyalest loyaller loyallest loyally
-loyalism
-loyalist
+loyalism,noun
+loyalist,noun
  loyalists
-loyalty
+loyalty,noun
  loyalties
-lozenge
+lozenge,noun
  lozenges
-luau
+luau,noun
  luaus
-lubber
+lubber,noun
  lubberly lubbers
-lube
+lube,verb,noun
  lubed lubes lubing
-lubricant
+lubricant,noun,adjective
  lubricants
-lubricate
+lubricate,verb
  lubricated lubricates lubricating
-lubrication
-lubricator
+lubrication,noun
+lubricator,noun
  lubricators
-lubricious
+lubricious,adjective
  lubriciously
-lubricity
-lucid
+lubricity,noun
+lucid,adjective
  lucider lucidest lucidly lucidness
-lucidity
-luck
+lucidity,noun
+luck,verb,noun
  lucked lucking luckless lucks
-lucky
+lucky,adjective
  luckier luckiest luckily luckiness
-lucrative
+lucrative,adjective
  lucratively lucrativeness
-lucre
-lucubrate
+lucre,noun
+lucubrate,verb
  lucubrated lucubrates lucubrating
-lucubration
-ludicrous
+lucubration,noun
+ludicrous,adjective
  ludicrously ludicrousness
-ludo
-luff
+ludo,noun
+luff,verb,noun
  luffed luffing luffs
-lug
+lug,verb,noun
  lugged lugging lugs
-luge
+luge,verb,noun
  luges
-luggage
-lugger
+luggage,noun
+lugger,noun
  luggers
-lughole
+lughole,noun
  lugholes
-lugsail
+lugsail,noun
  lugsails
-lugubrious
+lugubrious,adjective
  lugubriously lugubriousness
-lukewarm
+lukewarm,adjective
  lukewarmly lukewarmness
-lull
+lull,verb,noun
  lulled lulling lulls
-lullaby
+lullaby,verb,noun
  lullabies
-lulu
+lulu,noun
  lulus
-lumbago
-lumbar
-lumber
+lumbago,noun
+lumbar,adjective
+lumber,verb,noun
  lumbered lumbering lumbers
-lumberer
+lumberer,noun
  lumberers
-lumberjack
+lumberjack,noun
  lumberjacks
-lumberman
+lumberman,noun
  lumbermen
-lumberyard
+lumberyard,noun
  lumberyards
-luminary
+luminary,noun
  luminaries
-luminescence
-luminescent
-luminosity
-luminous
+luminescence,noun
+luminescent,adjective
+luminosity,noun
+luminous,adjective
  luminously
-lummox
+lummox,noun
  lummoxes
-lump
+lump,verb,noun
  lumped lumping lumpish lumps
-lumpectomy
+lumpectomy,noun
  lumpectomies
-lumpen
-lumpy
+lumpen,pluralnoun,adjective
+lumpy,adjective
  lumpier lumpiest lumpiness
-lunacy
+lunacy,noun
  lunacies
-lunar
-lunatic
+lunar,adjective
+lunatic,noun,adjective
  lunatics
-lunch
+lunch,verb,noun
  lunched lunches lunching
-lunchbox
+lunchbox,noun
  lunchboxes
-lunchbreak
+lunchbreak,noun
  lunchbreaks
-luncheon
+luncheon,noun
  luncheons
-luncheonette
+luncheonette,noun
  luncheonettes
-lunchmeat
-lunchroom
+lunchmeat,noun
+lunchroom,noun
  lunchrooms
-lunchtime
+lunchtime,noun
  lunchtimes
-lung
+lung,noun
  lungful lungfuls lungs
-lunge
+lunge,verb,noun
  lunged lunges lunging
-lungfish
+lungfish,noun
  lungfishes
-lungi
+lungi,noun
  lungis
-lunkhead
+lunkhead,noun
  lunkheads
-lupine
+lupine,noun,adjective
  lupin lupines lupins
-lupus
-lurch
+lupus,noun,propernoun
+lurch,verb,noun
  lurched lurches lurching
-lure
+lure,verb,noun
  lured lures luring
-lurgy
-lurid
+lurgy,noun
+lurid,adjective
  luridly luridness
-lurk
+lurk,verb,noun
  lurked lurking lurks
-lurker
+lurker,noun
  lurkers
-luscious
+luscious,adjective
  lusciously lusciousness
-lush
+lush,verb,noun,adjective
  lusher lushes lushest lushly lushness
-lust
+lust,verb,noun
  lusted lustful lustfully lusting lusts
-luster
+luster,noun
  lusterless lustre lustreless
-lustrous
+lustrous,adjective
  lustrously
-lusty
+lusty,adjective
  lustier lustiest lustily lustiness
-lutanist
+lutanist,noun
  lutanists lutenist lutenists
-lute
+lute,verb,noun
  lutes
-lutetium
-luxuriance
-luxuriant
+lutetium,noun
+luxuriance,noun
+luxuriant,adjective
  luxuriantly
-luxuriate
+luxuriate,verb
  luxuriated luxuriates luxuriating
-luxuriation
-luxurious
+luxuriation,verb
+luxurious,adjective
  luxuriously luxuriousness
-luxury
+luxury,noun,adjective
  luxuries
-lyceum
+lyceum,propernoun
  lyceums
-lychgate
+lychgate,noun
  lychgates
-lye
-lymph
-lymphatic
+lye,noun
+lymph,noun
+lymphatic,noun,adjective
  lymphatics
-lymphocyte
+lymphocyte,noun
  lymphocytes
-lymphoid
-lymphoma
+lymphoid,adjective
+lymphoma,noun
  lymphomas lymphomata
-lynch
+lynch,verb
  lynched lynches lynching -> [lynching]
-lyncher
+lyncher,noun
  lynchers
-lynching -> [lynch]
+lynching,verb
  lynchings
-lynx
+lynx,noun,propernoun
  lynxes
-lyre
+lyre,noun
  lyres
-lyrebird
+lyrebird,noun
  lyrebirds
-lyric
+lyric,noun,adjective
  lyrics
-lyrical
+lyrical,adjective
  lyrically
-lyricism
-lyricist
+lyricism,noun
+lyricist,noun
  lyricists
